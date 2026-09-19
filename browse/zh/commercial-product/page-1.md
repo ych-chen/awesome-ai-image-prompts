@@ -31,7 +31,7 @@
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/1d5e09a2-bb8d-4c9d-bdca-b9d0310b08d1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MrLarus/status/2067562275666334068>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1d5e09a2-bb8d-4c9d-bdca-b9d0310b08d1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2067562275666334068>)
 
 ---
 
@@ -53,7 +53,7 @@ Turn just the subject into a gold enamel pin. It's a minimal photo of the pin on
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/c6beb52d-34fd-45cb-9e49-229af4ce108c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/NanoBanana/status/2027716950705521054>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/c6beb52d-34fd-45cb-9e49-229af4ce108c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/NanoBanana/status/2027716950705521054>)
 
 ---
 
@@ -74,7 +74,7 @@ black heart-detail minimalist string bikini, Japanese novelty swimwear aesthetic
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/996b1ac0-e7d8-4b09-acaa-dee678574969?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AI_money_club/status/2091074591875895787>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/996b1ac0-e7d8-4b09-acaa-dee678574969?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AI_money_club/status/2091074591875895787>)
 
 ---
 
@@ -104,7 +104,7 @@ on subject, cinematic color grading."
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/514ec371-bc9c-4ebe-9bf6-f61d42fa9183?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Ozayrr_irl/status/2050214923100368911>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/514ec371-bc9c-4ebe-9bf6-f61d42fa9183?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ozayrr_irl/status/2050214923100368911>)
 
 ---
 
@@ -132,7 +132,7 @@ Camera & Composition: Close-up to medium framing, slight low-angle selfie perspe
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/14d82000-1fd7-46ba-8140-79e10b46e271?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/ariaxawan/status/2061324766901088571>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/14d82000-1fd7-46ba-8140-79e10b46e271?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ariaxawan/status/2061324766901088571>)
 
 ---
 
@@ -157,7 +157,7 @@ It's a net positive that AI folks are getting into Health scanners!
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3ae69a6e-b488-47d1-ad0c-6410d0215db1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/1littlecoder/status/2067458381401747934>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3ae69a6e-b488-47d1-ad0c-6410d0215db1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/1littlecoder/status/2067458381401747934>)
 
 ---
 
@@ -185,7 +185,7 @@ Cinematography: Wide-angle, cinematic lifestyle photography, cool color grading,
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/4385109c-9158-4893-bf7b-99d65113f089?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Sairah_0/status/2066431422098018496>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4385109c-9158-4893-bf7b-99d65113f089?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Sairah_0/status/2066431422098018496>)
 
 ---
 
@@ -210,7 +210,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/d1680c98-65ff-49df-84a9-10db1abf1568?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Gemalpha_88/status/2073221972432199693>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d1680c98-65ff-49df-84a9-10db1abf1568?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Gemalpha_88/status/2073221972432199693>)
 
 ---
 
@@ -270,7 +270,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/31930789-95e4-4271-93d1-6904946588e9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MrLarus/status/2068009878702915648>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/31930789-95e4-4271-93d1-6904946588e9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2068009878702915648>)
 
 ---
 
@@ -291,7 +291,7 @@ Cinematic 3D action-packed advertisement for [INSERT PRODUCT/BRAND HERE], captur
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e1e22381-87bd-4252-85f4-b17970f0a1f0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/azed_ai/status/2069781855772233854>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e1e22381-87bd-4252-85f4-b17970f0a1f0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/azed_ai/status/2069781855772233854>)
 
 ---
 
@@ -387,7 +387,7 @@ The poster should feel like New Balance hired a luxury fashion house, an archite
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/30231560-9dab-4296-b2f2-ce59c3297517?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/hemayxn/status/2062371028819710321>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/30231560-9dab-4296-b2f2-ce59c3297517?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/hemayxn/status/2062371028819710321>)
 
 ---
 
@@ -410,7 +410,7 @@ Midjourney + NanoBanana + Ps
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/fe49ff6c-3605-4f38-8055-3503200b0a15?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Dari_Designs/status/2043685636922806566>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fe49ff6c-3605-4f38-8055-3503200b0a15?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Dari_Designs/status/2043685636922806566>)
 
 ---
 
@@ -452,7 +452,7 @@ Midjourney + NanoBanana + Ps
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9413b141-a68b-47ff-877f-5a2d5b882637?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/liyue_ai/status/2092085273400430991>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9413b141-a68b-47ff-877f-5a2d5b882637?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/liyue_ai/status/2092085273400430991>)
 
 ---
 
@@ -478,7 +478,7 @@ MATERIAL & VINTAGE PRINTING: The overall poster exhibits tangible paper grain, a
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/0376ed86-67b2-4d11-ae83-72cf61e30c20?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Arminn_Ai/status/2064039812861186497>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0376ed86-67b2-4d11-ae83-72cf61e30c20?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Arminn_Ai/status/2064039812861186497>)
 
 ---
 
@@ -502,7 +502,7 @@ white Japanese festival-inspired sarashi and fundoshi two-piece swimwear. Sarash
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/a1f20293-d9c5-4b68-823c-495a794c2ee5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AI_money_club/status/2090929438644998339>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a1f20293-d9c5-4b68-823c-495a794c2ee5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AI_money_club/status/2090929438644998339>)
 
 ---
 
@@ -524,7 +524,7 @@ Create a clean premium poster in 4:5 vertical format. Place the brand logo at th
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/295774ea-0236-40a3-9947-fe74a4710a2d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Goodmanprotocol/status/2069647345374077253>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/295774ea-0236-40a3-9947-fe74a4710a2d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Goodmanprotocol/status/2069647345374077253>)
 
 ---
 
@@ -545,7 +545,7 @@ Create a clean premium poster in 4:5 vertical format. Place the brand logo at th
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/756cc5e2-7b4f-49e6-b19d-21feaa37775b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/ShamsAmin56/status/2074587835051778152>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/756cc5e2-7b4f-49e6-b19d-21feaa37775b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2074587835051778152>)
 
 ---
 
@@ -711,7 +711,7 @@ Create a clean premium poster in 4:5 vertical format. Place the brand logo at th
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e1ab75f3-a127-4875-88c9-7c3dbf3b34aa?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Maercihh/status/2091483360740995287>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e1ab75f3-a127-4875-88c9-7c3dbf3b34aa?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2091483360740995287>)
 
 ---
 
@@ -734,7 +734,7 @@ Photorealistic, high-end commercial quality, shot on an 85mm lens, f/1.8 apertur
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/20aceaa8-1624-4bd7-b7c7-5a463da7512e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/CaliraVal/status/2062391667567767855>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/20aceaa8-1624-4bd7-b7c7-5a463da7512e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/CaliraVal/status/2062391667567767855>)
 
 ---
 
@@ -758,7 +758,7 @@ Check it out:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/56356110-6ba9-4c05-810c-8d329746c7b0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/SadiaMalik182/status/2063924923597238553>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/56356110-6ba9-4c05-810c-8d329746c7b0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/SadiaMalik182/status/2063924923597238553>)
 
 ---
 
@@ -779,7 +779,7 @@ Ultra-realistic lifestyle product portrait of a young man holding a large red gl
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e9b084d7-d0b2-4243-b041-4376d8db3789?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Emmma__0/status/2021210758521270528>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e9b084d7-d0b2-4243-b041-4376d8db3789?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Emmma__0/status/2021210758521270528>)
 
 ---
 
@@ -806,7 +806,7 @@ She gently sprays the perfume into the air. The mist transforms into shimmering 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/5d2f8af1-5f31-4a38-a00c-1979bd4eb086?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/SyntheSarah/status/2072890042142650726>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5d2f8af1-5f31-4a38-a00c-1979bd4eb086?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/SyntheSarah/status/2072890042142650726>)
 
 ---
 
@@ -876,7 +876,7 @@ Nano Banana Pro:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b654ee17-da97-491f-9068-3dd0362fe6db?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/manolyaai/status/2019535599464587304>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b654ee17-da97-491f-9068-3dd0362fe6db?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/manolyaai/status/2019535599464587304>)
 
 ---
 
@@ -899,6 +899,6 @@ Luxury perfume commercial, minimalist white architectural interior with tall pil
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/84e1f8b1-0a6a-425a-bffc-1a4b6d7808dc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Kashberg_0/status/2080143259557581285>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/84e1f8b1-0a6a-425a-bffc-1a4b6d7808dc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Kashberg_0/status/2080143259557581285>)
 
 ---

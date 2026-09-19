@@ -21,7 +21,7 @@ Full step -by-step- tutorial 👇👇
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/6e2e6efd-5e93-461c-ae7f-3a1a7fbdb0f4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Aqib__786Ai/status/2075915480112513107>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/6e2e6efd-5e93-461c-ae7f-3a1a7fbdb0f4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aqib__786Ai/status/2075915480112513107>)
 
 ---
 
@@ -42,7 +42,7 @@ Ultra-realistic IMAX-level Netflix-style cinematic luxury terrace portrait, 9:16
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/06ee0e63-9548-4d7d-a2e7-8691e5ee47aa?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AvelyrahnAI/status/2067453735262163111>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/06ee0e63-9548-4d7d-a2e7-8691e5ee47aa?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AvelyrahnAI/status/2067453735262163111>)
 
 ---
 
@@ -64,7 +64,7 @@ A young adult male with short textured hair and a neatly trimmed short beard sta
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/cdbcdf29-df81-47b5-8d13-ad9c869a3416?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/pictsbyai/status/2067517575810945483>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cdbcdf29-df81-47b5-8d13-ad9c869a3416?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/pictsbyai/status/2067517575810945483>)
 
 ---
 
@@ -85,7 +85,7 @@ A high-quality professional outdoor photograph featuring the woman from image_0.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/25c21258-99f4-4b9c-9160-36f4c068fb08?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AvelyrahnAI/status/2068634600042365184>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/25c21258-99f4-4b9c-9160-36f4c068fb08?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AvelyrahnAI/status/2068634600042365184>)
 
 ---
 
@@ -112,7 +112,7 @@ Replace the placeholders:[PLAYER NAME] → e.g. Lionel Messi, Erling Haaland, Ky
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/92ecdced-9b11-405a-9460-46ef91507adb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/ShamsAmin56/status/2067197326356341093>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/92ecdced-9b11-405a-9460-46ef91507adb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2067197326356341093>)
 
 ---
 
@@ -133,7 +133,7 @@ Create a premium 4:5 FMCG hero advertisement from the uploaded product image. Pr
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/fb55e59a-39a0-4ce6-86dc-9b0d190cd51f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/im_shahid7/status/2076615912904704265>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fb55e59a-39a0-4ce6-86dc-9b0d190cd51f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/im_shahid7/status/2076615912904704265>)
 
 ---
 
@@ -193,7 +193,7 @@ CGI environment: Octane Render or Redshift — physically accurate grid floor wi
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/dc5d494a-9a9d-475e-95f3-c9b6a4f49168?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AmirMushich/status/2066600393153397125>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/dc5d494a-9a9d-475e-95f3-c9b6a4f49168?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AmirMushich/status/2066600393153397125>)
 
 ---
 
@@ -215,7 +215,7 @@ Ultra-clean automotive poster design featuring a [CAR], perfect side profile, po
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9c6eed03-7457-4d17-bfa5-3f881b8e1c70?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/HustleXR/status/2091388301328666776>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9c6eed03-7457-4d17-bfa5-3f881b8e1c70?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2091388301328666776>)
 
 ---
 
@@ -239,7 +239,7 @@ Transform this photo into a highly detailed 3D collectible action figure in real
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3ccd2d28-b790-4529-b15a-30f0ea263a09?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/sassyamara_/status/2016473615433441401>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3ccd2d28-b790-4529-b15a-30f0ea263a09?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/sassyamara_/status/2016473615433441401>)
 
 ---
 
@@ -264,7 +264,7 @@ white and pastel-pink girly string bikini, white base fabric with tiny pink flor
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b49e412a-7a79-402e-a259-684af2f0ebca?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AI_money_club/status/2092227999164694952>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b49e412a-7a79-402e-a259-684af2f0ebca?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AI_money_club/status/2092227999164694952>)
 
 ---
 
@@ -312,7 +312,7 @@ Try it now🤩
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9773e463-71cc-4b54-9c2f-78ad7ba237b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Document195/status/2064701819356614721>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9773e463-71cc-4b54-9c2f-78ad7ba237b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Document195/status/2064701819356614721>)
 
 ---
 
@@ -339,7 +339,7 @@ SCENE 10 (13.5–15.0s) Minimal luxury background. The KitKat logo appears. Eleg
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/17f8599a-d9ac-4980-abb1-4f6df6545fce?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Shorelyn_/status/2077345203049148886>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/17f8599a-d9ac-4980-abb1-4f6df6545fce?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2077345203049148886>)
 
 ---
 
@@ -366,7 +366,7 @@ Aspect ratio 3:4
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9b3bb8ab-e533-4ada-92a2-0010deeb9633?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/meng_dagg695/status/2064571344608776261>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9b3bb8ab-e533-4ada-92a2-0010deeb9633?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/meng_dagg695/status/2064571344608776261>)
 
 ---
 
@@ -452,7 +452,7 @@ Aspect ratio 3:4
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/5ac3f7a6-0e61-45a2-90a3-434233ab80db?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Maercihh/status/2072563781314720089>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5ac3f7a6-0e61-45a2-90a3-434233ab80db?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2072563781314720089>)
 
 ---
 
@@ -474,7 +474,7 @@ A confident male stands full-scale in the center of the composition, dressed in 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b2cb8053-6454-4b66-9d87-32cc5a4ea21a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/pictsbyai/status/2068244151196377275>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b2cb8053-6454-4b66-9d87-32cc5a4ea21a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/pictsbyai/status/2068244151196377275>)
 
 ---
 
@@ -519,7 +519,7 @@ Tiffany & Co. campaign aesthetic, soft luxury lighting, cinematic romance, cryst
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/766005ad-fb93-4ffa-89bb-faf43b074354?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Strength04_X/status/2080989603536965782>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/766005ad-fb93-4ffa-89bb-faf43b074354?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2080989603536965782>)
 
 ---
 
@@ -551,7 +551,7 @@ Icy blue gradient background with light burst effects. Ultra photorealistic,
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/d31d3a43-1bbc-4398-b6b7-6c6e86bcbab0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Ozayrr_irl/status/2050078225032691728>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d31d3a43-1bbc-4398-b6b7-6c6e86bcbab0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ozayrr_irl/status/2050078225032691728>)
 
 ---
 
@@ -586,7 +586,7 @@ Icy blue gradient background with light burst effects. Ultra photorealistic,
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/8bd48a1d-16b5-498f-a0b9-09599b48db1c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Maercihh/status/2076173673053196568>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8bd48a1d-16b5-498f-a0b9-09599b48db1c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2076173673053196568>)
 
 ---
 
@@ -613,7 +613,7 @@ MASSIVE TALL "[Main Vertical Word]" TYPOGRAPHY (Vertical Elongation): is printed
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/50cfae5e-08ff-426e-bcff-d94ce85b4b68?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Arminn_Ai/status/2062980594758275343>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/50cfae5e-08ff-426e-bcff-d94ce85b4b68?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Arminn_Ai/status/2062980594758275343>)
 
 ---
 
@@ -634,7 +634,7 @@ Ultra-realistic commercial coffee photography featuring a steaming latte in a ce
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b99bd7cf-b7a2-47e4-ae10-bd250960cb71?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/CaliraVal/status/2063455263169085486>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b99bd7cf-b7a2-47e4-ae10-bd250960cb71?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/CaliraVal/status/2063455263169085486>)
 
 ---
 
@@ -684,7 +684,7 @@ Try it now!
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/25eb8d83-cfb6-406a-87fd-71448c002f2b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Document195/status/2066549583011057765>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/25eb8d83-cfb6-406a-87fd-71448c002f2b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Document195/status/2066549583011057765>)
 
 ---
 
@@ -709,7 +709,7 @@ Style: Apple-inspired 3D icon design, Pixar-quality character rendering, hyper-r
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/6143e9a3-f911-4a96-b4f5-0291b7840ecc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/mon010_de/status/2076247921901924809>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/6143e9a3-f911-4a96-b4f5-0291b7840ecc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/mon010_de/status/2076247921901924809>)
 
 ---
 
@@ -732,7 +732,7 @@ Create an ultra-premium, high-energy soda can product render that feels like a g
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9862a193-702b-4066-8017-0f0c2df4a27b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Max__Build/status/2022552052761608653>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9862a193-702b-4066-8017-0f0c2df4a27b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Max__Build/status/2022552052761608653>)
 
 ---
 
@@ -757,7 +757,7 @@ Shot on Sony A7R IV, [LENS TYPE] lens, shallow depth of field, luxury magazine a
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/505f9ae0-e78f-4367-b44b-1667347901b1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/sha_zdiii/status/2056942927797276971>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/505f9ae0-e78f-4367-b44b-1667347901b1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/sha_zdiii/status/2056942927797276971>)
 
 ---
 
@@ -780,7 +780,7 @@ A 3:4 vertical photo of a beautiful local young woman exploring a charming, hist
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9a2d4d9e-337b-4fc7-8ae8-f8c40c27420d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/iamsofiaijaz/status/2068228920760226066>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9a2d4d9e-337b-4fc7-8ae8-f8c40c27420d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2068228920760226066>)
 
 ---
 
@@ -804,7 +804,7 @@ Add small text in the top-right corner reading “Designed by M”. At the botto
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/1cc2280f-331b-41f4-b578-bdac663fa139?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Strength04_X/status/2069786891948634259>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1cc2280f-331b-41f4-b578-bdac663fa139?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2069786891948634259>)
 
 ---
 
@@ -827,6 +827,82 @@ A cinematic, photorealistic McDonald’s restaurant interior scene featuring the
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/bdc1a06a-d035-4d31-9ae5-84a3cbe5d985?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Max__Build/status/2022909185978175515>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bdc1a06a-d035-4d31-9ae5-84a3cbe5d985?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Max__Build/status/2022909185978175515>)
+
+---
+
+<a id="prompt-cfea5eac-5899-4e25-a4d3-9e64aa3339f8"></a>
+
+## Luminous Skincare Editorial with Model and Product
+
+<a href="https://musesignal.com/zh/prompt/cfea5eac-5899-4e25-a4d3-9e64aa3339f8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPwefD5aoAAkj0H.jpg?format=jpg&amp;name=small" width="480" alt="Luminous Skincare Editorial with Model and Product" /></a>
+
+**GPT Image 2** · 原作者: Maercih
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+{
+"SUBJECT": "<user-defined subject/image>",
+"HEADER": "<user-defined editorial header>",
+"POSE": "<user-defined pose>",
+"BOTTLE_IN_HAND": "<user-provided product/bottle>",
+"prompt": "Create a premium high-fashion skincare editorial poster using SUBJECT as the main model. Preserve the subject's identity, facial structure, natural features, hairstyle, hair color, body proportions, and recognizable appearance accurately. The model should have exceptionally fair, luminous, healthy-looking skin with a natural dewy glow, including the face, neck, arms, and visible shoulder. Skin must remain realistic with visible natural texture and subtle pores — no plastic skin, excessive retouching, or artificial whitening.\n\nPlace the subject in POSE while naturally holding BOTTLE_IN_HAND. Preserve the bottle's exact shape, proportions, cap, material, color, label placement, and recognizable product appearance. The bottle should remain clearly visible and naturally integrated into the composition.\n\nDress the subject in a minimal, sophisticated black outfit with clean fashion-editorial styling. Keep the clothing secondary to the face and product.\n\nCreate a refined luxury beauty-campaign aesthetic: warm neutral studio background, soft directional diffused lighting, subtle highlights across the cheekbones and shoulder, controlled shadows, realistic skin reflections, elegant contrast, premium commercial photography, sophisticated composition, understated sensuality, and high-end magazine styling.\n\nUse HEADER as the main editorial headline. The header should feel catchy, sophisticated, and fashion-forward, with elegant high-contrast serif typography. Automatically generate tasteful supporting editorial typography around the composition only when appropriate, keeping it minimal and avoiding clutter. Do not use a brand name as the main header unless HEADER explicitly contains one.\n\nComposition should feel like a real luxury skincare magazine campaign photographed by a professional beauty photographer. Close-up portrait framing, realistic depth of field, refined tonal grading, subtle film texture, premium print-editorial finish, photorealistic detail, natural hands and fingers, accurate product geometry, and intentional negative space.\n\nDo not add watermarks, corner brackets, website names, AI labels, creator credits, or unrelated text. Do not change the user's defined SUBJECT, HEADER, POSE, or BOTTLE_IN_HAND."
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cfea5eac-5899-4e25-a4d3-9e64aa3339f8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2088577912861762049>)
+
+---
+
+<a id="prompt-cebd0e42-6637-40e8-9791-fcc40797f8e4"></a>
+
+## Giant Banana Mascot in Glasses-Free 3D
+
+<a href="https://musesignal.com/zh/prompt/cebd0e42-6637-40e8-9791-fcc40797f8e4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HBP_iDLbwAAq0JM.jpg?format=jpg&amp;name=small" width="480" alt="Giant Banana Mascot in Glasses-Free 3D" /></a>
+
+**Nano Banana Pro** · 原作者: Max
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Nano Banana Pro || 8k
+Ultra-Realistic Promotional
+An enormous L shaped glasses free 3D LED screen situated prominently at a bustling urban intersection, designed in an iconic architectural style reminiscent of Shinjuku in Tokyo or Taikoo Li in Chengdu. The screen displays a captivating glasses free 3D animation featuring a giant hyper realistic banana mascot wearing stylish sunglasses and streetwear, playfully peeling itself open while smaller glowing bananas float outward toward the viewer. The characters and objects possess striking depth and appear to break through the screen’s boundaries, extending outward or floating vividly in mid air. Under realistic daylight conditions, these elements cast lifelike shadows onto the screen’s surface and surrounding buildings. Rich in intricate detail and vibrant colors, the animation seamlessly integrates with the urban setting and the bright sky overhead. Ultra realistic CGI, cinematic perspective, high dynamic range, sharp reflections, global illumination, volumetric lighting, extreme detail, Nano Banana Pro render quality, true 4K resolution, photorealistic, depth illusion, anamorphic perspective, HDR, professional CGI advertisement style, image size 4 5 .
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cebd0e42-6637-40e8-9791-fcc40797f8e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Max__Build/status/2023241640849371231>)
+
+---
+
+<a id="prompt-407c1dd8-fa4a-4e11-87cd-e63b71650f3a"></a>
+
+## Premium Minimalist Product Advertisement Poster
+
+<a href="https://musesignal.com/zh/prompt/407c1dd8-fa4a-4e11-87cd-e63b71650f3a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM3cb0-aIAADkTP.jpg?format=jpg&amp;name=small" width="480" alt="Premium Minimalist Product Advertisement Poster" /></a>
+
+**GPT Image 2** · 原作者: Maercih
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+{
+"PRODUCT_NAME": "<ENTER DRINK OR FOOD NAME>",
+"prompt": "Create a premium minimalist product advertisement poster for {{PRODUCT_NAME}}.\n\nAutomatically analyze the entered product name and generate a complete luxury ad around it.\n\nThe AI should:\n- Determine the product’s typical appearance, ingredients, colors, textures, serving style, and category.\n- Generate a realistic version of the product if no reference image is provided, or faithfully recreate the uploaded reference image if one exists.\n- Automatically choose a clean background palette inspired by the product’s dominant colors.\n- Design a soft, modern, geometric backdrop that matches the product mood.\n- Create an elegant serif headline using {{PRODUCT_NAME}}.\n- Add a short premium subtitle describing the product’s freshness, flavor, or key selling point.\n- Choose small decorative icons that suit the product, such as fruit, leaf, water drop, bean, herb, or citrus elements.\n- Select typography colors that contrast beautifully with the background.\n- Adjust all design decisions according to the entered product.\n\nLayout:\n- Product positioned prominently on one side.\n- Generous negative space for text.\n- Large luxury serif headline.\n- Clean secondary line and subtle accent elements.\n- Soft realistic shadows and studio lighting.\n- Minimal clutter, editorial composition, and premium ad balance.\n\nStyle:\nModern commercial beverage branding, premium lifestyle advertising, Scandinavian minimalism, editorial product photography, photorealistic, soft studio lighting, luxury aesthetic.\n\nDo not include logos, watermarks, prices, QR codes, badges, or unnecessary decorative clutter.\n\nEverything—including colors, typography, iconography, headline styling, subtitle, background, lighting, garnish styling, and overall mood—must automatically adapt based solely on {{PRODUCT_NAME}}.",
+"negative_prompt": "logo, watermark, branding, PickBite, QR code, discount labels, prices, clutter, poor typography, low quality, blurry, noisy, oversaturated colors, unrealistic product, distorted glass, distorted plate, duplicate objects, cropped subject, cartoon, illustration, CGI, extra objects",
+"aspect_ratio": "4:5",
+"style": "Luxury Minimalist Product Advertisement",
+"quality": "Ultra Realistic 8K"
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/407c1dd8-fa4a-4e11-87cd-e63b71650f3a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2075557646984466769>)
 
 ---

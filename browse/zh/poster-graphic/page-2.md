@@ -99,7 +99,7 @@ No overly detailed architecture.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/ab0cecdb-cc11-4fda-ba96-f510983dd4b2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/ChillaiKalan__/status/2069319929871081910>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ab0cecdb-cc11-4fda-ba96-f510983dd4b2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ChillaiKalan__/status/2069319929871081910>)
 
 ---
 
@@ -292,7 +292,7 @@ Here's the complete AI development guide for building production-ready AI apps i
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3b8893cf-f589-4a5b-a19d-0277e89aedaf?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/shushant_l/status/2067593271938068523>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3b8893cf-f589-4a5b-a19d-0277e89aedaf?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/shushant_l/status/2067593271938068523>)
 
 ---
 
@@ -326,7 +326,7 @@ Here's the complete AI development guide for building production-ready AI apps i
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/260dcb05-8673-4165-9adb-4e57320383a0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/zhongying14/status/2076312822452043960>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/260dcb05-8673-4165-9adb-4e57320383a0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/zhongying14/status/2076312822452043960>)
 
 ---
 
@@ -363,7 +363,7 @@ No realism, no watercolor, no painterly effects, no photorealism, no shading, no
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/5340dd00-fe60-47eb-ae7d-004a6a809103?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/oggii_0/status/2069643205818437808>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5340dd00-fe60-47eb-ae7d-004a6a809103?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/oggii_0/status/2069643205818437808>)
 
 ---
 
@@ -582,7 +582,7 @@ Content Policy: >
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/30b3cba4-798a-4927-8976-179fc85564bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/kumiko_shiraki/status/2087101723017912825>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/30b3cba4-798a-4927-8976-179fc85564bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/kumiko_shiraki/status/2087101723017912825>)
 
 ---
 
@@ -605,7 +605,7 @@ Content Policy: >
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/71fac23f-734e-41a0-93e9-4166443e5119?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/areej_design/status/2062233049610215656>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/71fac23f-734e-41a0-93e9-4166443e5119?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/areej_design/status/2062233049610215656>)
 
 ---
 
@@ -669,7 +669,7 @@ Composition style:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/ad759eb0-5fe5-48e6-8ada-917ef411abde?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/aripratama293/status/2058868372935205183>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ad759eb0-5fe5-48e6-8ada-917ef411abde?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/aripratama293/status/2058868372935205183>)
 
 ---
 
@@ -720,7 +720,7 @@ Farklı platformlardaki dağınık sinyalleri birleştirip hızlı karar alabile
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/7e3f5fed-0975-47fe-b849-f31759707208?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/errenozgur/status/2063539405059396031>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7e3f5fed-0975-47fe-b849-f31759707208?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/errenozgur/status/2063539405059396031>)
 
 ---
 
@@ -754,7 +754,7 @@ None of this would be possible without you all. Thank you very much.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/286de579-83ef-43c2-a549-9ac7adae5014?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/icreatelife/status/2069963554917110073>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/286de579-83ef-43c2-a549-9ac7adae5014?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/icreatelife/status/2069963554917110073>)
 
 ---
 
@@ -811,7 +811,7 @@ None of this would be possible without you all. Thank you very much.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/61d7469a-1c08-495e-a13b-e8bd8ffa3169?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AmirMushich/status/2069839832046575830>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/61d7469a-1c08-495e-a13b-e8bd8ffa3169?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AmirMushich/status/2069839832046575830>)
 
 ---
 
@@ -832,7 +832,7 @@ None of this would be possible without you all. Thank you very much.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/bcb74bf7-dcea-4696-95d3-d9218f2002de?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/TechieBySA/status/2066576858020229137>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bcb74bf7-dcea-4696-95d3-d9218f2002de?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2066576858020229137>)
 
 ---
 
@@ -853,7 +853,7 @@ None of this would be possible without you all. Thank you very much.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/0f211186-9208-4773-a6f5-2cf7e2cb7dfc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/azed_ai/status/2069647745372262691>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0f211186-9208-4773-a6f5-2cf7e2cb7dfc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/azed_ai/status/2069647745372262691>)
 
 ---
 
@@ -892,7 +892,7 @@ None of this would be possible without you all. Thank you very much.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/de17e8cf-9f91-4321-94ef-3ad7b318a7ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/VigoCreativeAI/status/2069373590718321089>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/de17e8cf-9f91-4321-94ef-3ad7b318a7ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/VigoCreativeAI/status/2069373590718321089>)
 
 ---
 
@@ -1011,7 +1011,7 @@ Restrictions:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/54de623e-e753-4f2d-a0c2-25bf5fe02239?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/kumiko_shiraki/status/2086376944661348813>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/54de623e-e753-4f2d-a0c2-25bf5fe02239?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/kumiko_shiraki/status/2086376944661348813>)
 
 ---
 
@@ -1032,7 +1032,7 @@ Restrictions:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/fd2dc468-5c6f-452d-8eb8-effccbde7d0a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/hx831126/status/2067675233700757774>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fd2dc468-5c6f-452d-8eb8-effccbde7d0a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/hx831126/status/2067675233700757774>)
 
 ---
 
@@ -1061,7 +1061,7 @@ Restrictions:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/d4ad42b3-0864-44b0-86cf-ab5c57d6c276?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/0xluffy_eth/status/2067072246548680941>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d4ad42b3-0864-44b0-86cf-ab5c57d6c276?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/0xluffy_eth/status/2067072246548680941>)
 
 ---
 
@@ -1082,7 +1082,7 @@ Restrictions:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/72a7d47a-6ba7-4018-8909-eee8efc1f1b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/azed_ai/status/2070008861738868772>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/72a7d47a-6ba7-4018-8909-eee8efc1f1b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/azed_ai/status/2070008861738868772>)
 
 ---
 
@@ -1108,7 +1108,7 @@ Restrictions:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/918303c8-708c-4ee1-8f4d-4e48629e37ff?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/xiaoxiaodong01/status/2065822596781035553>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/918303c8-708c-4ee1-8f4d-4e48629e37ff?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/xiaoxiaodong01/status/2065822596781035553>)
 
 ---
 
@@ -1152,7 +1152,7 @@ Restrictions:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e170c92b-1860-4721-ade7-f10f14bc7e84?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MrLarus/status/2069296654352515390>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e170c92b-1860-4721-ade7-f10f14bc7e84?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2069296654352515390>)
 
 ---
 
@@ -1191,7 +1191,7 @@ Restrictions:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/04e6a655-6409-4d72-93f1-9acd2dbb5aa3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/VigoCreativeAI/status/2065430476567838897>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/04e6a655-6409-4d72-93f1-9acd2dbb5aa3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/VigoCreativeAI/status/2065430476567838897>)
 
 ---
 
@@ -1212,7 +1212,7 @@ Restrictions:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3f2a365a-8ea2-4f3d-b338-ad54171070f8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/aleenaamiir/status/2069424734077689974>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3f2a365a-8ea2-4f3d-b338-ad54171070f8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/aleenaamiir/status/2069424734077689974>)
 
 ---
 
@@ -1251,7 +1251,7 @@ Restrictions:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/a56bacd8-6c9b-4380-b3a1-39ed9538c0cf?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/VigoCreativeAI/status/2064234723220811848>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a56bacd8-6c9b-4380-b3a1-39ed9538c0cf?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/VigoCreativeAI/status/2064234723220811848>)
 
 ---
 
@@ -1307,6 +1307,6 @@ Restrictions:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3999f9fa-d813-4dfa-bf78-23546b0f6d1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MrLarus/status/2069366773518835720>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3999f9fa-d813-4dfa-bf78-23546b0f6d1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2069366773518835720>)
 
 ---

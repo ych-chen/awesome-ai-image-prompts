@@ -19,7 +19,7 @@ Please transform the entire image into a single Decorative Folk Flat Illustratio
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/e05d84d2-fe83-487c-9b3b-696a8d0478e8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Ciri_ai/status/2066742340434424079>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e05d84d2-fe83-487c-9b3b-696a8d0478e8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ciri_ai/status/2066742340434424079>)
 
 ---
 
@@ -40,7 +40,7 @@ Make a photo of a half peeled banana plushie, the plushie is also a sauropod
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/9b11816c-f26f-4423-911f-e8ab0fafc424?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/NanoBanana/status/2026736186509709367>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/9b11816c-f26f-4423-911f-e8ab0fafc424?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NanoBanana/status/2026736186509709367>)
 
 ---
 
@@ -62,7 +62,7 @@ A mini chibi version of the character in the uploaded image, with a big head and
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/82af5e38-aa00-4717-9553-95fd0cd9f3b2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/RizwanAly07/status/2065693325748060264>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/82af5e38-aa00-4717-9553-95fd0cd9f3b2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/RizwanAly07/status/2065693325748060264>)
 
 ---
 
@@ -90,7 +90,7 @@ Style: soft pastel anime illustration, thick sketch line art, cute childhood cha
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/fbcbb4ce-157e-4059-b24f-978d16baf884?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/story_with_ai/status/2064897910358085806>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/fbcbb4ce-157e-4059-b24f-978d16baf884?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/story_with_ai/status/2064897910358085806>)
 
 ---
 
@@ -114,7 +114,7 @@ Prompt Below
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/3d3c9dae-7b3c-4ee9-aed1-1115958febc6?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/JustBethanyai/status/2067344385470087399>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3d3c9dae-7b3c-4ee9-aed1-1115958febc6?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/JustBethanyai/status/2067344385470087399>)
 
 ---
 
@@ -136,7 +136,7 @@ Midjourney --sref 2647956526 69687588::3 2561245139
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/fb796c7b-282d-46a8-ac77-f5940b1ec316?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/GlitterPixely/status/2090944294408302768>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/fb796c7b-282d-46a8-ac77-f5940b1ec316?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/GlitterPixely/status/2090944294408302768>)
 
 ---
 
@@ -161,7 +161,7 @@ Quality: masterpiece, highly detailed, professional illustration, crisp outlines
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/650682ba-116a-465c-99b0-22110a263d36?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Taaruk_/status/2067624585785487681>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/650682ba-116a-465c-99b0-22110a263d36?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Taaruk_/status/2067624585785487681>)
 
 ---
 
@@ -185,7 +185,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/1c3dfc47-1cda-45e2-9da7-23fa314558e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Gemalpha_88/status/2074329209691054373>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1c3dfc47-1cda-45e2-9da7-23fa314558e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Gemalpha_88/status/2074329209691054373>)
 
 ---
 
@@ -206,7 +206,7 @@ Pretty cool to see Anthropic bringing lithographic aesthetics back into the spot
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/8c87ac67-a427-49d4-add8-d24d31fe176c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/The_Sycomore/status/2065374489139917203>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8c87ac67-a427-49d4-add8-d24d31fe176c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/The_Sycomore/status/2065374489139917203>)
 
 ---
 
@@ -227,7 +227,7 @@ Pretty cool to see Anthropic bringing lithographic aesthetics back into the spot
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/57c2508a-4d47-48a2-baa8-665123d782b4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/hagamight/status/2069525908910993788>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/57c2508a-4d47-48a2-baa8-665123d782b4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/hagamight/status/2069525908910993788>)
 
 ---
 
@@ -248,7 +248,7 @@ A realistic, worm’s-eye view photograph of a cheerful young woman with a messy
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d7f69e79-eb4d-454d-90bb-bdab7acc586a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/ariaxawan/status/2055175783141011912>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d7f69e79-eb4d-454d-90bb-bdab7acc586a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ariaxawan/status/2055175783141011912>)
 
 ---
 
@@ -269,7 +269,7 @@ A realistic, worm’s-eye view photograph of a cheerful young woman with a messy
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/f52aacd4-f8f8-4f66-9e19-224e0e610732?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/aleenaamiir/status/2066327113997897946>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f52aacd4-f8f8-4f66-9e19-224e0e610732?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/aleenaamiir/status/2066327113997897946>)
 
 ---
 
@@ -293,7 +293,7 @@ Set against a pure black background, emphasizing strong contrast and visual impa
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/83ae1fe6-826e-431b-b0f9-c7b92d69ddbc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/noorlewisx/status/2064539506305561076>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/83ae1fe6-826e-431b-b0f9-c7b92d69ddbc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/noorlewisx/status/2064539506305561076>)
 
 ---
 
@@ -317,7 +317,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/008fb426-78f9-49ab-bb0e-602902991121?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Gemalpha_88/status/2073246120927785255>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/008fb426-78f9-49ab-bb0e-602902991121?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Gemalpha_88/status/2073246120927785255>)
 
 ---
 
@@ -338,7 +338,7 @@ it's gonna take a while to get used to midjourney v8.2, but so far so good
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/8331a2a0-9367-4b22-99bb-ff767b1cfeba?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/kubadesign/status/2081686212109107241>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8331a2a0-9367-4b22-99bb-ff767b1cfeba?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/kubadesign/status/2081686212109107241>)
 
 ---
 
@@ -359,7 +359,7 @@ Ultra-realistic action photography, extreme fisheye lens, 8mm, worm’s-eye view
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/7bc9428c-1530-441e-ad0c-393eca4fadf4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/AiwithLariab/status/2067484351378690487>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7bc9428c-1530-441e-ad0c-393eca4fadf4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AiwithLariab/status/2067484351378690487>)
 
 ---
 
@@ -383,7 +383,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d7d2c099-b633-4e76-af98-6bddba55ceed?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Gemalpha_88/status/2072682261657628749>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d7d2c099-b633-4e76-af98-6bddba55ceed?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Gemalpha_88/status/2072682261657628749>)
 
 ---
 
@@ -404,7 +404,7 @@ A highly expressive mixed-media digital portrait of a woman, blending realism wi
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d8a40940-fab1-4ef8-a285-c0b8e0bf4dd4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Ai_aylinfc/status/2032756544467558886>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d8a40940-fab1-4ef8-a285-c0b8e0bf4dd4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ai_aylinfc/status/2032756544467558886>)
 
 ---
 
@@ -431,7 +431,7 @@ Create a stylized watercolor and gouache illustration based on the following art
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/816f98a0-47d0-4a3d-b0db-8dc1cf518c86?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Ciri_ai/status/2067088864523805046>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/816f98a0-47d0-4a3d-b0db-8dc1cf518c86?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ciri_ai/status/2067088864523805046>)
 
 ---
 
@@ -455,7 +455,7 @@ Dynamic cinematic lighting, ultra-realistic skin texture, shallow depth of field
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/f48b2b34-74c1-4f9c-be42-412c8762c905?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/noorlewisx/status/2062829384709607905>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f48b2b34-74c1-4f9c-be42-412c8762c905?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/noorlewisx/status/2062829384709607905>)
 
 ---
 
@@ -478,7 +478,7 @@ low quality, dull lighting, realism only, modern elements, text, watermark
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/2cb0f749-87b5-4515-bff2-0369b8461b4f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/zayleeai/status/2007493934830755866>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/2cb0f749-87b5-4515-bff2-0369b8461b4f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/zayleeai/status/2007493934830755866>)
 
 ---
 
@@ -504,7 +504,7 @@ Render Quality: Octane Render, Unreal Engine 5, ray tracing, global illumination
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/74dc8865-8352-428f-b55e-d2d90a72545f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/AIwithkhan/status/2066858886511161451>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/74dc8865-8352-428f-b55e-d2d90a72545f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AIwithkhan/status/2066858886511161451>)
 
 ---
 
@@ -528,7 +528,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/536f7525-7ddd-4bd0-bf4f-21c4f94063e2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Gemalpha_88/status/2072523354180141151>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/536f7525-7ddd-4bd0-bf4f-21c4f94063e2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Gemalpha_88/status/2072523354180141151>)
 
 ---
 
@@ -550,7 +550,7 @@ Midjourney --sref 1766236736::2 1163501784
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/3453a02a-b520-42b2-b5d4-10093db323c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/GlitterPixely/status/2090423615850193178>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3453a02a-b520-42b2-b5d4-10093db323c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/GlitterPixely/status/2090423615850193178>)
 
 ---
 
@@ -572,7 +572,7 @@ eyes, tiny mouth and deadpan [EXPRESSION], wearing [CLOTHING], with [ANIMAL] per
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/7e120ea4-7981-4277-99cf-4446058486eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/MissDelulu9/status/2064688962539798779>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7e120ea4-7981-4277-99cf-4446058486eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MissDelulu9/status/2064688962539798779>)
 
 ---
 
@@ -593,7 +593,7 @@ Contemporary mixed-media urban painting of [HUMAN], wearing [CLOTHING], [POSE] b
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/9e305899-3c8c-4309-a9e1-096791a26bd7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/kingofdairyque/status/2069642160668827684>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/9e305899-3c8c-4309-a9e1-096791a26bd7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/kingofdairyque/status/2069642160668827684>)
 
 ---
 
@@ -614,7 +614,7 @@ Create a minimalist vector profile portrait of the uploaded person, looking down
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/6e4fcbad-59c8-40d3-8326-caee33d9787a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/harboriis/status/2067458435843547382>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/6e4fcbad-59c8-40d3-8326-caee33d9787a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/harboriis/status/2067458435843547382>)
 
 ---
 
@@ -635,7 +635,7 @@ Create a minimalist vector profile portrait of the uploaded person, looking down
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/fecc3796-c385-45ac-a733-b65325222bb2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/TechieBySA/status/2068384583649739182>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/fecc3796-c385-45ac-a733-b65325222bb2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2068384583649739182>)
 
 ---
 
@@ -656,7 +656,7 @@ Ultra-realistic portrait of a young catgirl with soft, realistic feline ears eme
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/bd0d936d-0c2b-46df-ad2c-f924ea1be1f0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/ariaxawan/status/2063131559335698937>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/bd0d936d-0c2b-46df-ad2c-f924ea1be1f0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ariaxawan/status/2063131559335698937>)
 
 ---
 
@@ -680,6 +680,6 @@ Exploding bear snarling with regression degradation glitch distortion digital de
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/590f30c3-047f-42d8-8890-d34c7252f5ae?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/michaelrabone/status/2080654240905568288>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/590f30c3-047f-42d8-8890-d34c7252f5ae?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/michaelrabone/status/2080654240905568288>)
 
 ---

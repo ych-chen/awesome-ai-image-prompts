@@ -47,7 +47,7 @@ SPRING / SUMMER
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/50114a08-4de1-4e5c-8df1-fa5ed862fa2e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/you1873118/status/2067166621253476463>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/50114a08-4de1-4e5c-8df1-fa5ed862fa2e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/you1873118/status/2067166621253476463>)
 
 ---
 
@@ -106,7 +106,7 @@ Pink Aesthetic Nano Banana Pro:
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/3336e049-b5ee-454c-9e52-15918181db5b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/manolyaai/status/2020561374217126145>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3336e049-b5ee-454c-9e52-15918181db5b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/manolyaai/status/2020561374217126145>)
 
 ---
 
@@ -195,7 +195,7 @@ Grok Imagine
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/19ec0972-2a78-4dc6-84e1-dcfadf2cb6a0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/milaraeai/status/2015833579813589052>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/19ec0972-2a78-4dc6-84e1-dcfadf2cb6a0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/milaraeai/status/2015833579813589052>)
 
 ---
 
@@ -233,7 +233,7 @@ Grok Imagine
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/62bd44c9-5d50-4c07-804f-33e8f1a2af60?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/MrLarus/status/2069070973018550356>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/62bd44c9-5d50-4c07-804f-33e8f1a2af60?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MrLarus/status/2069070973018550356>)
 
 ---
 
@@ -296,7 +296,7 @@ Grok Imagine
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/e9496853-ff93-4817-a020-032fe8285cb3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/manolyaai/status/2021333957594243367>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e9496853-ff93-4817-a020-032fe8285cb3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/manolyaai/status/2021333957594243367>)
 
 ---
 
@@ -325,7 +325,7 @@ Negative prompt: extra limbs, extra fingers, deformed hands, bad anatomy, incorr
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/f37dc22f-6da4-467c-90ff-33ecef1b5cd5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/JustBethanyai/status/2067227759374401545>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f37dc22f-6da4-467c-90ff-33ecef1b5cd5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/JustBethanyai/status/2067227759374401545>)
 
 ---
 
@@ -352,7 +352,7 @@ Important details: white silk shirt, not knit, loose and glossy fabric, sunlight
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/a5af9c91-fa00-4445-a905-1fa900e0d876?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/AI_money_club/status/2067731526448738460>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a5af9c91-fa00-4445-a905-1fa900e0d876?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AI_money_club/status/2067731526448738460>)
 
 ---
 
@@ -471,7 +471,7 @@ Important details: white silk shirt, not knit, loose and glossy fabric, sunlight
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/cf27f8fd-9c22-4325-9185-6283d1bc76ea?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/sumiturkude007/status/2045917845842776100>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/cf27f8fd-9c22-4325-9185-6283d1bc76ea?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/sumiturkude007/status/2045917845842776100>)
 
 ---
 
@@ -492,7 +492,7 @@ Photorealistic Korean female idol-inspired lifestyle fashion portrait, soft film
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/29aafeef-1401-49bb-9bbe-d92ab4dca94b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/BubbleBrain/status/2066770883260318074>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/29aafeef-1401-49bb-9bbe-d92ab4dca94b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/BubbleBrain/status/2066770883260318074>)
 
 ---
 
@@ -516,7 +516,7 @@ Avoid: eye contact, posing, waving, anime, illustration, plastic skin, extreme c
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/1ea1c1e0-71ab-4674-bd76-9d500544b282?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/MissDelulu9/status/2064553143288172582>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1ea1c1e0-71ab-4674-bd76-9d500544b282?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MissDelulu9/status/2064553143288172582>)
 
 ---
 
@@ -540,7 +540,7 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/f5935f6b-d62f-4cb5-a133-8cc9087a1c24?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/PinodiArt/status/2067587675360506344>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f5935f6b-d62f-4cb5-a133-8cc9087a1c24?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/PinodiArt/status/2067587675360506344>)
 
 ---
 
@@ -563,7 +563,7 @@ Negative: bad anatomy, distorted face, extra fingers, blurry, low quality, water
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/96d194b8-1ba5-45cb-baca-7aa064d6e906?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Kunda623270/status/2066011063636951386>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/96d194b8-1ba5-45cb-baca-7aa064d6e906?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Kunda623270/status/2066011063636951386>)
 
 ---
 
@@ -602,7 +602,7 @@ Negative prompt: full-body distant shot, face too small, unclear expression, neu
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/494fcfc3-aa56-41e8-b043-20ccf3c077e7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/BubbleBrain/status/2065815868349849630>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/494fcfc3-aa56-41e8-b043-20ccf3c077e7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/BubbleBrain/status/2065815868349849630>)
 
 ---
 
@@ -682,7 +682,7 @@ Negative prompt: full-body distant shot, face too small, unclear expression, neu
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/b0203a6a-e6b1-4a0e-881a-354a1cdf4ff6?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/SadiaMalik182/status/2060595724510015717>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/b0203a6a-e6b1-4a0e-881a-354a1cdf4ff6?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/SadiaMalik182/status/2060595724510015717>)
 
 ---
 
@@ -846,7 +846,7 @@ Negative prompt: full-body distant shot, face too small, unclear expression, neu
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d1a88a03-e66c-4ada-9889-1278feca225a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/JustBethanyai/status/2066639578635579596>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d1a88a03-e66c-4ada-9889-1278feca225a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/JustBethanyai/status/2066639578635579596>)
 
 ---
 
@@ -872,7 +872,7 @@ Style: low-saturation navy obsidian mood, cold-toned luxury, film highlight bloo
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/9556eb39-e9aa-4482-a6aa-3b74f68fbf34?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/BubbleBrain/status/2067158519477059762>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/9556eb39-e9aa-4482-a6aa-3b74f68fbf34?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/BubbleBrain/status/2067158519477059762>)
 
 ---
 
@@ -923,7 +923,7 @@ Style: low-saturation navy obsidian mood, cold-toned luxury, film highlight bloo
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/5c204dcc-3207-4e00-a096-79921469bbdb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/manolyaai/status/2020872345393447326>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/5c204dcc-3207-4e00-a096-79921469bbdb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/manolyaai/status/2020872345393447326>)
 
 ---
 
@@ -947,7 +947,7 @@ digicam aesthetic,
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/add88048-1fc8-4f8d-ba73-af91c6fa23a3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/BeautyVerse_Lab/status/2065452862902337715>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/add88048-1fc8-4f8d-ba73-af91c6fa23a3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/BeautyVerse_Lab/status/2065452862902337715>)
 
 ---
 
@@ -968,7 +968,7 @@ A warm 35mm film photograph shot from a low-left oblique angle, capturing the fu
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/54d12f98-a00c-41f1-9472-81c1edb695cc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/johnAGI168/status/2066893593583788388>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/54d12f98-a00c-41f1-9472-81c1edb695cc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/johnAGI168/status/2066893593583788388>)
 
 ---
 
@@ -1041,7 +1041,7 @@ A warm 35mm film photograph shot from a low-left oblique angle, capturing the fu
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/9f07ae34-5326-49c6-82ef-8e268a5f4407?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/youngcatwoman/status/2048338798137004056>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/9f07ae34-5326-49c6-82ef-8e268a5f4407?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/youngcatwoman/status/2048338798137004056>)
 
 ---
 
@@ -1203,7 +1203,7 @@ A warm 35mm film photograph shot from a low-left oblique angle, capturing the fu
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d2749e5a-489a-4bea-9dce-1306221cb63d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/underwoodxie96/status/2069576333764784552>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d2749e5a-489a-4bea-9dce-1306221cb63d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/underwoodxie96/status/2069576333764784552>)
 
 ---
 
@@ -1282,7 +1282,7 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/1f691c4a-a2d0-4176-8a54-e325d7fcd481?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/john_my07/status/2067642906035585315>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1f691c4a-a2d0-4176-8a54-e325d7fcd481?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/john_my07/status/2067642906035585315>)
 
 ---
 
@@ -1290,7 +1290,7 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 
 ## Sydney Sweeney at Sunset on the Shore
 
-<a href="https://musesignal.com/prompt/e0a57f6c-2fa1-4b42-bc63-7475834dbe40?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK5dgaoWEAAnmoh.jpg?format=jpg&amp;name=small" width="480" alt="Sydney Sweeney at Sunset on the Shore" /></a>
+External preview unavailable; the full prompt is included below.
 
 **Nano Banana 2** · Creator: Giulia
 
@@ -1330,7 +1330,7 @@ selfie, phone visible, direct eye contact, awkward anatomy, extra fingers, extra
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/e0a57f6c-2fa1-4b42-bc63-7475834dbe40?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Giulia_4i/status/2066692093561520273>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e0a57f6c-2fa1-4b42-bc63-7475834dbe40?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Giulia_4i/status/2066692093561520273>)
 
 ---
 
@@ -1354,7 +1354,7 @@ Stereoscopic photography of Marilyn Monroe taken on Kodak Gold 35mm film, heavy 
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/efab2f54-2b53-4da4-a433-d70eb22157e8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/michaelrabone/status/2080971415826637279>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/efab2f54-2b53-4da4-a433-d70eb22157e8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/michaelrabone/status/2080971415826637279>)
 
 ---
 
@@ -1381,7 +1381,7 @@ Mood: authentic football fan culture, Tokyo nightlife, candid photobook atmosphe
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/419004e8-8995-4091-9ab4-b852e5b15e56?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/BubbleBrain/status/2066143248779993553>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/419004e8-8995-4091-9ab4-b852e5b15e56?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/BubbleBrain/status/2066143248779993553>)
 
 ---
 
@@ -1481,7 +1481,7 @@ Mood: authentic football fan culture, Tokyo nightlife, candid photobook atmosphe
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/2e4b2e9c-bcbb-4938-8ac7-6f20cd8ccfeb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/sumiturkude007/status/2048469660010783160>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/2e4b2e9c-bcbb-4938-8ac7-6f20cd8ccfeb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/sumiturkude007/status/2048469660010783160>)
 
 ---
 
@@ -1502,7 +1502,7 @@ hyper real vertical amateur iphone shot of a young woman around 22yo cooking rib
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/6461fb00-c842-4497-98f1-a46f0e5ac7f7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/DanjiTosaka/status/2092187412155809807>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/6461fb00-c842-4497-98f1-a46f0e5ac7f7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/DanjiTosaka/status/2092187412155809807>)
 
 ---
 
@@ -1523,7 +1523,7 @@ A CCTV-style surveillance footage of a stylish teenage girl walking past a secur
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/69d42e9f-97fa-4ce3-822d-641df18ccfbf?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/AiwithLariab/status/2068558572716236897>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/69d42e9f-97fa-4ce3-822d-641df18ccfbf?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AiwithLariab/status/2068558572716236897>)
 
 ---
 
@@ -1578,7 +1578,7 @@ A CCTV-style surveillance footage of a stylish teenage girl walking past a secur
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/e46b67d4-71d2-4847-bed4-0717e7758fb2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/brindleyai/status/2048690596718465077>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e46b67d4-71d2-4847-bed4-0717e7758fb2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/brindleyai/status/2048690596718465077>)
 
 ---
 
@@ -1599,6 +1599,6 @@ Cinematic [shot type] of [main character or characters] [specific action] in [Me
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/f2bbbff3-fc8c-4f97-8427-6ff4d688d259?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/MayorKingAI/status/2082183396365877442>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f2bbbff3-fc8c-4f97-8427-6ff4d688d259?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MayorKingAI/status/2082183396365877442>)
 
 ---

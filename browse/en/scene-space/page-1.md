@@ -19,7 +19,7 @@ Draw in a simple hand-drawn doodled style cartoon, as if sketched by a person wi
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/3f747533-d7cf-4a29-94a3-4c3c5862e29f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/oggii_0/status/2069773202675658902>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3f747533-d7cf-4a29-94a3-4c3c5862e29f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/oggii_0/status/2069773202675658902>)
 
 ---
 
@@ -52,7 +52,7 @@ Draw in a simple hand-drawn doodled style cartoon, as if sketched by a person wi
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/8564d590-2e5a-4930-8cb6-57ab223eebfb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/NanoBanana/status/2023519483885748336>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8564d590-2e5a-4930-8cb6-57ab223eebfb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NanoBanana/status/2023519483885748336>)
 
 ---
 
@@ -73,7 +73,7 @@ Entrance to the new Midjourney spa
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/7af22688-1e92-4261-8ab4-a14012619602?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/fofrAI/status/2067635885370126556>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7af22688-1e92-4261-8ab4-a14012619602?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/fofrAI/status/2067635885370126556>)
 
 ---
 
@@ -102,7 +102,7 @@ Entrance to the new Midjourney spa
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/761b43f7-3193-4c88-b19f-9a03ee18f899?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/MrLarus/status/2067943717621653640>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/761b43f7-3193-4c88-b19f-9a03ee18f899?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MrLarus/status/2067943717621653640>)
 
 ---
 
@@ -123,7 +123,7 @@ Make a beautiful 9:16 wallpaper. Leave natural negative space near the top and b
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/ff5b3f0a-a3bc-4db9-8104-5c14140381af?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/NanoBanana/status/2024228848221491246>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/ff5b3f0a-a3bc-4db9-8104-5c14140381af?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NanoBanana/status/2024228848221491246>)
 
 ---
 
@@ -144,7 +144,7 @@ Make a beautiful 9:16 wallpaper. Leave natural negative space near the top and b
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/8abbd868-a502-466b-9df5-e0304e190020?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/lloydcreates/status/2091357152149483729>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8abbd868-a502-466b-9df5-e0304e190020?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/lloydcreates/status/2091357152149483729>)
 
 ---
 
@@ -165,7 +165,7 @@ Young Japanese girl with long silky black hair and soft wispy bangs, sitting cas
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/28903d24-b446-4ac2-81e5-056f4b611178?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/saniaspeaks_/status/2067813435136680242>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/28903d24-b446-4ac2-81e5-056f4b611178?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/saniaspeaks_/status/2067813435136680242>)
 
 ---
 
@@ -187,7 +187,7 @@ Young Japanese girl with long silky black hair and soft wispy bangs, sitting cas
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/1c022a06-4107-4d17-b5d9-eff0f8040008?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/NanoBanana/status/2028576407157080112>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1c022a06-4107-4d17-b5d9-eff0f8040008?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NanoBanana/status/2028576407157080112>)
 
 ---
 
@@ -214,7 +214,7 @@ Audio: no background music. Ambient sound only - skateboard wheels rolling on pa
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/973f5d7d-597b-4aab-847a-2e568a3d5087?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/noorlewisx/status/2065746957499605274>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/973f5d7d-597b-4aab-847a-2e568a3d5087?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/noorlewisx/status/2065746957499605274>)
 
 ---
 
@@ -241,7 +241,7 @@ Articles & Text: The rest of the page is filled with a professional multi-column
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/30d5cf29-3238-4afc-8a62-9bf93766e12c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Arminn_Ai/status/2026005537968558304>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/30d5cf29-3238-4afc-8a62-9bf93766e12c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Arminn_Ai/status/2026005537968558304>)
 
 ---
 
@@ -264,7 +264,7 @@ Follow the step by step tutorial to create 👇👇👇
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/1eaf6deb-f1a7-4455-8ba9-326b2c1ee832?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/alizagori1/status/2074492560161300722>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1eaf6deb-f1a7-4455-8ba9-326b2c1ee832?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/alizagori1/status/2074492560161300722>)
 
 ---
 
@@ -289,7 +289,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/f013cad3-544b-4fb7-a990-2551e45f84b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Gemalpha_88/status/2072856943757308203>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f013cad3-544b-4fb7-a990-2551e45f84b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Gemalpha_88/status/2072856943757308203>)
 
 ---
 
@@ -316,7 +316,7 @@ clean studio tabletop with sketch notes, small original retro sci-fi toy figure,
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/e25f8a02-49d6-4e3d-97ec-8c45b39d9951?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/tisch_eins/status/2068257569743757745>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e25f8a02-49d6-4e3d-97ec-8c45b39d9951?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/tisch_eins/status/2068257569743757745>)
 
 ---
 
@@ -340,7 +340,7 @@ Prompt in ALT
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d8d62cda-002a-4359-8689-742517ebd9f0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/churvikv/status/2065155683301917132>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d8d62cda-002a-4359-8689-742517ebd9f0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2065155683301917132>)
 
 ---
 
@@ -362,7 +362,7 @@ Keep Tom and Jerry faithful to their iconic and recognizable character designs, 
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/0528b4b0-070c-4baa-add9-9097d7c9e15c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/ZaraIrahh/status/2080879220771958910>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0528b4b0-070c-4baa-add9-9097d7c9e15c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ZaraIrahh/status/2080879220771958910>)
 
 ---
 
@@ -386,7 +386,7 @@ Prompt in ALT⤵️
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/a47a37d7-d0c8-4199-b9ee-a9981138f539?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/churvikv/status/2079560686087090564>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a47a37d7-d0c8-4199-b9ee-a9981138f539?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2079560686087090564>)
 
 ---
 
@@ -409,7 +409,7 @@ A surreal landscape featuring a lone figure standing beneath a large tree with g
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/5059b775-5e11-4aa4-b6ae-2a39a5deec5f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/churvikv/status/2090858753583169966>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/5059b775-5e11-4aa4-b6ae-2a39a5deec5f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2090858753583169966>)
 
 ---
 
@@ -438,7 +438,7 @@ Overall mood: Funny, surreal, cozy — a perfectly composed humorous concept pho
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/db22151b-d41c-4f6c-85a3-51c0d780cdc4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/RuzainaMeer/status/2064227861586981139>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/db22151b-d41c-4f6c-85a3-51c0d780cdc4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/RuzainaMeer/status/2064227861586981139>)
 
 ---
 
@@ -519,7 +519,7 @@ Overall mood: Funny, surreal, cozy — a perfectly composed humorous concept pho
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d76b0b32-cb91-470e-93f8-64dc812389c0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/NameIsSudee/status/2060539696539955679>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d76b0b32-cb91-470e-93f8-64dc812389c0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NameIsSudee/status/2060539696539955679>)
 
 ---
 
@@ -553,7 +553,7 @@ dark background, black snake, green snake, yellow snake, cartoon, chibi, anthrop
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/273431bf-f74e-4ece-84a9-46f16df92c60?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/churvikv/status/2080436947323924795>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/273431bf-f74e-4ece-84a9-46f16df92c60?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2080436947323924795>)
 
 ---
 
@@ -579,7 +579,7 @@ Replace the parts in [brackets] with your choices.
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/a5aecf69-f532-46f7-82cb-de60d6675a2e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/ShamsAmin56/status/2063554006191161823>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a5aecf69-f532-46f7-82cb-de60d6675a2e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ShamsAmin56/status/2063554006191161823>)
 
 ---
 
@@ -603,7 +603,7 @@ Prompt in ALT⤵️
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/0d78f14c-3b71-40c9-badb-6c352d4d6958?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/churvikv/status/2069511377325060316>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0d78f14c-3b71-40c9-badb-6c352d4d6958?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2069511377325060316>)
 
 ---
 
@@ -625,7 +625,7 @@ Nano Banana Pro
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/c428561d-9705-4e69-a4c2-e38871b97238?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/fofrAI/status/2081061879145779286>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/c428561d-9705-4e69-a4c2-e38871b97238?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/fofrAI/status/2081061879145779286>)
 
 ---
 
@@ -647,7 +647,7 @@ Negative Prompt: bad anatomy, malformed hands, extra fingers, missing fingers, i
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/a5abcb54-f120-49a6-9a8c-5713cfce8eaa?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/MissDelulu9/status/2064292228961652882>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a5abcb54-f120-49a6-9a8c-5713cfce8eaa?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MissDelulu9/status/2064292228961652882>)
 
 ---
 
@@ -668,7 +668,7 @@ blurry, distorted hands, extra fingers, deformed legs, bad anatomy, cartoon, 3d 
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/513bda9d-9d48-4221-85a3-f8bfc4518e0d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/simplyfutureai/status/2066008459334873438>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/513bda9d-9d48-4221-85a3-f8bfc4518e0d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/simplyfutureai/status/2066008459334873438>)
 
 ---
 
@@ -689,7 +689,7 @@ blurry, distorted hands, extra fingers, deformed legs, bad anatomy, cartoon, 3d 
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/799359bc-a20d-4651-af4e-4d6c93e63b09?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/de_mon010/status/2067153251682976209>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/799359bc-a20d-4651-af4e-4d6c93e63b09?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/de_mon010/status/2067153251682976209>)
 
 ---
 
@@ -713,7 +713,7 @@ Create an adorable handmade collectible doll with exact facial resemblance to th
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/2ec5f0f7-d490-4b57-a1b3-616b657c6319?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/RizwanAly07/status/2063908782149898376>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/2ec5f0f7-d490-4b57-a1b3-616b657c6319?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/RizwanAly07/status/2063908782149898376>)
 
 ---
 
@@ -814,6 +814,6 @@ Prompt;
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/147f7ee4-3dc4-42e4-8ce6-751915a1c081?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Maercihh/status/2060938531233804572>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/147f7ee4-3dc4-42e4-8ce6-751915a1c081?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Maercihh/status/2060938531233804572>)
 
 ---

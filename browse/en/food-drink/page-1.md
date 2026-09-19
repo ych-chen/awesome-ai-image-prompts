@@ -23,7 +23,7 @@
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/2a6bf6e6-3267-4414-9dd4-b0c581b969ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/xiaoxiaodong01/status/2065714873292734934>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/2a6bf6e6-3267-4414-9dd4-b0c581b969ad?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/xiaoxiaodong01/status/2065714873292734934>)
 
 ---
 
@@ -47,7 +47,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/f3dee244-3ccb-4e43-884f-69c0da07a5aa?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Gemalpha_88/status/2073974704139104447>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f3dee244-3ccb-4e43-884f-69c0da07a5aa?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Gemalpha_88/status/2073974704139104447>)
 
 ---
 
@@ -68,7 +68,7 @@ sunlit breakfast table with a small original retro sci-fi planet diorama, coffee
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/a8167a15-83b4-48c2-918c-a6c2514fd483?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/tisch_eins/status/2067849866940719173>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a8167a15-83b4-48c2-918c-a6c2514fd483?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/tisch_eins/status/2067849866940719173>)
 
 ---
 
@@ -89,7 +89,7 @@ Ultra-realistic sports broadcast still of a glamorous woman sitting in a packed 
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/17211d74-f872-458a-92f3-a1db76e262fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/SadiaMalik182/status/2058425462888726529>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/17211d74-f872-458a-92f3-a1db76e262fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/SadiaMalik182/status/2058425462888726529>)
 
 ---
 
@@ -113,7 +113,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/2fc52523-a38c-44a2-be43-958544ec1010?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Gemalpha_88/status/2072485588486545680>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/2fc52523-a38c-44a2-be43-958544ec1010?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Gemalpha_88/status/2072485588486545680>)
 
 ---
 
@@ -134,7 +134,7 @@ A high-quality, realistic selfie of a beautiful young East Asian woman with long
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/095839dd-d2f9-4ece-a306-ddb81d2ebc5e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/AvelyrahnAI/status/2066724927139725368>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/095839dd-d2f9-4ece-a306-ddb81d2ebc5e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AvelyrahnAI/status/2066724927139725368>)
 
 ---
 
@@ -158,7 +158,7 @@ Check the Stey bye step Tutorial here 👇🏻
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/3728cad7-dde0-4be0-b251-0f67c9094af5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Gemalpha_88/status/2072983437854801990>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3728cad7-dde0-4be0-b251-0f67c9094af5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Gemalpha_88/status/2072983437854801990>)
 
 ---
 
@@ -186,7 +186,7 @@ Glamorous surrealism, golden French fries in a pink glitter covered container, p
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/65e05df0-f164-4d33-8819-ef7e914a59d8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/soulful__ai/status/2071797871515697356>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/65e05df0-f164-4d33-8819-ef7e914a59d8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/soulful__ai/status/2071797871515697356>)
 
 ---
 
@@ -207,7 +207,7 @@ low quality, worst quality (1.4), bad anatomy, deformed, ugly appearance, crosse
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/2dca3684-bdc2-427b-9e69-117ff319b389?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/kingofdairyque/status/2080989326557487445>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/2dca3684-bdc2-427b-9e69-117ff319b389?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/kingofdairyque/status/2080989326557487445>)
 
 ---
 
@@ -228,7 +228,7 @@ Young Japanese girl with long silky black hair, soft wispy bangs, fair glowing s
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/95588259-b0da-4143-ae03-6f83e700afd1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/saniaspeaks_/status/2069253364660216193>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/95588259-b0da-4143-ae03-6f83e700afd1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/saniaspeaks_/status/2069253364660216193>)
 
 ---
 
@@ -252,7 +252,7 @@ Full step by step tutorial below 👇
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/de59aa87-9e21-44ed-b7bc-5cd3e6b325a3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Aqib__786Ai/status/2075787147169140997>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/de59aa87-9e21-44ed-b7bc-5cd3e6b325a3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Aqib__786Ai/status/2075787147169140997>)
 
 ---
 
@@ -273,7 +273,7 @@ An ultra-realistic, cinematic portrait of a beautiful young East Asian woman wit
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/16e850aa-77a2-4afb-82fd-207fcff2478e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/AvelyrahnAI/status/2066084544349143355>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/16e850aa-77a2-4afb-82fd-207fcff2478e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AvelyrahnAI/status/2066084544349143355>)
 
 ---
 
@@ -295,7 +295,7 @@ Full step by step tutorial 👇
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/31697c0e-0536-4a3c-8e01-9aa707bf0338?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Aqib__786Ai/status/2076630915271282932>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/31697c0e-0536-4a3c-8e01-9aa707bf0338?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Aqib__786Ai/status/2076630915271282932>)
 
 ---
 
@@ -317,7 +317,7 @@ Meanwhile this is what I got from ChatGPT
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/d72c8244-dbca-48b6-bfa1-32e5786d7bb9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Angaisb_/status/2091559210169360861>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d72c8244-dbca-48b6-bfa1-32e5786d7bb9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Angaisb_/status/2091559210169360861>)
 
 ---
 
@@ -338,7 +338,7 @@ Ultra-detailed macro product photography of glossy roasted coffee beans stacked 
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/fdb76bfd-0c8d-4c68-9cb1-360acfa5df8e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Emmma__0/status/2021940449200508966>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/fdb76bfd-0c8d-4c68-9cb1-360acfa5df8e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Emmma__0/status/2021940449200508966>)
 
 ---
 
@@ -365,7 +365,7 @@ GPT2 x 清透 x 微缩 x 饮料 x 美学提示词
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/0ccb6a15-f843-4116-8c6d-35dc37758b4b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/xiaoxiaodong01/status/2064975907362897960>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0ccb6a15-f843-4116-8c6d-35dc37758b4b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/xiaoxiaodong01/status/2064975907362897960>)
 
 ---
 
@@ -386,7 +386,7 @@ A premium golden toffee suspended in mid air above a mirror polished black surfa
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/556f975f-8dc5-48d1-9390-6135df363e22?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/iamrealsnow/status/2066462510103056548>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/556f975f-8dc5-48d1-9390-6135df363e22?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamrealsnow/status/2066462510103056548>)
 
 ---
 
@@ -407,7 +407,7 @@ Create an ultra-premium cinematic food advertisement designed like a billion-dol
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/06da7dca-467b-4327-a2fc-1dd2ec094088?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/obsidian_fr1/status/2058565295137227067>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/06da7dca-467b-4327-a2fc-1dd2ec094088?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/obsidian_fr1/status/2058565295137227067>)
 
 ---
 
@@ -428,7 +428,7 @@ A commercial-style, close-up photograph of a smiling South Asian woman enjoying 
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/0010d000-1746-4db9-bf6e-c6a0466a8113?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/arsalannazir07/status/2060685589935206795>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0010d000-1746-4db9-bf6e-c6a0466a8113?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/arsalannazir07/status/2060685589935206795>)
 
 ---
 
@@ -449,7 +449,7 @@ Create a stylized geometric cubist food poster featuring an iconic modern Algeri
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/b330789e-8009-4f7d-9097-7a7e9ae1aef2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/MaAyyoub/status/2060300262963609758>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/b330789e-8009-4f7d-9097-7a7e9ae1aef2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/MaAyyoub/status/2060300262963609758>)
 
 ---
 
@@ -521,7 +521,7 @@ Gemini | Nano Banana Pro
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/01dd052a-f664-43e4-b2c5-b00b0ed5e73f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/milaraeai/status/2020616810450608273>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/01dd052a-f664-43e4-b2c5-b00b0ed5e73f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/milaraeai/status/2020616810450608273>)
 
 ---
 
@@ -626,6 +626,6 @@ travel editorial
 
 </details>
 
-[View prompt and create](<https://musesignal.com/prompt/2fc272ad-d041-4c68-b539-43c1e8fffb3d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [Original post](<https://x.com/Naiknelofar788/status/2068305415729999902>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/2fc272ad-d041-4c68-b539-43c1e8fffb3d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Naiknelofar788/status/2068305415729999902>)
 
 ---

@@ -19,7 +19,7 @@ Prompt 1: Convert this image into a soft, handcrafted paper-cut layered illustra
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/acf5e57a-cdf0-43b5-ae22-179f938b0c20?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Ciri_ai/status/2068192617242960081>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/acf5e57a-cdf0-43b5-ae22-179f938b0c20?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ciri_ai/status/2068192617242960081>)
 
 ---
 
@@ -41,7 +41,7 @@ A contemporary expressive oil painting style with bold, dynamic brushwork and se
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/ccd677fb-2f55-43ce-a17d-7d286c05c2fe?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/HustleXR/status/2067130895686107638>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ccd677fb-2f55-43ce-a17d-7d286c05c2fe?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2067130895686107638>)
 
 ---
 
@@ -78,7 +78,7 @@ Find all images first comment
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/5efb704d-76ac-4b28-9ae1-9dd9c02c742f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/LudovicCreator/status/2082345406919254490>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5efb704d-76ac-4b28-9ae1-9dd9c02c742f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/LudovicCreator/status/2082345406919254490>)
 
 ---
 
@@ -103,7 +103,7 @@ Warm golden-hour sunlight illuminates the wooden desk, casting soft cinematic sh
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/46818d78-f979-4f43-9ca6-752f8b9df098?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AiwithLariab/status/2067948869091278932>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/46818d78-f979-4f43-9ca6-752f8b9df098?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AiwithLariab/status/2067948869091278932>)
 
 ---
 
@@ -125,7 +125,7 @@ Use reference photo to create a ultra-realistic cinematic portrait of a beautifu
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/69f34a93-6411-4a44-a07d-3bacb752d9f9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/HaniaAi12/status/2067928015519269285>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/69f34a93-6411-4a44-a07d-3bacb752d9f9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HaniaAi12/status/2067928015519269285>)
 
 ---
 
@@ -148,7 +148,7 @@ Hot examples in attached post 🌶️
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/6843b363-862e-411c-a138-ee79a8e8731c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/michaelrabone/status/2067563000584720493>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/6843b363-862e-411c-a138-ee79a8e8731c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/michaelrabone/status/2067563000584720493>)
 
 ---
 
@@ -169,7 +169,7 @@ Tansform the entire image into a single flat, decorative folk-art illustration w
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/7775a901-29bb-4ece-ae91-871a0afcac31?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Sairah_0/status/2067888380634108118>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7775a901-29bb-4ece-ae91-871a0afcac31?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Sairah_0/status/2067888380634108118>)
 
 ---
 
@@ -193,7 +193,7 @@ Full step -by-step- tutorial below 👇
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/10c83da2-160e-42c4-a347-5e8a412ca821?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Aqib__786Ai/status/2075912220123271409>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/10c83da2-160e-42c4-a347-5e8a412ca821?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aqib__786Ai/status/2075912220123271409>)
 
 ---
 
@@ -227,7 +227,7 @@ Full prompt recipes are in the comment link.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/699276ab-21cb-44c5-bfeb-1f19ad88741e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/promptsref/status/2066959177314935264>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/699276ab-21cb-44c5-bfeb-1f19ad88741e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/promptsref/status/2066959177314935264>)
 
 ---
 
@@ -285,7 +285,7 @@ Prompt 2:
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/442c73bb-2325-4e8a-8bad-8bd6cb1b2696?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Maercihh/status/2055224183152620023>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/442c73bb-2325-4e8a-8bad-8bd6cb1b2696?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2055224183152620023>)
 
 ---
 
@@ -307,7 +307,7 @@ Ultra-realistic monochrome graphite portrait illustration on textured dark gray 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/53366911-7071-47b9-9dce-ca86dccbdbfb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/HustleXR/status/2067501706158747810>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/53366911-7071-47b9-9dce-ca86dccbdbfb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2067501706158747810>)
 
 ---
 
@@ -334,7 +334,7 @@ Ultra-realistic monochrome graphite portrait illustration on textured dark gray 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/eb003b65-10e8-4983-aad6-fccdf246ccbc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/promptsref/status/2068363366830141591>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/eb003b65-10e8-4983-aad6-fccdf246ccbc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/promptsref/status/2068363366830141591>)
 
 ---
 
@@ -355,7 +355,7 @@ Transform the uploaded photo into a cute black-and-white hand-drawn chibi doodle
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/a6627d09-ef3c-4a17-8942-4a507c48c866?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Taaruk_/status/2069094152164536336>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a6627d09-ef3c-4a17-8942-4a507c48c866?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Taaruk_/status/2069094152164536336>)
 
 ---
 
@@ -376,7 +376,7 @@ An isometric 3D cube-shaped miniature room (shallow cutaway true cube; everythin
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/59c74422-3ddf-4036-b1c8-1d3207cfe7b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Arminn_Ai/status/2092263133754581491>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/59c74422-3ddf-4036-b1c8-1d3207cfe7b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Arminn_Ai/status/2092263133754581491>)
 
 ---
 
@@ -402,7 +402,7 @@ Himeno
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/6d967311-11f3-4d62-b877-180dcbf61222?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/livybabie/status/2067987861853405689>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/6d967311-11f3-4d62-b877-180dcbf61222?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/livybabie/status/2067987861853405689>)
 
 ---
 
@@ -429,7 +429,7 @@ Create a stylized gouache and marker illustration based on the following artisti
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/51209500-d9dd-4c54-aeb5-5a50643434eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Sairah_0/status/2067163760738148674>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/51209500-d9dd-4c54-aeb5-5a50643434eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Sairah_0/status/2067163760738148674>)
 
 ---
 
@@ -470,7 +470,7 @@ Create a stylized gouache and marker illustration based on the following artisti
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/26898e57-951d-496c-8ab1-02a1cdf214eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/TzqQaiser/status/2037339616702050720>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/26898e57-951d-496c-8ab1-02a1cdf214eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TzqQaiser/status/2037339616702050720>)
 
 ---
 
@@ -491,7 +491,7 @@ diorama --v 8.1 --ar 5:4
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/4b92697c-eb8f-4bfc-8596-693862db11a5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/tisch_eins/status/2068325501257605350>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4b92697c-eb8f-4bfc-8596-693862db11a5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/tisch_eins/status/2068325501257605350>)
 
 ---
 
@@ -530,7 +530,7 @@ diorama --v 8.1 --ar 5:4
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/499d9e0b-3aa6-4665-8147-28197e32de0a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/MrLarus/status/2069746084537110590>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/499d9e0b-3aa6-4665-8147-28197e32de0a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2069746084537110590>)
 
 ---
 
@@ -703,7 +703,7 @@ diorama --v 8.1 --ar 5:4
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/896dc6cc-ffc8-48ae-a0ec-be5654bc2b06?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/l_w_lorenzen/status/2064999630233116905>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/896dc6cc-ffc8-48ae-a0ec-be5654bc2b06?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/l_w_lorenzen/status/2064999630233116905>)
 
 ---
 
@@ -724,7 +724,7 @@ A handcrafted crochet doll of a [subject], made with soft yarn textures and intr
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/bc111e7d-3763-4ad0-8ea3-5578af86585c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/azed_ai/status/2067925399947067728>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bc111e7d-3763-4ad0-8ea3-5578af86585c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/azed_ai/status/2067925399947067728>)
 
 ---
 
@@ -754,7 +754,7 @@ No people, no labels, no extra text, no watermark.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b81b334a-d352-4b95-bd62-91ab7bd06ef3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/TechieBySA/status/2068010888838160815>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b81b334a-d352-4b95-bd62-91ab7bd06ef3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2068010888838160815>)
 
 ---
 
@@ -775,7 +775,7 @@ Please transform the entire image into a single Decorative Folk Flat Illustratio
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/bb8db6cf-d1e6-4a16-af5a-c558cb311175?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Ciri_ai/status/2067477780342931799>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bb8db6cf-d1e6-4a16-af5a-c558cb311175?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ciri_ai/status/2067477780342931799>)
 
 ---
 
@@ -799,7 +799,7 @@ Light textured warm ivory paper background with layered colorful pastel and wate
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/eb9d0136-043d-4eaa-a279-9e99786da449?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/HustleXR/status/2066805128749822125>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/eb9d0136-043d-4eaa-a279-9e99786da449?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2066805128749822125>)
 
 ---
 
@@ -820,7 +820,7 @@ A claymation-style [subject], sculpted with visible fingerprints, hand-painted i
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/d49ce9dd-77ad-4ace-b7aa-1cd2e4ec62eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/azed_ai/status/2068651171339022387>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d49ce9dd-77ad-4ace-b7aa-1cd2e4ec62eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/azed_ai/status/2068651171339022387>)
 
 ---
 
@@ -841,7 +841,7 @@ A vibrant watercolor painting of a beautiful, smiling young Asian woman standing
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/3c866235-8a58-48d2-bbd6-386cae29415d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Minahil42298354/status/2067534711358951548>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3c866235-8a58-48d2-bbd6-386cae29415d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Minahil42298354/status/2067534711358951548>)
 
 ---
 
@@ -871,7 +871,7 @@ Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.�
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/8d9a26e2-8ef5-43c6-9e2f-1ef031abb3c7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/TechieBySA/status/2091529289283866634>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8d9a26e2-8ef5-43c6-9e2f-1ef031abb3c7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2091529289283866634>)
 
 ---
 
@@ -892,7 +892,7 @@ Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.�
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/a8a9b365-b6fd-4c31-9bc4-1dbc72c24758?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/iamsofiaijaz/status/2067507517098516558>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a8a9b365-b6fd-4c31-9bc4-1dbc72c24758?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2067507517098516558>)
 
 ---
 
@@ -920,7 +920,7 @@ Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.�
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/78ccefa4-1c40-4d4c-8163-1b7f20e44855?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/TechieBySA/status/2091167214195847433>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/78ccefa4-1c40-4d4c-8163-1b7f20e44855?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2091167214195847433>)
 
 ---
 
@@ -943,6 +943,6 @@ Soft muted color palette combining dusty mauve, warm beige, muted sage green, pa
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b5ebb6c1-7361-4811-bff1-c7144d30467a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/SimplyAnnisa/status/2068359802208809395>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b5ebb6c1-7361-4811-bff1-c7144d30467a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/SimplyAnnisa/status/2068359802208809395>)
 
 ---

@@ -19,7 +19,7 @@ Ultra-realistic Gen Z-style selfie collage featuring three vertical smartphone f
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/7e79aeb5-1823-4b7f-b59a-22695d388b85?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/doctorwasif/status/2069058903493787767>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7e79aeb5-1823-4b7f-b59a-22695d388b85?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/doctorwasif/status/2069058903493787767>)
 
 ---
 
@@ -61,7 +61,7 @@ Final Quality: Ultra-realistic photography, highly detailed, authentic studio li
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e5d22928-180d-4709-903a-c538aa563042?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/GlenaJenne/status/2067558202015944944>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e5d22928-180d-4709-903a-c538aa563042?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlenaJenne/status/2067558202015944944>)
 
 ---
 
@@ -133,7 +133,7 @@ Grok Imagine
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/cbf91a1d-fbd7-41f1-a30d-cfd900bf933e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/milaraeai/status/2016563170140443085>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cbf91a1d-fbd7-41f1-a30d-cfd900bf933e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/milaraeai/status/2016563170140443085>)
 
 ---
 
@@ -176,7 +176,7 @@ Grok Imagine
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/8f24fd65-41cf-44c0-ba1f-49acf9ccc112?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/you1873118/status/2069077633409966448>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8f24fd65-41cf-44c0-ba1f-49acf9ccc112?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/you1873118/status/2069077633409966448>)
 
 ---
 
@@ -244,7 +244,7 @@ Grok Imagine
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/4b3d5a7d-b0a0-49df-afc3-ae2f334bfc1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/GlenaJenne/status/2067958057582416226>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4b3d5a7d-b0a0-49df-afc3-ae2f334bfc1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlenaJenne/status/2067958057582416226>)
 
 ---
 
@@ -265,7 +265,7 @@ Kodak 35mm black and white street portrait of Jennifer Lawrence wearing a big ov
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/8bdd9a47-32a3-4096-96d6-cfcfcf63f31d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/michaelrabone/status/2081424321621160149>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8bdd9a47-32a3-4096-96d6-cfcfcf63f31d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/michaelrabone/status/2081424321621160149>)
 
 ---
 
@@ -286,7 +286,7 @@ Ultra-realistic candid street portrait of a beautiful young woman with naturally
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/d3f6b406-8198-4410-9e13-b0593cb98ac7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/miratechtool/status/2062398444346438060>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d3f6b406-8198-4410-9e13-b0593cb98ac7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/miratechtool/status/2062398444346438060>)
 
 ---
 
@@ -310,7 +310,7 @@ The scene is captured with high-key flat beauty lighting, creating a bright, air
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/02f36522-0374-4157-9469-4e85030d6a17?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Giulia_4i/status/2067322796137496878>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/02f36522-0374-4157-9469-4e85030d6a17?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Giulia_4i/status/2067322796137496878>)
 
 ---
 
@@ -332,7 +332,7 @@ Cinematic moody female portrait at night, low-angle shot, confident expression, 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e2c58562-c7e0-4287-ac46-acb69bcc1278?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/iamsofiaijaz/status/2067578988202189188>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e2c58562-c7e0-4287-ac46-acb69bcc1278?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2067578988202189188>)
 
 ---
 
@@ -360,7 +360,7 @@ Luxury fashion magazine aesthetic, realistic editorial photography, Vogue-qualit
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/f606725d-5ba0-4fed-94fe-4f1fbc09b3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/simplyfutureai/status/2066480589809856717>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f606725d-5ba0-4fed-94fe-4f1fbc09b3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/simplyfutureai/status/2066480589809856717>)
 
 ---
 
@@ -381,7 +381,7 @@ Full-body studio commercial fashion and portrait photography of [NAME] with volu
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/a692f019-01c3-4cdc-a67f-6efe0b0b94e3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Giulia_4i/status/2066231330547880246>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a692f019-01c3-4cdc-a67f-6efe0b0b94e3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Giulia_4i/status/2066231330547880246>)
 
 ---
 
@@ -402,7 +402,7 @@ Stereoscopic photo of two different Korean women taken on Kodak Gold 35mm film, 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/ddb6653b-3060-4a75-8e0c-f0c35776b8d6?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/michaelrabone/status/2080201259508719945>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ddb6653b-3060-4a75-8e0c-f0c35776b8d6?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/michaelrabone/status/2080201259508719945>)
 
 ---
 
@@ -424,7 +424,7 @@ The first draft was much worse.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/ed512133-6052-4407-9de8-6d1216233cff?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Kunda623270/status/2065369500330127791>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ed512133-6052-4407-9de8-6d1216233cff?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Kunda623270/status/2065369500330127791>)
 
 ---
 
@@ -549,7 +549,7 @@ The first draft was much worse.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/81d75284-1e3f-4046-9903-a8d14c421b95?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/PinodiArt/status/2066896029518123397>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/81d75284-1e3f-4046-9903-a8d14c421b95?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2066896029518123397>)
 
 ---
 
@@ -570,7 +570,7 @@ The first draft was much worse.
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/95618fd3-8c1b-4184-a8e8-0349df2d04d5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/lloydcreates/status/2081142352958181611>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/95618fd3-8c1b-4184-a8e8-0349df2d04d5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/lloydcreates/status/2081142352958181611>)
 
 ---
 
@@ -591,7 +591,7 @@ Restore and enhance an old damaged photo. Remove scratches, stains, and noise. R
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/15b23340-a600-448f-96d0-caf96f6cb9b3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AiwithLariab/status/2075549421073469614>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/15b23340-a600-448f-96d0-caf96f6cb9b3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AiwithLariab/status/2075549421073469614>)
 
 ---
 
@@ -627,7 +627,7 @@ Quality: Ultra-realistic, highly detailed, authentic lighting, premium fashion s
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/28ee56f2-ec92-4ad0-abf0-59e133de12df?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/GlenaJenne/status/2067591562364858427>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/28ee56f2-ec92-4ad0-abf0-59e133de12df?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlenaJenne/status/2067591562364858427>)
 
 ---
 
@@ -648,7 +648,7 @@ warm sunlit film portrait, young woman sitting relaxed at a small café terrace 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/22e0adc7-adca-4b33-8d8d-c2f185c2aeeb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/AIwithSarah_/status/2077705170696446286>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/22e0adc7-adca-4b33-8d8d-c2f185c2aeeb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AIwithSarah_/status/2077705170696446286>)
 
 ---
 
@@ -696,7 +696,7 @@ AI skin, smooth skin, beauty filter, porcelain skin, wax figure skin, cartoon, C
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/8a0be4fe-a239-483a-ad62-b734c21cdadc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/GlenaJenne/status/2067532378696978780>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8a0be4fe-a239-483a-ad62-b734c21cdadc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlenaJenne/status/2067532378696978780>)
 
 ---
 
@@ -722,7 +722,7 @@ AI skin, smooth skin, beauty filter, porcelain skin, wax figure skin, cartoon, C
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/07f2330a-afc5-4d65-92f0-53b54cbb48d5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/zayleeai/status/2007096466205012438>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/07f2330a-afc5-4d65-92f0-53b54cbb48d5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/zayleeai/status/2007096466205012438>)
 
 ---
 
@@ -744,7 +744,7 @@ Photorealistic cinematic image of a sexy and cute korean idol with long black ha
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/c919a268-57ad-44c7-8129-8ea793016cb2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/BubbleBrain/status/2069338860786483350>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/c919a268-57ad-44c7-8129-8ea793016cb2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/BubbleBrain/status/2069338860786483350>)
 
 ---
 
@@ -788,7 +788,7 @@ Negative prompt: low resolution, blurry face, bad anatomy, extra fingers, deform
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e37b4c31-a40a-40df-acf4-07de78094665?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/JustBethanyai/status/2068467846540128384>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e37b4c31-a40a-40df-acf4-07de78094665?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/JustBethanyai/status/2068467846540128384>)
 
 ---
 
@@ -809,7 +809,7 @@ A woman, use reference image face and eye color, wearing a cropped red football 
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/efc14f80-69e4-48f6-8d9b-522521f38669?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/GlenaJenne/status/2067286936411341083>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/efc14f80-69e4-48f6-8d9b-522521f38669?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlenaJenne/status/2067286936411341083>)
 
 ---
 
@@ -830,7 +830,7 @@ Stereoscopic photo of two different elderly African men with big afro hair taken
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/2829d5f6-ad3f-4913-8b47-3f88d3fe5f79?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/michaelrabone/status/2080291851098079546>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2829d5f6-ad3f-4913-8b47-3f88d3fe5f79?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/michaelrabone/status/2080291851098079546>)
 
 ---
 
@@ -852,7 +852,7 @@ Vertical composition (4:5), subject centered slightly left of frame, side-facing
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/e7580322-aa94-4801-9438-0ca2f4d774f5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/oggii_0/status/2067091219084443919>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e7580322-aa94-4801-9438-0ca2f4d774f5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/oggii_0/status/2067091219084443919>)
 
 ---
 
@@ -893,7 +893,7 @@ Professional studio beauty photography, soft diffused key light with subtle beau
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/cd739115-9fa1-4583-8775-1c9e75be86d9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/simplyfutureai/status/2066122884859207815>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cd739115-9fa1-4583-8775-1c9e75be86d9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/simplyfutureai/status/2066122884859207815>)
 
 ---
 
@@ -915,7 +915,7 @@ Did you hit the gym this week? 👇🏻
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/9cfc38d2-bd43-481f-a380-c2cf6d3b09fe?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/DanjiTosaka/status/2078615474766508448>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9cfc38d2-bd43-481f-a380-c2cf6d3b09fe?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/DanjiTosaka/status/2078615474766508448>)
 
 ---
 
@@ -936,7 +936,7 @@ Hyper-realistic 8K close self-shot, young European woman, slightly low angle, ar
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/340dff89-b24f-4255-8ff4-69de29caeb2b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Stonic_AI/status/2069649170429075962>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/340dff89-b24f-4255-8ff4-69de29caeb2b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Stonic_AI/status/2069649170429075962>)
 
 ---
 
@@ -961,7 +961,7 @@ Texture: Including "detailed skin pores," "hyper-realistic," and "8k" is essenti
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/4e8f106a-f2df-4baa-912f-3535bb925895?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/Ozayrr_irl/status/2049715815910441053>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4e8f106a-f2df-4baa-912f-3535bb925895?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ozayrr_irl/status/2049715815910441053>)
 
 ---
 
@@ -1045,6 +1045,6 @@ Grok Imagine
 
 </details>
 
-[查看提示词并创作](<https://musesignal.com/zh/prompt/b89955c9-e8b3-4239-b626-760b55369907?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>) · [原帖](<https://x.com/milaraeai/status/2017652763698573409>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b89955c9-e8b3-4239-b626-760b55369907?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/milaraeai/status/2017652763698573409>)
 
 ---
