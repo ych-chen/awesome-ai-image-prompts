@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "template_version": 1,
+  "data_revision": "340b2493c3fa557468264ced50d4f44e6edfccb5e987302f3a578998c7ab0a3a",
+  "count": 300,
+  "categories": {
+    "character-art": 62,
+    "commercial-product": 51,
+    "food-drink": 22,
+    "portrait": 72,
+    "poster-graphic": 55,
+    "scene-space": 38
+  },
+  "models": {
+    "adobe-firefly": 1,
+    "gpt-image": 14,
+    "gpt-image-2": 118,
+    "grok": 16,
+    "ideogram": 1,
+    "leonardo": 1,
+    "midjourney": 29,
+    "nano-banana": 19,
+    "nano-banana-2": 36,
+    "nano-banana-pro": 52,
+    "unknown": 13
+  },
+  "families": {
+    "gpt-image": 132,
+    "nano-banana": 107,
+    "unknown": 61
+  },
+  "content_updated_at": "2026-09-18T08:42:21.703Z",
+  "selection": {
+    "limit": 300,
+    "source_imports": [
+      "twitter_scrape"
+    ],
+    "strategy": "persistent-category-family-balanced-cohort"
+  },
+  "dataset_file": "prompts.json",
+  "image_policy": "external-twitter-only-no-musesignal-cdn-fallback",
+  "repository": "ych-chen/awesome-ai-image-prompts",
+  "catalog_repository": "ych-chen/awesome-ai-image-prompts",
+  "family": null
+}

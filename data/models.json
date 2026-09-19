@@ -1,0 +1,57 @@
+[
+  {
+    "key": "adobe-firefly",
+    "name": "Adobe Firefly",
+    "count": 1
+  },
+  {
+    "key": "gpt-image",
+    "name": "GPT Image",
+    "count": 14
+  },
+  {
+    "key": "gpt-image-2",
+    "name": "GPT Image 2",
+    "count": 118
+  },
+  {
+    "key": "grok",
+    "name": "Grok",
+    "count": 16
+  },
+  {
+    "key": "ideogram",
+    "name": "Ideogram",
+    "count": 1
+  },
+  {
+    "key": "leonardo",
+    "name": "Leonardo",
+    "count": 1
+  },
+  {
+    "key": "midjourney",
+    "name": "Midjourney",
+    "count": 29
+  },
+  {
+    "key": "nano-banana",
+    "name": "Nano Banana",
+    "count": 19
+  },
+  {
+    "key": "nano-banana-2",
+    "name": "Nano Banana 2",
+    "count": 36
+  },
+  {
+    "key": "nano-banana-pro",
+    "name": "Nano Banana Pro",
+    "count": 52
+  },
+  {
+    "key": null,
+    "name": null,
+    "count": 13
+  }
+]
