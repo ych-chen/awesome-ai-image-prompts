@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **600** | **100** | 2026-09-19 |
+| **601** | **100** | 2026-09-23 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -30,7 +30,7 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 | --- | ---: | --- |
 | [Portrait](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 186 | [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
 | [Commercial &amp; Product](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 115 | [Browse on MuseSignal](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
-| [Poster &amp; Graphic](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 114 | [Browse on MuseSignal](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
+| [Poster &amp; Graphic](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 115 | [Browse on MuseSignal](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
 | [Food &amp; Drink](<https://musesignal.com/?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 22 | [Browse on MuseSignal](<https://musesignal.com/?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
 | [Character &amp; Art](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 119 | [Browse on MuseSignal](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
 | [Scene &amp; Space](<https://musesignal.com/?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) | 44 | [Browse on MuseSignal](<https://musesignal.com/?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) |
@@ -982,7 +982,7 @@ Luxury fashion magazine aesthetic, realistic editorial photography, Vogue-qualit
 
 <a id="selected-commercial-product"></a>
 
-### Commercial &amp; Product · 24
+### Commercial &amp; Product · 23
 
 [Browse on MuseSignal](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>)
 
@@ -1770,32 +1770,9 @@ End on a hero shot of the product with glowing healthy skin.
 
 ---
 
-<a id="prompt-a6de6841-2d3f-44ef-8b51-ac1591667e2c"></a>
-
-#### MIRA Brand Fashion Editorial with Cinematic Typography
-
-<a href="https://musesignal.com/prompt/a6de6841-2d3f-44ef-8b51-ac1591667e2c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKg3FTyXYAA1in8.jpg?format=jpg&amp;name=small" width="480" alt="MIRA Brand Fashion Editorial with Cinematic Typography" /></a>
-
-**GPT Image 2** · Creator: Mira
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Ultra-realistic fashion editorial poster of a beautiful young woman standing beside giant vertical 3D “MIRA” typography. She has natural olive skin, soft facial features, long dark brown wavy hair, no glasses, no makeup look, realistic lips, subtle skin texture, and calm confident eyes. Outfit: oversized premium black t-shirt with clean white “MIRA” logo printed on chest, relaxed black cargo joggers, white-red luxury sneakers. Pose is casual and cinematic — hands inside pockets, one leg crossed naturally, leaning slightly with relaxed posture. Background is a dark matte charcoal studio with soft gradient lighting and luxury minimal aesthetic. The huge “MIRA” text beside her should look ultra-premium: glossy white 3D typography with depth, shadows, bevel edges, soft reflections, modern futuristic branding style, vertically stacked in an artistic layout. Lighting should be soft cinematic studio lighting with subtle rim light around hair and shoulders, realistic shadows, depth, and contrast. Add slight ambient glow behind typography for luxury branding feel. Composition should feel like a premium Nike / Zara / Balenciaga campaign poster mixed with modern AI-fashion branding aesthetics. Style: hyper realistic, editorial photography, DSLR quality, luxury streetwear campaign, clean minimal design, elegant typography composition, natural beauty, no AI artifacts, no overprocessed skin, no exaggerated makeup, ultra detailed fabric texture, soft cinematic tones, 8k masterpiece, fashion magazine quality.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/a6de6841-2d3f-44ef-8b51-ac1591667e2c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/miratechtool/status/2064961134881313104>)
-
----
-
 <a id="selected-poster-graphic"></a>
 
-### Poster &amp; Graphic · 17
+### Poster &amp; Graphic · 18
 
 [Browse on MuseSignal](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>)
 
@@ -2817,6 +2794,63 @@ Use case: Poster &amp; Graphic
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/05b9c30f-1a16-4237-ac0f-fc0cbf3f6ec5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/xiaoxiaodong01/status/2065824593739444304>)
+
+---
+
+<a id="prompt-6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5"></a>
+
+#### Continuous Line-Art Travel Poster
+
+<a href="https://musesignal.com/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQjoPO0bEAAdsvC.jpg?format=jpg&amp;name=small" width="480" alt="Continuous Line-Art Travel Poster" /></a>
+
+**GPT Image 2** · Creator: Saul Goodman
+
+Use case: Poster &amp; Graphic
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a premium vertical aspect ratio 4:5 travel poster for [COUNTRY], illustrated as one elegant continuous hand-drawn line-art composition.
+
+Instead of placing landmarks separately, make them flow organically into one another, as if the entire country was drawn in a single uninterrupted travel sketch. Combine the country’s most recognizable architecture, landscapes, culture, food, transportation, nature, and tiny everyday details into one beautifully balanced scene.
+
+Use bold black ink outlines, delicate cross-hatching, playful imperfect hand-drawn details, subtle vintage-poster typography, and a mostly warm off-white paper background. Add only 2–3 signature accent colors inspired by the country.
+
+Include:
+
+One dominant iconic landmark
+
+A second architectural landmark subtly integrated into the skyline
+
+A famous natural landscape in the background
+
+Local transportation
+
+Traditional clothing or cultural detail
+
+A recognizable food or drink
+
+Small street-life moments
+
+Birds, clouds, plants and tiny decorative elements
+
+Handwritten labels pointing to selected elements
+
+At the top, use a large playful hand-lettered title:
+
+“[COUNTRY]”
+
+Below it, add a tiny elegant subtitle:
+
+“A little world to discover”
+
+Make the composition feel collected, whimsical, editorial, nostalgic and handcrafted, like a beautifully illustrated travel journal rather than a generic tourist poster. Avoid photorealism, gradients, 3D rendering and excessive colors. Clean white space around the illustration, highly detailed ink work, charming imperfections, premium stationery aesthetic, screen-print texture, sophisticated yet playful.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Goodmanprotocol/status/2092177406115348739>)
 
 ---
 
@@ -3978,7 +4012,7 @@ Explore more examples, search and filters on MuseSignal.
 | --- | ---: | --- |
 | Adobe Firefly | 1 | [Browse on MuseSignal](<https://musesignal.com/?model=adobe-firefly&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_adobe-firefly>) |
 | GPT Image | 44 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 322 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 323 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
 | Grok | 16 | [Browse on MuseSignal](<https://musesignal.com/?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
 | Ideogram | 1 | [Browse on MuseSignal](<https://musesignal.com/?model=ideogram&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_ideogram>) |
 | Leonardo | 2 | [Browse on MuseSignal](<https://musesignal.com/?model=leonardo&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_leonardo>) |
@@ -3990,6 +4024,7 @@ Explore more examples, search and filters on MuseSignal.
 
 ## Recently published
 
+- [Continuous Line-Art Travel Poster](<https://musesignal.com/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Candid Street Portrait in Natural Light](<https://musesignal.com/prompt/d3f6b406-8198-4410-9e13-b0593cb98ac7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Effortless Street-Style Elegance in Summer Sun](<https://musesignal.com/prompt/f606725d-5ba0-4fed-94fe-4f1fbc09b3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [MOVE DIFFERENT: New Balance 9060 Luxury Campaign](<https://musesignal.com/prompt/30231560-9dab-4296-b2f2-ce59c3297517?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
@@ -3997,7 +4032,6 @@ Explore more examples, search and filters on MuseSignal.
 - [Gourmet Burger and Crispy Fries on a Wooden Tray](<https://musesignal.com/prompt/16e850aa-77a2-4afb-82fd-207fcff2478e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Midnight Aurora: Luxury Perfume in Arctic Night](<https://musesignal.com/prompt/4fbd933d-e500-482b-bb9b-d1382412573d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Nano Banana Pro Mysterious Cinematic Reveal](<https://musesignal.com/prompt/21837dc1-2c06-4c26-8dea-a0a20e70fef2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
-- [Lovart Soda Can Ultra-Realistic Render](<https://musesignal.com/prompt/9862a193-702b-4066-8017-0f0c2df4a27b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
 
 ## Generate on MuseSignal
 
@@ -4018,7 +4052,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 600](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 601](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

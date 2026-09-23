@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **600** | **100** | 2026-09-19 |
+| **601** | **100** | 2026-09-23 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -30,7 +30,7 @@
 | --- | ---: | --- |
 | [人像摄影](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 186 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
 | [商业产品](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 115 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
-| [海报设计](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 114 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
+| [海报设计](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 115 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
 | [食物饮品](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 22 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
 | [角色艺术](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 119 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
 | [场景空间](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) | 44 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) |
@@ -982,7 +982,7 @@ Luxury fashion magazine aesthetic, realistic editorial photography, Vogue-qualit
 
 <a id="selected-commercial-product"></a>
 
-### 商业产品 · 24
+### 商业产品 · 23
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>)
 
@@ -1770,32 +1770,9 @@ End on a hero shot of the product with glowing healthy skin.
 
 ---
 
-<a id="prompt-a6de6841-2d3f-44ef-8b51-ac1591667e2c"></a>
-
-#### MIRA Brand Fashion Editorial with Cinematic Typography
-
-<a href="https://musesignal.com/zh/prompt/a6de6841-2d3f-44ef-8b51-ac1591667e2c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKg3FTyXYAA1in8.jpg?format=jpg&amp;name=small" width="480" alt="MIRA Brand Fashion Editorial with Cinematic Typography" /></a>
-
-**GPT Image 2** · 原作者: Mira
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Ultra-realistic fashion editorial poster of a beautiful young woman standing beside giant vertical 3D “MIRA” typography. She has natural olive skin, soft facial features, long dark brown wavy hair, no glasses, no makeup look, realistic lips, subtle skin texture, and calm confident eyes. Outfit: oversized premium black t-shirt with clean white “MIRA” logo printed on chest, relaxed black cargo joggers, white-red luxury sneakers. Pose is casual and cinematic — hands inside pockets, one leg crossed naturally, leaning slightly with relaxed posture. Background is a dark matte charcoal studio with soft gradient lighting and luxury minimal aesthetic. The huge “MIRA” text beside her should look ultra-premium: glossy white 3D typography with depth, shadows, bevel edges, soft reflections, modern futuristic branding style, vertically stacked in an artistic layout. Lighting should be soft cinematic studio lighting with subtle rim light around hair and shoulders, realistic shadows, depth, and contrast. Add slight ambient glow behind typography for luxury branding feel. Composition should feel like a premium Nike / Zara / Balenciaga campaign poster mixed with modern AI-fashion branding aesthetics. Style: hyper realistic, editorial photography, DSLR quality, luxury streetwear campaign, clean minimal design, elegant typography composition, natural beauty, no AI artifacts, no overprocessed skin, no exaggerated makeup, ultra detailed fabric texture, soft cinematic tones, 8k masterpiece, fashion magazine quality.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a6de6841-2d3f-44ef-8b51-ac1591667e2c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/miratechtool/status/2064961134881313104>)
-
----
-
 <a id="selected-poster-graphic"></a>
 
-### 海报设计 · 17
+### 海报设计 · 18
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>)
 
@@ -2817,6 +2794,63 @@ Lighting & Aesthetic: Cinematic editorial style, sharp focus on the woman, high-
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/05b9c30f-1a16-4237-ac0f-fc0cbf3f6ec5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/xiaoxiaodong01/status/2065824593739444304>)
+
+---
+
+<a id="prompt-6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5"></a>
+
+#### Continuous Line-Art Travel Poster
+
+<a href="https://musesignal.com/zh/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQjoPO0bEAAdsvC.jpg?format=jpg&amp;name=small" width="480" alt="Continuous Line-Art Travel Poster" /></a>
+
+**GPT Image 2** · 原作者: Saul Goodman
+
+创作场景: 海报设计
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a premium vertical aspect ratio 4:5 travel poster for [COUNTRY], illustrated as one elegant continuous hand-drawn line-art composition.
+
+Instead of placing landmarks separately, make them flow organically into one another, as if the entire country was drawn in a single uninterrupted travel sketch. Combine the country’s most recognizable architecture, landscapes, culture, food, transportation, nature, and tiny everyday details into one beautifully balanced scene.
+
+Use bold black ink outlines, delicate cross-hatching, playful imperfect hand-drawn details, subtle vintage-poster typography, and a mostly warm off-white paper background. Add only 2–3 signature accent colors inspired by the country.
+
+Include:
+
+One dominant iconic landmark
+
+A second architectural landmark subtly integrated into the skyline
+
+A famous natural landscape in the background
+
+Local transportation
+
+Traditional clothing or cultural detail
+
+A recognizable food or drink
+
+Small street-life moments
+
+Birds, clouds, plants and tiny decorative elements
+
+Handwritten labels pointing to selected elements
+
+At the top, use a large playful hand-lettered title:
+
+“[COUNTRY]”
+
+Below it, add a tiny elegant subtitle:
+
+“A little world to discover”
+
+Make the composition feel collected, whimsical, editorial, nostalgic and handcrafted, like a beautifully illustrated travel journal rather than a generic tourist poster. Avoid photorealism, gradients, 3D rendering and excessive colors. Clean white space around the illustration, highly detailed ink work, charming imperfections, premium stationery aesthetic, screen-print texture, sophisticated yet playful.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Goodmanprotocol/status/2092177406115348739>)
 
 ---
 
@@ -3978,7 +4012,7 @@ You Can Try It Here:
 | --- | ---: | --- |
 | Adobe Firefly | 1 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=adobe-firefly&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_adobe-firefly>) |
 | GPT Image | 44 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 322 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 323 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
 | Grok | 16 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
 | Ideogram | 1 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=ideogram&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_ideogram>) |
 | Leonardo | 2 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=leonardo&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_leonardo>) |
@@ -3990,6 +4024,7 @@ You Can Try It Here:
 
 ## 最近发布
 
+- [Continuous Line-Art Travel Poster](<https://musesignal.com/zh/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Candid Street Portrait in Natural Light](<https://musesignal.com/zh/prompt/d3f6b406-8198-4410-9e13-b0593cb98ac7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Effortless Street-Style Elegance in Summer Sun](<https://musesignal.com/zh/prompt/f606725d-5ba0-4fed-94fe-4f1fbc09b3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [MOVE DIFFERENT: New Balance 9060 Luxury Campaign](<https://musesignal.com/zh/prompt/30231560-9dab-4296-b2f2-ce59c3297517?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
@@ -3997,7 +4032,6 @@ You Can Try It Here:
 - [Gourmet Burger and Crispy Fries on a Wooden Tray](<https://musesignal.com/zh/prompt/16e850aa-77a2-4afb-82fd-207fcff2478e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Midnight Aurora: Luxury Perfume in Arctic Night](<https://musesignal.com/zh/prompt/4fbd933d-e500-482b-bb9b-d1382412573d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Nano Banana Pro Mysterious Cinematic Reveal](<https://musesignal.com/zh/prompt/21837dc1-2c06-4c26-8dea-a0a20e70fef2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
-- [Lovart Soda Can Ultra-Realistic Render](<https://musesignal.com/zh/prompt/9862a193-702b-4066-8017-0f0c2df4a27b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
 
 ## 在 MuseSignal 生成
 
@@ -4018,7 +4052,7 @@ You Can Try It Here:
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 600](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 601](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json
