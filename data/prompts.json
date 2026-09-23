@@ -10897,6 +10897,33 @@
     "content_hash": "96f2765497a8fd9f0e6df046bbd5bc0774cdfd7ffcd9674f5cd78b516d92d086"
   },
   {
+    "id": "a7824a69-5ba5-41eb-a572-89dfcb1c4a9c",
+    "title": "Ultra-Realistic Soda Can Streetwear Ad Poster",
+    "prompt": "Ultra-realistic commercial beverage advertisement poster, low-angle wide lens perspective, confident young female model holding an oversized soda can toward the camera, can dominating foreground with dramatic forced perspective, urban streetwear fashion, black cap, hoop earrings, layered silver chains, cropped white tank top, glossy bomber jacket matching product color, edgy Gen-Z energy. High-detail aluminum can with water droplets, premium packaging design, vibrant branding typography, graffiti-inspired graphics, hand-drawn doodles, paint splashes, brush strokes, torn paper textures, halftone dots, arrows, stars, lightning bolts, stickers, barcode elements, collage aesthetic.\n\nBackground filled with dynamic paint splashes and street-art textures in matching brand colors. Bold hand-painted headline typography, energetic promotional slogans, flavor callouts, lifestyle marketing phrases, magazine-quality layout, modern energy drink campaign, high contrast lighting, sharp focus, commercial product photography, fashion editorial styling, premium advertising design, vibrant colors, photorealistic skin texture, depth of field, highly detailed, 8k, professional branding mockup.",
+    "category": "commercial-product",
+    "model_key": "gpt-image",
+    "model_name": "GPT Image",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Eesha",
+      "handle": "MissDelulu9"
+    },
+    "source_platform": "X",
+    "source_id": "2065596558444478893",
+    "source_url": "https://x.com/MissDelulu9/status/2065596558444478893",
+    "images": [
+      "https://pbs.twimg.com/media/HKp5CKmaYAATtdf.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HKp5Df5bUAAdwsR.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c",
+    "published_at": "2026-09-23T11:45:14.841748+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "91dcd95076f06cd7caadd71ff7dbf259f6b05201ab76bdecc255a826e06ae784"
+  },
+  {
     "id": "a8167a15-83b4-48c2-918c-a6c2514fd483",
     "title": "Morning Coffee with a Retro Sci-Fi Diorama",
     "prompt": "sunlit breakfast table with a small original retro sci-fi planet diorama, coffee, notebook, tiny plastic rocks, crystal swamp plants, cardboard backdrop, soft Friday morning light, handcrafted toy playset feeling, calm creative workspace, premium lifestyle photography --v 8.1 --ar 5:4",
@@ -12422,6 +12449,34 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "ba0d4ddc1f33f46aef6e0e91227cd5abb64dc79b87c38032626e30bf52f958e5"
+  },
+  {
+    "id": "c303c6b7-29d4-4aa9-99cc-08dff0f6fec1",
+    "title": "Elizabeth Olsen Kitchen Countertop Lifestyle Portrait",
+    "prompt": "{\n\"subject\": {\n\"identity\": {\n\"biometric_reference\": \"Elizabeth Olsen\",\n\"facial_matrix\": {\n\"morphology\": \"Natural gentle soft-square facial architecture, welcoming cheekbone definition, warm symmetric skeletal balance.\",\n\"ocular_biometrics\": {\n\"iris_color\": \"#768A72\",\n\"iris_pattern\": \"Luminous green-hazel iris layout, expressive natural sclera contrast, warm intelligent gaze directed slightly upward and away from the camera lens axis with a dreamy, soft smile.\",\n\"superciliary_arch\": \"Softly tailored, elegantly defined natural light brown eyebrows.\"\n},\n\"maxillofacial_data\": {\n\"vermilion_border\": {\n\"hex_code\": \"#DDA29A\",\n\"anatomy\": \"Naturally structured full lips, gentle natural Cupid's bow perimeter, mouth slightly upturned at the corners forming a pleasant, relaxed expression.\"\n}\n}\n},\n\"body\": {\n\"stature\": \"Standard elegant height proportions, natural lean athletic skeleton frame, precisely capturing the fluid body lines.\",\n\"kinesiology_pose\": \"Casual seated posture on a kitchen countertop. The model is sitting perched on the polished edge of the dark counter surface next to the stove area, her back leaning subtly back against the tiled wall backdrop. Her legs are bare and crossed elegantly at the thighs, dangling freely down past the drawer units towards the floor plane, emphasizing the length of the legs and completely bare feet. Her left hand rests casually over her lap layer, while her right arm is bent gracefully at the elbow, elevating her hand near chest level as she holds a single small red cherry between her fingers. Her head is tilted slightly with a pensive, cheerful look.\",\n\"epidermal_physics\": {\n\"base_tone\": \"#FDF6EE\",\n\"surface_properties\": \"Fair alabaster porcelain skin tone, soft natural specular highlight mapping along the exposed shoulders, collarbones, and the full bare surface of her extended legs and feet, isotropic sub-surface scattering, fine micro-pore distribution mapping.\"\n},\n\"integumentary_profile\": {\n\"hair_matrix\": {\n\"color_coordinates\": \"#A07855\",\n\"geometry\": \"Natural warm light brown to golden bronde hair styled long and straight, left down to tumble naturally past her shoulders and back, framing her face softly, replacing the hair style.\"\n}\n},\n\"accessories\": {\n\"neckwear\": \"A subtle, thin artistic beaded necklace featuring small multi-colored accent beads resting loosely around her neck base, adding a delicate lifestyle detail.\",\n\"jewelry\": \"A minimal delicate band ring on her right hand digit.\"\n}\n}\n},\n\"wardrobe\": {\n\"full_layer\": {\n\"item\": \"Light summer slip sundress\",\n\"color_profile\": \"Crisp solid white\",\n\"material_physics\": \"Lightweight, semi-sheer soft cotton or linen fabrication. The top features delicate thin tie-up spaghetti shoulder straps, a soft sweetheart bustline embellished with fine white lace trimmings, and a small keyhole drawstring tie at the center chest. The fluid dress skirt gathers softly at her hips, pooling gently around her on the countertop surface and uncovering her legs cleanly.\",\n\"design_elements\": \"Relaxed bohemian styling, form-fitting bodice with a light flowing airy drape.\"\n},\n\"footwear\": {\n\"item\": \"None\",\n\"color_profile\": \"Not applicable\",\n\"material_physics\": \"Completely bare feet, clean soles and detailed toes extended elegantly in mid-air, with no shoes, slippers, or socks.\"\n}\n}\n},\n\"scene\": {\n\"configuration\": \"Bright rustic rustic-modern home kitchen interior setting during midday.\",\n\"background_architecture\": {\n\"cabinetry\": \"Classic warm honey-oak wooden under-counter kitchen cabinets featuring a row of vertical drawers equipped with decorative blue-and-white patterned ceramic pull knobs.\",\n\"countertop_and_appliances\": \"Polished dark reddish-brown granite or stone countertop surface supporting a modern built-in glass cooktop stove with a metallic tea kettle resting over the burner grates. Below the cooktop is an integrated stainless steel oven unit with black glass window panels.\",\n\"wall_and_fixtures\": \"The backsplash wall is surfaced in glossy square off-white ceramic kitchen tiles divided by a singular horizontal blue trim tile lane running across the center. Above the cooking area sits a large minimalist white pyramidal ventilation range hood fixture. Faint decorative items like small glass spice jars sit atop the ledge.\",\n\"sink_area\": \"To the left side frame, a white drop-in basin kitchen sink area is visible, holding a yellow mesh grocery bag filled with fresh fruits like pears and citrus fruits arranged nearby.\"\n},\n\"aesthetic_profile\": \"High-resolution clean daytime lifestyle editorial photography, bright home interior aesthetic, natural organic composition, completely text-free.\",\n\"text_and_logos\": {\n\"constraints\": \"Completely clean kitchen workspace layout; zero commercial brand logos on appliances, zero typographic labels on food packaging materials, and zero digital watermarks.\"\n}\n},\n\"lighting\": {\n\"source_profile\": \"Diffuse omnidirectional daytime window illumination flooding the room evenly.\",\n\"ray_tracing_properties\": \"High-key, bright and soft light distribution minimizing harsh highlights, creating clean clarity across the white walls, tile surfaces, and skin tones while casting soft, faint gradient drop shadows beneath the counter lip, legs, and cabinet molding panels.\",\n\"visibility_constraints\": \"No visible studio light fixtures, no direct harsh flash artifacts, and no electronic hardware in the composition frame.\"\n},\n\"camera\": {\n\"projection_type\": \"Straight-on eye-level medium-full vertical portrait shot, framing the entire lower cabinet layout up to the white ceiling plane to emphasize the vertical lines and scale of the posture.\",\n\"optical_profile\": \"35mm standard lens simulation, aperture setting at f/2.8 to maintain high edge-to-edge structural sharpness across the model and kitchen elements while keeping a natural depth of field.\",\n\"aspect_ratio\": \"9:16\"\n},\n\"negative_constraints\": {\n\"prohibited_elements\": [\n\"shoes\", \"sandals\", \"slippers\", \"socks\", \"hosiery\", \"stockings\", \"dark-hair\", \"black-hair\",\n\"text-elements\", \"typographic-characters\", \"brand-insignias\", \"trademark-logos\",\n\"watermark-overlays\", \"polydactyly-digits\", \"anatomical-fusions\", \"asymmetrical-limbs\",\n\"low-frequency-blurring\", \"digital-artifacting\", \"pixelation\", \"non-biometric-smoothing\",\n\"extra limbs\", \"no logos\", \"no text\", \"harsh-shadows\"\n]\n}\n}",
+    "category": "portrait",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Pinodi",
+      "handle": "PinodiArt"
+    },
+    "source_platform": "X",
+    "source_id": "2069020183935512744",
+    "source_url": "https://x.com/PinodiArt/status/2069020183935512744",
+    "images": [
+      "https://pbs.twimg.com/media/HLailPsXUAAuztp.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLaimsoXgAABOgb.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLaioWmX0AAYmEG.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/c303c6b7-29d4-4aa9-99cc-08dff0f6fec1",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/c303c6b7-29d4-4aa9-99cc-08dff0f6fec1",
+    "published_at": "2026-09-23T11:45:19.029843+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "5f2c83b1d9901896311c75d8fbce6e227c80f1fd0bc0c116417d55da49056f2a"
   },
   {
     "id": "c3eb6a1f-e9cf-4b71-bd3b-c67a806157bd",

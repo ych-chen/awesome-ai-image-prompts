@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **601** | **100** | 2026-09-23 |
+| **603** | **100** | 2026-09-23 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,8 +28,8 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| [Portrait](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 186 | [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
-| [Commercial &amp; Product](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 115 | [Browse on MuseSignal](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
+| [Portrait](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 187 | [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
+| [Commercial &amp; Product](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 116 | [Browse on MuseSignal](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
 | [Poster &amp; Graphic](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 115 | [Browse on MuseSignal](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
 | [Food &amp; Drink](<https://musesignal.com/?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 22 | [Browse on MuseSignal](<https://musesignal.com/?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
 | [Character &amp; Art](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 119 | [Browse on MuseSignal](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
@@ -45,7 +45,7 @@ Expand Full prompt to copy the original text. Try on MuseSignal opens the case; 
 
 <a id="selected-portrait"></a>
 
-### Portrait · 17
+### Portrait · 18
 
 [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>)
 
@@ -927,6 +927,112 @@ Use case: Portrait
 
 ---
 
+<a id="prompt-c303c6b7-29d4-4aa9-99cc-08dff0f6fec1"></a>
+
+#### Elizabeth Olsen Kitchen Countertop Lifestyle Portrait
+
+<a href="https://musesignal.com/prompt/c303c6b7-29d4-4aa9-99cc-08dff0f6fec1?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLailPsXUAAuztp.jpg?format=jpg&amp;name=small" width="480" alt="Elizabeth Olsen Kitchen Countertop Lifestyle Portrait" /></a>
+
+**Nano Banana 2** · Creator: Pinodi
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+{
+"subject": {
+"identity": {
+"biometric_reference": "Elizabeth Olsen",
+"facial_matrix": {
+"morphology": "Natural gentle soft-square facial architecture, welcoming cheekbone definition, warm symmetric skeletal balance.",
+"ocular_biometrics": {
+"iris_color": "#768A72",
+"iris_pattern": "Luminous green-hazel iris layout, expressive natural sclera contrast, warm intelligent gaze directed slightly upward and away from the camera lens axis with a dreamy, soft smile.",
+"superciliary_arch": "Softly tailored, elegantly defined natural light brown eyebrows."
+},
+"maxillofacial_data": {
+"vermilion_border": {
+"hex_code": "#DDA29A",
+"anatomy": "Naturally structured full lips, gentle natural Cupid's bow perimeter, mouth slightly upturned at the corners forming a pleasant, relaxed expression."
+}
+}
+},
+"body": {
+"stature": "Standard elegant height proportions, natural lean athletic skeleton frame, precisely capturing the fluid body lines.",
+"kinesiology_pose": "Casual seated posture on a kitchen countertop. The model is sitting perched on the polished edge of the dark counter surface next to the stove area, her back leaning subtly back against the tiled wall backdrop. Her legs are bare and crossed elegantly at the thighs, dangling freely down past the drawer units towards the floor plane, emphasizing the length of the legs and completely bare feet. Her left hand rests casually over her lap layer, while her right arm is bent gracefully at the elbow, elevating her hand near chest level as she holds a single small red cherry between her fingers. Her head is tilted slightly with a pensive, cheerful look.",
+"epidermal_physics": {
+"base_tone": "#FDF6EE",
+"surface_properties": "Fair alabaster porcelain skin tone, soft natural specular highlight mapping along the exposed shoulders, collarbones, and the full bare surface of her extended legs and feet, isotropic sub-surface scattering, fine micro-pore distribution mapping."
+},
+"integumentary_profile": {
+"hair_matrix": {
+"color_coordinates": "#A07855",
+"geometry": "Natural warm light brown to golden bronde hair styled long and straight, left down to tumble naturally past her shoulders and back, framing her face softly, replacing the hair style."
+}
+},
+"accessories": {
+"neckwear": "A subtle, thin artistic beaded necklace featuring small multi-colored accent beads resting loosely around her neck base, adding a delicate lifestyle detail.",
+"jewelry": "A minimal delicate band ring on her right hand digit."
+}
+}
+},
+"wardrobe": {
+"full_layer": {
+"item": "Light summer slip sundress",
+"color_profile": "Crisp solid white",
+"material_physics": "Lightweight, semi-sheer soft cotton or linen fabrication. The top features delicate thin tie-up spaghetti shoulder straps, a soft sweetheart bustline embellished with fine white lace trimmings, and a small keyhole drawstring tie at the center chest. The fluid dress skirt gathers softly at her hips, pooling gently around her on the countertop surface and uncovering her legs cleanly.",
+"design_elements": "Relaxed bohemian styling, form-fitting bodice with a light flowing airy drape."
+},
+"footwear": {
+"item": "None",
+"color_profile": "Not applicable",
+"material_physics": "Completely bare feet, clean soles and detailed toes extended elegantly in mid-air, with no shoes, slippers, or socks."
+}
+}
+},
+"scene": {
+"configuration": "Bright rustic rustic-modern home kitchen interior setting during midday.",
+"background_architecture": {
+"cabinetry": "Classic warm honey-oak wooden under-counter kitchen cabinets featuring a row of vertical drawers equipped with decorative blue-and-white patterned ceramic pull knobs.",
+"countertop_and_appliances": "Polished dark reddish-brown granite or stone countertop surface supporting a modern built-in glass cooktop stove with a metallic tea kettle resting over the burner grates. Below the cooktop is an integrated stainless steel oven unit with black glass window panels.",
+"wall_and_fixtures": "The backsplash wall is surfaced in glossy square off-white ceramic kitchen tiles divided by a singular horizontal blue trim tile lane running across the center. Above the cooking area sits a large minimalist white pyramidal ventilation range hood fixture. Faint decorative items like small glass spice jars sit atop the ledge.",
+"sink_area": "To the left side frame, a white drop-in basin kitchen sink area is visible, holding a yellow mesh grocery bag filled with fresh fruits like pears and citrus fruits arranged nearby."
+},
+"aesthetic_profile": "High-resolution clean daytime lifestyle editorial photography, bright home interior aesthetic, natural organic composition, completely text-free.",
+"text_and_logos": {
+"constraints": "Completely clean kitchen workspace layout; zero commercial brand logos on appliances, zero typographic labels on food packaging materials, and zero digital watermarks."
+}
+},
+"lighting": {
+"source_profile": "Diffuse omnidirectional daytime window illumination flooding the room evenly.",
+"ray_tracing_properties": "High-key, bright and soft light distribution minimizing harsh highlights, creating clean clarity across the white walls, tile surfaces, and skin tones while casting soft, faint gradient drop shadows beneath the counter lip, legs, and cabinet molding panels.",
+"visibility_constraints": "No visible studio light fixtures, no direct harsh flash artifacts, and no electronic hardware in the composition frame."
+},
+"camera": {
+"projection_type": "Straight-on eye-level medium-full vertical portrait shot, framing the entire lower cabinet layout up to the white ceiling plane to emphasize the vertical lines and scale of the posture.",
+"optical_profile": "35mm standard lens simulation, aperture setting at f/2.8 to maintain high edge-to-edge structural sharpness across the model and kitchen elements while keeping a natural depth of field.",
+"aspect_ratio": "9:16"
+},
+"negative_constraints": {
+"prohibited_elements": [
+"shoes", "sandals", "slippers", "socks", "hosiery", "stockings", "dark-hair", "black-hair",
+"text-elements", "typographic-characters", "brand-insignias", "trademark-logos",
+"watermark-overlays", "polydactyly-digits", "anatomical-fusions", "asymmetrical-limbs",
+"low-frequency-blurring", "digital-artifacting", "pixelation", "non-biometric-smoothing",
+"extra limbs", "no logos", "no text", "harsh-shadows"
+]
+}
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/c303c6b7-29d4-4aa9-99cc-08dff0f6fec1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/PinodiArt/status/2069020183935512744>)
+
+---
+
 <a id="prompt-d3f6b406-8198-4410-9e13-b0593cb98ac7"></a>
 
 #### Candid Street Portrait in Natural Light
@@ -1445,6 +1551,31 @@ Midjourney + NanoBanana + Ps
 
 ---
 
+<a id="prompt-a7824a69-5ba5-41eb-a572-89dfcb1c4a9c"></a>
+
+#### Ultra-Realistic Soda Can Streetwear Ad Poster
+
+<a href="https://musesignal.com/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKp5CKmaYAATtdf.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Soda Can Streetwear Ad Poster" /></a>
+
+**GPT Image** · Creator: Eesha
+
+Use case: Commercial &amp; Product
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic commercial beverage advertisement poster, low-angle wide lens perspective, confident young female model holding an oversized soda can toward the camera, can dominating foreground with dramatic forced perspective, urban streetwear fashion, black cap, hoop earrings, layered silver chains, cropped white tank top, glossy bomber jacket matching product color, edgy Gen-Z energy. High-detail aluminum can with water droplets, premium packaging design, vibrant branding typography, graffiti-inspired graphics, hand-drawn doodles, paint splashes, brush strokes, torn paper textures, halftone dots, arrows, stars, lightning bolts, stickers, barcode elements, collage aesthetic.
+
+Background filled with dynamic paint splashes and street-art textures in matching brand colors. Bold hand-painted headline typography, energetic promotional slogans, flavor callouts, lifestyle marketing phrases, magazine-quality layout, modern energy drink campaign, high contrast lighting, sharp focus, commercial product photography, fashion editorial styling, premium advertising design, vibrant colors, photorealistic skin texture, depth of field, highly detailed, 8k, professional branding mockup.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/MissDelulu9/status/2065596558444478893>)
+
+---
+
 <a id="prompt-4fbd933d-e500-482b-bb9b-d1382412573d"></a>
 
 #### Midnight Aurora: Luxury Perfume in Arctic Night
@@ -1714,59 +1845,6 @@ Shot on Sony A7R IV, [LENS TYPE] lens, shallow depth of field, luxury magazine a
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/505f9ae0-e78f-4367-b44b-1667347901b1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/sha_zdiii/status/2056942927797276971>)
-
----
-
-<a id="prompt-2e18beeb-3626-4f6d-a266-ff8eb14e55e4"></a>
-
-#### Glycolic Acid Serum Storyboard in Cinematic Layout
-
-<a href="https://musesignal.com/prompt/2e18beeb-3626-4f6d-a266-ff8eb14e55e4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HHJHJGqa4AAx2vG.jpg?format=jpg&amp;name=small" width="480" alt="Glycolic Acid Serum Storyboard in Cinematic Layout" /></a>
-
-**GPT Image 2** · Creator: ⁠ luciaAI
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-A cinematic luxury skincare advertising storyboard infographic for a glycolic acid exfoliating serum.
-Layout: 16 panels arranged in a clean 4x4 grid, each panel showing a progressive skincare routine and transformation sequence.
-Subject: A modern young woman with clear glowing skin, natural makeup, soft minimal beauty aesthetic, holding and using a premium glass dropper bottle of glycolic acid serum.
-Style: high-end skincare advertisement storyboard, ultra clean dermatology aesthetic, soft cinematic lighting, white marble and pastel background tones, premium editorial beauty photography style, realistic illustration with subtle glow and smooth skin refinement effects.
-Sequence (visual progression across panels):
-1. luxury serum bottle hero shot on marble surface
-2. close-up of glass bottle and label
-3. dropper extracting serum
-4. serum applied to fingertip
-5. gentle application on face
-6. absorption into skin close-up
-7. skin texture smoothing effect
-8. subtle before-after transition hint
-9. radiant glow beginning to appear
-10. skincare routine mirror scene
-11. dermatologist clean aesthetic vibe
-12. hydration and clarity improvement focus
-13. close-up glowing healthy skin portrait
-14. sunlight reflecting on smooth skin
-15. premium product beauty shot with glow
-16. final hero frame: serum bottle + glowing skin model
-Design: clean grid separation, minimal elegant numbering 1–16, thin lines between panels, soft arrows indicating progression flow, refined editorial layout, balanced composition.
-Title at top: “GLYCOLIC ACID – 16 STEP SKIN TRANSFORMATION”
-Negative prompt: blurry, messy layout, low quality, distorted face, acne exaggeration, watermark, oversaturated colors, broken text, unrealistic anatomy, cluttered design
-📌 Motion prompt: A smooth cinematic skincare commercial animation.
-Gently transition through the 16-panel storyboard in sequence, as if the camera is moving across each frame.
-Soft zoom-ins on key moments like serum drop, application on skin, and glowing skin results.
-Maintain a clean luxury beauty aesthetic with soft lighting, white marble tones, and elegant motion flow.
-Subtle camera pans, slow transitions, and minimal motion blur.
-Focus on premium skincare advertisement feel with calm, soothing progression and radiant skin glow effects.
-End on a hero shot of the product with glowing healthy skin.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/2e18beeb-3626-4f6d-a266-ff8eb14e55e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/luciaverseai/status/2049780308040663295>)
 
 ---
 
@@ -3241,7 +3319,7 @@ A premium golden toffee suspended in mid air above a mirror polished black surfa
 
 <a id="selected-character-art"></a>
 
-### Character &amp; Art · 16
+### Character &amp; Art · 15
 
 [Browse on MuseSignal](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>)
 
@@ -3615,35 +3693,6 @@ it's gonna take a while to get used to midjourney v8.2, but so far so good
 
 ---
 
-<a id="prompt-eb003b65-10e8-4983-aad6-fccdf246ccbc"></a>
-
-#### Anime Girl with Sword in Fisheye Perspective
-
-<a href="https://musesignal.com/prompt/eb003b65-10e8-4983-aad6-fccdf246ccbc?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLRNhSKXwAAnB-1.jpg?format=jpg&amp;name=small" width="480" alt="Anime Girl with Sword in Fisheye Perspective" /></a>
-
-**Midjourney** · Creator: Midjourney Sref and prompt Library
-
-Use case: Character &amp; Art
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-**
-> *An anime girl looking down at the camera, fisheye lens effect, extreme perspective, holding a sword, watercolor texture, detailed ink lines, dynamic pose, vibrant colors --sref [Code] --v 6.0*
-💡 **Tip**: Want to get this SREF code and more exclusive spells for precise perspective control? **Upgrade to website membership to unlock all prompts**, letting your creative inspiration run free and easily creating master-level works.
-🎨 Want to know how I use this sref? Check out the specific prompts on our website!
-💎 website:
-📩 Weekly newsletter:
-🔊 Join our Discord:
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/eb003b65-10e8-4983-aad6-fccdf246ccbc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/promptsref/status/2068363366830141591>)
-
----
-
 <a id="selected-scene-space"></a>
 
 ### Scene &amp; Space · 13
@@ -4011,27 +4060,27 @@ Explore more examples, search and filters on MuseSignal.
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
 | Adobe Firefly | 1 | [Browse on MuseSignal](<https://musesignal.com/?model=adobe-firefly&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_adobe-firefly>) |
-| GPT Image | 44 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image>) |
+| GPT Image | 45 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image>) |
 | GPT Image 2 | 323 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
 | Grok | 16 | [Browse on MuseSignal](<https://musesignal.com/?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
 | Ideogram | 1 | [Browse on MuseSignal](<https://musesignal.com/?model=ideogram&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_ideogram>) |
 | Leonardo | 2 | [Browse on MuseSignal](<https://musesignal.com/?model=leonardo&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_leonardo>) |
 | Midjourney | 30 | [Browse on MuseSignal](<https://musesignal.com/?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
 | Nano Banana | 23 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana>) |
-| Nano Banana 2 | 71 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
+| Nano Banana 2 | 72 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
 | Nano Banana Pro | 77 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-pro>) |
 | Not specified | 13 | — |
 
 ## Recently published
 
+- [Elizabeth Olsen Kitchen Countertop Lifestyle Portrait](<https://musesignal.com/prompt/c303c6b7-29d4-4aa9-99cc-08dff0f6fec1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana 2
+- [Ultra-Realistic Soda Can Streetwear Ad Poster](<https://musesignal.com/prompt/a7824a69-5ba5-41eb-a572-89dfcb1c4a9c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image
 - [Continuous Line-Art Travel Poster](<https://musesignal.com/prompt/6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Candid Street Portrait in Natural Light](<https://musesignal.com/prompt/d3f6b406-8198-4410-9e13-b0593cb98ac7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Effortless Street-Style Elegance in Summer Sun](<https://musesignal.com/prompt/f606725d-5ba0-4fed-94fe-4f1fbc09b3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [MOVE DIFFERENT: New Balance 9060 Luxury Campaign](<https://musesignal.com/prompt/30231560-9dab-4296-b2f2-ce59c3297517?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Ultra-Realistic YouTube Livestream Mockup](<https://musesignal.com/prompt/60cb71e6-4fc7-4789-a66e-8ed7adbca661?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Gourmet Burger and Crispy Fries on a Wooden Tray](<https://musesignal.com/prompt/16e850aa-77a2-4afb-82fd-207fcff2478e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Midnight Aurora: Luxury Perfume in Arctic Night](<https://musesignal.com/prompt/4fbd933d-e500-482b-bb9b-d1382412573d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Nano Banana Pro Mysterious Cinematic Reveal](<https://musesignal.com/prompt/21837dc1-2c06-4c26-8dea-a0a20e70fef2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
 
 ## Generate on MuseSignal
 
@@ -4052,7 +4101,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 601](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 603](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

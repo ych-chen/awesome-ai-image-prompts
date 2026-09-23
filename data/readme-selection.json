@@ -80,6 +80,8 @@
     "83ae1fe6-826e-431b-b0f9-c7b92d69ddbc",
     "008fb426-78f9-49ab-bb0e-602902991121",
     "8331a2a0-9367-4b22-99bb-ff767b1cfeba",
+    "c303c6b7-29d4-4aa9-99cc-08dff0f6fec1",
+    "a7824a69-5ba5-41eb-a572-89dfcb1c4a9c",
     "6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5",
     "d3f6b406-8198-4410-9e13-b0593cb98ac7",
     "f606725d-5ba0-4fed-94fe-4f1fbc09b3e0",
@@ -97,9 +99,7 @@
     "61c16b49-e4a3-4d9b-b2a0-58075459bebd",
     "cdbcdf29-df81-47b5-8d13-ad9c869a3416",
     "a2efad8e-14fc-4890-be75-0f85c3d55b73",
-    "505f9ae0-e78f-4367-b44b-1667347901b1",
-    "2e18beeb-3626-4f6d-a266-ff8eb14e55e4",
-    "eb003b65-10e8-4983-aad6-fccdf246ccbc"
+    "505f9ae0-e78f-4367-b44b-1667347901b1"
   ],
   "count": 100,
   "strategy": "80-percent-category-family-balanced-plus-20-percent-recent"
