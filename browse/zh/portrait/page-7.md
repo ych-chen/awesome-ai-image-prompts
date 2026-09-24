@@ -628,3 +628,24 @@ A highly detailed, photorealistic close-up portrait of Megan Fox with two-toned 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0a640817-c8b2-498c-a345-8a174ec9ffc3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ankit_patel211/status/2069513184726409702>)
 
 ---
+
+<a id="prompt-b5a16730-ab7c-4fdb-998c-28096b4537be"></a>
+
+## Nocturnal Fashion Portrait in Black Wool Coat
+
+<a href="https://musesignal.com/zh/prompt/b5a16730-ab7c-4fdb-998c-28096b4537be?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOGI27WaQAA9ad8.jpg?format=jpg&amp;name=small" width="480" alt="Nocturnal Fashion Portrait in Black Wool Coat" /></a>
+
+**Midjourney** · 原作者: Saul Goodman
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Photorealistic nocturnal fashion portrait of exactly one striking adult European woman, chest-up composition, body turned slightly away while she looks calmly back into the camera. Dark brunette hair with soft natural movement, refined individual features, closed lips, direct expressive eyes and authentic visible skin texture. She wears a voluminous black wool coat with a narrow glimpse of scarlet satin lining near the collar. Her face remains clearly readable while one side of the frame falls into deep foreground shadow. Behind her, the night city dissolves into oversized teal, amber and muted coral bokeh circles. Intimate 50mm perspective, extremely shallow depth of field, subtle focus falloff around the edges, rich blacks, warm skin highlights, restrained bloom, organic 35mm grain, slight color halation, atmospheric yet modern fashion photography --chaos 1 --ar 4:5 --raw --profile f7ca75c --stylize 75 --weird 1 --hd --preview
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b5a16730-ab7c-4fdb-998c-28096b4537be?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Goodmanprotocol/status/2081095004936917184>)
+
+---

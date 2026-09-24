@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **610** | **100** | 2026-09-24 |
+| **612** | **100** | 2026-09-24 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -28,9 +28,9 @@
 
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
-| [人像摄影](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 189 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
+| [人像摄影](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 190 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
 | [商业产品](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 119 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
-| [海报设计](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 115 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
+| [海报设计](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 116 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
 | [食物饮品](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 24 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
 | [角色艺术](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 119 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
 | [场景空间](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) | 44 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) |
@@ -45,7 +45,7 @@
 
 <a id="selected-portrait"></a>
 
-### 人像摄影 · 20
+### 人像摄影 · 21
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>)
 
@@ -927,6 +927,29 @@ Negative prompt: full-body distant shot, face too small, unclear expression, neu
 
 ---
 
+<a id="prompt-b5a16730-ab7c-4fdb-998c-28096b4537be"></a>
+
+#### Nocturnal Fashion Portrait in Black Wool Coat
+
+<a href="https://musesignal.com/zh/prompt/b5a16730-ab7c-4fdb-998c-28096b4537be?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOGI27WaQAA9ad8.jpg?format=jpg&amp;name=small" width="480" alt="Nocturnal Fashion Portrait in Black Wool Coat" /></a>
+
+**Midjourney** · 原作者: Saul Goodman
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Photorealistic nocturnal fashion portrait of exactly one striking adult European woman, chest-up composition, body turned slightly away while she looks calmly back into the camera. Dark brunette hair with soft natural movement, refined individual features, closed lips, direct expressive eyes and authentic visible skin texture. She wears a voluminous black wool coat with a narrow glimpse of scarlet satin lining near the collar. Her face remains clearly readable while one side of the frame falls into deep foreground shadow. Behind her, the night city dissolves into oversized teal, amber and muted coral bokeh circles. Intimate 50mm perspective, extremely shallow depth of field, subtle focus falloff around the edges, rich blacks, warm skin highlights, restrained bloom, organic 35mm grain, slight color halation, atmospheric yet modern fashion photography --chaos 1 --ar 4:5 --raw --profile f7ca75c --stylize 75 --weird 1 --hd --preview
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b5a16730-ab7c-4fdb-998c-28096b4537be?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Goodmanprotocol/status/2081095004936917184>)
+
+---
+
 <a id="prompt-1b7cb5cf-ce49-4c2f-9de2-9533424ddc89"></a>
 
 #### Luxury Ballroom Fashion Editorial Portrait
@@ -1169,7 +1192,7 @@ Luxury fashion magazine aesthetic, realistic editorial photography, Vogue-qualit
 
 <a id="selected-commercial-product"></a>
 
-### 商业产品 · 21
+### 商业产品 · 20
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>)
 
@@ -1805,34 +1828,9 @@ Create an ultra-premium, high-energy soda can product render that feels like a g
 
 ---
 
-<a id="prompt-cebd0e42-6637-40e8-9791-fcc40797f8e4"></a>
-
-#### Giant Banana Mascot in Glasses-Free 3D
-
-<a href="https://musesignal.com/zh/prompt/cebd0e42-6637-40e8-9791-fcc40797f8e4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HBP_iDLbwAAq0JM.jpg?format=jpg&amp;name=small" width="480" alt="Giant Banana Mascot in Glasses-Free 3D" /></a>
-
-**Nano Banana Pro** · 原作者: Max
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Nano Banana Pro || 8k
-Ultra-Realistic Promotional
-An enormous L shaped glasses free 3D LED screen situated prominently at a bustling urban intersection, designed in an iconic architectural style reminiscent of Shinjuku in Tokyo or Taikoo Li in Chengdu. The screen displays a captivating glasses free 3D animation featuring a giant hyper realistic banana mascot wearing stylish sunglasses and streetwear, playfully peeling itself open while smaller glowing bananas float outward toward the viewer. The characters and objects possess striking depth and appear to break through the screen’s boundaries, extending outward or floating vividly in mid air. Under realistic daylight conditions, these elements cast lifelike shadows onto the screen’s surface and surrounding buildings. Rich in intricate detail and vibrant colors, the animation seamlessly integrates with the urban setting and the bright sky overhead. Ultra realistic CGI, cinematic perspective, high dynamic range, sharp reflections, global illumination, volumetric lighting, extreme detail, Nano Banana Pro render quality, true 4K resolution, photorealistic, depth illusion, anamorphic perspective, HDR, professional CGI advertisement style, image size 4 5 .
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cebd0e42-6637-40e8-9791-fcc40797f8e4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Max__Build/status/2023241640849371231>)
-
----
-
 <a id="selected-poster-graphic"></a>
 
-### 海报设计 · 18
+### 海报设计 · 19
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>)
 
@@ -2857,6 +2855,56 @@ Lighting & Aesthetic: Cinematic editorial style, sharp focus on the woman, high-
 
 ---
 
+<a id="prompt-738a6b81-595b-4ef1-b140-c2c897ceeafb"></a>
+
+#### Minimalist Marker-Pen New York City Travel Poster
+
+<a href="https://musesignal.com/zh/prompt/738a6b81-595b-4ef1-b140-c2c897ceeafb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOJeeAuaoAA8kqx.jpg?format=jpg&amp;name=small" width="480" alt="Minimalist Marker-Pen New York City Travel Poster" /></a>
+
+**GPT Image 2** · 原作者: Sairah
+
+创作场景: 海报设计
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a vertical 3:4 minimalist marker-pen travel poster of NEW YORK CITY on warm ivory paper.
+
+STYLE:
+Use a rough, imperfect editorial marker illustration style with a modern folk-art feel. Draw with thick, slightly uneven cobalt-blue contour lines. Apply color with visible felt-tip marker strokes, streaky coverage, pressure variation, dry-skip texture, and patchy density. Do not fill shapes completely. Leave many small and medium uncolored gaps so the warm ivory paper remains visible through clothing, buildings, and street elements. Some outlines should break, skip, or fade.
+
+SCENE:
+Depict two lovers walking closely together on a quiet brownstone street in Manhattan. One gently leans toward the other in a natural affectionate pose. Keep the scene intimate and understated.
+
+BACKGROUND SIMPLIFICATION:
+Include only 4 essential New York cues: one brownstone stoop, one black fire escape, one small corner deli awning, and one faint yellow taxi. Optionally suggest a very faint distant skyline silhouette, but do not add more city elements. Keep the background visually quiet.
+
+COMPOSITION:
+Place the couple slightly below center as the emotional focus. Let the supporting background elements sit loosely behind them with incomplete marker fills and broken contour fragments. At least 40 percent of the page should remain untouched warm ivory paper. Keep the layout airy, elegant, and uncluttered.
+
+FINISH GRADIENT:
+The couple is the most resolved area. Nearby background objects are only about 40 to 60 percent rendered. Distant details and outer edges fade into loose marker strokes and untouched paper before reaching the border.
+
+POSTER TYPOGRAPHY:
+Add the title "NEW YORK CITY" at the top in bold hand-drawn uppercase lettering. Add a small handwritten subtitle such as "summer stroll".
+
+COLOR PALETTE:
+Use a restrained palette of deep cobalt blue, muted slate blue, mustard ochre, warm brown, taxi yellow, and warm ivory paper. Keep the palette limited and slightly muted.
+
+MOOD:
+Romantic, calm, urban, nostalgic, stylish, handmade.
+
+NEGATIVE PROMPT:
+fully filled marker coloring, solid flat fills, smooth vector color, polished digital finish, clean perfect outlines, overly complete rendering, crowded background, too many city elements, dense architecture, detailed signage, realistic textures, glossy surfaces, photorealism, watercolor, oil painting, airbrush shading, 3D render, cinematic lighting, dramatic shadows, cluttered layout, billboard overload, hyper-detailed buildings, perfect symmetry, extra fingers, extra limbs, distorted anatomy, blurry face
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/738a6b81-595b-4ef1-b140-c2c897ceeafb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Sairah_0/status/2081329857888489966>)
+
+---
+
 <a id="prompt-6e2ae297-b1de-4b3c-ab30-dd537f1ee8c5"></a>
 
 #### Continuous Line-Art Travel Poster
@@ -2973,7 +3021,7 @@ Apply slightly cool color grading with high contrast for realism. Add subtle scr
 
 <a id="selected-food-drink"></a>
 
-### 食物饮品 · 15
+### 食物饮品 · 14
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>)
 
@@ -3325,29 +3373,6 @@ An ultra-realistic, cinematic portrait of a beautiful young East Asian woman wit
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/16e850aa-77a2-4afb-82fd-207fcff2478e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/AvelyrahnAI/status/2066084544349143355>)
-
----
-
-<a id="prompt-556f975f-8dc5-48d1-9390-6135df363e22"></a>
-
-#### Golden Toffee Caramel Explosion in Slow Motion
-
-<a href="https://musesignal.com/zh/prompt/556f975f-8dc5-48d1-9390-6135df363e22?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK2Msh7asAAHf3-.jpg?format=jpg&amp;name=small" width="480" alt="Golden Toffee Caramel Explosion in Slow Motion" /></a>
-
-**Nano Banana Pro** · 原作者: Snow
-
-创作场景: 食物饮品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A premium golden toffee suspended in mid air above a mirror polished black surface, the moment of impact creating an enormous explosion of molten caramel, liquid gold splashing outward in slow motion, thousands of sparkling sugar crystals floating through the air like diamonds, dramatic studio lighting, ultra realistic textures, luxury confectionery advertisement, cinematic depth of field, macro photography, hyper detailed reflections, 16K masterpiece, food photography award winner.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/556f975f-8dc5-48d1-9390-6135df363e22?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamrealsnow/status/2066462510103056548>)
 
 ---
 
@@ -4048,11 +4073,11 @@ Visual consistency: same face, same mud-soaked kit, same drenched hair throughou
 | --- | ---: | --- |
 | Adobe Firefly | 1 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=adobe-firefly&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_adobe-firefly>) |
 | GPT Image | 45 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 326 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 327 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
 | Grok | 18 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
 | Ideogram | 1 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=ideogram&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_ideogram>) |
 | Leonardo | 2 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=leonardo&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_leonardo>) |
-| Midjourney | 30 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
+| Midjourney | 31 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
 | Nano Banana | 23 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana>) |
 | Nano Banana 2 | 73 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
 | Nano Banana Pro | 78 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-pro>) |
@@ -4060,14 +4085,14 @@ Visual consistency: same face, same mud-soaked kit, same drenched hair throughou
 
 ## 最近发布
 
+- [Minimalist Marker-Pen New York City Travel Poster](<https://musesignal.com/zh/prompt/738a6b81-595b-4ef1-b140-c2c897ceeafb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Nocturnal Fashion Portrait in Black Wool Coat](<https://musesignal.com/zh/prompt/b5a16730-ab7c-4fdb-998c-28096b4537be?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Midjourney
 - [Luxury Ballroom Fashion Editorial Portrait](<https://musesignal.com/zh/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
 - [Luxury Wellness Detox Drink Poster](<https://musesignal.com/zh/prompt/864f840b-f078-46e4-9a81-fe7bc463add2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Red Bull Cinematic 3D Commercial Ad](<https://musesignal.com/zh/prompt/31766bf8-0560-4b8c-865c-7ff278e78eb9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Photorealistic Megan Fox Tongue-Out Portrait](<https://musesignal.com/zh/prompt/0a640817-c8b2-498c-a345-8a174ec9ffc3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Grok
 - [Soccer Ball Leather Gaming Console Product Render](<https://musesignal.com/zh/prompt/e431e1f3-272e-4598-83ed-2cdb642a665b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana 2
 - [Hyderabadi Chicken Biryani Recipe Infographic](<https://musesignal.com/zh/prompt/9371c856-1ea1-45e4-8124-2fd10ccac036?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Low-Angle Football Player Stadium Shot](<https://musesignal.com/zh/prompt/5aaecd82-d78c-404e-890f-37890298bcbb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Grok
-- [Elizabeth Olsen Kitchen Countertop Lifestyle Portrait](<https://musesignal.com/zh/prompt/c303c6b7-29d4-4aa9-99cc-08dff0f6fec1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana 2
 
 ## 在 MuseSignal 生成
 
@@ -4088,7 +4113,7 @@ Visual consistency: same face, same mud-soaked kit, same drenched hair throughou
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 610](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 612](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

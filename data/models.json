@@ -12,7 +12,7 @@
   {
     "key": "gpt-image-2",
     "name": "GPT Image 2",
-    "count": 326
+    "count": 327
   },
   {
     "key": "grok",
@@ -32,7 +32,7 @@
   {
     "key": "midjourney",
     "name": "Midjourney",
-    "count": 30
+    "count": 31
   },
   {
     "key": "nano-banana",
