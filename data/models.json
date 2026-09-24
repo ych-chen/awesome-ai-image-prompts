@@ -12,12 +12,12 @@
   {
     "key": "gpt-image-2",
     "name": "GPT Image 2",
-    "count": 323
+    "count": 326
   },
   {
     "key": "grok",
     "name": "Grok",
-    "count": 16
+    "count": 18
   },
   {
     "key": "ideogram",
@@ -42,12 +42,12 @@
   {
     "key": "nano-banana-2",
     "name": "Nano Banana 2",
-    "count": 72
+    "count": 73
   },
   {
     "key": "nano-banana-pro",
     "name": "Nano Banana Pro",
-    "count": 77
+    "count": 78
   },
   {
     "key": null,
