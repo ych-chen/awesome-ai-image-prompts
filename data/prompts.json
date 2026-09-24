@@ -4304,6 +4304,32 @@
     "content_hash": "0e097aff2582b2d2497f08ea6a596e4078da449dc888e2774d840e20e1cdb2a5"
   },
   {
+    "id": "43c7faad-e206-4441-9316-ad8a1ba4baaf",
+    "title": "Nighttime Train Station Portrait in Vintage Film Style",
+    "prompt": "Adobe Firefly Image 5 Prompt: Nighttime train station platform. A young East Asian woman stands in the foreground with her back to the camera, turning to look over her shoulder. Dark brown hair in a short ponytail, soft bangs, fair skin, delicate features, subtle smile, one hand touching her chin. She wears a fitted white cropped T shirt, dark navy pleated mini skirt, white ankle socks, and carries a large dark blue leather shoulder bag with metal chain details. Behind her, a turquoise and beige train begins moving, its warm amber lit windows creating motion blur. Rough concrete platform, metal railings, yellow warning line. Strong film grain, slightly faded vintage tones, cool night ambience mixed with warm artificial light, Japanese urban cinematic mood. Vertical 3:4 composition, subject slightly right of center, shallow depth of field.",
+    "category": "portrait",
+    "model_key": "adobe-firefly",
+    "model_name": "Adobe Firefly",
+    "model_family": null,
+    "author": {
+      "name": "BMX",
+      "handle": "bmx_ai13"
+    },
+    "source_platform": "X",
+    "source_id": "2081494518713766319",
+    "source_url": "https://x.com/bmx_ai13/status/2081494518713766319",
+    "images": [
+      "https://pbs.twimg.com/media/HOJ4n5sawAAa9uH.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/43c7faad-e206-4441-9316-ad8a1ba4baaf",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/43c7faad-e206-4441-9316-ad8a1ba4baaf",
+    "published_at": "2026-09-24T05:10:13.179911+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "a11a15e0402c5000cfd90d0ed40d4c99fc02a2aa6393397fa90f936a79935770"
+  },
+  {
     "id": "43fbfa5f-491d-4b13-9c5d-f17a0a9cf71b",
     "title": "Intimate High-Angle Selfie on White Bedding",
     "prompt": "{\n\"subject\": {\n\"description\": \"An adult woman in a close high-angle phone selfie, sitting or half-reclining on white bedding. The frame runs from the top of her head and lowered face down to the low-rise jeans area, with an intimate, casual, real-life snapshot feeling.\",\n\"mirror_rules\": \"Not a mirror selfie; the phone or camera is held above the subject, looking downward. No visible phone, mirror, or reflected device.\",\n\"age\": \"Adult, visually in her 20s\",\n\"expression\": {\n\"eyes\": {\n\"look\": \"Eyes naturally looking downward, eyelids lowered, long eyelashes clearly visible\",\n\"energy\": \"Quiet, soft, with a slight emotional afterglow of a paused moment\",\n\"direction\": \"Looking down, not at the camera\"\n},\n\"mouth\": {\n\"position\": \"Lips closed and relaxed\",\n\"energy\": \"Soft muted red lip color, calm and restrained\"\n},\n\"overall\": \"An inward, natural expression, not a posed smile; it feels like a spontaneous moment while looking down or adjusting clothing.\"\n},\n\"face\": {\n\"preserve_original\": \"Preserve the soft face shape under the high-angle perspective, the nose bridge highlight caused by looking down, and the quiet downward gaze. Do not turn it into a front-facing commercial beauty portrait.\",\n\"makeup\": \"A natural translucent makeup style often seen in East Asian social media beauty contexts: clean base, soft brows, delicate eyeliner, visible but not exaggerated lashes, light brown eyeshadow, coral-red or rose-red lips, sweet and natural rather than stage-like.\"\n}\n},\n\"hair\": {\n\"color\": \"Dark brown to black-brown natural hair, with subtle brown highlights where the light hits\",\n\"style\": \"Long hair, naturally loose, partly falling over the left shoulder, with fine strands over the forehead and a visible hair part\",\n\"effect\": \"Slightly messy but realistic, with natural shine and tiny flyaway hairs; not overly silky or advertisement-perfect\"\n},\n\"body\": {\n\"frame\": \"Close upper-body framing, natural body contours shaped by fitted fabric, relaxed but supported posture\",\n\"waist\": \"The waist and abdomen are clearly visible between the cropped top and the low-rise jeans, including the full midriff and navel\",\n\"chest\": \"No chest skin is visible; the chest area is fully covered by a fitted gray cropped T-shirt, with natural fabric tension and horizontal folds\",\n\"legs\": \"Legs are mostly outside the frame; only the upper edge of the low-rise jeans and partial hip-line area are visible\",\n\"skin\": {\n\"visible_areas\": \"Visible skin includes the forehead, cheeks, nose bridge, area around the lips, a small edge of the neck, parts of both arms, the full waist and abdomen, the navel, and the upper hip area above the jeans. Shoulders are covered by the T-shirt; back, buttocks, and legs are not visible.\",\n\"tone\": \"Warm fair skin tone with a soft creamy quality and a slight pink undertone under sunlight\",\n\"texture\": \"The skin looks smooth while retaining real detail; the abdomen has natural softness and subtle under-skin variation. It should feel warm, clean, soft, and lightly sun-warmed to the touch, not plastic or overly airbrushed.\",\n\"lighting_effect\": \"Warm natural light falls from the upper-right area of the frame, creating highlights on the forehead, nose bridge, upper fabric, and abdomen. White bedding provides soft reflected fill light, while the hemline and jeans edge create slight shadows.\"\n}\n},\n\"pose\": {\n\"position\": \"The subject is sitting or half-reclining on a bed, leaning slightly back, head lowered, with arms placed to the sides or behind the body for support\",\n\"base\": \"Weight rests on the hips and rear arm-support points; the waist opens naturally, shoulders slightly pulled back\",\n\"overall\": \"A casual pause after sitting down, not a standardized pose; preserve slight body offset, fabric wrinkles, and imperfect symmetry\"\n},\n\"clothing\": {\n\"top\": {\n\"type\": \"Cropped fitted crew-neck T-shirt\",\n\"color\": \"Light heather gray\",\n\"details\": \"Short sleeves, hem ending around the upper abdomen, fine cotton-knit texture, horizontal stretch folds, and natural shadows\",\n\"effect\": \"Fitted but not rigidly sculpted; the fabric responds to posture with realistic wrinkles, pressure marks, and subtle stretching\"\n},\n\"bottom\": {\n\"type\": \"Low-rise blue denim jeans\",\n\"color\": \"Washed blue with lighter worn edges\",\n\"details\": \"Low waistband, visible button area, slightly open or loosened waistband, pale inner fabric and denim structure visible\",\n\"effect\": \"Thick denim with clear creases, everyday wear, and a slightly worn texture\"\n}\n},\n\"accessories\": {},\n\"photography\": {\n\"camera_style\": \"Close handheld phone selfie, authentic social media snapshot feel, similar to an iPhone or Android main/wide camera\",\n\"angle\": \"Strong high-angle view from above the head and front, looking downward; the face, front fabric, abdomen, and waistband form a vertical perspective line\",\n\"shot_type\": \"Vertical close-up to partial half-body crop, top of head near the upper edge, lower frame ending at the jeans waistband\",\n\"aspect_ratio\": \"9:16 vertical\",\n\"texture\": \"Slight phone sharpening, natural compression, mild noise, with visible bedding folds, clothing texture, and real skin transitions\",\n\"lighting\": \"Indoor bedside natural daylight, warm and slanted, with white bedding acting as reflected fill light; avoid obvious studio rim light or perfect softbox lighting\",\n\"depth_of_field\": \"Mostly clear smartphone wide-angle depth of field; face and clothing are sharp, dark furniture in the background slightly softened\"\n},\n\"background\": {\n\"setting\": \"Bedroom or bedside interior\",\n\"wall_color\": \"Mostly white bedding and dark furniture, with a small darker upper background area\",\n\"elements\": [\n\"white pillow or bedsheet\",\n\"black bedside table or cabinet\",\n\"small round gold or wooden knob\",\n\"faint window light or tiny reflected points in the distance\"\n],\n\"atmosphere\": \"Private, everyday, quiet, with the lingering feeling of morning or afternoon sunlight entering the room\",\n\"lighting\": \"White bedding creates a broad soft bounce fill, while dark furniture lowers the background brightness and makes the skin highlights stand out\"\n},\n\"the_vibe\": {\n\"energy\": \"Quiet, close, real, slightly lazy\",\n\"mood\": \"As if she had just woken up, sat on the bed, or looked down for a second while adjusting herself\",\n\"aesthetic\": \"Phone selfie, everyday bedroom, natural light, social media life-photo feeling rather than a perfect studio image\",\n\"authenticity\": \"Keep messy flyaway hair, clothing wrinkles, slight composition offset, phone compression, and natural human body form\",\n\"intimacy\": \"Very close framing, but emotionally restrained; the lack of eye contact gives it a private-space feeling\",\n\"story\": \"She had just sat on the bed, the sunlight had already landed on her body, and the camera captured the downward-looking moment before the motion fully ended.\",\n\"caption_energy\": \"Low-key, casual, like an everyday photo posted without over-explaining\"\n},\n\"constraints\": {\n\"must_keep\": [\n\"adult woman\",\n\"high-angle downward shot\",\n\"lowered head and downward gaze\",\n\"dark brown long hair with forehead strands\",\n\"gray fitted cropped T-shirt\",\n\"visible waist, abdomen, and navel\",\n\"low-rise washed blue jeans\",\n\"white bedding background\",\n\"warm natural daylight\",\n\"authentic phone selfie texture\"\n],\n\"avoid\": [\n\"minor appearance\",\n\"exposed chest or explicit nudity\",\n\"oversexualized posing\",\n\"plastic airbrushed skin\",\n\"commercial studio lighting\",\n\"front-facing direct gaze\",\n\"perfectly symmetrical composition\",\n\"heavy filters\",\n\"AI anatomy distortion\",\n\"watermarks or social media logos\"\n]\n},\n\"negative_prompt\": [\n\"childlike\",\n\"minor\",\n\"explicit nudity\",\n\"oversexualized\",\n\"plastic skin\",\n\"over-smoothed\",\n\"studio lighting\",\n\"perfect symmetry\",\n\"distorted anatomy\",\n\"extra fingers\",\n\"bad hands\",\n\"watermark\",\n\"logo\",\n\"text\"",
@@ -7612,6 +7638,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "702b2402a708ab49610c89229ed9f45f5004900621c5f51436652c3bac57682d"
+  },
+  {
+    "id": "777a95ba-cdad-4727-bef2-eff205eb8637",
+    "title": "High Fashion B&W Editorial Portrait",
+    "prompt": "Create a high fashion black and white editorial portrait of a slim young woman posing dynamically against a completely seamless white studio background.\n\nPose & Composition: Three quarter side profile, body turned toward the right while her face looks back toward the camera. Her torso bends slightly forward with an exaggerated fashion pose. One arm reaches dramatically toward the camera, creating strong foreshortening so the hand appears very large in the foreground. Fingers are spread naturally with long manicured nails and several metallic rings. Her opposite arm extends backward to the right side of the frame. Crop around the upper thighs while keeping both arms visible.\nFace & Hair: Sharp editorial facial features, intense confident expression, slightly parted lips, defined cheekbones, dark smoky eye makeup and thin brows. Short jet black bob haircut with very short blunt micro bangs, slightly flipped and curled ends around the neck.\n\nWardrobe: Ultra glossy black patent leather cropped jacket with oversized sculptural sleeves, exaggerated folds, reflective highlights and a futuristic wet look finish. The jacket exposes the waist and stomach. Low rise fitted pants with an abstract marbled psychedelic pattern in gray and black.\nCamera: Fashion photography, slightly wide angle lens around 28–35mm. Camera positioned near chest level. Strong perspective distortion from the hand reaching very close to the lens. Crisp facial focus with the foreground hand slightly softer.\n\nLighting: High key white studio lighting with strong directional highlights reflecting from the patent leather. Bright clean background, deep black clothing, dramatic monochrome tonal contrast, smooth grayscale skin.\nStyle: Avant garde 1990s/early 2000s fashion editorial, experimental magazine photography, futuristic cyber fashion aesthetic, edgy couture posing, surreal proportions caused by perspective, polished but slightly raw analog-photo character, fine film grain.\n\nColor: Pure black and white monochrome, bright whites, deep glossy blacks and silver gray midtones.\nNo text, no typography, no logo, no watermark, no borders, no interface elements. aspect ratio 16:9",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "BMX",
+      "handle": "bmx_ai13"
+    },
+    "source_platform": "X",
+    "source_id": "2092105940539527653",
+    "source_url": "https://x.com/bmx_ai13/status/2092105940539527653",
+    "images": [
+      "https://pbs.twimg.com/media/HQhOB3haoAA0GOb.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/777a95ba-cdad-4727-bef2-eff205eb8637",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/777a95ba-cdad-4727-bef2-eff205eb8637",
+    "published_at": "2026-09-24T05:10:19.75714+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "da6837944928d509e0f259ce64d6150d49ab9fbd75f341a7ef4434bb7ed7ea5e"
   },
   {
     "id": "77dab16d-7faa-452d-852d-6226becaa33c",
@@ -11008,6 +11060,35 @@
     "content_hash": "6d7b068ec0683ddd10afb008e2a76e0b8df466a51afb0462e308bd0f2ba7f496"
   },
   {
+    "id": "a63507b2-0e03-44c3-9354-65439e7caa32",
+    "title": "LEGO Minifigure Mirror Selfie 3D Render",
+    "prompt": "“High-quality stylized 3D CGI LEGO render, vertical 3:4 composition, the 3 most iconic characters from [SHOW/MOVIE] recreated as authentic LEGO minifigures captured in a chaotic and joyful bathroom mirror selfie; the most recognizable character holds a large LEGO-built vintage camera up toward the mirror, the other two squeezed tightly into the frame around them, each showing their most signature expression printed on their yellow ABS plastic face; everyone wearing LEGO-accurate printed torso designs and accessories faithful to the source material; all crammed together creating classic crowded selfie energy; facial details rendered as flat printed minifigure graphics with classic LEGO stud-top heads, signature cylindrical hands and blocky proportions faithfully preserving each character’s most recognizable traits, hair pieces and costume prints from [SHOW/MOVIE]; the bathroom mirror has realistic toothpaste splatters and subtle smudges on the glass surface contrasting with the plastic toy world; the reflection shows bold black LEGO-style lettering reading “[SHOW/MOVIE]❤️”; the bathroom background is built entirely from LEGO bricks and plates styled to match the world of [SHOW/MOVIE] with thematic LEGO-built props and easter eggs relevant to [SHOW/MOVIE] placed naturally around the scene; lighting combines soft ambient bathroom lighting with a bright camera flash reflecting in the mirror creating gentle specular highlights bouncing off shiny ABS plastic surfaces; color grading faithful to the visual tone of [SHOW/MOVIE], visible plastic sheen and subtle fingerprint smudges on minifigure surfaces, ultra-detailed 4K render, no watermark.”",
+    "category": "character-art",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "TechieSA",
+      "handle": "TechieBySA"
+    },
+    "source_platform": "X",
+    "source_id": "2081794164610437450",
+    "source_url": "https://x.com/TechieBySA/status/2081794164610437450",
+    "images": [
+      "https://pbs.twimg.com/media/HOQEwkPWMAATWHd.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOQEwgrXYAEzqFZ.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOQEwgpXgAA26Sm.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOQEwgvWEAAxMox.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a63507b2-0e03-44c3-9354-65439e7caa32",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a63507b2-0e03-44c3-9354-65439e7caa32",
+    "published_at": "2026-09-24T05:10:15.455845+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "c0c71eb1999c73bfd57b0dbddaa64ff7071469f4ff444d7d1c343f9a63f6882f"
+  },
+  {
     "id": "a6627d09-ef3c-4a17-8942-4a507c48c866",
     "title": "Mother and Child Chibi Doodle Hug",
     "prompt": "Transform the uploaded photo into a cute black-and-white hand-drawn chibi doodle illustration. Preserve the exact pose, composition, facial expressions, clothing, sunglasses, and antler headband while converting the mother and child into adorable cartoon characters with oversized heads, tiny bodies, round eyes, soft smiles, and simplified features. Use clean black ink linework on a pure white background with subtle sketch hatching, playful hand-drawn texture, tiny hearts, sparkles, and cute doodle accents around them. Maintain the warm hug, joyful family connection, and candid photo-booth perspective. Kawaii manga-inspired art style, minimalist monochrome palette, sticker-pack aesthetic, wholesome children's storybook illustration, charming sketchbook drawing, expressive faces, soft rounded shapes, cozy and heartwarming mood, highly detailed line art, cute social media avatar style, masterpiece quality.",
@@ -12233,6 +12314,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "0364c6aa14accf3da4946615956a29d6fd9854baac6c316a3c4eaaf8e0959113"
+  },
+  {
+    "id": "b9accb0d-9968-4963-b768-3fbf004e9543",
+    "title": "Amateur Gym iPhone Selfie Portrait",
+    "prompt": "Amateur gym portrait iphone selfie (profile) of a skinny norwegian influencer and supermodel around 22yo trying outfit that boost her crazy perfect body shape! Tongue out, massive bouncy ass",
+    "category": "portrait",
+    "model_key": "grok",
+    "model_name": "Grok",
+    "model_family": null,
+    "author": {
+      "name": "DANJI",
+      "handle": "DanjiTosaka"
+    },
+    "source_platform": "X",
+    "source_id": "2091881535720849420",
+    "source_url": "https://x.com/DanjiTosaka/status/2091881535720849420",
+    "images": [
+      "https://pbs.twimg.com/media/HQfbFfqW8AAclxT.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HQfbGXTWIAAorjN.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/b9accb0d-9968-4963-b768-3fbf004e9543",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/b9accb0d-9968-4963-b768-3fbf004e9543",
+    "published_at": "2026-09-24T05:10:18.351954+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "b23a59588799410c3dfdce2b78e93d3d033923aaccecb7806b4bb46561e709cd"
   },
   {
     "id": "bb8db6cf-d1e6-4a16-af5a-c558cb311175",
@@ -16464,6 +16572,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "0d92605c882470de0ac93e8ad827439eded7f64f29b6993e533de8213b733cbb"
+  },
+  {
+    "id": "fd5568cd-4b02-40d3-a7d7-b4e8468a24bc",
+    "title": "Grainy 35mm Film Portrait on a Balcony",
+    "prompt": "Beautiful young adult woman on a small balcony, loose auburn hair, grey sweater and ceramic mug, photographed on grainy 35mm color film --v 8.2 --ar 5:4",
+    "category": "portrait",
+    "model_key": "midjourney",
+    "model_name": "Midjourney",
+    "model_family": null,
+    "author": {
+      "name": "Sarah",
+      "handle": "AIwithSarah_"
+    },
+    "source_platform": "X",
+    "source_id": "2095048501268984052",
+    "source_url": "https://x.com/AIwithSarah_/status/2095048501268984052",
+    "images": [
+      "https://pbs.twimg.com/media/HRMbf-oagAAV3XW.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/fd5568cd-4b02-40d3-a7d7-b4e8468a24bc",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/fd5568cd-4b02-40d3-a7d7-b4e8468a24bc",
+    "published_at": "2026-09-24T05:10:22.947587+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "0c09bbb85eeb70e322cc6b9930e6aa854a97a4839c1f63dc288228ec67abe4b1"
   },
   {
     "id": "fdb76bfd-0c8d-4c68-9cb1-360acfa5df8e",

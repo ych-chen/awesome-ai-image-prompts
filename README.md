@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **612** | **100** | 2026-09-24 |
+| **617** | **100** | 2026-09-24 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,11 +28,11 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| [Portrait](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 190 | [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
+| [Portrait](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 194 | [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
 | [Commercial &amp; Product](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 119 | [Browse on MuseSignal](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
 | [Poster &amp; Graphic](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 116 | [Browse on MuseSignal](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
 | [Food &amp; Drink](<https://musesignal.com/?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 24 | [Browse on MuseSignal](<https://musesignal.com/?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
-| [Character &amp; Art](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 119 | [Browse on MuseSignal](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
+| [Character &amp; Art](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 120 | [Browse on MuseSignal](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
 | [Scene &amp; Space](<https://musesignal.com/?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) | 44 | [Browse on MuseSignal](<https://musesignal.com/?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
@@ -45,7 +45,7 @@ Expand Full prompt to copy the original text. Try on MuseSignal opens the case; 
 
 <a id="selected-portrait"></a>
 
-### Portrait · 21
+### Portrait · 25
 
 [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>)
 
@@ -927,6 +927,110 @@ Use case: Portrait
 
 ---
 
+<a id="prompt-fd5568cd-4b02-40d3-a7d7-b4e8468a24bc"></a>
+
+#### Grainy 35mm Film Portrait on a Balcony
+
+<a href="https://musesignal.com/prompt/fd5568cd-4b02-40d3-a7d7-b4e8468a24bc?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRMbf-oagAAV3XW.jpg?format=jpg&amp;name=small" width="480" alt="Grainy 35mm Film Portrait on a Balcony" /></a>
+
+**Midjourney** · Creator: Sarah
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Beautiful young adult woman on a small balcony, loose auburn hair, grey sweater and ceramic mug, photographed on grainy 35mm color film --v 8.2 --ar 5:4
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/fd5568cd-4b02-40d3-a7d7-b4e8468a24bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/AIwithSarah_/status/2095048501268984052>)
+
+---
+
+<a id="prompt-777a95ba-cdad-4727-bef2-eff205eb8637"></a>
+
+#### High Fashion B&amp;W Editorial Portrait
+
+<a href="https://musesignal.com/prompt/777a95ba-cdad-4727-bef2-eff205eb8637?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQhOB3haoAA0GOb.jpg?format=jpg&amp;name=small" width="480" alt="High Fashion B&amp;W Editorial Portrait" /></a>
+
+**GPT Image 2** · Creator: BMX
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a high fashion black and white editorial portrait of a slim young woman posing dynamically against a completely seamless white studio background.
+
+Pose & Composition: Three quarter side profile, body turned toward the right while her face looks back toward the camera. Her torso bends slightly forward with an exaggerated fashion pose. One arm reaches dramatically toward the camera, creating strong foreshortening so the hand appears very large in the foreground. Fingers are spread naturally with long manicured nails and several metallic rings. Her opposite arm extends backward to the right side of the frame. Crop around the upper thighs while keeping both arms visible.
+Face & Hair: Sharp editorial facial features, intense confident expression, slightly parted lips, defined cheekbones, dark smoky eye makeup and thin brows. Short jet black bob haircut with very short blunt micro bangs, slightly flipped and curled ends around the neck.
+
+Wardrobe: Ultra glossy black patent leather cropped jacket with oversized sculptural sleeves, exaggerated folds, reflective highlights and a futuristic wet look finish. The jacket exposes the waist and stomach. Low rise fitted pants with an abstract marbled psychedelic pattern in gray and black.
+Camera: Fashion photography, slightly wide angle lens around 28–35mm. Camera positioned near chest level. Strong perspective distortion from the hand reaching very close to the lens. Crisp facial focus with the foreground hand slightly softer.
+
+Lighting: High key white studio lighting with strong directional highlights reflecting from the patent leather. Bright clean background, deep black clothing, dramatic monochrome tonal contrast, smooth grayscale skin.
+Style: Avant garde 1990s/early 2000s fashion editorial, experimental magazine photography, futuristic cyber fashion aesthetic, edgy couture posing, surreal proportions caused by perspective, polished but slightly raw analog-photo character, fine film grain.
+
+Color: Pure black and white monochrome, bright whites, deep glossy blacks and silver gray midtones.
+No text, no typography, no logo, no watermark, no borders, no interface elements. aspect ratio 16:9
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/777a95ba-cdad-4727-bef2-eff205eb8637?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/bmx_ai13/status/2092105940539527653>)
+
+---
+
+<a id="prompt-b9accb0d-9968-4963-b768-3fbf004e9543"></a>
+
+#### Amateur Gym iPhone Selfie Portrait
+
+<a href="https://musesignal.com/prompt/b9accb0d-9968-4963-b768-3fbf004e9543?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQfbFfqW8AAclxT.jpg?format=jpg&amp;name=small" width="480" alt="Amateur Gym iPhone Selfie Portrait" /></a>
+
+**Grok** · Creator: DANJI
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Amateur gym portrait iphone selfie (profile) of a skinny norwegian influencer and supermodel around 22yo trying outfit that boost her crazy perfect body shape! Tongue out, massive bouncy ass
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/b9accb0d-9968-4963-b768-3fbf004e9543?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/DanjiTosaka/status/2091881535720849420>)
+
+---
+
+<a id="prompt-43c7faad-e206-4441-9316-ad8a1ba4baaf"></a>
+
+#### Nighttime Train Station Portrait in Vintage Film Style
+
+<a href="https://musesignal.com/prompt/43c7faad-e206-4441-9316-ad8a1ba4baaf?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOJ4n5sawAAa9uH.jpg?format=jpg&amp;name=small" width="480" alt="Nighttime Train Station Portrait in Vintage Film Style" /></a>
+
+**Adobe Firefly** · Creator: BMX
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Adobe Firefly Image 5 Prompt: Nighttime train station platform. A young East Asian woman stands in the foreground with her back to the camera, turning to look over her shoulder. Dark brown hair in a short ponytail, soft bangs, fair skin, delicate features, subtle smile, one hand touching her chin. She wears a fitted white cropped T shirt, dark navy pleated mini skirt, white ankle socks, and carries a large dark blue leather shoulder bag with metal chain details. Behind her, a turquoise and beige train begins moving, its warm amber lit windows creating motion blur. Rough concrete platform, metal railings, yellow warning line. Strong film grain, slightly faded vintage tones, cool night ambience mixed with warm artificial light, Japanese urban cinematic mood. Vertical 3:4 composition, subject slightly right of center, shallow depth of field.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/43c7faad-e206-4441-9316-ad8a1ba4baaf?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/bmx_ai13/status/2081494518713766319>)
+
+---
+
 <a id="prompt-b5a16730-ab7c-4fdb-998c-28096b4537be"></a>
 
 #### Nocturnal Fashion Portrait in Black Wool Coat
@@ -1192,7 +1296,7 @@ Luxury fashion magazine aesthetic, realistic editorial photography, Vogue-qualit
 
 <a id="selected-commercial-product"></a>
 
-### Commercial &amp; Product · 20
+### Commercial &amp; Product · 17
 
 [Browse on MuseSignal](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>)
 
@@ -1749,88 +1853,9 @@ Background filled with dynamic paint splashes and street-art textures in matchin
 
 ---
 
-<a id="prompt-4fbd933d-e500-482b-bb9b-d1382412573d"></a>
-
-#### Midnight Aurora: Luxury Perfume in Arctic Night
-
-<a href="https://musesignal.com/prompt/4fbd933d-e500-482b-bb9b-d1382412573d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLJa1NeaAAABqaW.jpg?format=jpg&amp;name=small" width="480" alt="Midnight Aurora: Luxury Perfume in Arctic Night" /></a>
-
-**GPT Image 2** · Creator: Snow
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Create an ultra-premium luxury product photography scene in vertical format featuring a fictional niche perfume called “MIDNIGHT AURORA” as the hero product.
-The perfume bottle has a sleek geometric silhouette crafted from deep sapphire-blue crystal glass with brushed platinum accents and a sculptural metallic cap. Place the bottle on a polished black obsidian pedestal surrounded by glowing crystal fragments and subtle mist.
-The environment evokes a mystical Arctic night under the Northern Lights. In the background, vibrant aurora waves flow across the scene with soft green, blue, and violet light trails. Floating ice crystals, shimmering particles, and translucent frost textures create a magical atmosphere.
-Lighting: dramatic cinematic rim lighting from behind, cool blue key light from the left, subtle platinum reflections on the bottle, volumetric light rays, luxury commercial lighting setup, high-end fragrance campaign aesthetic.
-Color palette: midnight blue, emerald green, icy cyan, silver, violet.
-Camera: Full-frame professional camera, 85mm macro lens, f/2.8 aperture, shallow depth of field, ultra-realistic glass reflections, premium product photography, razor-sharp bottle details, soft creamy bokeh.
-Composition: clean centered composition, bottle occupying the visual focus, balanced negative space, luxury branding aesthetic, magazine-cover quality, photorealistic, 8K, masterpiece, commercial advertising campaign.
-Important: Preserve the exact uploaded product shape and label placement while seamlessly integrating it into the luxury Arctic aurora environment.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/4fbd933d-e500-482b-bb9b-d1382412573d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/iamrealsnow/status/2067815062144987542>)
-
----
-
-<a id="prompt-21837dc1-2c06-4c26-8dea-a0a20e70fef2"></a>
-
-#### Nano Banana Pro Mysterious Cinematic Reveal
-
-<a href="https://musesignal.com/prompt/21837dc1-2c06-4c26-8dea-a0a20e70fef2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HBev061bIAAWBBz.jpg?format=jpg&amp;name=small" width="480" alt="Nano Banana Pro Mysterious Cinematic Reveal" /></a>
-
-**Nano Banana Pro** · Creator: Max
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Start with Nano Banana Pro || 8K Ultra-Realistic Promotional
-A mysterious cinematic product reveal. A closed vintage Briefsuitcase rests motionless on a premium desk surface. Subtle vibrations begin, metal latches gently rattle
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/21837dc1-2c06-4c26-8dea-a0a20e70fef2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Max__Build/status/2024279891915788402>)
-
----
-
-<a id="prompt-9862a193-702b-4066-8017-0f0c2df4a27b"></a>
-
-#### Lovart Soda Can Ultra-Realistic Render
-
-<a href="https://musesignal.com/prompt/9862a193-702b-4066-8017-0f0c2df4a27b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HBGMSylXYAAmOje.jpg?format=jpg&amp;name=small" width="480" alt="Lovart Soda Can Ultra-Realistic Render" /></a>
-
-**Nano Banana Pro** · Creator: Max
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Nano Banana Pro || 4k
-Ultra-Realistic Promotional
-Create an ultra-premium, high-energy soda can product render that feels like a global beverage brand, featuring a tall slim aluminum can with rich metallic depth, a vibrant orange soda base color with dynamic gradients, bold flowing liquid waves, fizz-inspired curves, abstract citrus-energy patterns wrapping around the can, and embedded carbonation bubbles with subtle motion streaks; center the main brand text “Lovart” in bold high-contrast typography, place “Lovart Soda” directly below it, followed by the refined tagline: “Creativity, Carbonated.” with perfect alignment and zero distortion, use the primary Lovart logo centered and a secondary circular Lovart icon subtly repeated as micro-graphics or accents, ensure photoreal aluminum texture with varied condensation droplets and soft reflections that follow the graphic flow, light the scene with professional studio lighting, strong rim highlights, a soft glow halo behind the can, a clean background with a gentle gradient, and a soft natural shadow beneath, styled as high-end commercial soda advertising that feels energetic, refreshing, premium, billboard-ready, and supermarket-ready, rendered in 8K ultra-detailed photorealism using an 85mm lens, f/8, ISO 100, physically based rendering, in a 4:5 aspect ratio.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/9862a193-702b-4066-8017-0f0c2df4a27b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Max__Build/status/2022552052761608653>)
-
----
-
 <a id="selected-poster-graphic"></a>
 
-### Poster &amp; Graphic · 19
+### Poster &amp; Graphic · 18
 
 [Browse on MuseSignal](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>)
 
@@ -2988,37 +3013,6 @@ Apply slightly cool color grading with high contrast for realism. Add subtle scr
 
 ---
 
-<a id="prompt-d4ad42b3-0864-44b0-86cf-ab5c57d6c276"></a>
-
-#### Streamlined Status Report Layout
-
-<a href="https://musesignal.com/prompt/d4ad42b3-0864-44b0-86cf-ab5c57d6c276?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK-3P4_aUAAej8s.jpg?format=jpg&amp;name=small" width="480" alt="Streamlined Status Report Layout" /></a>
-
-**Nano Banana** · Creator: 路飞 🏴‍☠️ AI 研究员🧐
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-1/ 状态报告
-把散乱笔记变成一段高管看得懂的汇报：
-→ 摘要
-→ 影响
-→ 进度（绿/黄/红）
-→ 阻碍
-→ 下一步
-→ 待决策事项
-清晰、简洁、拿得出手
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/d4ad42b3-0864-44b0-86cf-ab5c57d6c276?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/0xluffy_eth/status/2067072246548680941>)
-
----
-
 <a id="selected-food-drink"></a>
 
 ### Food &amp; Drink · 14
@@ -3378,7 +3372,7 @@ An ultra-realistic, cinematic portrait of a beautiful young East Asian woman wit
 
 <a id="selected-character-art"></a>
 
-### Character &amp; Art · 14
+### Character &amp; Art · 15
 
 [Browse on MuseSignal](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>)
 
@@ -3729,9 +3723,32 @@ Check the Stey bye step Tutorial here 👇🏻
 
 ---
 
+<a id="prompt-a63507b2-0e03-44c3-9354-65439e7caa32"></a>
+
+#### LEGO Minifigure Mirror Selfie 3D Render
+
+<a href="https://musesignal.com/prompt/a63507b2-0e03-44c3-9354-65439e7caa32?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOQEwkPWMAATWHd.jpg?format=jpg&amp;name=small" width="480" alt="LEGO Minifigure Mirror Selfie 3D Render" /></a>
+
+**Nano Banana 2** · Creator: TechieSA
+
+Use case: Character &amp; Art
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+“High-quality stylized 3D CGI LEGO render, vertical 3:4 composition, the 3 most iconic characters from [SHOW/MOVIE] recreated as authentic LEGO minifigures captured in a chaotic and joyful bathroom mirror selfie; the most recognizable character holds a large LEGO-built vintage camera up toward the mirror, the other two squeezed tightly into the frame around them, each showing their most signature expression printed on their yellow ABS plastic face; everyone wearing LEGO-accurate printed torso designs and accessories faithful to the source material; all crammed together creating classic crowded selfie energy; facial details rendered as flat printed minifigure graphics with classic LEGO stud-top heads, signature cylindrical hands and blocky proportions faithfully preserving each character’s most recognizable traits, hair pieces and costume prints from [SHOW/MOVIE]; the bathroom mirror has realistic toothpaste splatters and subtle smudges on the glass surface contrasting with the plastic toy world; the reflection shows bold black LEGO-style lettering reading “[SHOW/MOVIE]❤️”; the bathroom background is built entirely from LEGO bricks and plates styled to match the world of [SHOW/MOVIE] with thematic LEGO-built props and easter eggs relevant to [SHOW/MOVIE] placed naturally around the scene; lighting combines soft ambient bathroom lighting with a bright camera flash reflecting in the mirror creating gentle specular highlights bouncing off shiny ABS plastic surfaces; color grading faithful to the visual tone of [SHOW/MOVIE], visible plastic sheen and subtle fingerprint smudges on minifigure surfaces, ultra-detailed 4K render, no watermark.”
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a63507b2-0e03-44c3-9354-65439e7caa32?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/TechieBySA/status/2081794164610437450>)
+
+---
+
 <a id="selected-scene-space"></a>
 
-### Scene &amp; Space · 12
+### Scene &amp; Space · 11
 
 [Browse on MuseSignal](<https://musesignal.com/?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>)
 
@@ -4027,40 +4044,6 @@ Articles & Text: The rest of the page is filled with a professional multi-column
 
 ---
 
-<a id="prompt-657a3e4c-6f17-4846-9f1f-18166dbdb283"></a>
-
-#### Storm Tunnel to Muddy Pitch
-
-<a href="https://musesignal.com/prompt/657a3e4c-6f17-4846-9f1f-18166dbdb283?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLQlH4uasAAmDkE.jpg?format=jpg&amp;name=small" width="480" alt="Storm Tunnel to Muddy Pitch" /></a>
-
-**GPT Image 2** · Creator: 𝐌
-
-Use case: Scene &amp; Space
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-GPT STORYBOARD PROMPT
-Scenel (0:00-0:02) -Storm Tunnel: Heavy rain hammers the stadium tunnel entrance.
-Hero stands already soaked, water dripping from his jaw and hair, kit clinging to him. 85mm push-in, dramatic low light, water droplets visible in slow motion.
-Scene 2 (0:02 -0:04) -Mud and Lightning: Hero sprints onto a waterlogged World Cup 2026
-final pitch. Lightning briefly illum inates the packed stadium. Floodlights reflect off standing puddles on the grass.
-Scenes 3-5 (0:04 0:10)-Trick Sequence in Storm: Body feint past USA defender on slick
-turfboth nearly slip. Heel roll past Belgium through standing water with visible splash. Drag-back 360 past Argentina, kit now caked in mud. Orbit spin past France, barely visible through sheets of rain. Nutmeg past Norway striker, both completely drenched. Ground-level tracking through heavy rain, fast whip-pans, speed ram ps.
-Scene 6 (0:100:12) -Desperate Header: A cross com es in through the storm. Hero dives
-full stretch, body parallel to the muddy ground, connecting with a desperate header. Macro slow motion, water spraying from the impact.
-Scenes 7-8 (0:12 0:15) -Net & Trophy in Rain: Ball hits net. Hero lands face-down in mud,
-then rises completely soaked and filthy, arms raised. Teammates slide in beside him through the wet grass. Trophy lift in pouring rain, water cascading off the gold trophy, fireworks struggling through storm clouds.
-Visual consistency: same face, same mud-soaked kit, same drenched hair throughout. No logos. ARRI Alexa 35 grade, desaturated storm tones, anamorphic flores through rain.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/657a3e4c-6f17-4846-9f1f-18166dbdb283?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Strength04_X/status/2068319029438329285>)
-
----
-
 ## Keep exploring
 
 [Browse on MuseSignal](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=after_examples>) · [Start creating with free credits](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=after_examples_create>)
@@ -4071,28 +4054,28 @@ Explore more examples, search and filters on MuseSignal.
 
 | Model | Prompts | MuseSignal |
 | --- | ---: | --- |
-| Adobe Firefly | 1 | [Browse on MuseSignal](<https://musesignal.com/?model=adobe-firefly&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_adobe-firefly>) |
+| Adobe Firefly | 2 | [Browse on MuseSignal](<https://musesignal.com/?model=adobe-firefly&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_adobe-firefly>) |
 | GPT Image | 45 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 327 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
-| Grok | 18 | [Browse on MuseSignal](<https://musesignal.com/?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
+| GPT Image 2 | 328 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
+| Grok | 19 | [Browse on MuseSignal](<https://musesignal.com/?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
 | Ideogram | 1 | [Browse on MuseSignal](<https://musesignal.com/?model=ideogram&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_ideogram>) |
 | Leonardo | 2 | [Browse on MuseSignal](<https://musesignal.com/?model=leonardo&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_leonardo>) |
-| Midjourney | 31 | [Browse on MuseSignal](<https://musesignal.com/?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
+| Midjourney | 32 | [Browse on MuseSignal](<https://musesignal.com/?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
 | Nano Banana | 23 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana>) |
-| Nano Banana 2 | 73 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
+| Nano Banana 2 | 74 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
 | Nano Banana Pro | 78 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-pro>) |
 | Not specified | 13 | — |
 
 ## Recently published
 
+- [Grainy 35mm Film Portrait on a Balcony](<https://musesignal.com/prompt/fd5568cd-4b02-40d3-a7d7-b4e8468a24bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Midjourney
+- [High Fashion B&amp;W Editorial Portrait](<https://musesignal.com/prompt/777a95ba-cdad-4727-bef2-eff205eb8637?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Amateur Gym iPhone Selfie Portrait](<https://musesignal.com/prompt/b9accb0d-9968-4963-b768-3fbf004e9543?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Grok
+- [LEGO Minifigure Mirror Selfie 3D Render](<https://musesignal.com/prompt/a63507b2-0e03-44c3-9354-65439e7caa32?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana 2
+- [Nighttime Train Station Portrait in Vintage Film Style](<https://musesignal.com/prompt/43c7faad-e206-4441-9316-ad8a1ba4baaf?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Adobe Firefly
 - [Minimalist Marker-Pen New York City Travel Poster](<https://musesignal.com/prompt/738a6b81-595b-4ef1-b140-c2c897ceeafb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Nocturnal Fashion Portrait in Black Wool Coat](<https://musesignal.com/prompt/b5a16730-ab7c-4fdb-998c-28096b4537be?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Midjourney
 - [Luxury Ballroom Fashion Editorial Portrait](<https://musesignal.com/prompt/1b7cb5cf-ce49-4c2f-9de2-9533424ddc89?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
-- [Luxury Wellness Detox Drink Poster](<https://musesignal.com/prompt/864f840b-f078-46e4-9a81-fe7bc463add2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Red Bull Cinematic 3D Commercial Ad](<https://musesignal.com/prompt/31766bf8-0560-4b8c-865c-7ff278e78eb9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Photorealistic Megan Fox Tongue-Out Portrait](<https://musesignal.com/prompt/0a640817-c8b2-498c-a345-8a174ec9ffc3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Grok
-- [Soccer Ball Leather Gaming Console Product Render](<https://musesignal.com/prompt/e431e1f3-272e-4598-83ed-2cdb642a665b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana 2
-- [Hyderabadi Chicken Biryani Recipe Infographic](<https://musesignal.com/prompt/9371c856-1ea1-45e4-8124-2fd10ccac036?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 
 ## Generate on MuseSignal
 
@@ -4113,7 +4096,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 612](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 617](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

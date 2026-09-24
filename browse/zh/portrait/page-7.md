@@ -649,3 +649,99 @@ Photorealistic nocturnal fashion portrait of exactly one striking adult European
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b5a16730-ab7c-4fdb-998c-28096b4537be?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Goodmanprotocol/status/2081095004936917184>)
 
 ---
+
+<a id="prompt-777a95ba-cdad-4727-bef2-eff205eb8637"></a>
+
+## High Fashion B&amp;W Editorial Portrait
+
+<a href="https://musesignal.com/zh/prompt/777a95ba-cdad-4727-bef2-eff205eb8637?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQhOB3haoAA0GOb.jpg?format=jpg&amp;name=small" width="480" alt="High Fashion B&amp;W Editorial Portrait" /></a>
+
+**GPT Image 2** · 原作者: BMX
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a high fashion black and white editorial portrait of a slim young woman posing dynamically against a completely seamless white studio background.
+
+Pose & Composition: Three quarter side profile, body turned toward the right while her face looks back toward the camera. Her torso bends slightly forward with an exaggerated fashion pose. One arm reaches dramatically toward the camera, creating strong foreshortening so the hand appears very large in the foreground. Fingers are spread naturally with long manicured nails and several metallic rings. Her opposite arm extends backward to the right side of the frame. Crop around the upper thighs while keeping both arms visible.
+Face & Hair: Sharp editorial facial features, intense confident expression, slightly parted lips, defined cheekbones, dark smoky eye makeup and thin brows. Short jet black bob haircut with very short blunt micro bangs, slightly flipped and curled ends around the neck.
+
+Wardrobe: Ultra glossy black patent leather cropped jacket with oversized sculptural sleeves, exaggerated folds, reflective highlights and a futuristic wet look finish. The jacket exposes the waist and stomach. Low rise fitted pants with an abstract marbled psychedelic pattern in gray and black.
+Camera: Fashion photography, slightly wide angle lens around 28–35mm. Camera positioned near chest level. Strong perspective distortion from the hand reaching very close to the lens. Crisp facial focus with the foreground hand slightly softer.
+
+Lighting: High key white studio lighting with strong directional highlights reflecting from the patent leather. Bright clean background, deep black clothing, dramatic monochrome tonal contrast, smooth grayscale skin.
+Style: Avant garde 1990s/early 2000s fashion editorial, experimental magazine photography, futuristic cyber fashion aesthetic, edgy couture posing, surreal proportions caused by perspective, polished but slightly raw analog-photo character, fine film grain.
+
+Color: Pure black and white monochrome, bright whites, deep glossy blacks and silver gray midtones.
+No text, no typography, no logo, no watermark, no borders, no interface elements. aspect ratio 16:9
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/777a95ba-cdad-4727-bef2-eff205eb8637?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/bmx_ai13/status/2092105940539527653>)
+
+---
+
+<a id="prompt-fd5568cd-4b02-40d3-a7d7-b4e8468a24bc"></a>
+
+## Grainy 35mm Film Portrait on a Balcony
+
+<a href="https://musesignal.com/zh/prompt/fd5568cd-4b02-40d3-a7d7-b4e8468a24bc?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRMbf-oagAAV3XW.jpg?format=jpg&amp;name=small" width="480" alt="Grainy 35mm Film Portrait on a Balcony" /></a>
+
+**Midjourney** · 原作者: Sarah
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Beautiful young adult woman on a small balcony, loose auburn hair, grey sweater and ceramic mug, photographed on grainy 35mm color film --v 8.2 --ar 5:4
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fd5568cd-4b02-40d3-a7d7-b4e8468a24bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AIwithSarah_/status/2095048501268984052>)
+
+---
+
+<a id="prompt-43c7faad-e206-4441-9316-ad8a1ba4baaf"></a>
+
+## Nighttime Train Station Portrait in Vintage Film Style
+
+<a href="https://musesignal.com/zh/prompt/43c7faad-e206-4441-9316-ad8a1ba4baaf?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOJ4n5sawAAa9uH.jpg?format=jpg&amp;name=small" width="480" alt="Nighttime Train Station Portrait in Vintage Film Style" /></a>
+
+**Adobe Firefly** · 原作者: BMX
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Adobe Firefly Image 5 Prompt: Nighttime train station platform. A young East Asian woman stands in the foreground with her back to the camera, turning to look over her shoulder. Dark brown hair in a short ponytail, soft bangs, fair skin, delicate features, subtle smile, one hand touching her chin. She wears a fitted white cropped T shirt, dark navy pleated mini skirt, white ankle socks, and carries a large dark blue leather shoulder bag with metal chain details. Behind her, a turquoise and beige train begins moving, its warm amber lit windows creating motion blur. Rough concrete platform, metal railings, yellow warning line. Strong film grain, slightly faded vintage tones, cool night ambience mixed with warm artificial light, Japanese urban cinematic mood. Vertical 3:4 composition, subject slightly right of center, shallow depth of field.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/43c7faad-e206-4441-9316-ad8a1ba4baaf?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/bmx_ai13/status/2081494518713766319>)
+
+---
+
+<a id="prompt-b9accb0d-9968-4963-b768-3fbf004e9543"></a>
+
+## Amateur Gym iPhone Selfie Portrait
+
+<a href="https://musesignal.com/zh/prompt/b9accb0d-9968-4963-b768-3fbf004e9543?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQfbFfqW8AAclxT.jpg?format=jpg&amp;name=small" width="480" alt="Amateur Gym iPhone Selfie Portrait" /></a>
+
+**Grok** · 原作者: DANJI
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Amateur gym portrait iphone selfie (profile) of a skinny norwegian influencer and supermodel around 22yo trying outfit that boost her crazy perfect body shape! Tongue out, massive bouncy ass
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b9accb0d-9968-4963-b768-3fbf004e9543?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/DanjiTosaka/status/2091881535720849420>)
+
+---
