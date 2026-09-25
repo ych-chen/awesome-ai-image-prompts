@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "template_version": 2,
-  "data_revision": "f2681156d0bce4a69182752af73d9430f44e9690975bfb2849e158bf7a4c21b9",
+  "data_revision": "9e2262be1236c844273e8af2e0863811b1e0a352d6d664298f24ffa3ebd6221f",
   "count": 620,
   "readme_count": 100,
   "categories": {
@@ -30,7 +30,7 @@
     "nano-banana": 175,
     "unknown": 69
   },
-  "content_updated_at": "2026-09-24T06:16:17.560Z",
+  "content_updated_at": "2026-09-25T06:20:59.320Z",
   "selection": {
     "limit": 620,
     "source_imports": [
