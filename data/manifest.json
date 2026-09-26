@@ -1,38 +1,38 @@
 {
   "schema_version": 1,
   "template_version": 2,
-  "data_revision": "9e2262be1236c844273e8af2e0863811b1e0a352d6d664298f24ffa3ebd6221f",
-  "count": 620,
+  "data_revision": "b968d4fb0cbadf02d8fcaf7079461bf2e648cb19c15631bbc186cab015570ff6",
+  "count": 642,
   "readme_count": 100,
   "categories": {
-    "character-art": 120,
-    "commercial-product": 120,
-    "food-drink": 24,
-    "portrait": 196,
+    "character-art": 121,
+    "commercial-product": 121,
+    "food-drink": 25,
+    "portrait": 213,
     "poster-graphic": 116,
-    "scene-space": 44
+    "scene-space": 46
   },
   "models": {
     "adobe-firefly": 2,
     "gpt-image": 45,
-    "gpt-image-2": 331,
-    "grok": 19,
+    "gpt-image-2": 348,
+    "grok": 20,
     "ideogram": 1,
     "leonardo": 2,
-    "midjourney": 32,
+    "midjourney": 33,
     "nano-banana": 23,
-    "nano-banana-2": 74,
-    "nano-banana-pro": 78,
+    "nano-banana-2": 75,
+    "nano-banana-pro": 80,
     "unknown": 13
   },
   "families": {
-    "gpt-image": 376,
-    "nano-banana": 175,
-    "unknown": 69
+    "gpt-image": 393,
+    "nano-banana": 178,
+    "unknown": 71
   },
-  "content_updated_at": "2026-09-25T06:20:59.320Z",
+  "content_updated_at": "2026-09-26T06:19:46.853Z",
   "selection": {
-    "limit": 620,
+    "limit": 642,
     "source_imports": [
       "twitter_scrape"
     ],

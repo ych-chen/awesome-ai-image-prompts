@@ -622,3 +622,51 @@ Main Visual Elements:
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e722963d-54cd-478a-8d1b-0ff0e989cfa0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/nxnusratul/status/2068280987948359734>)
 
 ---
+
+<a id="prompt-833f008d-8ae1-4593-b569-195a6d48953c"></a>
+
+## Floating City Islands Miniature Diorama
+
+<a href="https://musesignal.com/zh/prompt/833f008d-8ae1-4593-b569-195a6d48953c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLW6RLjXAAAxklW.jpg?format=jpg&amp;name=small" width="480" alt="Floating City Islands Miniature Diorama" /></a>
+
+**Nano Banana 2** · 原作者: TechieSA
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+“A photorealistic miniature 3D diorama of [CITY], rendered as a small floating island chunk of earth torn from the ground, hovering above thick golden-hour clouds. The shape of the island should loosely mirror the city's real-life geography (coastline, riverbank, or land contour).
+The island's edge shows a jagged rock/cliff cross-section with exposed earth and roots, water flowing off the edges like a waterfall into the clouds below.
+On top of the island: a hyper-detailed miniature recreation of the city's skyline, automatically including only its most iconic, instantly-recognizable landmarks — chosen based on what the city is actually famous for — arranged naturally with tiny streets, cars, trees, and a beach or waterfront if applicable. Keep it clean and uncluttered, not overly dense or busy.
+Lighting: soft warm golden-hour sunset, glowing rim light, polished premium sheen on every surface — buildings, water, and rock should have a slightly glossy, high-end render quality that feels expensive and cinematic, like a luxury movie poster, not a toy diorama.
+Camera: aerial 3/4 view looking down at the island, tilt-shift miniature effect, ultra-detailed textures, volumetric clouds surrounding the island on all sides, sky gradient from warm gold to soft blue.
+Bottom of frame: large elegant gold serif text reading "CITY" in all caps, centered, with subtle metallic drop shadow, premium movie-poster typography.
+Aspect ratio 4:5, photorealistic 3D render, octane/unreal engine quality, no text other than the city name.”
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/833f008d-8ae1-4593-b569-195a6d48953c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2068764415244009718>)
+
+---
+
+<a id="prompt-65eef4c9-d02b-4a16-ad98-474847db9025"></a>
+
+## Photorealistic Food Landscape with Map Pin Overlay
+
+<a href="https://musesignal.com/zh/prompt/65eef4c9-d02b-4a16-ad98-474847db9025?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOGFyJSWEAAn3gW.jpg?format=jpg&amp;name=small" width="480" alt="Photorealistic Food Landscape with Map Pin Overlay" /></a>
+
+**GPT Image 2** · 原作者: TechieSA
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+“Photorealistic aerial/wide-angle landscape photograph where all terrain, rocks, cliffs and ground are made entirely of [FOOD]. Hyper-detailed macro texture, natural dramatic lighting, blue sky with clouds in background, cinematic composition. In the center of the image is a white rounded pill-shaped location pin overlay with a black map pin icon and the text “[FOOD NAME] [LANDSCAPE WORD]”. Ultra realistic, no cartoon style.”
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/65eef4c9-d02b-4a16-ad98-474847db9025?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2081091609320386663>)
+
+---
