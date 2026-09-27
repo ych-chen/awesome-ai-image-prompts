@@ -835,6 +835,35 @@
     "content_hash": "27df43151e462e4652b091852705970efd0a63eefa21882db96de80a7fafe7a0"
   },
   {
+    "id": "0bac35ee-e5fd-4bb3-a220-f20cd2a012ca",
+    "title": "Amateur Gym iPhone Selfie Portrait",
+    "prompt": "Amateur gym portrait iphone selfie of an italian influencer around 22yo trying outfit that boost her crazy perfect body shape",
+    "category": "portrait",
+    "model_key": "grok",
+    "model_name": "Grok",
+    "model_family": null,
+    "author": {
+      "name": "DANJI",
+      "handle": "DanjiTosaka"
+    },
+    "source_platform": "X",
+    "source_id": "2079421577796452730",
+    "source_url": "https://x.com/DanjiTosaka/status/2079421577796452730",
+    "images": [
+      "https://pbs.twimg.com/media/HNuW5T6XwAA4P9y.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNuW5T8WwAAeP5S.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNuW5T8XsAAZsWv.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNuW5T8WMAAbydb.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/0bac35ee-e5fd-4bb3-a220-f20cd2a012ca",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/0bac35ee-e5fd-4bb3-a220-f20cd2a012ca",
+    "published_at": "2026-09-27T06:54:22.619032+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "35f601cd212c305ad21210c77ed17d8efd15073e01d446ba35708b9a08a2e229"
+  },
+  {
     "id": "0c8b249a-0c83-442b-9c18-da2b489cf759",
     "title": "Relaxed Pose in Teal Bodysuit on Outdoor Couch",
     "prompt": "{\n\"image_description\": {\n\"subject\": {\n\"use_reference_image\": true,\n\"override\": false,\n\"pose_and_composition\": {\n\"position\": \"sitting on the top backrest of an outdoor couch\",\n\"body_language\": \"arms raised with hands behind the head, legs crossed at the calves, relaxed and symmetrical\",\n\"angle\": \"eye-level, front-facing\",\n\"shot_type\": \"full-body portrait\",\n\"aspect_ratio\": \"2:3 (vertical)\"\n}\n},\n\"attire\": {\n\"primary_garment\": \"dusty blue/teal ribbed knit bodysuit or romper\",\n\"garment_details\": \"square neckline, thick tank-style straps, body-con fit\",\n\"footwear\": \"white ankle-high crew socks with 'TNA' logo printed in dark text on the foot and ankle\",\n\"jewelry\": [\n\"multiple gold and pearl beaded bracelets on both wrists\",\n\"delicate gold chain necklace\"\n],\n},\n\"environment\": {\n\"setting\": \"outdoor patio or deck\",\n\"furniture\": \"grey wicker-style couch with thick light-grey fabric cushions\",\n\"background_elements\": [\n\"sliding glass doors with white frames\",\n\"interior view showing a wooden floor and a dark wooden table\",\n\"a glimpse of a patterned rug (blue and white) inside the room\",\n\"a small, colorful abstract-patterned rug on the wooden deck floor near the door\"\n]\n},\n\"lighting_and_style\": {\n\"lighting\": \"natural daylight, soft and diffused\",\n\"vibe\": \"warm, casual, lifestyle photography\"\n},\n\"technical_details\": {\n\"focus\": \"sharp focus on subject with slight background softness\",\n\"depth_of_field\": \"shallow to moderate\",\n\"color_palette\": [\n\"dusty blue\",\n\"cool grey\",\n\"warm wood tones\",\n\"crisp white\"",
@@ -1243,6 +1272,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "7951118981c73c3faec4a0bdb4d4e527303b02f097981afa51f8c366eb258085"
+  },
+  {
+    "id": "11606100-9b27-492b-8aeb-0d15fd749131",
+    "title": "IMMORTALS — FIFA World Cup 2026 Collector Poster",
+    "prompt": "IMMORTALS — FIFA WORLD CUP 2026\nCreate an ultra-premium collector's edition football art poster titled:\nIMMORTALS\nThis is not a standard sports poster.\nThis is not a match advertisement.\nThis should feel like a luxury museum exhibition, a Sotheby's football collection, and a high-end designer toy showcase combined into a single legendary masterpiece.\nThe composition centers around the FIFA World Cup Trophy displayed like the most valuable artifact in sports history, illuminated by dramatic golden spotlighting inside a monumental dark exhibition hall.\nSurrounding the trophy are eight elite football icons presented as premium collectible statues displayed inside individual luxury showcase cases.\nThe players stand like immortal figures preserved for future generations.\nFeatured legends:\nCristiano Ronaldo\nLionel Messi\nKylian Mbappé\nErling Haaland\nVinícius Júnior\nJude Bellingham\nLamine Yamal\nJamal Musiala\nCHARACTER DESIGN\nEach player appears as a hyper-detailed premium collectible figure.\nDesigner-toy proportions.\nSlightly heroic anatomy.\nMuseum-quality realism.\nLuxury action-figure presentation.\nIndividual poses reflecting their identity and legacy.\nConfident posture.\nIconic silhouettes.\nPedestal-mounted displays.\nEvery figure appears worthy of being displayed in a billionaire collector's vault.\nEXHIBITION DESIGN\nThe environment resembles a futuristic football museum.\nMassive architectural walls.\nDark charcoal stone.\nBrushed metal structures.\nGlass display cases.\nGolden reflections.\nPremium black marble flooring.\nFloating dust particles illuminated by spotlight beams.\nThe central World Cup trophy becomes the visual heart of the composition.\nTYPOGRAPHY\nMassive hand-painted luxury typography dominates the upper composition:\nIMMORTALS\nAdditional layered typography throughout:\nLEGENDS ARE REMEMBERED.\nICONS ARE IMMORTAL.\nTHE WORLD IS WATCHING.\nHISTORY IS WRITTEN HERE.\nGREATNESS NEVER RETIRES.\nTypography appears painted, scratched, engraved, layered, rewritten, and preserved like historical artifacts.\nPLAYER PLAQUES\nEach showcase pedestal includes engraved career achievements presented as luxury museum descriptions.\nExamples:\nBallon d'Or wins\nWorld Cup titles\nChampions League titles\nGoals scored\nNational team records\nCareer milestones\nPresented with elegant gold engraving.\nMICRO DETAILS\nThousands of hidden football references:\nHistoric match moments\nNational flags\nTournament memories\nStadium silhouettes\nNewspaper fragments\nTicket stubs\nVintage football photography\nCareer timelines\nWorld Cup host cities\nLegendary celebrations\nFan banners\nChampionship years\nEvery section rewards long observation.\nVISUAL ELEMENTS\nLuxury display lighting\nMuseum glass reflections\nGolden dust particles\nEngraved metal plates\nTrophy reflections\nFootball blueprints\nHistorical sketches\nCollector markings\nSignature engravings\nChampionship seals\nLimited edition numbering\nGold foil details\nEmbossed textures\nCOLOR PALETTE\nDeep charcoal black\nObsidian stone\nLuxury gold\nWarm bronze\nRich silver\nChampionship white\nSubtle sapphire highlights\nMinimal crimson accents\nSTYLE\nUltra-premium football collector artwork\nLuxury museum exhibition aesthetic\nDesigner toy culture\nHigh-fashion editorial composition\nGallery-quality sports illustration\nPhotorealistic materials\nCinematic spotlighting\nExtreme detail density\nHyper-detailed textures\n8K masterpiece\nThe final image should feel like the official cover artwork for football's greatest generation—an unforgettable visual monument where every player has transcended stardom and entered immortality.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Hemayxn.ai",
+      "handle": "hemayxn"
+    },
+    "source_platform": "X",
+    "source_id": "2068923096950870218",
+    "source_url": "https://x.com/hemayxn/status/2068923096950870218",
+    "images": [
+      "https://pbs.twimg.com/media/HLZKT3ebkAAhBwb.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/11606100-9b27-492b-8aeb-0d15fd749131",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/11606100-9b27-492b-8aeb-0d15fd749131",
+    "published_at": "2026-09-27T06:54:14.848612+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "187fde626c42500f3136edf036782673b43f50484c1e4ff3db6627f32f243791"
   },
   {
     "id": "11d977e8-e1bc-4f29-9dfd-0e82dd1e8f71",
@@ -2250,6 +2305,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "0ad00911376f68762d6e2cece130b3f4d6caaef6249a068105abcefe1ec32e54"
+  },
+  {
+    "id": "214bc881-d2e8-4745-a953-1593bf60ed1d",
+    "title": "Cozy Morning Portrait with Golden Retriever",
+    "prompt": "A high-fashion, high-fidelity 8K lifestyle portrait in a 9:16 aspect ratio, capturing a candid, cozy morning moment. A beautiful young woman with flawless skin, striking green eyes, and rich dark brown hair styled in elaborate, neat crown braids that flow into a voluminous, wavy low ponytail on the side. She is smiling subtly while taking a bite of a thick slice of golden-brown brioche toast topped with creamy scrambled eggs. She is wearing a casual, off-the-shoulder white oversized t-shirt with a minimalist cartoon dog graphic on the front that says \"Life is GREAT!!\".\n\nSitting right next to her at a rustic, weathered wooden dining table is a gorgeous Golden Retriever, looking up at her with adoring eyes. On the table sits a clean aesthetic layout: a red and white ceramic mug, a clear plastic container filled with a vibrant green garden salad, a matte pink protein shaker bottle, and a neatly folded newspaper. \n\nThe background is a bright, sunlit kitchen interior filled with cozy Scandinavian-boho decor, featuring lush green potted Monstera plants, warm wooden cabinetry, and soft light filtering through wooden window blinds. In the soft-focus background, a vintage retro red toaster oven sits on the counter. Shot on an 85mm lens, f/1.8, shallow depth of field, soft natural cinematic lighting, Douyin realism aesthetic, vibrant colors, completely clean visual without any text overlays, logos, or watermarks.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "liana",
+      "handle": "Lianaalane"
+    },
+    "source_platform": "X",
+    "source_id": "2064912501314064662",
+    "source_url": "https://x.com/Lianaalane/status/2064912501314064662",
+    "images": [
+      "https://pbs.twimg.com/media/HKgK-G0bkAAHyqU.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d",
+    "published_at": "2026-09-27T06:54:13.011163+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "86046ccb546c031ec0df3dfc1be3f5c7be63ce44694e91544a39945ccad6b783"
   },
   {
     "id": "2155234d-3c8e-4da2-9fb2-94c9b2752d2c",
@@ -8272,6 +8353,32 @@
     "content_hash": "a25cedb4d8b77f85d8b7d3ae2efaf5a978aa3596894955e325f499cc6c75572e"
   },
   {
+    "id": "7ca4d603-ab04-407f-9e36-2f68e521fcec",
+    "title": "Y2K Japanese Magazine Beauty Portrait",
+    "prompt": "9:16 vertical, ultra-realistic fashion beauty portrait, early 2000s Japanese fashion magazine editorial, Y2K Asian beauty photobook aesthetic, clearly adult East Asian woman in her mid-20s, delicate small oval face, warm ivory skin, realistic pores and natural skin texture, dewy glossy skin with subtle wet highlights on the forehead, nose bridge, cheeks, shoulders and collarbones, slender cat-like eyes with soft gray-green contact lenses.\n\nMakeup inspired by early-2000s Japanese beauty editorials: translucent luminous base, soft lavender and icy lilac shimmer eyeshadow, subtle pearlescent highlight at the inner corners of the eyes, elongated thin black winged eyeliner, softly defined lower lash line, delicate separated lashes, cool pink blush concentrated lightly across the upper cheeks, subtle highlight on the nose bridge and cheekbones, glossy translucent rose-pink lips with a glassy finish. Overall makeup feels fresh, cool-toned, slightly dreamy, and unmistakably Y2K without looking theatrical.\n\nGlossy black hair styled into symmetrical loose double side buns / Y2K space buns with small outward pigtail ends, thick wispy blunt bangs, long thin face-framing strands resting naturally beside the cheeks. Add several tiny translucent lavender and pale blue hair clips, plus one silver hollow star-shaped metal hair clip. A few loose strands spread softly across the white surface beneath her head.\n\nWearing a fitted icy powder-blue off-shoulder top in soft stretch fabric, slightly cool-toned and subtly glossy, with straps resting naturally on the upper arms, exposing the shoulders and collarbones. Layered delicate silver necklaces with tiny crystal and translucent acrylic pendants, subtle Y2K jewelry styling, clean and feminine.\n\nThe woman is lying relaxed on a clean white studio floor or softly wrinkled white fabric, photographed from directly above. Her body is angled slightly diagonally across the frame, one arm bent loosely near the side of her head, the other resting naturally across her waist or beside her torso. Shoulders relaxed, head tilted only slightly, eyes looking directly up toward the camera. Her space buns and loose hair spread naturally around her head, creating a soft graphic silhouette.\n\nTop-down overhead composition, chest-up to half-body framing, 50mm to 85mm portrait lens, clean editorial composition with generous negative space. Pure white seamless background, high-key studio lighting, large softbox from above and slightly to one side, soft reflector fill, extremely gentle shadows, subtle highlight bloom, bright airy exposure, slight early-2000s magazine softness while keeping the eyes sharply focused.\n\nRealistic fabric folds, individual hair strands, glossy skin highlights, delicate pearlescent makeup reflections, soft nostalgic Y2K Japanese magazine mood, intimate but polished photobook aesthetic, icy blue and lavender color palette, realistic editorial photography, no text, no watermark.",
+    "category": "portrait",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "BubbleBrain",
+      "handle": "BubbleBrain"
+    },
+    "source_platform": "X",
+    "source_id": "2102322774090133548",
+    "source_url": "https://x.com/BubbleBrain/status/2102322774090133548",
+    "images": [
+      "https://pbs.twimg.com/media/HSzzVSxaAAAjdeU.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/7ca4d603-ab04-407f-9e36-2f68e521fcec",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/7ca4d603-ab04-407f-9e36-2f68e521fcec",
+    "published_at": "2026-09-27T06:54:34.877743+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "27291bf85654e21fb6c824bb751cb6425fa6f027b2340d1d1cec992df5da2e69"
+  },
+  {
     "id": "7ce0b4b7-d6c4-49af-8ba3-8f492005f936",
     "title": "Japan's Star: World Cup 2026 Campaign Portrait",
     "prompt": "{\n\"Professional FIFA World Cup 2026 player poster featuring {subject} from the uploaded image as the main athlete. Full-body portrait, seated confidently on a large geometric pedestal marked with jersey number 10, direct eye contact, calm and determined expression. Wearing a modern Japan national football team navy-blue jersey with white shoulder stripes, matching shorts, knee-high socks, football boots, captain armband with Japanese flag. Clean editorial sports photography, premium Nike/Adidas-style campaign aesthetic, minimalist beige studio background. Large oversized translucent number '10' dominating the backdrop. Sophisticated sports branding layout with Japanese typography, national flags, geometric design elements, vertical text blocks, player profile information, tournament graphics, and modern magazine-style composition. High-end commercial sports poster, balanced negative space, sharp details, realistic fabric textures, subtle shadows, elite athlete presentation, FIFA promotional artwork style, centered composition, symmetrical design, ultra-clean typography hierarchy, muted cream and navy color palette, premium print-quality finish.\",\n\"negative_prompt\": \"low resolution, blurry face, extra limbs, extra fingers, distorted anatomy, duplicate body parts, bad typography, cluttered layout, watermark, logo errors, cropped feet, deformed hands, overexposed lighting, oversaturated colors, cartoon, anime, illustration, CGI, unrealistic proportions, messy background, poor composition\",\n\"style\": \"sports editorial poster\",\n\"camera\": {\n\"angle\": \"eye level\",\n\"framing\": \"full body portrait\",\n\"lens\": \"85mm\"\n},\n\"lighting\": {\n\"type\": \"soft studio lighting\",\n\"quality\": \"clean, even, commercial\"\n},\n\"subject\": {\n\"source\": \"uploaded image\",\n\"identity_preservation\": \"high\",\n\"pose\": \"sitting on pedestal, elbows resting on knees, hands clasped together\",\n\"expression\": \"confident and composed\"\n},\n\"design\": {\n\"aspect_ratio\": \"4:5\",\n\"background\": \"minimalist warm beige\",\n\"primary_colors\": [\"navy blue\", \"cream\", \"white\", \"red\"],\n\"graphic_elements\": [\n\"oversized number 10\",\n\"Japanese flags\",\n\"sports branding graphics\",\n\"vertical typography\",\n\"player information panels\",\n\"modern geometric accents\"\n]\n},\n\"quality\": {\n\"photorealism\": \"ultra realistic\",\n\"detail\": \"high\",\n\"render_quality\": \"8k\"",
@@ -9747,6 +9854,32 @@
     "content_hash": "f27c544715befdb43c385439e93a5fa1e0e5041d283a176b2684bf2687e28db8"
   },
   {
+    "id": "8f761fdd-cd2f-47ba-af48-1c0dccaf1219",
+    "title": "Kawaii Doodle Food Photo Transformation",
+    "prompt": "Transform a close-up food photo into a whimsical kawaii doodle aesthetic. Add adorable hand-drawn cartoon eyes, a smiling mouth, rosy blush cheeks, tiny arms and legs, making the food look alive and expressive. Surround it with playful white doodles including sparkles, stars, hearts, arrows, swirls, speech bubbles, and cute handwritten captions in a casual marker style. Include small accessories like a tiny crown, party hat, sunglasses, or cape to give the food a fun personality. Keep the original food photo realistic while layering clean, sketchy doodles on top. Use soft pastel accent colors (yellow, pink, mint, light blue) sparingly for highlights, maintaining a cozy, cheerful, Instagram-worthy aesthetic. The overall look should feel like a charming hand-illustrated journal page with a playful, heartwarming vibe, while preserving the food as the main focus.",
+    "category": "food-drink",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Smiling Khan",
+      "handle": "AIwithkhan"
+    },
+    "source_platform": "X",
+    "source_id": "2082080274968608811",
+    "source_url": "https://x.com/AIwithkhan/status/2082080274968608811",
+    "images": [
+      "https://pbs.twimg.com/media/HOUI-G1bkAAbhL0.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219",
+    "published_at": "2026-09-27T06:54:28.806608+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "345123f7c79b2a370f3b17a611b074d2c9855cd6a0d640f152690ca3cab6c21c"
+  },
+  {
     "id": "8f7c10fa-661b-43bb-acf7-dde6ea96825e",
     "title": "Reclining in Leopard Print",
     "prompt": "{\n\"image_prompt\": {\n\"aspect_ratio\": \"3:4\",\n\"subject\": {\n\"reference\": \"Use the reference image for the subject’s identity, face, and hair — preserve exact facial features, proportions, and likeness.\"\n},\n\"clothing_and_accessories\": {\n\"outfit\": \"Strapless leopard-print dress, black scalloped lace top trim, pulled up to reveal high thigh slit.\",\n\"accessories\": {\n\"jewelry\": \"Thin silver ring on left middle finger, silver ring on right index finger.\",\n\"nails\": \"Solid off-white/pale polish.\"\n}\n},\n\"pose\": \"Reclining comfortably on a bed, angled body. Left hand gently touching chin/lower lip. Right hand resting on bare thigh, holding the dress fabric.\",\n\"background_details\": {\n\"setting\": \"Minimalist bedroom corner.\",\n\"objects\": \"Unmade bed with heavily wrinkled, draped white sheets. One light grey square pillow propped against the corner. Plain, flat off-white walls.\"\n},\n\"lighting\": \"Soft, diffused, balanced indoor lighting creating smooth shadows and flattering skin tones.\"",
@@ -10019,6 +10152,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "afee66127d35e4fff35a7de27554dab23a3562012dc2a59594f2547c9f8c2588"
+  },
+  {
+    "id": "92ef0a56-5998-409a-b28d-633adac91df0",
+    "title": "Premium Cinematic Korean Menu Food Photography",
+    "prompt": "GPT IMAGE 2 on CHATGPT \n\nCreate a realistic, premium cinematic food photography image of [Menu Name] in a vertical 3:4 aspect ratio. If a reference food photo is provided, match its ingredients, shape, plating, colours, textures, and composition exactly; otherwise, create a realistic version based on the menu name. Plate the dish elegantly on a rustic wooden table with suitable props. Use soft natural window light coming from the upper-right, warm highlights, cool soft shadows, shallow depth of field, subtle film grain, realistic textures, rising steam, and a 50mm lens perspective with a slightly top-down eye-level angle. Follow the rule of thirds. Display the menu name in Korean at the upper-left in a thin, elegant Gungsuh-style font, with a short emotional Korean tagline below it and a concise Korean description of the dish in the lower-left. Use subtle colours for all text. Add a thin double rectangular border around the image, perfectly aligned and unbroken. Do not include any other text, logos, prices, or watermarks. The overall style should feel luxurious, warm, natural, and editorial, like a high-end gourmet food advertisement.",
+    "category": "food-drink",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Anissa",
+      "handle": "SimplyAnnisa"
+    },
+    "source_platform": "X",
+    "source_id": "2081766364558340548",
+    "source_url": "https://x.com/SimplyAnnisa/status/2081766364558340548",
+    "images": [
+      "https://pbs.twimg.com/media/HOPrdnRWsAARHMP.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOPreKHWAAAFRC4.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/92ef0a56-5998-409a-b28d-633adac91df0",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/92ef0a56-5998-409a-b28d-633adac91df0",
+    "published_at": "2026-09-27T06:54:27.50951+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "0ee30b1dd8b619924f011ce2ba331a423c9127bb866d4837daf5bc709111ef34"
   },
   {
     "id": "9357fa59-0c96-4500-bc80-e2556488a3a1",
@@ -14689,6 +14849,33 @@
     "content_hash": "5755509e30d2188d70050a31c921f68dcba7d19ba1d644e854262d9e9febda3c"
   },
   {
+    "id": "d8823313-26d9-443f-9c05-947f784cdabd",
+    "title": "Song Dynasty Boudoir Portrait",
+    "prompt": "Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot，Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16",
+    "category": "portrait",
+    "model_key": "midjourney",
+    "model_name": "Midjourney",
+    "model_family": null,
+    "author": {
+      "name": "BubbleBrain",
+      "handle": "BubbleBrain"
+    },
+    "source_platform": "X",
+    "source_id": "2102248515355505134",
+    "source_url": "https://x.com/BubbleBrain/status/2102248515355505134",
+    "images": [
+      "https://pbs.twimg.com/media/HSyvavjbcAATSNj.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSyvavhbkAAmkCf.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d8823313-26d9-443f-9c05-947f784cdabd",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d8823313-26d9-443f-9c05-947f784cdabd",
+    "published_at": "2026-09-27T06:54:32.219415+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "0df664a0767f964a3a8b52a48a4abb35459dcef4e5dc32150036a7e4937fc332"
+  },
+  {
     "id": "d8a40940-fab1-4ef8-a285-c0b8e0bf4dd4",
     "title": "Fragmented Intensity: Abstract Mixed-Media Portrait",
     "prompt": "A highly expressive mixed-media digital portrait of a woman, blending realism with chaotic abstract elements. The composition features a close-up of a face emerging from a dark, textured background. The artwork is characterized by aggressive, energetic brushstrokes, splatters, and fine white scribbled lines that create a sense of fragmentation and emotional intensity.The color palette is dark and moody, punctuated by vibrant bursts of crimson, magenta, yellow, and orange. Sharp diagonal light streaks or \"light leaks\" in bright red and orange cut across the upper left corner, adding a cinematic, glitch-like effect. The style is a fusion of street art, double exposure, and contemporary expressionism. The overall mood is dramatic and haunting, with high contrast between the deep shadows and the brightly colored, textured overlays on the skin. 8k resolution, fine art detail, gritty urban aesthetic, multilayered textures.",
@@ -14740,6 +14927,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "d55071c192115de2249ccd11d68ed30cb8e9557980c288b77f0134b88b6ca63a"
+  },
+  {
+    "id": "d947e1af-93aa-4881-b4bf-1cb908343cc8",
+    "title": "Pixar-Style 3D Character Avatar Bust",
+    "prompt": "Detailed Prompt\n​3D stylized character avatar bust of a friendly man, Pixar and Disney animation style, smooth digital clay render.\n​Character Details: Dark wavy brown hair styled upwards with volume, thick dark eyebrows, expressively large green eyes, a neatly groomed full beard and mustache, and a subtle friendly smile.\n​Accessories: Round metallic wire-frame glasses with light yellow tint lenses.\n​Attire: Plain black crew-neck t-shirt.\n​Style & Lighting: Clean 3D studio render, soft volumetric studio lighting, smooth matte shading, high-detail textures, centered front facing headshot composition.\n​Background: Solid dark forest green backdrop with a soft radial vignette.",
+    "category": "character-art",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Aijaz",
+      "handle": "iamsofiaijaz"
+    },
+    "source_platform": "X",
+    "source_id": "2080868713709154525",
+    "source_url": "https://x.com/iamsofiaijaz/status/2080868713709154525",
+    "images": [
+      "https://pbs.twimg.com/media/HOC7D0qa0AApNMB.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8",
+    "published_at": "2026-09-27T06:54:24.039958+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ed0615e4973b8e2ae2c434bf24e9cc3ff5a2dd609db31adcc850c21e415b7bad"
   },
   {
     "id": "d99e74ba-0241-44b0-bc82-539091eb5ab8",

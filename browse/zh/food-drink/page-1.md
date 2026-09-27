@@ -714,3 +714,47 @@ Prompt:
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e2ec30e1-fd91-4781-9696-77042de0d173?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maercihh/status/2075100327188271254>)
 
 ---
+
+<a id="prompt-8f761fdd-cd2f-47ba-af48-1c0dccaf1219"></a>
+
+## Kawaii Doodle Food Photo Transformation
+
+<a href="https://musesignal.com/zh/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOUI-G1bkAAbhL0.jpg?format=jpg&amp;name=small" width="480" alt="Kawaii Doodle Food Photo Transformation" /></a>
+
+**Nano Banana** · 原作者: Smiling Khan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Transform a close-up food photo into a whimsical kawaii doodle aesthetic. Add adorable hand-drawn cartoon eyes, a smiling mouth, rosy blush cheeks, tiny arms and legs, making the food look alive and expressive. Surround it with playful white doodles including sparkles, stars, hearts, arrows, swirls, speech bubbles, and cute handwritten captions in a casual marker style. Include small accessories like a tiny crown, party hat, sunglasses, or cape to give the food a fun personality. Keep the original food photo realistic while layering clean, sketchy doodles on top. Use soft pastel accent colors (yellow, pink, mint, light blue) sparingly for highlights, maintaining a cozy, cheerful, Instagram-worthy aesthetic. The overall look should feel like a charming hand-illustrated journal page with a playful, heartwarming vibe, while preserving the food as the main focus.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AIwithkhan/status/2082080274968608811>)
+
+---
+
+<a id="prompt-92ef0a56-5998-409a-b28d-633adac91df0"></a>
+
+## Premium Cinematic Korean Menu Food Photography
+
+<a href="https://musesignal.com/zh/prompt/92ef0a56-5998-409a-b28d-633adac91df0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOPrdnRWsAARHMP.jpg?format=jpg&amp;name=small" width="480" alt="Premium Cinematic Korean Menu Food Photography" /></a>
+
+**GPT Image 2** · 原作者: Anissa
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+GPT IMAGE 2 on CHATGPT 
+
+Create a realistic, premium cinematic food photography image of [Menu Name] in a vertical 3:4 aspect ratio. If a reference food photo is provided, match its ingredients, shape, plating, colours, textures, and composition exactly; otherwise, create a realistic version based on the menu name. Plate the dish elegantly on a rustic wooden table with suitable props. Use soft natural window light coming from the upper-right, warm highlights, cool soft shadows, shallow depth of field, subtle film grain, realistic textures, rising steam, and a 50mm lens perspective with a slightly top-down eye-level angle. Follow the rule of thirds. Display the menu name in Korean at the upper-left in a thin, elegant Gungsuh-style font, with a short emotional Korean tagline below it and a concise Korean description of the dish in the lower-left. Use subtle colours for all text. Add a thin double rectangular border around the image, perfectly aligned and unbroken. Do not include any other text, logos, prices, or watermarks. The overall style should feel luxurious, warm, natural, and editorial, like a high-end gourmet food advertisement.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/92ef0a56-5998-409a-b28d-633adac91df0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/SimplyAnnisa/status/2081766364558340548>)
+
+---

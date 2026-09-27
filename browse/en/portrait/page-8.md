@@ -139,3 +139,103 @@ PROMPT:
 **[Try on MuseSignal →](<https://musesignal.com/prompt/fa4df9af-2def-4438-a745-1da26fd97eba?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Document195/status/2082565170539429993>)
 
 ---
+
+<a id="prompt-214bc881-d2e8-4745-a953-1593bf60ed1d"></a>
+
+## Cozy Morning Portrait with Golden Retriever
+
+<a href="https://musesignal.com/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKgK-G0bkAAHyqU.jpg?format=jpg&amp;name=small" width="480" alt="Cozy Morning Portrait with Golden Retriever" /></a>
+
+**Nano Banana Pro** · Creator: liana
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A high-fashion, high-fidelity 8K lifestyle portrait in a 9:16 aspect ratio, capturing a candid, cozy morning moment. A beautiful young woman with flawless skin, striking green eyes, and rich dark brown hair styled in elaborate, neat crown braids that flow into a voluminous, wavy low ponytail on the side. She is smiling subtly while taking a bite of a thick slice of golden-brown brioche toast topped with creamy scrambled eggs. She is wearing a casual, off-the-shoulder white oversized t-shirt with a minimalist cartoon dog graphic on the front that says "Life is GREAT!!".
+
+Sitting right next to her at a rustic, weathered wooden dining table is a gorgeous Golden Retriever, looking up at her with adoring eyes. On the table sits a clean aesthetic layout: a red and white ceramic mug, a clear plastic container filled with a vibrant green garden salad, a matte pink protein shaker bottle, and a neatly folded newspaper. 
+
+The background is a bright, sunlit kitchen interior filled with cozy Scandinavian-boho decor, featuring lush green potted Monstera plants, warm wooden cabinetry, and soft light filtering through wooden window blinds. In the soft-focus background, a vintage retro red toaster oven sits on the counter. Shot on an 85mm lens, f/1.8, shallow depth of field, soft natural cinematic lighting, Douyin realism aesthetic, vibrant colors, completely clean visual without any text overlays, logos, or watermarks.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Lianaalane/status/2064912501314064662>)
+
+---
+
+<a id="prompt-d8823313-26d9-443f-9c05-947f784cdabd"></a>
+
+## Song Dynasty Boudoir Portrait
+
+<a href="https://musesignal.com/prompt/d8823313-26d9-443f-9c05-947f784cdabd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSyvavjbcAATSNj.jpg?format=jpg&amp;name=small" width="480" alt="Song Dynasty Boudoir Portrait" /></a>
+
+**Midjourney** · Creator: BubbleBrain
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Private boudoir in the inner chambers; soft-light CCD, blown highlights, heavy blur; full-body shot，Song-dynasty ancient style; vermilion lips and pearly teeth, swaying and graceful; beauty lives in the bone, not the skin. 9:16
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d8823313-26d9-443f-9c05-947f784cdabd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/BubbleBrain/status/2102248515355505134>)
+
+---
+
+<a id="prompt-7ca4d603-ab04-407f-9e36-2f68e521fcec"></a>
+
+## Y2K Japanese Magazine Beauty Portrait
+
+<a href="https://musesignal.com/prompt/7ca4d603-ab04-407f-9e36-2f68e521fcec?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSzzVSxaAAAjdeU.jpg?format=jpg&amp;name=small" width="480" alt="Y2K Japanese Magazine Beauty Portrait" /></a>
+
+**GPT Image 2.5** · Creator: BubbleBrain
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+9:16 vertical, ultra-realistic fashion beauty portrait, early 2000s Japanese fashion magazine editorial, Y2K Asian beauty photobook aesthetic, clearly adult East Asian woman in her mid-20s, delicate small oval face, warm ivory skin, realistic pores and natural skin texture, dewy glossy skin with subtle wet highlights on the forehead, nose bridge, cheeks, shoulders and collarbones, slender cat-like eyes with soft gray-green contact lenses.
+
+Makeup inspired by early-2000s Japanese beauty editorials: translucent luminous base, soft lavender and icy lilac shimmer eyeshadow, subtle pearlescent highlight at the inner corners of the eyes, elongated thin black winged eyeliner, softly defined lower lash line, delicate separated lashes, cool pink blush concentrated lightly across the upper cheeks, subtle highlight on the nose bridge and cheekbones, glossy translucent rose-pink lips with a glassy finish. Overall makeup feels fresh, cool-toned, slightly dreamy, and unmistakably Y2K without looking theatrical.
+
+Glossy black hair styled into symmetrical loose double side buns / Y2K space buns with small outward pigtail ends, thick wispy blunt bangs, long thin face-framing strands resting naturally beside the cheeks. Add several tiny translucent lavender and pale blue hair clips, plus one silver hollow star-shaped metal hair clip. A few loose strands spread softly across the white surface beneath her head.
+
+Wearing a fitted icy powder-blue off-shoulder top in soft stretch fabric, slightly cool-toned and subtly glossy, with straps resting naturally on the upper arms, exposing the shoulders and collarbones. Layered delicate silver necklaces with tiny crystal and translucent acrylic pendants, subtle Y2K jewelry styling, clean and feminine.
+
+The woman is lying relaxed on a clean white studio floor or softly wrinkled white fabric, photographed from directly above. Her body is angled slightly diagonally across the frame, one arm bent loosely near the side of her head, the other resting naturally across her waist or beside her torso. Shoulders relaxed, head tilted only slightly, eyes looking directly up toward the camera. Her space buns and loose hair spread naturally around her head, creating a soft graphic silhouette.
+
+Top-down overhead composition, chest-up to half-body framing, 50mm to 85mm portrait lens, clean editorial composition with generous negative space. Pure white seamless background, high-key studio lighting, large softbox from above and slightly to one side, soft reflector fill, extremely gentle shadows, subtle highlight bloom, bright airy exposure, slight early-2000s magazine softness while keeping the eyes sharply focused.
+
+Realistic fabric folds, individual hair strands, glossy skin highlights, delicate pearlescent makeup reflections, soft nostalgic Y2K Japanese magazine mood, intimate but polished photobook aesthetic, icy blue and lavender color palette, realistic editorial photography, no text, no watermark.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7ca4d603-ab04-407f-9e36-2f68e521fcec?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/BubbleBrain/status/2102322774090133548>)
+
+---
+
+<a id="prompt-0bac35ee-e5fd-4bb3-a220-f20cd2a012ca"></a>
+
+## Amateur Gym iPhone Selfie Portrait
+
+<a href="https://musesignal.com/prompt/0bac35ee-e5fd-4bb3-a220-f20cd2a012ca?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNuW5T6XwAA4P9y.jpg?format=jpg&amp;name=small" width="480" alt="Amateur Gym iPhone Selfie Portrait" /></a>
+
+**Grok** · Creator: DANJI
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Amateur gym portrait iphone selfie of an italian influencer around 22yo trying outfit that boost her crazy perfect body shape
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0bac35ee-e5fd-4bb3-a220-f20cd2a012ca?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/DanjiTosaka/status/2079421577796452730>)
+
+---
