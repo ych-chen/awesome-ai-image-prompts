@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **650** | **100** | 2026-09-27 |
+| **662** | **100** | 2026-09-28 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -28,10 +28,10 @@
 
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
-| [人像摄影](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 217 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
-| [商业产品](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 121 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
-| [海报设计](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 117 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
-| [食物饮品](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 27 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
+| [人像摄影](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 225 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
+| [商业产品](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 122 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
+| [海报设计](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 119 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
+| [食物饮品](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 28 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
 | [角色艺术](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 122 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
 | [场景空间](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) | 46 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) |
 
@@ -45,7 +45,7 @@
 
 <a id="selected-portrait"></a>
 
-### 人像摄影 · 30
+### 人像摄影 · 27
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>)
 
@@ -927,6 +927,334 @@ Negative prompt: full-body distant shot, face too small, unclear expression, neu
 
 ---
 
+<a id="prompt-4daea946-6d3e-4800-aab1-cac5847ca9b9"></a>
+
+#### Morning Light Lace Portrait
+
+<a href="https://musesignal.com/zh/prompt/4daea946-6d3e-4800-aab1-cac5847ca9b9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS55hUVbQAAkBi9.jpg?format=jpg&amp;name=small" width="480" alt="Morning Light Lace Portrait" /></a>
+
+**GPT Image 2** · 原作者: Prompt アトリエ｜AI画像プロンプト
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+【GPT Image2プロンプト】
+
+主題：
+淡青レースの寝起き
+
+主体：
+画面中央、白い寝具へ横たわる淡青レースランジェリー姿の女性の近接肖像が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔をやや左へ傾け、視線をカメラへ合わせて唇を少し開いた穏やかな表情。明るい茶色の肩下ウェーブ髪を枕へ広げ、薄い前髪が目元へかかる。
+
+服装・ポーズ：
+淡青の細い肩紐、リブ生地、白レース縁と胸元の小リボンを持つブラトップ、白い編みカーディガン。横向きに寝て左手で頭を支え、右肩と上体をカメラへ寄せる。
+
+背景・光：
+画面左から画面右の背景に、白い花柄布団と枕、奥に木のチェストと白い花瓶。画面左上の窓から柔らかな朝の直射光が顔と肩を照らす。
+
+構図・カメラ：
+3:4の縦構図、寝具と同じ高さの近い斜め正面カメラで頭頂から胸下までのクローズアップを収めるポートレート。人物を中央へ非常に大きく配置し、画面高の大部分を占める。髪、肩、腕を画面端で自然に裁切し、両目と唇にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、淡青、木色の明るい朝色を保つ。
+
+ネガティブ：
+顔向きと寝姿勢変更；淡青レース省略
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4daea946-6d3e-4800-aab1-cac5847ca9b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104439207628517430>)
+
+---
+
+<a id="prompt-97dc4135-37b8-4051-984d-7ca6f79e95eb"></a>
+
+#### Golden Lace Sunset Window Portrait
+
+<a href="https://musesignal.com/zh/prompt/97dc4135-37b8-4051-984d-7ca6f79e95eb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS53UoiaEAAiOEq.jpg?format=jpg&amp;name=small" width="480" alt="Golden Lace Sunset Window Portrait" /></a>
+
+**GPT Image 2** · 原作者: Prompt アトリエ｜AI画像プロンプト
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+【GPT Image2プロンプト】
+
+主題：
+夕海窓の金レース
+
+主体：
+画面中央から右、海を望む開いた窓枠に座る金色レースドレスの女性が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔を正面へ向け、視線をカメラへ合わせて淡く微笑む表情。濃茶の長いウェーブ髪を片側へ流し、薄い前髪を残す。
+
+服装・ポーズ：
+ベージュ金の細い肩紐、深い胸元、総刺繍レースを持つ床丈ドレス。石の窓台へ腰掛け、右脚を曲げて左脚へ重ね、両手を左右の窓台へ置く。
+
+背景・光：
+画面左から画面右の背景に、白い開き窓、蔦と白花、バルコニー、海岸の街、山、沈む太陽。背景左の夕日から柔らかな金色の逆光が髪とドレスを照らす。
+
+構図・カメラ：
+3:4の縦構図、目線よりやや低い正面カメラで頭頂からドレス裾までの全身を収めるポートレート。人物を中央から右へ大きく配置し、画面高の大部分を占める。花と窓枠を左右端に残し、顔と金色レースにピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、金、白、緑、桃色の夕景を保つ。
+
+ネガティブ：
+窓台の座り姿勢変更；夕海とレース省略
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/97dc4135-37b8-4051-984d-7ca6f79e95eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104413035267866982>)
+
+---
+
+<a id="prompt-de1c1674-efe2-42f7-8ab5-d8b3d1ba1e9e"></a>
+
+#### Night City Sofa Portrait in Black
+
+<a href="https://musesignal.com/zh/prompt/de1c1674-efe2-42f7-8ab5-d8b3d1ba1e9e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS51gLLbMAA7ZsM.jpg?format=jpg&amp;name=small" width="480" alt="Night City Sofa Portrait in Black" /></a>
+
+**GPT Image 2** · 原作者: Prompt アトリエ｜AI画像プロンプト
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+【GPT Image2プロンプト】
+
+主題：
+夜景ソファの黒装い
+
+主体：
+画面中央、夜景の見える現代的な部屋で黒い服を着てソファに座る女性が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面から少し左へ向け、視線をカメラへ合わせた落ち着いた真顔。黒い長いストレート髪を下ろし、薄い前髪と顔周りの毛束を残す。
+
+服装・ポーズ：
+黒いハイネックのノースリーブクロップドトップとウエストを絞ったウエストを絞った黒いロングスカート。低いソファへ座って上体を少し後ろへ預け、両膝を斜めに重ね、片手を座面へ置く。
+
+背景・光：
+大窓の外に都会の夜景、灰色ソファ、暗い壁と間接照明の現代的な室内。窓の柔らかな青い夜光と画面右の暖かな間接光が顔と輪郭を照らす。
+
+構図・カメラ：
+13:19の縦構図、床近くからの低い斜め正面カメラで頭頂から足元近くまでの全身を収めるポートレート。人物を右半分へ大きく配置。ソファとスカート裾を下端で自然に裁切し、顔と黒い衣装にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、黒、灰、青、琥珀色の夜色を保つ。
+
+ネガティブ：
+立ち姿への変更；夜景と黒衣装省略
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/de1c1674-efe2-42f7-8ab5-d8b3d1ba1e9e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104379061321490730>)
+
+---
+
+<a id="prompt-f6f37010-9bb0-42bc-8beb-6a652895dc32"></a>
+
+#### Sleeping Woman in Blue Floral Camisole
+
+<a href="https://musesignal.com/zh/prompt/f6f37010-9bb0-42bc-8beb-6a652895dc32?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS5zo7HbQAAdmUa.jpg?format=jpg&amp;name=small" width="480" alt="Sleeping Woman in Blue Floral Camisole" /></a>
+
+**GPT Image 2** · 原作者: Prompt アトリエ｜AI画像プロンプト
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+【GPT Image2プロンプト】
+
+主題：
+青花キャミの眠り
+
+主体：
+画面中央、白いベッドで青い花柄キャミソール姿のまま眠る女性が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を横へ向け、両目を完全に閉じ、唇を軽く閉じた安らかな寝顔。濃茶の長い髪を枕と肩へ広げ、細い前髪が額へかかる。
+
+服装・ポーズ：
+白地に小さな青い花柄と細い肩紐を持つキャミソールトップ。横向きに眠り、片腕を枕の下へ曲げ、もう片方を胸元近くへ添える。
+
+背景・光：
+白い枕とシーツが画面を満たす明るい寝室。画面左上から柔らかな朝光が閉じた瞼と肩へ淡く差す。
+
+構図・カメラ：
+3:4の縦構図、枕の高さからの近い斜め正面カメラで頭頂から胸元までのクローズアップを収めるポートレート。人物を中央へ大きく配置。髪と肩を画面端で自然に裁切し、閉じた瞼と青花柄にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、淡青、柔らかな肌色を保つ。
+
+ネガティブ：
+開眼やカメラ目線；青花柄の省略
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f6f37010-9bb0-42bc-8beb-6a652895dc32?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104331246558154978>)
+
+---
+
+<a id="prompt-ce39445c-2552-4d44-a91e-e70de6ade887"></a>
+
+#### Dappled Leaf-Shadow Natural Portrait
+
+<a href="https://musesignal.com/zh/prompt/ce39445c-2552-4d44-a91e-e70de6ade887?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS5xyk1boAEj_ML.jpg?format=jpg&amp;name=small" width="480" alt="Dappled Leaf-Shadow Natural Portrait" /></a>
+
+**GPT Image 2** · 原作者: Prompt アトリエ｜AI画像プロンプト
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+【GPT Image2プロンプト】
+
+主題：
+葉影の生成り肖像
+
+主体：
+画面中央、屋外の葉影の中で生成りのジャケットを着た女性の近接肖像が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面からやや左へ向け、視線をカメラへ合わせた柔らかな表情。濃茶の長いウェーブ髪を下ろし、薄い前髪と頬沿いの後れ毛を残す。
+
+服装・ポーズ：
+生成りのオーバーサイズテーラードジャケット、胸元に同系色のレーストップ、細い金の重ねネックレス。上体をわずかに傾け、肩を抜いて自然に立つ。
+
+背景・光：
+緑の葉と淡い壁が大きくぼける屋外の木陰。画面左上から柔らかな柔らかな柔らかな木漏れ日が頬、額、ジャケットへ斑に落ちる。
+
+構図・カメラ：
+3:4の縦構図、目線と同じ高さの正面カメラで頭頂から胸下までのバストアップを収めるポートレート。人物を中央へ大きく配置。髪と肩を左右端で自然に裁切し、両目と肌の葉影にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、生成り、緑、肌色の自然な低彩度を保つ。
+
+ネガティブ：
+葉影の省略；ジャケット色変更
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ce39445c-2552-4d44-a91e-e70de6ade887?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104197615982178366>)
+
+---
+
+<a id="prompt-367207d1-eb18-491f-91e8-1ff4d428bff7"></a>
+
+#### Moonlit Ruined Greenhouse Gothic Portrait
+
+<a href="https://musesignal.com/zh/prompt/367207d1-eb18-491f-91e8-1ff4d428bff7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS5vxzUbIAAKr4W.jpg?format=jpg&amp;name=small" width="480" alt="Moonlit Ruined Greenhouse Gothic Portrait" /></a>
+
+**GPT Image 2** · 原作者: Prompt アトリエ｜AI画像プロンプト
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+【GPT Image2プロンプト】
+
+主題：
+月下廃園の黒桃
+
+主体：
+画面中央、月夜の崩れた温室で黒いトップと桃色スカート姿でしゃがむ女性が主役。
+
+人物・表情：
+小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面へ向け、視線をカメラへ合わせた冷静で少し挑む表情。黒い長髪は濡れたような束感で肩へ流れ、薄い前髪が額へかかる。
+
+服装・ポーズ：
+黒い長袖クロップドトップ、淡桃のプリーツミニスカート、白い厚底ロングブーツ。濡れた床へ低くしゃがみ、片手を膝へ、もう片手を床近くへ添える。
+
+背景・光：
+画面左から画面右の背景に壊れたガラス温室、蔦、石柱、奥の大きな満月、前景に反射する濡れた床。背後を光源とする柔らかな青白い月光と画面前方の弱い補助光が輪郭と顔を照らす。
+
+構図・カメラ：
+9:16の縦構図、床近くの低い正面カメラで頭頂から厚底ブーツまでの全身を収めるポートレート。人物を中央へ小さく配置し、画面高の半分ほどを占める。温室の高さと床の反射を十分残し、顔と黒桃の衣装にピント、背景は軽くぼかす。
+
+質感・スタイル：
+フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、青黒、淡桃、白の幻想的な夜色を保つ。
+
+ネガティブ：
+昼景への変更；温室と満月省略
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/367207d1-eb18-491f-91e8-1ff4d428bff7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104182012907008131>)
+
+---
+
+<a id="prompt-9304e8f9-692b-409e-b78c-237f962e068f"></a>
+
+#### Vogue Fashion Editorial Portrait
+
+<a href="https://musesignal.com/zh/prompt/9304e8f9-692b-409e-b78c-237f962e068f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOJKgAnaoAA6GOU.jpg?format=jpg&amp;name=small" width="480" alt="Vogue Fashion Editorial Portrait" /></a>
+
+**GPT Image 2** · 原作者: Aijaz
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A high-definition, professional fashion editorial photograph of a sophisticated woman with a sleek, center-parted bun. She is wearing elegant, thin-rimmed silver glasses and a minimalist white long-sleeved silk blouse. She is posed gracefully with her hands near her face and chest, showcasing a luxury silver watch. The background is a clean, bright white with bold, high-contrast black serif typography reading 'VOGUE' at the top. Studio lighting, soft skin texture, sharp focus on the eyes, 8k resolution, shot on a 85mm lens for a flattering portrait compression."
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9304e8f9-692b-409e-b78c-237f962e068f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2081307898412740619>)
+
+---
+
+<a id="prompt-453b1d7e-a3cc-4792-af3e-4a45257295d2"></a>
+
+#### Luxury Studio Portrait Collage of a Stylish Boy
+
+<a href="https://musesignal.com/zh/prompt/453b1d7e-a3cc-4792-af3e-4a45257295d2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMbisS8a4AA70xG.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Studio Portrait Collage of a Stylish Boy" /></a>
+
+**GPT Image 2** · 原作者: Zarnab Ai
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A hyper-realistic premium studio portrait collage of a stylish little boy with medium-length black hair and fair skin, wearing a deep maroon button-up shirt, white loose-fit pants, and clean white sneakers. The composition features three versions of the same child: one large side-profile wearing black round sunglasses with a confident expression, one large portrait looking downward thoughtfully, and one full-body front-facing pose standing casually with hands in pockets and wearing a silver wristwatch. The background is a smooth dark gray studio backdrop with dramatic white liquid splash effects artistically surrounding all three portraits, creating a luxury fashion editorial look. Soft cinematic studio lighting, ultra-detailed facial features, realistic skin texture, sharp focus, high contrast, premium color grading, shallow depth of field, photorealistic, 8K, masterpiece, fashion magazine cover style.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/453b1d7e-a3cc-4792-af3e-4a45257295d2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Zarnab_with_Ai/status/2073593945406230689>)
+
+---
+
 <a id="prompt-7ca4d603-ab04-407f-9e36-2f68e521fcec"></a>
 
 #### Y2K Japanese Magazine Beauty Portrait
@@ -1035,341 +1363,9 @@ The background is a bright, sunlit kitchen interior filled with cozy Scandinavia
 
 ---
 
-<a id="prompt-e1492cf8-6800-4393-9430-30257d71bd97"></a>
-
-#### Candid Street Portrait of Woman on Storefront Steps
-
-<a href="https://musesignal.com/zh/prompt/e1492cf8-6800-4393-9430-30257d71bd97?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTHOUNQW8AEmoe8.jpg?format=jpg&amp;name=small" width="480" alt="Candid Street Portrait of Woman on Storefront Steps" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A photorealistic candid street-style portrait of a young woman sitting casually on the concrete steps outside a small urban storefront. She has long dark hair tied back in a low ponytail with loose face-framing strands, natural makeup, fair skin, and a soft thoughtful expression as she looks slightly to the side.
-She is wearing large white over-ear headphones and a cropped white knit sweater with bold black graphic lettering across the front and sleeves. The sweater has a relaxed oversized fit. She pairs it with loose dark navy or black wide-leg trousers and clean white sneakers. A structured black leather handbag rests beside her, with a small cute plush keychain hanging from the handle.
-She sits in a relaxed pose with one leg bent and crossed slightly forward, one hand resting near her lap and the other holding the handbag strap. The storefront behind her has a glass door and windows covered with numerous colorful stickers, small decals, and street-style graphics. A yellow caution sign is attached to the glass, while reflections of parked cars and the surrounding street appear in the window.
-Composition: vertical 4:5 portrait, full-body framing, subject centered, slightly low eye-level perspective, authentic candid street photography, storefront filling the background.
-Lighting: soft natural daylight, slightly cool urban tones, realistic shadows, subtle reflections on the glass, balanced exposure.
-Photography style: ultra-realistic smartphone street photography, Korean-inspired casual fashion aesthetic, natural skin texture, detailed knit fabric, realistic hair strands, authentic storefront textures, subtle depth of field, slightly grainy everyday-photo look, high detail, 4K.
-Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped clothing, distorted headphones, unrealistic handbag, fake reflections, oversaturated colors, excessive blur, low resolution, text, watermark, logo.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e1492cf8-6800-4393-9430-30257d71bd97?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2103689369039069238>)
-
----
-
-<a id="prompt-2155234d-3c8e-4da2-9fb2-94c9b2752d2c"></a>
-
-#### Photorealistic Bedroom Selfie Portrait
-
-<a href="https://musesignal.com/zh/prompt/2155234d-3c8e-4da2-9fb2-94c9b2752d2c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTESor1bkAA1l7V.jpg?format=jpg&amp;name=small" width="480" alt="Photorealistic Bedroom Selfie Portrait" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A photorealistic close-up lifestyle selfie of a young woman relaxing indoors on a bed. She has long, thick, naturally wavy dark brown hair spread loosely around her shoulders, with soft face-framing strands. She has natural fair skin, subtle rosy cheeks, softly defined eyes, and glossy natural lips. She looks directly into the camera with a calm, slightly dreamy expression.
-She is wearing a dark forest-green fitted graphic T-shirt with a vintage-style cream printed design and lettering. Her pose is relaxed and casual, leaning comfortably on the bed while taking the selfie from a slightly elevated angle. The image has a spontaneous, intimate everyday-photo feeling rather than a formal portrait.
-The background is a bright, cozy modern bedroom with a neatly made bed, large windows covered by sheer white curtains, a wall-mounted black television, white shelving with books and small decorative objects, and a glass vase filled with small yellow flowers. Warm natural daylight enters through the curtains, creating soft highlights across her hair and face.
-Composition: vertical portrait, close-up to medium framing, slightly tilted camera angle, face and upper body dominant in the frame, natural smartphone selfie perspective.
-Lighting: soft window daylight, gentle warm highlights, realistic shadows, subtle indoor ambient light, natural skin tones.
-Photography style: ultra-realistic smartphone photography, authentic candid selfie aesthetic, detailed skin texture, individual hair strands, realistic fabric texture, shallow depth of field, natural color grading, subtle film grain, high detail, 4K.
-Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, artificial hair, over-smoothed skin, oversaturated colors, excessive blur, low resolution, text, watermark, logo.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2155234d-3c8e-4da2-9fb2-94c9b2752d2c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2103483008191959376>)
-
----
-
-<a id="prompt-c2f808ca-eef0-4fcb-accd-e47f64cc6fa0"></a>
-
-#### Street-Style Full-Body Portrait in Afternoon Sunlight
-
-<a href="https://musesignal.com/zh/prompt/c2f808ca-eef0-4fcb-accd-e47f64cc6fa0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTDGnqNawAEeSJh.jpg?format=jpg&amp;name=small" width="480" alt="Street-Style Full-Body Portrait in Afternoon Sunlight" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A photorealistic full-body street-style portrait of a young woman standing casually outdoors in front of a modern building. She has long, straight dark brown hair falling naturally over her shoulders, soft face-framing strands, fair skin, subtle natural makeup, defined eyeliner, and a calm confident expression while looking directly at the camera.
-She is wearing an oversized black graphic T-shirt with colorful retro-style lettering across the chest, paired with short black shorts mostly hidden beneath the oversized shirt. She wears a cream-white baseball cap with small minimal lettering on the front and carries a structured white crossbody shoulder bag with a thin strap.
-Her pose is relaxed and natural: one hand rests near the crossbody bag while the other is raised beside her head with the palm facing outward, as if casually adjusting her cap or greeting the camera.
-The background features a clean modern building facade with large dark-framed windows, a covered parking or driveway area, concrete steps, and patterned pavement. Strong afternoon sunlight creates crisp shadows on the ground and highlights her hair and clothing.
-Composition: vertical 4:5 portrait, full-body framing, subject centered, eye-level smartphone camera perspective, realistic proportions, casual candid street photography.
-Lighting: bright natural afternoon sunlight, strong directional shadows, realistic highlights and contrast, slightly warm skin tones.
-Photography style: ultra-realistic smartphone photography, authentic casual fashion aesthetic, natural skin texture, detailed hair strands, realistic cotton fabric, subtle depth of field, crisp environmental details, natural color grading, high detail, 4K.
-Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped clothing, distorted bag, artificial hair, oversaturated colors, excessive blur, low resolution, text, watermark, logo.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/c2f808ca-eef0-4fcb-accd-e47f64cc6fa0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2103399441948631390>)
-
----
-
-<a id="prompt-f34a4afc-0ace-4d4f-a5c1-a0fa3dd4e933"></a>
-
-#### Candid Smartphone Portrait of Woman with Coffee
-
-<a href="https://musesignal.com/zh/prompt/f34a4afc-0ace-4d4f-a5c1-a0fa3dd4e933?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS-9UVVaMAERLP8.jpg?format=jpg&amp;name=small" width="480" alt="Candid Smartphone Portrait of Woman with Coffee" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Create an extremely photorealistic candid smartphone photograph of a young woman standing outdoors on a sunny day near a roadside construction area.
-She has long, naturally wavy dark brown-black hair parted slightly in the middle, soft loose strands around her face, natural subtle makeup, realistic skin texture with visible pores and tiny imperfections, natural lips, soft facial features, and a calm neutral expression. Her face must look completely natural and human, not like CGI or an AI-generated model.
-She is wearing an oversized light heather-gray short-sleeve T-shirt with subtle white lettering across the chest and a small red handwritten-style logo in the center, paired with dark gray denim jeans. She is casually holding a small brown paper cup of coffee or dessert with one hand while gently stirring it with a small spoon in the other hand.
-Composition: vertical 3:4 smartphone photograph, medium-full body framing, camera positioned around chest height, subject centered slightly left of frame. Natural casual posture, relaxed shoulders, realistic hand and finger anatomy.
-Background: a real urban roadside environment with a white compact van passing behind her, red-and-white temporary road construction barriers, black-and-white directional chevron signs, metal traffic signs, green bushes along the sidewalk, and a distant blue-gray mountain/hill visible beneath a bright partly cloudy sky.
-The sidewalk is made of realistic reddish and beige interlocking brick pavement with natural variation and slight imperfections.
-Lighting: bright natural midday sunlight, realistic soft shadows, slightly warm daylight, natural highlights on hair and skin. Authentic smartphone dynamic range with subtle exposure variation.
-Camera characteristics: realistic modern smartphone camera, 26mm equivalent wide-angle lens, natural perspective, slight computational photography, realistic HDR, mild lens softness toward the edges, natural autofocus, subtle motion imperfections, realistic depth of field. The image should feel like an unplanned photo taken by a friend while walking, NOT a professional photoshoot.
-Extremely realistic human skin, realistic individual hair strands, physically accurate fabric texture, natural wrinkles and folds in the T-shirt, realistic hands, realistic spoon and cup, believable shadows and reflections.
-NO cinematic look, NO studio lighting, NO beauty filter, NO plastic skin, NO excessive facial retouching, NO exaggerated bokeh, NO artificial sharpness, NO CGI, NO 3D render, NO anime, NO illustration, NO doll-like face, NO perfect symmetrical features, NO deformed hands, NO extra fingers.
-The final image must be indistinguishable from an authentic casual smartphone photograph taken in real life.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f34a4afc-0ace-4d4f-a5c1-a0fa3dd4e933?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2103107718445687255>)
-
----
-
-<a id="prompt-77b3aab8-6820-470e-8128-91223e6d6e87"></a>
-
-#### Candid Forest Stream Portrait of a Young Woman
-
-<a href="https://musesignal.com/zh/prompt/77b3aab8-6820-470e-8128-91223e6d6e87?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS56YcIbMAACuze.jpg?format=jpg&amp;name=small" width="480" alt="Candid Forest Stream Portrait of a Young Woman" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A photorealistic candid portrait of a young woman sitting peacefully on a fallen tree beside a calm, narrow forest stream. She has long dark brown hair styled in a loose side braid, with soft strands naturally framing her face. She gazes thoughtfully toward the right side of the frame with a calm, relaxed expression and subtle natural makeup.
-She is wearing a loose white long-sleeve casual top with a small chest pocket, paired with relaxed light-blue jeans. A simple rectangular wristwatch is visible on her left wrist. Her posture is natural and comfortable, sitting with one knee raised and her hands resting loosely near her knees.
-The setting is a lush woodland with dense green foliage, bamboo-like leaves hanging overhead, tall trees, and a peaceful shallow stream flowing behind her. The sandy forest bank is scattered with dry leaves, branches, and natural textures. A rustic metal bucket sits near the water in the background. A fallen log beneath her adds an authentic outdoor detail.
-Composition: vertical 4:5 portrait, medium-to-full body framing, subject centered slightly lower in the frame, eye-level camera angle, natural candid photography, forest and stream clearly visible behind her.
-Lighting: soft natural daylight filtered through dense trees, gentle highlights on her face and hair, subtle shadows, muted earthy tones, realistic outdoor exposure.
-Photography style: ultra-realistic lifestyle photography, natural skin texture, realistic hair strands, detailed clothing fabric, authentic forest textures, soft depth of field, subtle background blur, calm peaceful atmosphere, high detail, 4K.
-Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, unnatural pose, artificial hair, oversaturated colors, excessive sharpening, fake background, low resolution, text, watermark, logo.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/77b3aab8-6820-470e-8128-91223e6d6e87?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2102752656234283467>)
-
----
-
-<a id="prompt-4674ca99-6880-4b9d-8df3-8c2f1c941a90"></a>
-
-#### Rainy Autumn Boutique Street-Fashion Portrait
-
-<a href="https://musesignal.com/zh/prompt/4674ca99-6880-4b9d-8df3-8c2f1c941a90?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS3iCaxaIAAvH-J.jpg?format=jpg&amp;name=small" width="480" alt="Rainy Autumn Boutique Street-Fashion Portrait" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A photorealistic full-body street-fashion portrait of a young woman standing outside an elegant boutique on a rainy autumn day. She has long, voluminous wavy dark brown hair, soft natural makeup, fair skin, and a bright genuine smile. She is standing beside a large glass storefront display and playfully pointing toward the outfit displayed on the mannequin.
-She is wearing a vintage-inspired olive-green textured cropped knit sweater with a crisp white Peter Pan collar and a small floral brooch on the chest. The sweater is paired with a high-waisted dark olive-brown pleated midi skirt with a flowing A-line silhouette. A delicate white lace layer peeks out beneath the skirt. She wears chunky white Mary Jane-style platform shoes with ankle straps.
-Beside her is a large boutique display window containing a mannequin dressed in a matching olive-green cropped sweater, white collar, dark pleated skirt, and lace-trimmed hem. A violin and a small basket of colorful flowers are arranged at the bottom of the display, creating a charming artistic storefront scene.
-The street is wet from recent rain, reflecting soft ambient light. Behind her are textured stone buildings, parked cars, storefronts, and a cozy coffee shop. The overall atmosphere feels romantic, sophisticated, vintage, and autumnal.
-Composition: vertical 4:5 portrait, full-body framing, woman positioned on the right side, mannequin and storefront clearly visible on the left, eye-level camera angle, natural candid fashion photography.
-Lighting: soft overcast daylight after rain, subtle reflections on wet pavement, gentle diffused highlights, natural shadows, muted earthy color palette.
-Photography style: ultra-realistic fashion photography, authentic street photography, realistic skin texture, detailed knit fabric, natural hair strands, realistic glass reflections, cinematic depth of field, subtle film grain, high detail, 4K.
-Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, distorted face, malformed hands, extra fingers, missing fingers, unnatural anatomy, warped mannequin, distorted clothing, unrealistic shoes, oversaturated colors, fake reflections, excessive blur, low resolution, text, watermark, logo.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4674ca99-6880-4b9d-8df3-8c2f1c941a90?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2102585153340276909>)
-
----
-
-<a id="prompt-9b8ffac1-4562-451f-9a2a-0e1b29125e1b"></a>
-
-#### Candid Korean Street-Fashion Portrait
-
-<a href="https://musesignal.com/zh/prompt/9b8ffac1-4562-451f-9a2a-0e1b29125e1b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS0E7JVaoAAClSI.jpg?format=jpg&amp;name=small" width="480" alt="Candid Korean Street-Fashion Portrait" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A photorealistic candid street-fashion portrait of a young woman standing on a busy urban sidewalk at a large city intersection. She has very long, straight dark brown hair flowing down her back, with soft strands framing her face. She has delicate youthful facial features, natural fair skin, subtle makeup, soft pink lips, and a calm slightly playful expression while looking directly at the camera.
-She is wearing an oversized light-gray sweatshirt with a large red heart graphic and bold black lettering across the front. The sweatshirt has an off-shoulder cut with one shoulder exposed and loose oversized sleeves. Underneath, a short white pleated mini skirt is visible. She carries a small white shoulder bag with a soft rounded shape and a silver chain strap. She holds a smartphone loosely in one hand.
-Her pose is playful and casual: her body is slightly turned sideways, one hand raised beside her face making a V/peace sign, while her other hand rests naturally near her skirt. Her head is tilted slightly toward the raised hand.
-The background shows a busy modern Korean city intersection with blue city buses, white and gray cars, vans, traffic signals, tall apartment and office buildings, storefronts, street signs, black-and-white roadside bollards, and tactile yellow paving along the sidewalk. The scene has an authentic everyday urban atmosphere.
-Composition: vertical 4:5 portrait, three-quarter/full-body framing, subject slightly right of center, city traffic and buses clearly visible behind her, natural handheld smartphone perspective, realistic depth and scale.
-Lighting: soft overcast daytime light, bright but diffused sky, gentle natural shadows, realistic urban exposure, slightly cool neutral tones.
-Photography style: ultra-realistic smartphone street photography, Korean/Asian casual fashion aesthetic, natural skin texture, realistic individual hair strands, detailed sweatshirt fabric, authentic city background, subtle depth of field, slight film grain, candid unposed feeling, high detail, 4K.
-Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, unnatural pose, distorted buses or cars, warped buildings, artificial hair, oversaturated colors, excessive blur, low resolution, text, watermark, logo.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9b8ffac1-4562-451f-9a2a-0e1b29125e1b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2102342039262413039>)
-
----
-
-<a id="prompt-d12d230f-604a-4ded-89d5-f0f85984689b"></a>
-
-#### Pastel Pink Airport Travel Portrait
-
-<a href="https://musesignal.com/zh/prompt/d12d230f-604a-4ded-89d5-f0f85984689b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSxp1_ebsAAcqKp.jpg?format=jpg&amp;name=small" width="480" alt="Pastel Pink Airport Travel Portrait" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A photorealistic candid travel photograph of a young woman standing inside a bright modern international airport terminal near a departure gate. She has long, soft dark-brown hair styled half-up with a large pale-pink claw clip, wispy bangs framing her forehead, and a pair of black sunglasses resting on top of her head. She has delicate facial features, natural skin texture, subtle makeup, rosy cheeks, and a warm gentle smile while looking slightly to the side.
-She is wearing a coordinated pastel-pink travel outfit: a soft pink zip-up hoodie layered over a simple white fitted top, paired with relaxed pink wide-leg pants. A structured dark-brown shoulder handbag hangs from her shoulder.
-She is holding a pastel-pink insulated water bottle and a smartphone together in her hands. Beside her is a large beige hard-shell rolling suitcase with a dark brown backpack placed on top, and a pink baseball cap resting over the backpack. The luggage gives the scene an authentic airport-travel feeling.
-The background shows a spacious modern airport terminal with large floor-to-ceiling windows, a visible airport control tower and aircraft outside, polished reflective flooring, travelers with rolling luggage, queue barriers, a coffee shop, and a prominent black-and-gold departure sign reading “GATE A42.” A large digital flight information display is visible on the right side.
-Composition: vertical 4:5 portrait, three-quarter/full-body framing, subject positioned slightly left of center, airport gate and control tower clearly visible behind her, natural candid travel pose, realistic smartphone-camera perspective.
-Lighting: bright natural daylight entering through the huge terminal windows, soft indoor ambient lighting, gentle highlights on her hair and face, realistic reflections on the polished floor, clean airy atmosphere.
-Photography style: ultra-realistic smartphone travel photography, soft Korean/Asian lifestyle fashion aesthetic, natural skin texture, realistic hair strands, detailed clothing and luggage textures, authentic airport environment, subtle depth of field, balanced exposure, soft pastel color grading, slight film grain, high detail, 4K.
-Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, distorted luggage, warped suitcase, artificial hair, oversaturated colors, excessive blur, fake airport background, low resolution, text distortion, watermark, logo.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d12d230f-604a-4ded-89d5-f0f85984689b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2102171512526766410>)
-
----
-
-<a id="prompt-96172455-25ee-4a03-909a-785c8869aa6f"></a>
-
-#### Pastel Cardigan Gallery Fashion Portrait
-
-<a href="https://musesignal.com/zh/prompt/96172455-25ee-4a03-909a-785c8869aa6f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSv8HXkbMAAiWAf.jpg?format=jpg&amp;name=small" width="480" alt="Pastel Cardigan Gallery Fashion Portrait" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A photorealistic full-body fashion portrait of a young woman posing playfully inside a bright minimalist contemporary art gallery. She has long, voluminous dark brown hair styled in soft natural waves, flowing over her shoulders and down her back. Her face has delicate features, natural fair skin, subtle rosy makeup, soft pink lips, and a gentle cheerful smile as she looks directly at the camera.
-She is wearing a flowing white ankle-length dress with delicate ruffled trim and a feminine layered silhouette. Over the dress, she wears an oversized pastel powder-blue knitted cardigan decorated with embroidered pink flowers and green leaves, featuring a ribbed V-neck, wide cuffs, and a green ribbon tie at the front. A simple white shoulder bag hangs from one shoulder.
-She wears classic white high-top canvas sneakers with white laces and black detailing. Her pose is playful and youthful: she stands on one leg while bending the other leg backward and lifting her foot slightly into the air. One hand is raised beside her head making a peace/V sign, while the other arm hangs naturally at her side.
-On the left wall is a large projected or illuminated illustration that visually resembles the woman and her outfit, creating an artistic reflection/portrait effect. On the opposite white wall hangs a minimalist framed photograph or painting of a calm blue ocean and pale sky.
-The gallery has clean white walls, a polished light-gray concrete floor, high-key natural lighting, and a spacious minimalist atmosphere.
-Composition: vertical 4:5 portrait, full-body framing, subject centered slightly right, entire outfit and shoes visible, straight-on camera angle, generous negative space, projection clearly visible on the left.
-Lighting: soft diffused daylight, bright high-key exposure, gentle shadows, pastel tones, subtle glow around the projected artwork, clean editorial lighting.
-Photography style: ultra-realistic lifestyle fashion photography, soft Korean/Asian aesthetic, natural skin texture, realistic individual hair strands, highly detailed knit texture and embroidery, realistic flowing fabric, authentic sneaker details, subtle film grain, delicate pastel color grading, crisp subject with mild background softness, 4K.
-Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, extra limbs, unnatural pose, warped clothing, distorted shoes, artificial hair, oversaturated colors, harsh lighting, excessive blur, low resolution, text, watermark, logo.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/96172455-25ee-4a03-909a-785c8869aa6f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2102050864743711061>)
-
----
-
-<a id="prompt-a7044265-f084-4e65-b963-549e87502cd4"></a>
-
-#### Candid Courtyard Fashion Portrait
-
-<a href="https://musesignal.com/zh/prompt/a7044265-f084-4e65-b963-549e87502cd4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSusVipbEAAItsh.jpg?format=jpg&amp;name=small" width="480" alt="Candid Courtyard Fashion Portrait" /></a>
-
-**Nano Banana Pro** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-ULTRA-REALISTIC NATURAL SMARTPHONE PHOTOGRAPH, vertical 3:4, candid outdoor fashion portrait of a young East Asian woman walking through an elegant landscaped courtyard on a bright summer afternoon.
-She has very long, straight dark-brown to black hair, softly center-parted and flowing naturally down her back. She has delicate youthful facial features, clear natural skin, subtle makeup, and a gentle relaxed smile while turning her head slightly toward the camera.
-She is wearing a fitted white sleeveless cropped blouse with delicate ruffled shoulder details and a softly gathered waist, paired with high-waisted black-and-white gingham check mini shorts. Minimal delicate jewelry, including a thin gold bracelet.
-A small structured black quilted handbag with beige upper panels, short handles, gold-tone hardware and a thin chain shoulder strap hangs naturally at her hip.
-Capture her mid-walk in a natural side-profile pose, body facing forward while her head turns back toward the camera. One arm is slightly raised in front of her as she walks, creating a spontaneous, unposed vacation-photo feeling.
-The setting is a manicured green lawn surrounded by trimmed hedges, leafy ornamental trees and tropical greenery. Behind her stands a grand peach and terracotta European-inspired luxury building with cream stone trim, arched windows, decorative balustrades, classical architectural details and terraces. Several deep-red café umbrellas are visible near the building, with a large natural decorative stone positioned on the lawn.
-Bright but soft natural daylight, realistic greenery, gentle highlights on her hair and skin, accurate outdoor shadows, fresh upscale garden atmosphere.
-RAW smartphone photography aesthetic, realistic skin pores, individual hair strands, natural hands and fingers, authentic fabric folds, detailed grass and architecture, slightly imperfect candid framing, natural perspective, subtle phone-camera sharpness, no artificial bokeh, no beauty filter, no plastic skin, no CGI appearance, no excessive retouching, vertical 3:4 composition.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a7044265-f084-4e65-b963-549e87502cd4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2101963186769715628>)
-
----
-
-<a id="prompt-b3ecac4a-4dc9-4c31-8c3a-1f378c44917e"></a>
-
-#### Candid Citrus Garden Portrait
-
-<a href="https://musesignal.com/zh/prompt/b3ecac4a-4dc9-4c31-8c3a-1f378c44917e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HStP_xWbQAAun3Z.jpg?format=jpg&amp;name=small" width="480" alt="Candid Citrus Garden Portrait" /></a>
-
-**GPT Image 2** · 原作者: Aqsa
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A photorealistic candid outdoor portrait of a young woman sitting on a rustic wooden platform in a lush citrus garden. She has long, dark brown wavy hair flowing naturally over her shoulders and down her back, with a few delicate strands framing her face. She wears a soft beige headscarf or wide fabric headband wrapped loosely around her head.
-She is looking up toward the camera with a playful, cheerful expression, winking with one eye and smiling brightly with soft coral-red lips. Her pose is relaxed and spontaneous, with one arm bent beside her body and one hand resting near her waist.
-She is wearing a fitted white sleeveless textured top with delicate detailing, paired with high-waisted blue denim shorts. A simple black hair tie is worn around her wrist.
-She is sitting beside a large woven wicker basket, with its curved handles and natural straw texture clearly visible. The wooden platform beneath her has warm natural wood grain and rustic character.
-Surrounding her is a dense green garden filled with lush grass, leafy plants, and a mature citrus tree covered with numerous small ripe orange fruits. Thick branches and vibrant green leaves fill the upper background, creating a beautiful natural canopy.
-Composition: vertical 4:5 portrait, slightly high-angle overhead perspective, subject positioned in the lower-center of the frame, face clearly visible, basket partially visible beside her, citrus tree filling the background, natural candid framing.
-Lighting: soft warm natural daylight, gentle highlights on her hair and face, realistic shadows, fresh vibrant greenery, subtle warm color tones.
-Photography style: ultra-realistic smartphone photography, candid Korean/Asian lifestyle aesthetic, natural skin texture, realistic hair strands, detailed wicker and wood textures, authentic outdoor colors, slight wide-angle perspective, subtle depth of field, soft film grain, high detail, 4K.
-Negative prompt: anime, cartoon, illustration, CGI, 3D render, plastic skin, excessive beauty filter, unrealistic face, distorted anatomy, malformed hands, extra fingers, missing fingers, fused fingers, extra limbs, unnatural pose, warped basket, artificial hair, oversaturated colors, harsh studio lighting, blurry face, low resolution, text, watermark, logo.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b3ecac4a-4dc9-4c31-8c3a-1f378c44917e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Aqsahere_/status/2101861630657359924>)
-
----
-
 <a id="selected-commercial-product"></a>
 
-### 商业产品 · 14
+### 商业产品 · 15
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>)
 
@@ -1855,9 +1851,38 @@ Midjourney + NanoBanana + Ps
 
 ---
 
+<a id="prompt-af2db61b-a5f1-4b4b-93b8-fad742ad8ac3"></a>
+
+#### Premium 3D Sports Logo from Sports Equipment
+
+<a href="https://musesignal.com/zh/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLkdlgSXIAAjCm-.jpg?format=jpg&amp;name=small" width="480" alt="Premium 3D Sports Logo from Sports Equipment" /></a>
+
+**Nano Banana 2** · 原作者: Shams
+
+创作场景: 商业产品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a premium 3D sports logo for [BRAND NAME], the main logo symbol realistically sculpted from a rich mix of sports equipment including soccer balls, basketballs, running shoes, tennis rackets, footballs, boxing gloves, dumbbells, and cricket bats fused together in dynamic floating 3D form, highly detailed textures and materials, cinematic studio lighting.
+
+Top-left: small monochrome black [BRAND] logo. 
+Top-right corner: half-visible, slightly cropped cluster of sports equipment softly faded into background. 
+Bottom-left corner: half-visible, slightly cropped cluster of sports equipment softly faded. 
+
+Clean off-white background #F5F5F0, minimalist premium product visualization, 9:16 aspect ratio, sharp focus, 8k --stylize 250.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2069718453821559218>)
+
+---
+
 <a id="selected-poster-graphic"></a>
 
-### 海报设计 · 16
+### 海报设计 · 18
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>)
 
@@ -2882,6 +2907,62 @@ Lighting & Aesthetic: Cinematic editorial style, sharp focus on the woman, high-
 
 ---
 
+<a id="prompt-8c0796db-23e8-454e-a29b-43349bf09a10"></a>
+
+#### Isometric Landmark Diorama Poster
+
+<a href="https://musesignal.com/zh/prompt/8c0796db-23e8-454e-a29b-43349bf09a10?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQp4jpMXUAAf8Zw.jpg?format=jpg&amp;name=small" width="480" alt="Isometric Landmark Diorama Poster" /></a>
+
+**GPT Image 2** · 原作者: TechieSA
+
+创作场景: 海报设计
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Simply replace [LANDMARK]:✨
+“Ultra-detailed photorealistic isometric miniature scale-model diorama of [LANDMARK], floating on a pure off-white studio background with a soft drop shadow beneath. The diorama takes the exact shape of the landmark's immediate site and surroundings — the terrain, grounds, approach roads, natural geography — extruded downward into a thick slab of raw rock and earth with rough natural cliff-like edges.
+[LANDMARK] dominates the entire top surface as the undisputed focal point, rendered with complete architectural accuracy and at a dramatically larger scale than its surroundings — every facade detail, material, texture and structural element precisely recreated. The immediate surroundings fill the rest of the slab: the real terrain, paths, plazas, trees, water features, and any structures that genuinely surround the landmark in real life. Tiny tourists and visitors visible throughout at micro-scale.
+Dense micro-detail: individual stones, vegetation, tiny figures, vehicles, surrounding architecture all rendered with hyper-realistic precision.
+Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus, no blur. Soft warm daylight from above, gentle diffuse shadows, rich natural colors.
+Layout: diorama floats centered in the lower two-thirds of the frame. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the city and country at the very top, then [LANDMARK] directly below in a bold condensed sans-serif in medium charcoal grey — large and dominant — with a small flat rectangular flag of the country sitting immediately to the right of the landmark name, vertically centered with it, accurately colored and proportioned, clean flat design, sized to roughly the cap-height of the landmark name, floating naturally beside the name as one cohesive unit. Then small wide-tracked caps below with a one-line historical note or founding date.
+Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8c0796db-23e8-454e-a29b-43349bf09a10?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2092617537296929086>)
+
+---
+
+<a id="prompt-f4117c43-d7f4-4df9-ac5c-12dc360efee7"></a>
+
+#### World Cup Career Staircase Poster
+
+<a href="https://musesignal.com/zh/prompt/f4117c43-d7f4-4df9-ac5c-12dc360efee7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMXpK57XkAAW2Fd.jpg?format=jpg&amp;name=small" width="480" alt="World Cup Career Staircase Poster" /></a>
+
+**GPT Image 2** · 原作者: ai.gezgini
+
+创作场景: 海报设计
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt:
+👇
+The user enters one football player name: [PLAYER NAME].
+Create a vertical 9:16 cinematic football poster.
+Show the player’s complete FIFA World Cup history as a stacked vertical timeline on a realistic stadium-entry staircase, as if the same player is walking up toward the pitch again and again in different World Cup years. The scene must take place inside a dramatic football tunnel with a real stairway leading upward from the locker room to the stadium field. Each version of the player is shown from behind or three-quarter back view, ascending the stairs one after another, all of them the same player, each wearing a national-team-inspired jersey based on that exact World Cup year, with era-accurate hairstyle, age, body shape, number, and kit style. The oldest World Cup appearance must be at the bottom of the staircase, and the newest must be at the top. The very top must show the 2026 World Cup version as the final and most heroic step. Next to each player version, clearly write the tournament year and the host country, for example: “2018 — Russia”, “2022 — Qatar”, “2026 — USA / Canada / Mexico”. Also include that tournament’s final result or achievement for the player’s national team, such as “Champion”, “Runner-up”, “Third Place”, “Quarter-final”, “Round of 16”, or “Group Stage”. If the player won the World Cup in that year, visually add a trophy next to that version or beside the year label. If the team did not win, clearly write their finishing result for that tournament. You may also add a short achievement note for that specific World Cup, such as goals scored, captaincy, best player award, or a major milestone, but keep it short and visually clean. On the right side, write the vertical title “WORLD CUP HISTORY”. At the top, the player name can appear subtly as “[PLAYER NAME]”. Background should be a realistic stadium tunnel opening into a bright football pitch, with stadium lights, light smoke, crowd atmosphere, emotional pre-match tension, and a premium football documentary feel. Keep the composition clean, readable, and visually powerful. Do not use official logos, federation badges, sponsor logos, club logos, or copyrighted branding. Use fictional but accurate-looking national-team-inspired kits based on each era.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f4117c43-d7f4-4df9-ac5c-12dc360efee7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/ai_gezgini/status/2073320616900300998>)
+
+---
+
 <a id="prompt-11606100-9b27-492b-8aeb-0d15fd749131"></a>
 
 #### IMMORTALS — FIFA World Cup 2026 Collector Poster
@@ -3015,7 +3096,7 @@ The final image should feel like the official cover artwork for football's great
 
 <a id="selected-food-drink"></a>
 
-### 食物饮品 · 13
+### 食物饮品 · 14
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>)
 
@@ -3295,6 +3376,35 @@ Full step by step tutorial below 👇
 
 ---
 
+<a id="prompt-11384b4c-53e6-4cc7-9fd5-18b6102715ba"></a>
+
+#### Cinematic Steamed Momos Food Photography
+
+<a href="https://musesignal.com/zh/prompt/11384b4c-53e6-4cc7-9fd5-18b6102715ba?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLaCM0_aAAIaZb6.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Steamed Momos Food Photography" /></a>
+
+**GPT Image 2** · 原作者: PromptLab
+
+创作场景: 食物饮品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Cinematic food photography of freshly steamed momos (dumplings) stacked on a rustic weathered wooden board. The dumplings have glossy dough with intricate handmade pleats and a subtle oil sheen, with thick dramatic steam rising. Split scene showing a deconstructed view: floating dumpling wrappers, balls of spiced minced filling, and scattered fresh herbs suspended in air.
+
+Frozen-in-time effect with flour particles mid-air, motion-frozen spices, and a dramatic slow-motion splash. Wispy swirling steam and falling herb leaves add atmosphere.
+
+Dark moody rustic kitchen setting. Weathered wooden cutting board with visible wood grains and cracks.
+
+Cinematic studio lighting with warm inviting tones, high contrast and deep shadows for a professional editorial look. Macro photography, 8K resolution, hyper-detailed textures, shallow depth of field with blurred background and crisp sharp focus on the ingredients.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/11384b4c-53e6-4cc7-9fd5-18b6102715ba?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamaiistudio/status/2068984482603147590>)
+
+---
+
 <a id="prompt-8f761fdd-cd2f-47ba-af48-1c0dccaf1219"></a>
 
 #### Kawaii Doodle Food Photo Transformation
@@ -3345,7 +3455,7 @@ Create a realistic, premium cinematic food photography image of [Menu Name] in a
 
 <a id="selected-character-art"></a>
 
-### 角色艺术 · 16
+### 角色艺术 · 15
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>)
 
@@ -3725,35 +3835,6 @@ Detailed Prompt
 
 ---
 
-<a id="prompt-5d433eec-b2ef-4adf-9918-7c0093599397"></a>
-
-#### Storybook 2D Fairy Tale Character Style
-
-<a href="https://musesignal.com/zh/prompt/5d433eec-b2ef-4adf-9918-7c0093599397?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTDGU4jXYAAtHNH.jpg?format=jpg&amp;name=small" width="480" alt="Storybook 2D Fairy Tale Character Style" /></a>
-
-**Midjourney** · 原作者: OscarAI
-
-创作场景: 角色艺术
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-This Midjourney style reference feels like it belongs to a forgotten animated fairy tale:
-
---sref 506029525
-
-Soft 2D character design, huge expressive eyes, flowing hair and that beautiful mix of innocence and melancholy.
-
-It has a classic storybook soul with a modern animation finish, perfect for fantasy characters and emotional storytelling.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5d433eec-b2ef-4adf-9918-7c0093599397?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Artedeingenio/status/2103399180546793519>)
-
----
-
 <a id="selected-scene-space"></a>
 
 ### 场景空间 · 11
@@ -4064,27 +4145,27 @@ Articles & Text: The rest of the page is filled with a professional multi-column
 | --- | ---: | --- |
 | Adobe Firefly | 2 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=adobe-firefly&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_adobe-firefly>) |
 | GPT Image | 45 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 350 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 361 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
 | GPT Image 2.5 | 1 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2.5>) |
 | Grok | 21 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
 | Ideogram | 1 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=ideogram&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_ideogram>) |
 | Leonardo | 2 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=leonardo&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_leonardo>) |
 | Midjourney | 34 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
 | Nano Banana | 25 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana>) |
-| Nano Banana 2 | 75 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
+| Nano Banana 2 | 76 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
 | Nano Banana Pro | 81 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-pro>) |
 | 未注明 | 13 | — |
 
 ## 最近发布
 
-- [Y2K Japanese Magazine Beauty Portrait](<https://musesignal.com/zh/prompt/7ca4d603-ab04-407f-9e36-2f68e521fcec?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2.5
-- [Song Dynasty Boudoir Portrait](<https://musesignal.com/zh/prompt/d8823313-26d9-443f-9c05-947f784cdabd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Midjourney
-- [Kawaii Doodle Food Photo Transformation](<https://musesignal.com/zh/prompt/8f761fdd-cd2f-47ba-af48-1c0dccaf1219?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana
-- [Premium Cinematic Korean Menu Food Photography](<https://musesignal.com/zh/prompt/92ef0a56-5998-409a-b28d-633adac91df0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Pixar-Style 3D Character Avatar Bust](<https://musesignal.com/zh/prompt/d947e1af-93aa-4881-b4bf-1cb908343cc8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana
-- [Amateur Gym iPhone Selfie Portrait](<https://musesignal.com/zh/prompt/0bac35ee-e5fd-4bb3-a220-f20cd2a012ca?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Grok
-- [IMMORTALS — FIFA World Cup 2026 Collector Poster](<https://musesignal.com/zh/prompt/11606100-9b27-492b-8aeb-0d15fd749131?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Cozy Morning Portrait with Golden Retriever](<https://musesignal.com/zh/prompt/214bc881-d2e8-4745-a953-1593bf60ed1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
+- [Morning Light Lace Portrait](<https://musesignal.com/zh/prompt/4daea946-6d3e-4800-aab1-cac5847ca9b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Golden Lace Sunset Window Portrait](<https://musesignal.com/zh/prompt/97dc4135-37b8-4051-984d-7ca6f79e95eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Night City Sofa Portrait in Black](<https://musesignal.com/zh/prompt/de1c1674-efe2-42f7-8ab5-d8b3d1ba1e9e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Sleeping Woman in Blue Floral Camisole](<https://musesignal.com/zh/prompt/f6f37010-9bb0-42bc-8beb-6a652895dc32?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Dappled Leaf-Shadow Natural Portrait](<https://musesignal.com/zh/prompt/ce39445c-2552-4d44-a91e-e70de6ade887?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Moonlit Ruined Greenhouse Gothic Portrait](<https://musesignal.com/zh/prompt/367207d1-eb18-491f-91e8-1ff4d428bff7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Isometric Landmark Diorama Poster](<https://musesignal.com/zh/prompt/8c0796db-23e8-454e-a29b-43349bf09a10?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Vogue Fashion Editorial Portrait](<https://musesignal.com/zh/prompt/9304e8f9-692b-409e-b78c-237f962e068f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 
 ## 在 MuseSignal 生成
 
@@ -4105,7 +4186,7 @@ Articles & Text: The rest of the page is filled with a professional multi-column
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 650](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 662](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json
