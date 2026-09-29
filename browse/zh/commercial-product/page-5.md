@@ -845,3 +845,263 @@ Clean off-white background #F5F5F0, minimalist premium product visualization, 9:
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2069718453821559218>)
 
 ---
+
+<a id="prompt-54c40536-8a97-44a0-a98a-d35d32083275"></a>
+
+## JBL &#39;Feel the Sound&#39; Bold Typography Poster
+
+<a href="https://musesignal.com/zh/prompt/54c40536-8a97-44a0-a98a-d35d32083275?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTDhBJTawAEyS7L.jpg?format=jpg&amp;name=small" width="480" alt="JBL &#39;Feel the Sound&#39; Bold Typography Poster" /></a>
+
+**GPT Image 2.5** · 原作者: ᴍᴜʀᴘʜʏ
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+GPT Image 2.5 prompt
+Share
+
+Try it with prompt : JBL — “FEEL THE SOUND.”
+FORMAT:
+4:5 vertical hyper-commercial JBL headphone campaign poster, ultra-high-resolution 8K, global OOH + Instagram + Meta advertising, BOLD TYPOGRAPHY–FIRST DESIGN, aggressive editorial graphic design, premium product photography, contemporary JBL advertising language
+⸻
+🧠 CORE IDEA
+FEEL THE SOUND.
+Make typography the dominant visual element, with JBL’s signature orange brand color controlling the entire visual environment.
+The poster should communicate powerful JBL audio through a physical graphic metaphor:
+SOUND → IMPACT → MOVEMENT
+The typography appears to react to the sound, creating a visual sense of bass, rhythm and energy.
+⸻
+🎬 MASTER COMPOSITION
+Create a highly graphic, typography-dominated composition.
+TOP 40% — TYPOGRAPHY DOMINATION
+Massive stacked headline:
+FEEL
+THE
+SOUND.
+Use extremely bold condensed sans-serif typography.
+The words should occupy almost the entire width of the poster.
+Aggressive scale.
+Some letters cropped by the edges.
+Typography should feel physically pushed by sound pressure.
+⸻
+🟠 BRAND-COLOR BACKGROUND
+Use JBL’s signature orange as the dominant full-frame background.
+Strong, saturated JBL orange.
+Build subtle tonal variations within the orange rather than introducing unrelated background colors.
+Use:
+* Deep orange shadows
+* Bright orange highlights
+* Slight darker orange graphic blocks
+* Black typography
+* White microcopy
+The entire poster should immediately feel like JBL even before the logo is seen.
+⸻
+🎧 PRODUCT + SUBJECT
+Place a realistic person wearing a JBL headphone prominently in the center/lower-middle section.
+The headphone must remain highly recognizable and physically accurate.
+Subject positioned directly within the typography composition.
+The person should feel energetic and immersed in the music.
+Natural expression.
+No exaggerated fashion pose.
+The headphone is the product hero.
+⸻
+💥 TYPOGRAPHIC VISUAL METAPHOR
+Create oversized graphic words around the product:
+BASS
+BEAT
+POWER
+RHYTHM
+ENERGY
+These words should appear as huge background typography.
+Some letters can stretch, overlap and partially disappear behind the subject.
+Use typography to create the sensation of sound physically moving through the poster.
+Add subtle directional typographic distortion around the headphone.
+No literal sound waves.
+No futuristic holograms.
+⸻
+✍️ TYPOGRAPHY SYSTEM
+Typography is the hero graphic element.
+PRIMARY HEADLINE
+FEEL THE SOUND.
+Extremely heavy bold grotesk / condensed sans-serif.
+Huge scale.
+Tight kerning.
+Strong black typography against JBL orange.
+SECONDARY COPY
+JBL
+PURE BASS. PURE ENERGY.
+MICROCOPY
+WIRELESS • IMMERSIVE • POWERFUL
+Small uppercase commercial typography.
+⸻
+📦 FEATURE STRIP
+Bottom section contains a highly structured commercial information bar:
+JBL PURE BASS SOUND
+WIRELESS FREEDOM
+IMMERSIVE AUDIO
+ALL-DAY PLAYTIME
+Use compact uppercase typography separated by thin black rules.
+Keep the information visually organized and highly legible.
+⸻
+📣 CTA
+Large bold CTA:
+TURN IT UP.
+Below:
+DISCOVER JBL AUDIO
+JBL logo positioned prominently but cleanly.
+⸻
+🎨 COLOR SYSTEM
+PRIMARY: JBL signature orange.
+SECONDARY: Deep black.
+ACCENT: White.
+Orange must dominate the entire background.
+Black provides the major typography contrast.
+White is reserved for small supporting information and selected graphic details.
+No unnecessary blue, purple, cyan or neon gradients.
+⸻
+💡 LIGHTING
+High-end commercial product photography.
+Strong directional studio lighting.
+Controlled highlights on the headphones.
+Natural skin texture.
+Subtle orange environmental bounce light.
+Deep controlled shadows.
+High contrast.
+The product must separate clearly from the orange background.
+⸻
+🔍 HYPER DETAILING
+Ultra-realistic headphone materials:
+* precise matte and gloss surfaces
+* realistic ear cushions
+* detailed controls
+* subtle reflections
+* accurate JBL branding
+* realistic skin pores
+* natural clothing texture
+Typography must remain razor sharp and professionally typeset.
+⸻
+📐 COMPOSITION FLOW
+1. MASSIVE “FEEL THE SOUND.” HEADLINE
+↓
+2. JBL ORANGE GRAPHIC FIELD
+↓
+3. PRODUCT + HUMAN HERO
+↓
+4. GIANT BASS / BEAT / POWER TYPOGRAPHY
+↓
+5. PRODUCT NAME / BRANDING
+↓
+6. FEATURE STRIP
+↓
+7. CTA + JBL LOGO
+The concept must be understood within one second.
+⸻
+🎥 CAMERA / RENDER
+Professional commercial photography.
+50mm lens.
+Slightly low-angle perspective to give the product presence.
+Ultra-realistic 8K product detail.
+Sharp commercial focus.
+Clean edges.
+Print-quality typography.
+Premium global advertising execution.
+⸻
+🚫 NEGATIVE DIRECTION
+No generic headphone advertisement.
+No blue background.
+No purple neon.
+No cyberpunk aesthetic.
+No holograms.
+No floating headphones.
+No random particles.
+No excessive lens flares.
+No fantasy environment.
+No excessive cinematic VFX.
+No tiny headline.
+No minimalist typography.
+No luxury-fashion-only aesthetic.
+No cluttered unreadable layout.
+No incorrect JBL logo.
+No distorted headphones.
+No fake product details.
+⸻
+🔥 FINAL FEEL
+JBL × BOLD TYPOGRAPHY × ORANGE BRAND WORLD × PRODUCT PHOTOGRAPHY × SOUND ENERGY
+BIG TYPE.
+JBL ORANGE.
+REAL PRODUCT.
+PHYSICAL SOUND.
+MAXIMUM COMMERCIAL IMPACT.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/54c40536-8a97-44a0-a98a-d35d32083275?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Diplomeme/status/2103429083652821045>)
+
+---
+
+<a id="prompt-299e40f8-757f-414a-be62-f91a42e763a0"></a>
+
+## Coca-Cola Couple Commercial Render
+
+<a href="https://musesignal.com/zh/prompt/299e40f8-757f-414a-be62-f91a42e763a0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLgjiGNawAAJUAB.jpg?format=jpg&amp;name=small" width="480" alt="Coca-Cola Couple Commercial Render" /></a>
+
+**Nano Banana Pro** · 原作者: Al-Shamus
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+young Japanese couple, woman and man, both smiling joyfully and looking at each other playfully. Woman wearing white crop top, red athletic shorts, transparent PVC windbreaker with red accents, white sneakers with red details. Man wearing white oversized tee, red jogger shorts, transparent PVC jacket with red black accents, white red sneakers. Both holding iced Coca-Cola glasses with cherry garnish. A giant oversized Coca-Cola can sits centered between them covered in water droplets and surrounded by scattered ice cubes. Soft red white gradient studio background with warm cinematic light bloom. Floating bubbles, cherry garnish and ice cubes. Full body couple shot, ultra realistic 3D render, hyperrealistic commercial product photography, glossy reflective floor, 8K resolution, cinematic studio lighting.
+
+...giant oversized [Coca-Cola] can floating mid-air beside the model at shoulder height, tilted at a dynamic angle, water droplets flying off the surface, surrounded by floating ice cubes and bubbles as if levitating with energy. Model reaches up touching the can with one hand...
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/299e40f8-757f-414a-be62-f91a42e763a0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/im_shahid7/status/2069443108664975734>)
+
+---
+
+<a id="prompt-532719cf-91da-4102-a30a-e864b16de3f3"></a>
+
+## Matcha Green Bottle Skincare Ad on Stone Podium
+
+<a href="https://musesignal.com/zh/prompt/532719cf-91da-4102-a30a-e864b16de3f3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLP-DxuakAA2AOk.jpg?format=jpg&amp;name=small" width="480" alt="Matcha Green Bottle Skincare Ad on Stone Podium" /></a>
+
+**Nano Banana 2** · 原作者: 𝐌
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Premium green bottle placed on stone podium, surrounded by matcha powder clouds, green tea leaves and creamy foam, Japanese spa aesthetic, minimal luxury composition, soft natural lighting, highly realistic skincare advertisement, 8K.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/532719cf-91da-4102-a30a-e864b16de3f3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2068276166738509986>)
+
+---
+
+<a id="prompt-3fc9738f-5d17-45c8-89a7-d638511cde96"></a>
+
+## Luxury Brand Commercial Poster With Oversized 3D Typography
+
+<a href="https://musesignal.com/zh/prompt/3fc9738f-5d17-45c8-89a7-d638511cde96?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPfMzknaIAA0qcz.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Brand Commercial Poster With Oversized 3D Typography" /></a>
+
+**GPT Image 2** · 原作者: PixuryAI
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+An advertising poster for a world-class luxury brand, adaptable to any brand identity. The image features a single model exuding sophistication and confidence with a commanding camera presence; the shot captures a dynamic moment or a natural interaction with the product—such as wearing, holding, or engaging with it—within a high-end professional studio setting. Atmospheric lighting, utilizing brand-specific neon hues and gradient gels, casts distinct, artistic layers of light and shadow across the model’s face, physique, and the product's contours. The product appears both in the model's hands and as an enlarged, floating element in the background, seamlessly integrated into the scene. Dynamic visual effects—such as splashing liquids, light trails, hazy colored mist, and sparkling particles—burst naturally from the point of interaction, enhancing the image's aura. Bold, oversized, fashion-magazine-style typography occupies the corners of the frame; the text is partially obscured by the model's silhouette, creating a sophisticated sense of depth. Supplementary copy features the brand slogan in a minimalist, slender font, alongside bolded text highlighting 2–3 key selling points; these elements are artfully arranged in the negative space, ensuring a clean, high-end layout. A deep, minimalist gradient background ensures the subject remains the focal point without distraction. The image boasts a hyper-realistic commercial aesthetic and Hasselblad-grade professional quality, rivaling the visual style of top-tier international brands and fashion magazine covers; with ultra-high resolution and exquisite detail, it is suitable for a wide range of categories, including beauty, fashion, sportswear, electronics, luxury goods, and food.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3fc9738f-5d17-45c8-89a7-d638511cde96?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PixuryAI/status/2087362893021114611>)
+
+---

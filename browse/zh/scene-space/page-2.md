@@ -670,3 +670,26 @@ Aspect ratio 4:5, photorealistic 3D render, octane/unreal engine quality, no tex
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/65eef4c9-d02b-4a16-ad98-474847db9025?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2081091609320386663>)
 
 ---
+
+<a id="prompt-fc44da04-d3e7-4084-9ca7-870601a18f39"></a>
+
+## Surreal Retro-Luxury Interiors SREF
+
+<a href="https://musesignal.com/zh/prompt/fc44da04-d3e7-4084-9ca7-870601a18f39?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSSLU5aWEAAr7Ww.jpg?format=jpg&amp;name=small" width="480" alt="Surreal Retro-Luxury Interiors SREF" /></a>
+
+**Midjourney** · 原作者: DrSadek
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+SREF Share ✦ --sref 2109424063
+
+Surreal retro-luxury interiors: burled wood, biomorphic furniture, cavernous spaces, muted earth tones, uncanny symmetry, and a dreamlike 70s art-house mood.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fc44da04-d3e7-4084-9ca7-870601a18f39?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/DrSadek_/status/2104133960372543685>)
+
+---
