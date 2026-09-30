@@ -593,3 +593,67 @@ Show me walking through a corridor made of floating memories. Each memory appear
 **[Try on MuseSignal →](<https://musesignal.com/prompt/ea21651e-5be6-42c2-9e21-fb2504df458a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamrealsnow/status/2068991260283838969>)
 
 ---
+
+<a id="prompt-d2d77325-7b43-448a-8c33-0aa7ba01cb1d"></a>
+
+## Cinematic Chiaroscuro Beauty Portrait
+
+<a href="https://musesignal.com/prompt/d2d77325-7b43-448a-8c33-0aa7ba01cb1d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNM55pEXgAEJgs_.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Chiaroscuro Beauty Portrait" /></a>
+
+**Grok** · Creator: Minahil
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A high-end, cinematic portrait of a stunning East Asian woman with long, voluminous dark wavy hair. Her expression is captivating and direct, featuring sharp facial features, glowing skin, and bold, vibrant red lips. The lighting is dramatic and moody, utilizing a strong chiaroscuro effect with soft highlights that accentuate her jawline and shoulders against a deep, dark, and textured background. The overall aesthetic is elegant, sophisticated, and polished, reminiscent of a professional fashion editorial or luxury beauty campaign shot with a high-resolution camera.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d2d77325-7b43-448a-8c33-0aa7ba01cb1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2077067526542856260>)
+
+---
+
+<a id="prompt-f987eccc-5faf-4973-aa1c-503c7fe98cca"></a>
+
+## Fisheye Low-Angle Street Portrait of a Man
+
+<a href="https://musesignal.com/prompt/f987eccc-5faf-4973-aa1c-503c7fe98cca?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQKA-XNbQAAR8wF.jpg?format=jpg&amp;name=small" width="480" alt="Fisheye Low-Angle Street Portrait of a Man" /></a>
+
+**GPT Image 2** · Creator: Taaruk
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a surreal, ultra-realistic low-angle fisheye photograph of a young man walking directly over the camera in the center of a grand European city square. The camera is placed almost flat against the cobblestone pavement, creating an extreme forced-perspective effect. One leg is lifted high toward the lens, with the sneaker sole dominating the foreground and appearing dramatically oversized, showing detailed rubber tread and realistic texture. His other foot remains planted on the ground. He reaches one hand directly toward the camera with an open palm and naturally spread fingers, creating strong depth and interaction with the viewer. He wears a blue denim jacket over a clean white T-shirt, relaxed blue jeans, and classic black-and-white canvas sneakers. He has short slightly tousled dark hair and subtle round glasses, with a calm, confident expression as he looks down toward the camera. Surround him with elegant historic European architecture curving dramatically around the frame because of the extreme 8mm fisheye lens. Bright blue summer sky with soft white clouds, strong sunlight and subtle lens flare, realistic shadows across the cobblestones, distant pedestrians and city details around the square. Extreme barrel distortion, circular architectural framing, dynamic perspective, crisp facial detail, realistic skin, denim and shoe textures, cinematic street photography, natural colors, high dynamic range, immersive depth, photorealistic, 8K detail. Vertical 4:5 composition, subject centered, no text, no logos, no watermark.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f987eccc-5faf-4973-aa1c-503c7fe98cca?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Taaruk_/status/2090375007482655227>)
+
+---
+
+<a id="prompt-7eda030b-391d-42a0-8533-199f68b270da"></a>
+
+## Alice in Wonderland Fashion Portrait
+
+<a href="https://musesignal.com/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLWnh-PbMAEloqW.jpg?format=jpg&amp;name=small" width="480" alt="Alice in Wonderland Fashion Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Aijaz
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt:
+A surreal Alice in Wonderland–inspired fashion portrait of a stylish young woman standing inside a large ornate wooden heart-shaped frame decorated with vibrant red roses and scattered playing cards. She wears a beige linen blazer, matching newsboy cap, round black sunglasses, and dark leather gloves. In one hand she holds a bouquet of fresh red roses; in the other, a burning Ace of Hearts playing card with realistic flames. The setting is an outdoor rose garden with soft natural sunlight, shallow depth of field, cinematic bokeh, whimsical fantasy atmosphere, luxury editorial photography, highly detailed, photorealistic skin, warm color grading, intricate wood carving, dreamy storytelling composition, centered framing, ultra-sharp focus, 85mm lens, f/1.8, high-end fashion magazine style, masterpiece, 8K.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamsofiaijaz/status/2068743816174239980>)
+
+---

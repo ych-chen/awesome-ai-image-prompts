@@ -295,6 +295,32 @@
     "content_hash": "bedc8318176a6d7084222e8359026ab3f407490913a2ff08235084f4c9ce8e93"
   },
   {
+    "id": "046bc935-bbb6-4bed-ba87-d054b42155da",
+    "title": "Cosmic Fantasy Portrait of a Man Holding a Black Hole",
+    "prompt": "Ultra-realistic cinematic cosmic fantasy portrait of a powerful middle-aged man smiling confidently while holding a miniature black hole suspended between his open hands. His body appears fused with an ancient planet, with cracked stone-like skin revealing glowing molten golden energy flowing through intricate fissures across his face, neck, shoulders, and arms. One half of his body is rugged volcanic rock while the other remains realistic human skin, creating a breathtaking duality between humanity and the universe.\n\nBehind him stretches an infinite deep-space backdrop filled with vibrant nebulae, glowing galaxies, planets, moons, floating asteroids, meteor fragments, and distant stars. Surrounding the black hole are intricate celestial geometry, sacred circular diagrams, zodiac symbols, alchemical glyphs, golden orbit lines, and mystical astronomical patterns radiating outward like an ancient cosmic blueprint.\n\nThe black hole emits a brilliant golden accretion ring, casting warm volumetric light onto his hands and face. Countless tiny glowing particles drift through space, adding depth and scale. The composition is perfectly centered and symmetrical, with the subject making direct eye contact, creating an intense, god-like presence as if he is the architect of the universe.\n\nLighting: dramatic cinematic rim lighting, warm golden highlights mixed with cool blue cosmic illumination, volumetric rays, HDR, global illumination, soft atmospheric haze, realistic reflections.\n\nStyle: ultra-photorealistic fantasy, celestial mythology, epic sci-fi, surreal realism, premium digital art, hyper-detailed textures, cracked stone skin, cosmic energy, mystical realism.\n\nCamera: close-up portrait, 85mm lens, f/1.8, shallow depth of field, ultra-sharp facial details, dynamic contrast, cinematic color grading.\n\nQuality: masterpiece, 8K UHD, HDR, Unreal Engine 5, Octane Render, ray tracing, ultra-detailed, award-winning fantasy concept art, ArtStation quality, highly detailed, photorealistic, breathtaking composition, no text, no watermark.",
+    "category": "character-art",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Harry Potter",
+      "handle": "mon010_de"
+    },
+    "source_platform": "X",
+    "source_id": "2084128782307483999",
+    "source_url": "https://x.com/mon010_de/status/2084128782307483999",
+    "images": [
+      "https://pbs.twimg.com/media/HOxQEjibEAAyae8.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/046bc935-bbb6-4bed-ba87-d054b42155da",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/046bc935-bbb6-4bed-ba87-d054b42155da",
+    "published_at": "2026-09-30T06:54:14.763133+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "11de03ddfb40327e7cd2f0e30dca3094aa433b852a968322db7b07841e572dad"
+  },
+  {
     "id": "04e6a655-6409-4d72-93f1-9acd2dbb5aa3",
     "title": "Scarlet Court: Breaking the Frame in Sports Posters",
     "prompt": "{\n\"style_name\": \"Scarlet Court Photo Type Poster\",\n\"style_slug\": \"scarlet-court-photo-type-poster-style\",\n\"style_version\": \"2.1.0\",\n\"style_summary\": \"A saturated action-ad poster style built from a flat scarlet field, a hard-edged blue photographic sports panel, one cutout subject crossing between those zones, oversized warm-cream display typography, vertical side microcopy, and gritty printed-poster texture.\",\n\"environment_variables\": {\n\"SUBJECT\": \"main subject\",\n\"SUBJECT_ACTION\": \"main action\",\n\"PRODUCT_OR_PROP\": \"object, product, or prop\",\n\"LOCATION\": \"environment or setting\",\n\"BACKGROUND_ELEMENTS\": \"secondary scene details\",\n\"MAIN_TEXT\": \"main headline or graphic text\",\n\"SECONDARY_TEXT\": \"small repeated supporting text\",\n\"ACCENT_SYMBOL\": \"separator or decorative symbol\",\n\"WARDROBE_STYLE\": \"styling direction\",\n\"STYLE_FIDELITY_ANCHORS\": \"observable style traits that must remain visible\",\n\"SOURCE_CONTENT_TO_AVOID\": \"literal source content that generated samples must not recreate\",\n\"ASPECT_RATIO\": \"9:16 or 16:9\"\n}",
@@ -2061,6 +2087,34 @@
     "content_hash": "8b4112b23a1add27b88c94ef4bdf822a1147bc7ccf0781bd9ad4715c9de93f58"
   },
   {
+    "id": "1cfdf299-57a4-432a-9572-17c8ca482a78",
+    "title": "Woman with Thunderstorm Suitcase at Railway Station",
+    "prompt": "A woman carrying a transparent suitcase filled with a miniature thunderstorm instead of clothes, lightning flashing inside the suitcase, crowded railway station around her, everyone else moving in motion blur, emotional conceptual photography, loneliness and inner chaos represented visually\n--ar\n 4:5\n--stylize\n 350\n--hd\n@midjourney",
+    "category": "scene-space",
+    "model_key": "midjourney",
+    "model_name": "Midjourney",
+    "model_family": null,
+    "author": {
+      "name": "Future Vibes AI - Testing & Educating",
+      "handle": "FutureVibesAi"
+    },
+    "source_platform": "X",
+    "source_id": "2104104183075148183",
+    "source_url": "https://x.com/FutureVibesAi/status/2104104183075148183",
+    "images": [
+      "https://pbs.twimg.com/media/HTNHk4CbkAArZrL.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTNHlb5a4AAeCQP.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTNHmCUaYAAayxB.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/1cfdf299-57a4-432a-9572-17c8ca482a78",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/1cfdf299-57a4-432a-9572-17c8ca482a78",
+    "published_at": "2026-09-30T06:54:26.68727+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "e44e84ad93761275ef85302b40fcb0806d4ab069cb512c8e57fb1f458e751115"
+  },
+  {
     "id": "1d5e09a2-bb8d-4c9d-bdca-b9d0310b08d1",
     "title": "云栖天境：城市封面湖居公园广告",
     "prompt": "请生成一张【高端地产超宽横幅广告】，单张图片，不要拼图，不要多宫格。\n尺寸：横版 3:1，约 2109×745 像素，适合楼盘围挡、户外大牌、售楼部物料、地产项目价值点海报。\n【项目名称】：云栖天境\n【主标题】：填写一句高级地产广告标题\n【副标题】：填写一句项目价值说明\n【核心卖点】：城市封面 / 湖居公园 / 教育配套 / 户型舒居 / 商业配套 / 山景资源\n【主视觉】：建筑立面 / 城市天际线 / 湖面公园 / 校园操场 / 室内样板间 / 社区景观\n【主色调】：米白、雾蓝、浅灰、淡青绿、香槟金，低饱和高级配色\n整体风格为高端地产广告、商业提案 KV、现代东方极简、轻奢克制、大面积留白、低饱和色彩、真实商业物料质感。\n画面采用超宽横向构图，主标题作为第一视觉中心，主视觉场景作为第二视觉中心，底部保留一条细长信息栏，用于放置项目名、面积段、热线电话、区域信息等。\n主视觉不要简单贴图，要有设计感：可以通过半透明玻璃面、弧形空间窗口、流体曲线、纸张折页、浅金细线、极淡网格、建筑线稿、等高线纹理、水波线条等元素，把建筑、景观或空间包装成高端地产提案视觉。\n文字排版要克制高级：中文大标题疏朗，副标题细小，英文小字点缀，信息栏轻薄，不要文字堆满。整体像真实地产围挡广告 / 售楼部主视觉 / 户外横幅 KV。\n避免：普通促销海报、低端楼盘传单、红金土豪风、杂乱拼贴、信息过多、过度饱和、廉价模板感、图片生硬贴上去、文字拥挤、卡通感、低清晰度。",
@@ -3783,6 +3837,32 @@
     "content_hash": "0c1ba7fd91c8e8a398d3629abe39c0e659905fffe3b9c72339478e5b12a5c809"
   },
   {
+    "id": "36b1ba52-b4a9-4e2f-9484-c6a6aa40bc4e",
+    "title": "Ultra-Realistic Milk Carton Packaging Mockup",
+    "prompt": "Ultra-realistic commercial milk carton packaging mockup, premium supermarket-ready product presentation, tall rectangular milk carton standing upright on a clean wooden surface, realistic paperboard carton texture with subtle folds and printing details, modern blue and white dairy branding, bold typography, premium label design, dynamic milk splash effects wrapping around the carton, fresh milk pouring visuals, crystal-clear glass of milk beside the package, floating milk droplets frozen in motion, fresh dairy farm imagery integrated into the packaging artwork, green pasture, healthy cows, blue sky and soft clouds in the background, high-end product photography, professional studio lighting mixed with natural daylight, shallow depth of field, ultra-sharp focus on carton, glossy highlights, realistic shadows and reflections, clean advertising composition, FMCG packaging design, photorealistic rendering, commercial branding showcase, premium retail shelf appeal, award-winning packaging visualization, ultra-detailed textures, 8K resolution, cinematic quality, advertising campaign aesthetic, vibrant colors, pristine white milk, luxury food packaging mockup, realistic product marketing shot.\nNegative Prompt: blurry, low quality, distorted carton shape, extra objects, messy background, text errors, watermark, logo duplication, overexposed highlights, unrealistic milk splashes, cartoon style, low resolution, noise, grain, cropped packaging, deformed proportions.",
+    "category": "commercial-product",
+    "model_key": "gpt-image",
+    "model_name": "GPT Image",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Abkr Sadiq",
+      "handle": "abs_uiux"
+    },
+    "source_platform": "X",
+    "source_id": "2070131134940185047",
+    "source_url": "https://x.com/abs_uiux/status/2070131134940185047",
+    "images": [
+      "https://pbs.twimg.com/media/HLqVSMuWEAAIPX9.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/36b1ba52-b4a9-4e2f-9484-c6a6aa40bc4e",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/36b1ba52-b4a9-4e2f-9484-c6a6aa40bc4e",
+    "published_at": "2026-09-30T06:54:07.641091+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "adac14a6842bed88e00f21d757cb7455006c8e02b81e35a1ca3655945a45c243"
+  },
+  {
     "id": "3728cad7-dde0-4be0-b251-0f67c9094af5",
     "title": "Luxurious Chocolate Indulgence in Bold Elegance",
     "prompt": "Elegance never tasted this bold. 🍫✨\nWhere luxury meets pure indulgence.\nCreated with Nano Banana 2 on @Lart_AI\nCheck the Stey bye step Tutorial here 👇🏻",
@@ -4702,6 +4782,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "82e72d29ef0c8690aa979b16081e35a5fefafa022d263f43659f7292cd837635"
+  },
+  {
+    "id": "45e934a8-ea96-425b-9a56-08ec7ed18414",
+    "title": "3D Clay-Illustration Weekend Food Festival Poster",
+    "prompt": "3D clay-illustration style vertical poster with a clean minimalist background, abstract art aesthetic in the Behance/Dribbble visual design tradition. The mood is fresh, vibrant, youthful, and delicate. Theme: Weekend Food Festival. Aspect ratio: 16:9, 4K.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "PromptLab",
+      "handle": "iamaiistudio"
+    },
+    "source_platform": "X",
+    "source_id": "2068953812401054124",
+    "source_url": "https://x.com/iamaiistudio/status/2068953812401054124",
+    "images": [
+      "https://pbs.twimg.com/media/HLZma90aUAASyo4.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/45e934a8-ea96-425b-9a56-08ec7ed18414",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/45e934a8-ea96-425b-9a56-08ec7ed18414",
+    "published_at": "2026-09-30T06:54:02.34406+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "26a1318babf0783ff9d1b7ddde517c3f70f437528cb70a7092f23cb21fcb8fdd"
   },
   {
     "id": "4639fc2d-17e0-4353-b9e2-3db3bff2079b",
@@ -8826,6 +8932,58 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "195512c54442c13aa8c8078e20b62ad17d34dc1cd4786c962453449d9dc30b99"
+  },
+  {
+    "id": "7eda030b-391d-42a0-8533-199f68b270da",
+    "title": "Alice in Wonderland Fashion Portrait",
+    "prompt": "Prompt:\nA surreal Alice in Wonderland–inspired fashion portrait of a stylish young woman standing inside a large ornate wooden heart-shaped frame decorated with vibrant red roses and scattered playing cards. She wears a beige linen blazer, matching newsboy cap, round black sunglasses, and dark leather gloves. In one hand she holds a bouquet of fresh red roses; in the other, a burning Ace of Hearts playing card with realistic flames. The setting is an outdoor rose garden with soft natural sunlight, shallow depth of field, cinematic bokeh, whimsical fantasy atmosphere, luxury editorial photography, highly detailed, photorealistic skin, warm color grading, intricate wood carving, dreamy storytelling composition, centered framing, ultra-sharp focus, 85mm lens, f/1.8, high-end fashion magazine style, masterpiece, 8K.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Aijaz",
+      "handle": "iamsofiaijaz"
+    },
+    "source_platform": "X",
+    "source_id": "2068743816174239980",
+    "source_url": "https://x.com/iamsofiaijaz/status/2068743816174239980",
+    "images": [
+      "https://pbs.twimg.com/media/HLWnh-PbMAEloqW.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/7eda030b-391d-42a0-8533-199f68b270da",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/7eda030b-391d-42a0-8533-199f68b270da",
+    "published_at": "2026-09-30T06:53:58.886081+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ab053fb36fef6880879696628f87f9fc23a62956c4e0ec2607df16f8b5ca9280"
+  },
+  {
+    "id": "7f5d1702-ce51-485f-bf3d-bd339678c513",
+    "title": "Underrated Middle East Lamb Dishes 2x2 Grid",
+    "prompt": "Prompt: 2x2 grid, 16:9, do this for underrated middle east lamb dishes: input: $ dish  policy: infer all context from :dish. do not hardcode eras, cultures, styles, panel count, or composition.  create temp view flavorline as select     moment as era,     infer_dish_form(:dish, moment) as plate,     infer_origin_myth(plate) as origin,     infer_scarcity_or_excess(plate) as economy,     infer_authenticity_conflict(origin, economy) as tension,     infer_food_visual_language(plate, tension) as style,     infer_composition(plate, style) as layout from unnest(     infer_most_revealing_moments(:dish,         goal = \"moments where the dish reveals migration, class, or cultural conflict\",         count = infer_optimal_panel_count(:dish)     ) ) as moment;  select     render_panel(plate, origin, economy, tension, style, layout) as panel from flavorline order by infer_narrative_order(era, tension);  bind panels as infer_most_shareable_format(:dish, panels) with     thesis = infer_culinary_thesis(:dish, panels),     caption = infer_hook_caption(thesis);",
+    "category": "food-drink",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Gadgetify",
+      "handle": "Gdgtify"
+    },
+    "source_platform": "X",
+    "source_id": "2104617885339468003",
+    "source_url": "https://x.com/Gdgtify/status/2104617885339468003",
+    "images": [
+      "https://pbs.twimg.com/media/HTQjj6bXYAAbBWa.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/7f5d1702-ce51-485f-bf3d-bd339678c513",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/7f5d1702-ce51-485f-bf3d-bd339678c513",
+    "published_at": "2026-09-30T06:54:30.891354+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "67c6f4865fc11c83cd31ac9e1000bcf15b0131cb2522bd73d35989a278497cfc"
   },
   {
     "id": "80c08566-d591-46a0-87d9-bb81a966c4f4",
@@ -14120,6 +14278,32 @@
     "content_hash": "c7b6eeb3ae3f79f9f9bd8d05c7fe266e71233ad0efda65f600a23e2c2f4096de"
   },
   {
+    "id": "ca47ad16-bbda-4dac-afb9-7f5f1b9c50c0",
+    "title": "Epic Fantasy Canyon City at Golden Hour",
+    "prompt": "Epic fantasy architectural canyon city viewed from a towering natural stone cavern framing, grand multi-tiered stone arch bridges spanning a deep abyssal river valley, majestic golden-domed imperial palace city complex crowning the distant plateau, cascading waterfalls plunging into dark blue reflective waters below, bustling cliffside settlements embedded directly into rugged vertical rock faces with glowing warm pinprick lights, dramatic golden hour sun breaking through heavy volumetric cumulus clouds, high-altitude atmospheric haze and sunbeams cutting through mist, epic cinematic establishing shot, wide-angle establishing composition looking down into a vast scale-defying world, cinematic golden hour lighting with warm directional sunlight contrasting deep cool blue shadows, color palette of burnished gold, weathered stone gray, deep indigo, and warm amber highlights, subtle atmospheric particulate, fine cinematic 35mm film grain, photorealistic architectural concept art style reminiscent of epic fantasy cinema and master matte painting.",
+    "category": "scene-space",
+    "model_key": "grok",
+    "model_name": "Grok",
+    "model_family": null,
+    "author": {
+      "name": "Kaan",
+      "handle": "kaanakz"
+    },
+    "source_platform": "X",
+    "source_id": "2090512829342515675",
+    "source_url": "https://x.com/kaanakz/status/2090512829342515675",
+    "images": [
+      "https://pbs.twimg.com/media/HQL8UEsXIAAOE6r.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/ca47ad16-bbda-4dac-afb9-7f5f1b9c50c0",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/ca47ad16-bbda-4dac-afb9-7f5f1b9c50c0",
+    "published_at": "2026-09-30T06:54:19.890912+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "6dd6e90f7a6d91f19dbfb862ad353ce9b915a551339ae5e0a9a75429e3e73b4b"
+  },
+  {
     "id": "cad4e48c-d619-4227-82da-3aa915a38136",
     "title": "Southeast Asian Woman Taking a Cozy Selfie",
     "prompt": "Edit the provided photo without changing the person's face or identity. Preserve facial features, expression, and natural proportions.\nCreate an ultra-photorealistic, 8K HDR smartphone selfie with authentic RAW smartphone camera processing, DSLR-level realism, realistic skin texture, visible pores, natural imperfections, and true-to-life colors.\nA beautiful young Southeast Asian woman is lying comfortably on a bed, wrapped across the chest in a colorful blue-green blanket with abstract yellow, turquoise, teal, and white patterns. She is taking a spontaneous close-up selfie in a simple bedroom.\nComposition\nVertical 9:16.\nTight framing from upper chest to slightly above the head.\nSmartphone held 25–35 cm from the face, slightly above eye level with a 5–10° downward angle.\nFace fills about 70% of the frame.\nFace & Expression\nSmall oval face with a soft feminine jawline and rounded chin.\nFair skin with warm-neutral undertones, natural blush, visible pores, subtle skin texture, and realistic imperfections.\nLarge almond-shaped light gray-brown eyes looking directly at the camera with natural catchlights.\nThick natural brows with visible individual hairs.\nSmall rounded nose.\nFull soft pink lips, slightly parted, playfully sticking the tongue slightly toward the lower left.\nHair\nMedium-length dark chocolate brown hair with warm ash-brown highlights.\nCenter part, silky texture, shoulder-length layers with inward-curved ends.\nLoose strands framing the face and a few strands falling naturally across the cheeks.\nMakeup (Soft Korean Editorial)\nLightweight natural base.\nWarm pink blush on cheeks and lightly across the nose.\nNude-gold shimmer eyeshadow.\nThin black winged eyeliner.\nLong naturally separated lashes with subtle lower lash definition.\nStraight medium-thickness brows.\nSmall beauty marks/freckles around the cheeks.\nFull matte gradient lips with a deep rose center fading into soft pink edges and a slight glossy finish.\nClothing & Accessories\nThin black-and-white spaghetti strap visible only on the left shoulder beneath the blanket.\nDelicate necklace with a small gemstone pendant.\nLighting Strong direct smartphone LED flash aligned with the camera lens, producing bright frontal lighting, crisp facial detail, realistic eye catchlights, gentle shadows beneath the chin and hair, slight highlight clipping on bright skin, authentic smartphone HDR, mild digital sharpening, subtle indoor image noise, and realistic white balance with cool flash mixed with warm ambient room light.\nBackground A clean, simple bedroom with white walls and ceiling, a wall-mounted split AC in the upper-left corner, gray pleated curtains beneath it, soft indoor ambient light, a subtle green-yellow flash reflection on the right wall, and natural smartphone depth blur that keeps the face perfectly sharp.\nCamera Premium smartphone front camera, 26 mm equivalent, f/1.8, ISO 400–800, 1/60 s, HDR enabled, autofocus locked on the eyes, realistic smartphone lens rendering with slight edge softness. Handheld selfie with no studio lighting, cinematic lighting, or professional retouching.\nOverall Style Authentic candid bedroom selfie, playful everyday mood, physically accurate lighting, realistic fabric folds, detailed hair strands, natural skin pores, vibrant but realistic colors, indistinguishable from a genuine premium smartphone selfie.\nNegative Prompt Low quality, blurry, soft focus, painting, illustration, anime, CGI, 3D render, plastic or wax skin, beauty filters, excessive skin smoothing, unrealistic eyes, crossed eyes, bad anatomy, deformed or asymmetrical face, duplicate features, extra fingers, cropped head, pixelation, compression artifacts, oversaturated colors, unrealistic hair, fake lighting, studio lighting, cinematic lighting, watermark, logo, text, frame, artificial HDR, distorted perspective, excessive makeup, unrealistic proportions.",
@@ -14744,6 +14928,32 @@
     "content_hash": "bda06b9d583c7f87b354941217b4404d1f483068f0a7b62bc22ecd71982cc58d"
   },
   {
+    "id": "d2d77325-7b43-448a-8c33-0aa7ba01cb1d",
+    "title": "Cinematic Chiaroscuro Beauty Portrait",
+    "prompt": "A high-end, cinematic portrait of a stunning East Asian woman with long, voluminous dark wavy hair. Her expression is captivating and direct, featuring sharp facial features, glowing skin, and bold, vibrant red lips. The lighting is dramatic and moody, utilizing a strong chiaroscuro effect with soft highlights that accentuate her jawline and shoulders against a deep, dark, and textured background. The overall aesthetic is elegant, sophisticated, and polished, reminiscent of a professional fashion editorial or luxury beauty campaign shot with a high-resolution camera.",
+    "category": "portrait",
+    "model_key": "grok",
+    "model_name": "Grok",
+    "model_family": null,
+    "author": {
+      "name": "Minahil",
+      "handle": "Minahil42298354"
+    },
+    "source_platform": "X",
+    "source_id": "2077067526542856260",
+    "source_url": "https://x.com/Minahil42298354/status/2077067526542856260",
+    "images": [
+      "https://pbs.twimg.com/media/HNM55pEXgAEJgs_.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d2d77325-7b43-448a-8c33-0aa7ba01cb1d",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d2d77325-7b43-448a-8c33-0aa7ba01cb1d",
+    "published_at": "2026-09-30T06:54:13.067292+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "0b069166f4019f89763833d0d78418f40a5b2478e3a959b6a6945ab65c47e335"
+  },
+  {
     "id": "d31d3a43-1bbc-4398-b6b7-6c6e86bcbab0",
     "title": "Vortex Sneaker Ad: Spin in Electric Blue",
     "prompt": "Sneaker Advertisment Poster(2)🔥\nImage on Google Gemini Nano Banana 2.\nPrompt ⤵️\n\"A high-energy vertical sneaker advertisement poster (9:16 ratio).\nA young American white man with sharp jawline and defined facial features,\nwearing a clean white tracksuit, caught mid-spin with arms extended outward,\nshot from a low dramatic angle looking up. Bold oversized typography \"SPIN\"\nin deep electric blue dominates the background. Brand name \"VORTEX\" centered\nat the bottom. Taglines: \"TURN HEADS.\" / \"EVERY DIRECTION.\" / \"BUILT FOR MOTION.\"\nWhite and electric blue sneakers with metallic silver accents fill the foreground.\nIcy blue gradient background with light burst effects. Ultra photorealistic,\n8K, no text overlays on subject, cinematic color grading.\"",
@@ -15012,6 +15222,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "af3cccdd0bafc53c84a1dfb2643c5299d9fffe863ea73ec85a51a4c9cb5cfd5f"
+  },
+  {
+    "id": "d4f7cb9a-2f90-4bdf-bf94-e5ffdf64f773",
+    "title": "Woman with Thunderstorm Suitcase at Railway Station",
+    "prompt": "A woman carrying a transparent suitcase filled with a miniature thunderstorm instead of clothes, lightning flashing inside the suitcase, crowded railway station around her, everyone else moving in motion blur,\n--ar 4:5 --stylize 350 hd",
+    "category": "scene-space",
+    "model_key": "midjourney",
+    "model_name": "Midjourney",
+    "model_family": null,
+    "author": {
+      "name": "Future Vibes AI - Testing & Educating",
+      "handle": "FutureVibesAi"
+    },
+    "source_platform": "X",
+    "source_id": "2103906054459511173",
+    "source_url": "https://x.com/FutureVibesAi/status/2103906054459511173",
+    "images": [
+      "https://pbs.twimg.com/media/HTKTYLEbEAAJgUG.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTKTYtNaoAAxwmO.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTKTZNvacAAkljf.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTKTZuDbYAA1vlg.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d4f7cb9a-2f90-4bdf-bf94-e5ffdf64f773",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d4f7cb9a-2f90-4bdf-bf94-e5ffdf64f773",
+    "published_at": "2026-09-30T06:54:23.966973+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "edf644797dc5a9eb64645b4e3f5103a5af80a04adde266fb79ac6674c2cbd9b4"
   },
   {
     "id": "d59e62fb-ec44-41f6-95b9-a6b8c2a9c7e6",
@@ -15601,6 +15840,32 @@
     "content_hash": "148c99e52ab8efcb12ebec698db7a39b5dbeeacd237e811aa4c6d1d91f00b5cc"
   },
   {
+    "id": "dc86ef73-08fc-4f8a-9e30-1d2be0c7c219",
+    "title": "Pixel Art World Cup 2026 Team Poster",
+    "prompt": "[COUNTRY] national football team celebrating at FIFA World Cup 2026, iconic [COUNTRY] football stadium with roaring crowd, national flag colors saturating the pixel sky, player silhouettes raising the World Cup trophy, confetti rain, pixelated mosaic texture, CityPop retro pixel art illustration, stadium floodlight night, deep blue midnight sky with neon festive glow, in the style of tom whalen, james bullough, flat vector graphic illustration, travel poster composition, from behance dribbble, UI illustration, best quality --ar 3:4",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "两斤",
+      "handle": "0x00_Krypt"
+    },
+    "source_platform": "X",
+    "source_id": "2069394361973108945",
+    "source_url": "https://x.com/0x00_Krypt/status/2069394361973108945",
+    "images": [
+      "https://pbs.twimg.com/media/HLf3L2daMAEJhYt.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/dc86ef73-08fc-4f8a-9e30-1d2be0c7c219",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/dc86ef73-08fc-4f8a-9e30-1d2be0c7c219",
+    "published_at": "2026-09-30T06:54:04.415163+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "4f13526972dd3f6178a96f329661400be5bd872ba26933835cd380f69b4800be"
+  },
+  {
     "id": "ddb6653b-3060-4a75-8e0c-f0c35776b8d6",
     "title": "Two Korean Women on Kodak Gold Film",
     "prompt": "Stereoscopic photo of two different Korean women taken on Kodak Gold 35mm film, heavy film grain, asymmetrical, creative light leaks --no glasses --ar 16:9 --raw --stylize 150 --hd --preview --v 8.1",
@@ -16126,6 +16391,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "d0c8bd53ab227acc4db0ee8aef8fe1be9f3d76da6059ffcbf1633636dc18d14b"
+  },
+  {
+    "id": "e28048c2-76f8-4c89-9b1c-2f9fba5f5c89",
+    "title": "Miniature Workers Assembling a Giant Pepsi Can",
+    "prompt": "A surreal macro world where miniature workers assemble a giant Pepsi can surrounded by ice cubes. Tiny welders polish aluminum, cranes place the logo, workers clean condensation drops. The can stands on a branded Pepsi platform. Hyper-realistic reflections, cinematic lighting, playful scene.",
+    "category": "commercial-product",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "𝐌",
+      "handle": "Strength04_X"
+    },
+    "source_platform": "X",
+    "source_id": "2067861589894877369",
+    "source_url": "https://x.com/Strength04_X/status/2067861589894877369",
+    "images": [
+      "https://pbs.twimg.com/media/HLKAsYmbkAAzz4S.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89",
+    "published_at": "2026-09-30T06:53:53.775033+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "3d1deab5d1f07eda399e7b2f35730e46a44f723d84ad71e7260a7946e78150a8"
   },
   {
     "id": "e2c58562-c7e0-4287-ac46-acb69bcc1278",
@@ -16729,6 +17020,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "4c007d0f9db5c27fb646a6f6b00ad5a757d4851c7604a83f18c8074324b421db"
+  },
+  {
+    "id": "e9fb6ebe-7904-485d-ba1d-fcb5431f343e",
+    "title": "Luxury Streetwear Shopping Bag Editorial Poster",
+    "prompt": "Create a premium luxury streetwear editorial advertising poster in a vertical 9:16 format.\nA stylish young female model leans over an enormous shopping bag, looking directly down toward the viewer with a confident, irresistible expression. The scene is captured from an extreme point-of-view camera positioned inside the shopping bag, creating a dramatic upward perspective as if the viewer is the item about to be picked.\n\nThe model naturally leans over the bag’s opening, with one hand reaching inside while maintaining intense direct eye contact. He wears an oversized vibrant red hoodie, black cargo pants, and clean white sneakers, embodying a bold contemporary luxury streetwear aesthetic.\n\nThe opening of the shopping bag forms a powerful foreground frame, surrounding the model and enhancing the immersive perspective. The interior walls of the bag become part of the graphic design, featuring oversized premium typography wrapping around the paper surface with the statement:\n\n“TAKE WHAT’S YOURS”\n\nIntegrate sophisticated editorial graphic elements throughout the composition, including authentic receipt graphics, barcode strips, shipping labels, premium stickers, paper folds, subtle print imperfections, registration marks, and luxury magazine-inspired layout details.\n\nComposition emphasizes an unforgettable forced-perspective viewpoint with strong foreground framing, dramatic depth, and a highly shareable luxury fashion campaign aesthetic suitable for premium social media advertising.\n\nLighting is inspired by high-end fashion campaigns, with brilliant natural light pouring in from above the bag, creating luminous highlights, soft shadows, realistic paper reflections, and cinematic contrast.\n\nColor Palette: Rich crimson red, deep black, crisp white, and warm cream paper tones.\n\nStyle: Ultra-premium luxury streetwear campaign, contemporary editorial design, cinematic fashion photography, magazine cover quality, bold graphic composition, hyper-realistic textures, impeccable typography integration, ultra-detailed, photorealistic, 8K masterpiece, award-winning commercial advertising, premium branding aesthetic.",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Laraib Fatima‎",
+      "handle": "AiwithLariab"
+    },
+    "source_platform": "X",
+    "source_id": "2075071927975293125",
+    "source_url": "https://x.com/AiwithLariab/status/2075071927975293125",
+    "images": [
+      "https://pbs.twimg.com/media/HMwi6p2bUAAyaf6.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HMwi6m2boAAhk-P.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HMwi6qkagAAFChK.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HMwi6rzasAAR0jb.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/e9fb6ebe-7904-485d-ba1d-fcb5431f343e",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/e9fb6ebe-7904-485d-ba1d-fcb5431f343e",
+    "published_at": "2026-09-30T06:54:09.378869+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "d379ca73ac5b8e0209e6a86fbdec0670a2452247148facdafb1dc0803d8d95d0"
   },
   {
     "id": "ea048c04-ed46-4ab3-b3dd-e534486f9b99",
@@ -17712,6 +18032,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "daed03078717b13df8ed01df6c9d437cb64e997891ed4b597b601ca6c2cb070e"
+  },
+  {
+    "id": "f987eccc-5faf-4973-aa1c-503c7fe98cca",
+    "title": "Fisheye Low-Angle Street Portrait of a Man",
+    "prompt": "Create a surreal, ultra-realistic low-angle fisheye photograph of a young man walking directly over the camera in the center of a grand European city square. The camera is placed almost flat against the cobblestone pavement, creating an extreme forced-perspective effect. One leg is lifted high toward the lens, with the sneaker sole dominating the foreground and appearing dramatically oversized, showing detailed rubber tread and realistic texture. His other foot remains planted on the ground. He reaches one hand directly toward the camera with an open palm and naturally spread fingers, creating strong depth and interaction with the viewer. He wears a blue denim jacket over a clean white T-shirt, relaxed blue jeans, and classic black-and-white canvas sneakers. He has short slightly tousled dark hair and subtle round glasses, with a calm, confident expression as he looks down toward the camera. Surround him with elegant historic European architecture curving dramatically around the frame because of the extreme 8mm fisheye lens. Bright blue summer sky with soft white clouds, strong sunlight and subtle lens flare, realistic shadows across the cobblestones, distant pedestrians and city details around the square. Extreme barrel distortion, circular architectural framing, dynamic perspective, crisp facial detail, realistic skin, denim and shoe textures, cinematic street photography, natural colors, high dynamic range, immersive depth, photorealistic, 8K detail. Vertical 4:5 composition, subject centered, no text, no logos, no watermark.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Taaruk",
+      "handle": "Taaruk_"
+    },
+    "source_platform": "X",
+    "source_id": "2090375007482655227",
+    "source_url": "https://x.com/Taaruk_/status/2090375007482655227",
+    "images": [
+      "https://pbs.twimg.com/media/HQKA-XNbQAAR8wF.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f987eccc-5faf-4973-aa1c-503c7fe98cca",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f987eccc-5faf-4973-aa1c-503c7fe98cca",
+    "published_at": "2026-09-30T06:54:17.992427+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "bac77c978c4d9d47a974305ee15d675c57e2a5ab4586af9ae17dc9a642ba33f1"
   },
   {
     "id": "fa1f9274-eccb-49db-9bbc-18d7dd75b06b",

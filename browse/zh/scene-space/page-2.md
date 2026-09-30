@@ -693,3 +693,73 @@ Surreal retro-luxury interiors: burled wood, biomorphic furniture, cavernous spa
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fc44da04-d3e7-4084-9ca7-870601a18f39?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/DrSadek_/status/2104133960372543685>)
 
 ---
+
+<a id="prompt-1cfdf299-57a4-432a-9572-17c8ca482a78"></a>
+
+## Woman with Thunderstorm Suitcase at Railway Station
+
+<a href="https://musesignal.com/zh/prompt/1cfdf299-57a4-432a-9572-17c8ca482a78?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTNHk4CbkAArZrL.jpg?format=jpg&amp;name=small" width="480" alt="Woman with Thunderstorm Suitcase at Railway Station" /></a>
+
+**Midjourney** · 原作者: Future Vibes AI - Testing &amp; Educating
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A woman carrying a transparent suitcase filled with a miniature thunderstorm instead of clothes, lightning flashing inside the suitcase, crowded railway station around her, everyone else moving in motion blur, emotional conceptual photography, loneliness and inner chaos represented visually
+--ar
+ 4:5
+--stylize
+ 350
+--hd
+@midjourney
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1cfdf299-57a4-432a-9572-17c8ca482a78?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/FutureVibesAi/status/2104104183075148183>)
+
+---
+
+<a id="prompt-d4f7cb9a-2f90-4bdf-bf94-e5ffdf64f773"></a>
+
+## Woman with Thunderstorm Suitcase at Railway Station
+
+<a href="https://musesignal.com/zh/prompt/d4f7cb9a-2f90-4bdf-bf94-e5ffdf64f773?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTKTYLEbEAAJgUG.jpg?format=jpg&amp;name=small" width="480" alt="Woman with Thunderstorm Suitcase at Railway Station" /></a>
+
+**Midjourney** · 原作者: Future Vibes AI - Testing &amp; Educating
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A woman carrying a transparent suitcase filled with a miniature thunderstorm instead of clothes, lightning flashing inside the suitcase, crowded railway station around her, everyone else moving in motion blur,
+--ar 4:5 --stylize 350 hd
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d4f7cb9a-2f90-4bdf-bf94-e5ffdf64f773?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/FutureVibesAi/status/2103906054459511173>)
+
+---
+
+<a id="prompt-ca47ad16-bbda-4dac-afb9-7f5f1b9c50c0"></a>
+
+## Epic Fantasy Canyon City at Golden Hour
+
+<a href="https://musesignal.com/zh/prompt/ca47ad16-bbda-4dac-afb9-7f5f1b9c50c0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQL8UEsXIAAOE6r.jpg?format=jpg&amp;name=small" width="480" alt="Epic Fantasy Canyon City at Golden Hour" /></a>
+
+**Grok** · 原作者: Kaan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Epic fantasy architectural canyon city viewed from a towering natural stone cavern framing, grand multi-tiered stone arch bridges spanning a deep abyssal river valley, majestic golden-domed imperial palace city complex crowning the distant plateau, cascading waterfalls plunging into dark blue reflective waters below, bustling cliffside settlements embedded directly into rugged vertical rock faces with glowing warm pinprick lights, dramatic golden hour sun breaking through heavy volumetric cumulus clouds, high-altitude atmospheric haze and sunbeams cutting through mist, epic cinematic establishing shot, wide-angle establishing composition looking down into a vast scale-defying world, cinematic golden hour lighting with warm directional sunlight contrasting deep cool blue shadows, color palette of burnished gold, weathered stone gray, deep indigo, and warm amber highlights, subtle atmospheric particulate, fine cinematic 35mm film grain, photorealistic architectural concept art style reminiscent of epic fantasy cinema and master matte painting.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ca47ad16-bbda-4dac-afb9-7f5f1b9c50c0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/kaanakz/status/2090512829342515675>)
+
+---

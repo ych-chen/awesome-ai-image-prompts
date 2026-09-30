@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **671** | **100** | 2026-09-29 |
+| **684** | **100** | 2026-09-30 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -28,12 +28,12 @@
 
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
-| [人像摄影](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 227 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
-| [商业产品](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 126 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
-| [海报设计](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 119 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
-| [食物饮品](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 29 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
-| [角色艺术](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 123 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
-| [场景空间](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) | 47 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) |
+| [人像摄影](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 230 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
+| [商业产品](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 129 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
+| [海报设计](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 121 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
+| [食物饮品](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 30 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
+| [角色艺术](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 124 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
+| [场景空间](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) | 50 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
 
@@ -45,7 +45,7 @@
 
 <a id="selected-portrait"></a>
 
-### 人像摄影 · 25
+### 人像摄影 · 20
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>)
 
@@ -927,6 +927,76 @@ Negative prompt: full-body distant shot, face too small, unclear expression, neu
 
 ---
 
+<a id="prompt-f987eccc-5faf-4973-aa1c-503c7fe98cca"></a>
+
+#### Fisheye Low-Angle Street Portrait of a Man
+
+<a href="https://musesignal.com/zh/prompt/f987eccc-5faf-4973-aa1c-503c7fe98cca?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQKA-XNbQAAR8wF.jpg?format=jpg&amp;name=small" width="480" alt="Fisheye Low-Angle Street Portrait of a Man" /></a>
+
+**GPT Image 2** · 原作者: Taaruk
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a surreal, ultra-realistic low-angle fisheye photograph of a young man walking directly over the camera in the center of a grand European city square. The camera is placed almost flat against the cobblestone pavement, creating an extreme forced-perspective effect. One leg is lifted high toward the lens, with the sneaker sole dominating the foreground and appearing dramatically oversized, showing detailed rubber tread and realistic texture. His other foot remains planted on the ground. He reaches one hand directly toward the camera with an open palm and naturally spread fingers, creating strong depth and interaction with the viewer. He wears a blue denim jacket over a clean white T-shirt, relaxed blue jeans, and classic black-and-white canvas sneakers. He has short slightly tousled dark hair and subtle round glasses, with a calm, confident expression as he looks down toward the camera. Surround him with elegant historic European architecture curving dramatically around the frame because of the extreme 8mm fisheye lens. Bright blue summer sky with soft white clouds, strong sunlight and subtle lens flare, realistic shadows across the cobblestones, distant pedestrians and city details around the square. Extreme barrel distortion, circular architectural framing, dynamic perspective, crisp facial detail, realistic skin, denim and shoe textures, cinematic street photography, natural colors, high dynamic range, immersive depth, photorealistic, 8K detail. Vertical 4:5 composition, subject centered, no text, no logos, no watermark.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f987eccc-5faf-4973-aa1c-503c7fe98cca?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Taaruk_/status/2090375007482655227>)
+
+---
+
+<a id="prompt-d2d77325-7b43-448a-8c33-0aa7ba01cb1d"></a>
+
+#### Cinematic Chiaroscuro Beauty Portrait
+
+<a href="https://musesignal.com/zh/prompt/d2d77325-7b43-448a-8c33-0aa7ba01cb1d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNM55pEXgAEJgs_.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Chiaroscuro Beauty Portrait" /></a>
+
+**Grok** · 原作者: Minahil
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A high-end, cinematic portrait of a stunning East Asian woman with long, voluminous dark wavy hair. Her expression is captivating and direct, featuring sharp facial features, glowing skin, and bold, vibrant red lips. The lighting is dramatic and moody, utilizing a strong chiaroscuro effect with soft highlights that accentuate her jawline and shoulders against a deep, dark, and textured background. The overall aesthetic is elegant, sophisticated, and polished, reminiscent of a professional fashion editorial or luxury beauty campaign shot with a high-resolution camera.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d2d77325-7b43-448a-8c33-0aa7ba01cb1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Minahil42298354/status/2077067526542856260>)
+
+---
+
+<a id="prompt-7eda030b-391d-42a0-8533-199f68b270da"></a>
+
+#### Alice in Wonderland Fashion Portrait
+
+<a href="https://musesignal.com/zh/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLWnh-PbMAEloqW.jpg?format=jpg&amp;name=small" width="480" alt="Alice in Wonderland Fashion Portrait" /></a>
+
+**Nano Banana Pro** · 原作者: Aijaz
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt:
+A surreal Alice in Wonderland–inspired fashion portrait of a stylish young woman standing inside a large ornate wooden heart-shaped frame decorated with vibrant red roses and scattered playing cards. She wears a beige linen blazer, matching newsboy cap, round black sunglasses, and dark leather gloves. In one hand she holds a bouquet of fresh red roses; in the other, a burning Ace of Hearts playing card with realistic flames. The setting is an outdoor rose garden with soft natural sunlight, shallow depth of field, cinematic bokeh, whimsical fantasy atmosphere, luxury editorial photography, highly detailed, photorealistic skin, warm color grading, intricate wood carving, dreamy storytelling composition, centered framing, ultra-sharp focus, 85mm lens, f/1.8, high-end fashion magazine style, masterpiece, 8K.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2068743816174239980>)
+
+---
+
 <a id="prompt-7ec2004a-ae6b-4cc1-8640-ca6c97918ad2"></a>
 
 #### Luxury Editorial Fashion Poster with Glowing JULY Typography
@@ -973,337 +1043,9 @@ Show me walking through a corridor made of floating memories. Each memory appear
 
 ---
 
-<a id="prompt-4daea946-6d3e-4800-aab1-cac5847ca9b9"></a>
-
-#### Morning Light Lace Portrait
-
-<a href="https://musesignal.com/zh/prompt/4daea946-6d3e-4800-aab1-cac5847ca9b9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS55hUVbQAAkBi9.jpg?format=jpg&amp;name=small" width="480" alt="Morning Light Lace Portrait" /></a>
-
-**GPT Image 2** · 原作者: Prompt アトリエ｜AI画像プロンプト
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-【GPT Image2プロンプト】
-
-主題：
-淡青レースの寝起き
-
-主体：
-画面中央、白い寝具へ横たわる淡青レースランジェリー姿の女性の近接肖像が主役。
-
-人物・表情：
-小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔をやや左へ傾け、視線をカメラへ合わせて唇を少し開いた穏やかな表情。明るい茶色の肩下ウェーブ髪を枕へ広げ、薄い前髪が目元へかかる。
-
-服装・ポーズ：
-淡青の細い肩紐、リブ生地、白レース縁と胸元の小リボンを持つブラトップ、白い編みカーディガン。横向きに寝て左手で頭を支え、右肩と上体をカメラへ寄せる。
-
-背景・光：
-画面左から画面右の背景に、白い花柄布団と枕、奥に木のチェストと白い花瓶。画面左上の窓から柔らかな朝の直射光が顔と肩を照らす。
-
-構図・カメラ：
-3:4の縦構図、寝具と同じ高さの近い斜め正面カメラで頭頂から胸下までのクローズアップを収めるポートレート。人物を中央へ非常に大きく配置し、画面高の大部分を占める。髪、肩、腕を画面端で自然に裁切し、両目と唇にピント、背景は軽くぼかす。
-
-質感・スタイル：
-フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、淡青、木色の明るい朝色を保つ。
-
-ネガティブ：
-顔向きと寝姿勢変更；淡青レース省略
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4daea946-6d3e-4800-aab1-cac5847ca9b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104439207628517430>)
-
----
-
-<a id="prompt-97dc4135-37b8-4051-984d-7ca6f79e95eb"></a>
-
-#### Golden Lace Sunset Window Portrait
-
-<a href="https://musesignal.com/zh/prompt/97dc4135-37b8-4051-984d-7ca6f79e95eb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS53UoiaEAAiOEq.jpg?format=jpg&amp;name=small" width="480" alt="Golden Lace Sunset Window Portrait" /></a>
-
-**GPT Image 2** · 原作者: Prompt アトリエ｜AI画像プロンプト
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-【GPT Image2プロンプト】
-
-主題：
-夕海窓の金レース
-
-主体：
-画面中央から右、海を望む開いた窓枠に座る金色レースドレスの女性が主役。
-
-人物・表情：
-小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。表情は、顔を正面へ向け、視線をカメラへ合わせて淡く微笑む表情。濃茶の長いウェーブ髪を片側へ流し、薄い前髪を残す。
-
-服装・ポーズ：
-ベージュ金の細い肩紐、深い胸元、総刺繍レースを持つ床丈ドレス。石の窓台へ腰掛け、右脚を曲げて左脚へ重ね、両手を左右の窓台へ置く。
-
-背景・光：
-画面左から画面右の背景に、白い開き窓、蔦と白花、バルコニー、海岸の街、山、沈む太陽。背景左の夕日から柔らかな金色の逆光が髪とドレスを照らす。
-
-構図・カメラ：
-3:4の縦構図、目線よりやや低い正面カメラで頭頂からドレス裾までの全身を収めるポートレート。人物を中央から右へ大きく配置し、画面高の大部分を占める。花と窓枠を左右端に残し、顔と金色レースにピント、背景は軽くぼかす。
-
-質感・スタイル：
-フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、金、白、緑、桃色の夕景を保つ。
-
-ネガティブ：
-窓台の座り姿勢変更；夕海とレース省略
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/97dc4135-37b8-4051-984d-7ca6f79e95eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104413035267866982>)
-
----
-
-<a id="prompt-de1c1674-efe2-42f7-8ab5-d8b3d1ba1e9e"></a>
-
-#### Night City Sofa Portrait in Black
-
-<a href="https://musesignal.com/zh/prompt/de1c1674-efe2-42f7-8ab5-d8b3d1ba1e9e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS51gLLbMAA7ZsM.jpg?format=jpg&amp;name=small" width="480" alt="Night City Sofa Portrait in Black" /></a>
-
-**GPT Image 2** · 原作者: Prompt アトリエ｜AI画像プロンプト
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-【GPT Image2プロンプト】
-
-主題：
-夜景ソファの黒装い
-
-主体：
-画面中央、夜景の見える現代的な部屋で黒い服を着てソファに座る女性が主役。
-
-人物・表情：
-小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面から少し左へ向け、視線をカメラへ合わせた落ち着いた真顔。黒い長いストレート髪を下ろし、薄い前髪と顔周りの毛束を残す。
-
-服装・ポーズ：
-黒いハイネックのノースリーブクロップドトップとウエストを絞ったウエストを絞った黒いロングスカート。低いソファへ座って上体を少し後ろへ預け、両膝を斜めに重ね、片手を座面へ置く。
-
-背景・光：
-大窓の外に都会の夜景、灰色ソファ、暗い壁と間接照明の現代的な室内。窓の柔らかな青い夜光と画面右の暖かな間接光が顔と輪郭を照らす。
-
-構図・カメラ：
-13:19の縦構図、床近くからの低い斜め正面カメラで頭頂から足元近くまでの全身を収めるポートレート。人物を右半分へ大きく配置。ソファとスカート裾を下端で自然に裁切し、顔と黒い衣装にピント、背景は軽くぼかす。
-
-質感・スタイル：
-フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、黒、灰、青、琥珀色の夜色を保つ。
-
-ネガティブ：
-立ち姿への変更；夜景と黒衣装省略
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/de1c1674-efe2-42f7-8ab5-d8b3d1ba1e9e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104379061321490730>)
-
----
-
-<a id="prompt-f6f37010-9bb0-42bc-8beb-6a652895dc32"></a>
-
-#### Sleeping Woman in Blue Floral Camisole
-
-<a href="https://musesignal.com/zh/prompt/f6f37010-9bb0-42bc-8beb-6a652895dc32?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS5zo7HbQAAdmUa.jpg?format=jpg&amp;name=small" width="480" alt="Sleeping Woman in Blue Floral Camisole" /></a>
-
-**GPT Image 2** · 原作者: Prompt アトリエ｜AI画像プロンプト
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-【GPT Image2プロンプト】
-
-主題：
-青花キャミの眠り
-
-主体：
-画面中央、白いベッドで青い花柄キャミソール姿のまま眠る女性が主役。
-
-人物・表情：
-小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を横へ向け、両目を完全に閉じ、唇を軽く閉じた安らかな寝顔。濃茶の長い髪を枕と肩へ広げ、細い前髪が額へかかる。
-
-服装・ポーズ：
-白地に小さな青い花柄と細い肩紐を持つキャミソールトップ。横向きに眠り、片腕を枕の下へ曲げ、もう片方を胸元近くへ添える。
-
-背景・光：
-白い枕とシーツが画面を満たす明るい寝室。画面左上から柔らかな朝光が閉じた瞼と肩へ淡く差す。
-
-構図・カメラ：
-3:4の縦構図、枕の高さからの近い斜め正面カメラで頭頂から胸元までのクローズアップを収めるポートレート。人物を中央へ大きく配置。髪と肩を画面端で自然に裁切し、閉じた瞼と青花柄にピント、背景は軽くぼかす。
-
-質感・スタイル：
-フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、白、淡青、柔らかな肌色を保つ。
-
-ネガティブ：
-開眼やカメラ目線；青花柄の省略
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f6f37010-9bb0-42bc-8beb-6a652895dc32?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104331246558154978>)
-
----
-
-<a id="prompt-ce39445c-2552-4d44-a91e-e70de6ade887"></a>
-
-#### Dappled Leaf-Shadow Natural Portrait
-
-<a href="https://musesignal.com/zh/prompt/ce39445c-2552-4d44-a91e-e70de6ade887?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS5xyk1boAEj_ML.jpg?format=jpg&amp;name=small" width="480" alt="Dappled Leaf-Shadow Natural Portrait" /></a>
-
-**GPT Image 2** · 原作者: Prompt アトリエ｜AI画像プロンプト
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-【GPT Image2プロンプト】
-
-主題：
-葉影の生成り肖像
-
-主体：
-画面中央、屋外の葉影の中で生成りのジャケットを着た女性の近接肖像が主役。
-
-人物・表情：
-小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面からやや左へ向け、視線をカメラへ合わせた柔らかな表情。濃茶の長いウェーブ髪を下ろし、薄い前髪と頬沿いの後れ毛を残す。
-
-服装・ポーズ：
-生成りのオーバーサイズテーラードジャケット、胸元に同系色のレーストップ、細い金の重ねネックレス。上体をわずかに傾け、肩を抜いて自然に立つ。
-
-背景・光：
-緑の葉と淡い壁が大きくぼける屋外の木陰。画面左上から柔らかな柔らかな柔らかな木漏れ日が頬、額、ジャケットへ斑に落ちる。
-
-構図・カメラ：
-3:4の縦構図、目線と同じ高さの正面カメラで頭頂から胸下までのバストアップを収めるポートレート。人物を中央へ大きく配置。髪と肩を左右端で自然に裁切し、両目と肌の葉影にピント、背景は軽くぼかす。
-
-質感・スタイル：
-フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、生成り、緑、肌色の自然な低彩度を保つ。
-
-ネガティブ：
-葉影の省略；ジャケット色変更
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ce39445c-2552-4d44-a91e-e70de6ade887?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104197615982178366>)
-
----
-
-<a id="prompt-367207d1-eb18-491f-91e8-1ff4d428bff7"></a>
-
-#### Moonlit Ruined Greenhouse Gothic Portrait
-
-<a href="https://musesignal.com/zh/prompt/367207d1-eb18-491f-91e8-1ff4d428bff7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS5vxzUbIAAKr4W.jpg?format=jpg&amp;name=small" width="480" alt="Moonlit Ruined Greenhouse Gothic Portrait" /></a>
-
-**GPT Image 2** · 原作者: Prompt アトリエ｜AI画像プロンプト
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-【GPT Image2プロンプト】
-
-主題：
-月下廃園の黒桃
-
-主体：
-画面中央、月夜の崩れた温室で黒いトップと桃色スカート姿でしゃがむ女性が主役。
-
-人物・表情：
-小さな卵形の顔、濃茶の大きな瞳、細い眉、整った鼻、艶のある淡桃色の唇。顔を正面へ向け、視線をカメラへ合わせた冷静で少し挑む表情。黒い長髪は濡れたような束感で肩へ流れ、薄い前髪が額へかかる。
-
-服装・ポーズ：
-黒い長袖クロップドトップ、淡桃のプリーツミニスカート、白い厚底ロングブーツ。濡れた床へ低くしゃがみ、片手を膝へ、もう片手を床近くへ添える。
-
-背景・光：
-画面左から画面右の背景に壊れたガラス温室、蔦、石柱、奥の大きな満月、前景に反射する濡れた床。背後を光源とする柔らかな青白い月光と画面前方の弱い補助光が輪郭と顔を照らす。
-
-構図・カメラ：
-9:16の縦構図、床近くの低い正面カメラで頭頂から厚底ブーツまでの全身を収めるポートレート。人物を中央へ小さく配置し、画面高の半分ほどを占める。温室の高さと床の反射を十分残し、顔と黒桃の衣装にピント、背景は軽くぼかす。
-
-質感・スタイル：
-フォトリアルな実写写真。自然な肌と髪、衣装の素材、周囲の小物を高精細にし、青黒、淡桃、白の幻想的な夜色を保つ。
-
-ネガティブ：
-昼景への変更；温室と満月省略
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/367207d1-eb18-491f-91e8-1ff4d428bff7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/CyberTotal2026/status/2104182012907008131>)
-
----
-
-<a id="prompt-9304e8f9-692b-409e-b78c-237f962e068f"></a>
-
-#### Vogue Fashion Editorial Portrait
-
-<a href="https://musesignal.com/zh/prompt/9304e8f9-692b-409e-b78c-237f962e068f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOJKgAnaoAA6GOU.jpg?format=jpg&amp;name=small" width="480" alt="Vogue Fashion Editorial Portrait" /></a>
-
-**GPT Image 2** · 原作者: Aijaz
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A high-definition, professional fashion editorial photograph of a sophisticated woman with a sleek, center-parted bun. She is wearing elegant, thin-rimmed silver glasses and a minimalist white long-sleeved silk blouse. She is posed gracefully with her hands near her face and chest, showcasing a luxury silver watch. The background is a clean, bright white with bold, high-contrast black serif typography reading 'VOGUE' at the top. Studio lighting, soft skin texture, sharp focus on the eyes, 8k resolution, shot on a 85mm lens for a flattering portrait compression."
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9304e8f9-692b-409e-b78c-237f962e068f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2081307898412740619>)
-
----
-
-<a id="prompt-453b1d7e-a3cc-4792-af3e-4a45257295d2"></a>
-
-#### Luxury Studio Portrait Collage of a Stylish Boy
-
-<a href="https://musesignal.com/zh/prompt/453b1d7e-a3cc-4792-af3e-4a45257295d2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMbisS8a4AA70xG.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Studio Portrait Collage of a Stylish Boy" /></a>
-
-**GPT Image 2** · 原作者: Zarnab Ai
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A hyper-realistic premium studio portrait collage of a stylish little boy with medium-length black hair and fair skin, wearing a deep maroon button-up shirt, white loose-fit pants, and clean white sneakers. The composition features three versions of the same child: one large side-profile wearing black round sunglasses with a confident expression, one large portrait looking downward thoughtfully, and one full-body front-facing pose standing casually with hands in pockets and wearing a silver wristwatch. The background is a smooth dark gray studio backdrop with dramatic white liquid splash effects artistically surrounding all three portraits, creating a luxury fashion editorial look. Soft cinematic studio lighting, ultra-detailed facial features, realistic skin texture, sharp focus, high contrast, premium color grading, shallow depth of field, photorealistic, 8K, masterpiece, fashion magazine cover style.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/453b1d7e-a3cc-4792-af3e-4a45257295d2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Zarnab_with_Ai/status/2073593945406230689>)
-
----
-
 <a id="selected-commercial-product"></a>
 
-### 商业产品 · 19
+### 商业产品 · 21
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>)
 
@@ -1789,6 +1531,93 @@ Midjourney + NanoBanana + Ps
 
 ---
 
+<a id="prompt-e9fb6ebe-7904-485d-ba1d-fcb5431f343e"></a>
+
+#### Luxury Streetwear Shopping Bag Editorial Poster
+
+<a href="https://musesignal.com/zh/prompt/e9fb6ebe-7904-485d-ba1d-fcb5431f343e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMwi6p2bUAAyaf6.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Streetwear Shopping Bag Editorial Poster" /></a>
+
+**GPT Image 2** · 原作者: Laraib Fatima‎
+
+创作场景: 商业产品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a premium luxury streetwear editorial advertising poster in a vertical 9:16 format.
+A stylish young female model leans over an enormous shopping bag, looking directly down toward the viewer with a confident, irresistible expression. The scene is captured from an extreme point-of-view camera positioned inside the shopping bag, creating a dramatic upward perspective as if the viewer is the item about to be picked.
+
+The model naturally leans over the bag’s opening, with one hand reaching inside while maintaining intense direct eye contact. He wears an oversized vibrant red hoodie, black cargo pants, and clean white sneakers, embodying a bold contemporary luxury streetwear aesthetic.
+
+The opening of the shopping bag forms a powerful foreground frame, surrounding the model and enhancing the immersive perspective. The interior walls of the bag become part of the graphic design, featuring oversized premium typography wrapping around the paper surface with the statement:
+
+“TAKE WHAT’S YOURS”
+
+Integrate sophisticated editorial graphic elements throughout the composition, including authentic receipt graphics, barcode strips, shipping labels, premium stickers, paper folds, subtle print imperfections, registration marks, and luxury magazine-inspired layout details.
+
+Composition emphasizes an unforgettable forced-perspective viewpoint with strong foreground framing, dramatic depth, and a highly shareable luxury fashion campaign aesthetic suitable for premium social media advertising.
+
+Lighting is inspired by high-end fashion campaigns, with brilliant natural light pouring in from above the bag, creating luminous highlights, soft shadows, realistic paper reflections, and cinematic contrast.
+
+Color Palette: Rich crimson red, deep black, crisp white, and warm cream paper tones.
+
+Style: Ultra-premium luxury streetwear campaign, contemporary editorial design, cinematic fashion photography, magazine cover quality, bold graphic composition, hyper-realistic textures, impeccable typography integration, ultra-detailed, photorealistic, 8K masterpiece, award-winning commercial advertising, premium branding aesthetic.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e9fb6ebe-7904-485d-ba1d-fcb5431f343e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/AiwithLariab/status/2075071927975293125>)
+
+---
+
+<a id="prompt-36b1ba52-b4a9-4e2f-9484-c6a6aa40bc4e"></a>
+
+#### Ultra-Realistic Milk Carton Packaging Mockup
+
+<a href="https://musesignal.com/zh/prompt/36b1ba52-b4a9-4e2f-9484-c6a6aa40bc4e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLqVSMuWEAAIPX9.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Milk Carton Packaging Mockup" /></a>
+
+**GPT Image** · 原作者: Abkr Sadiq
+
+创作场景: 商业产品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic commercial milk carton packaging mockup, premium supermarket-ready product presentation, tall rectangular milk carton standing upright on a clean wooden surface, realistic paperboard carton texture with subtle folds and printing details, modern blue and white dairy branding, bold typography, premium label design, dynamic milk splash effects wrapping around the carton, fresh milk pouring visuals, crystal-clear glass of milk beside the package, floating milk droplets frozen in motion, fresh dairy farm imagery integrated into the packaging artwork, green pasture, healthy cows, blue sky and soft clouds in the background, high-end product photography, professional studio lighting mixed with natural daylight, shallow depth of field, ultra-sharp focus on carton, glossy highlights, realistic shadows and reflections, clean advertising composition, FMCG packaging design, photorealistic rendering, commercial branding showcase, premium retail shelf appeal, award-winning packaging visualization, ultra-detailed textures, 8K resolution, cinematic quality, advertising campaign aesthetic, vibrant colors, pristine white milk, luxury food packaging mockup, realistic product marketing shot.
+Negative Prompt: blurry, low quality, distorted carton shape, extra objects, messy background, text errors, watermark, logo duplication, overexposed highlights, unrealistic milk splashes, cartoon style, low resolution, noise, grain, cropped packaging, deformed proportions.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/36b1ba52-b4a9-4e2f-9484-c6a6aa40bc4e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/abs_uiux/status/2070131134940185047>)
+
+---
+
+<a id="prompt-e28048c2-76f8-4c89-9b1c-2f9fba5f5c89"></a>
+
+#### Miniature Workers Assembling a Giant Pepsi Can
+
+<a href="https://musesignal.com/zh/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLKAsYmbkAAzz4S.jpg?format=jpg&amp;name=small" width="480" alt="Miniature Workers Assembling a Giant Pepsi Can" /></a>
+
+**Nano Banana 2** · 原作者: 𝐌
+
+创作场景: 商业产品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A surreal macro world where miniature workers assemble a giant Pepsi can surrounded by ice cubes. Tiny welders polish aluminum, cranes place the logo, workers clean condensation drops. The can stands on a branded Pepsi platform. Hyper-realistic reflections, cinematic lighting, playful scene.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e28048c2-76f8-4c89-9b1c-2f9fba5f5c89?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2067861589894877369>)
+
+---
+
 <a id="prompt-54c40536-8a97-44a0-a98a-d35d32083275"></a>
 
 #### JBL &#39;Feel the Sound&#39; Bold Typography Poster
@@ -2054,35 +1883,6 @@ Premium green bottle placed on stone podium, surrounded by matcha powder clouds,
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/532719cf-91da-4102-a30a-e864b16de3f3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Strength04_X/status/2068276166738509986>)
-
----
-
-<a id="prompt-af2db61b-a5f1-4b4b-93b8-fad742ad8ac3"></a>
-
-#### Premium 3D Sports Logo from Sports Equipment
-
-<a href="https://musesignal.com/zh/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLkdlgSXIAAjCm-.jpg?format=jpg&amp;name=small" width="480" alt="Premium 3D Sports Logo from Sports Equipment" /></a>
-
-**Nano Banana 2** · 原作者: Shams
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Create a premium 3D sports logo for [BRAND NAME], the main logo symbol realistically sculpted from a rich mix of sports equipment including soccer balls, basketballs, running shoes, tennis rackets, footballs, boxing gloves, dumbbells, and cricket bats fused together in dynamic floating 3D form, highly detailed textures and materials, cinematic studio lighting.
-
-Top-left: small monochrome black [BRAND] logo. 
-Top-right corner: half-visible, slightly cropped cluster of sports equipment softly faded into background. 
-Bottom-left corner: half-visible, slightly cropped cluster of sports equipment softly faded. 
-
-Clean off-white background #F5F5F0, minimalist premium product visualization, 9:16 aspect ratio, sharp focus, 8k --stylize 250.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/af2db61b-a5f1-4b4b-93b8-fad742ad8ac3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2069718453821559218>)
 
 ---
 
@@ -3113,13 +2913,13 @@ Lighting & Aesthetic: Cinematic editorial style, sharp focus on the woman, high-
 
 ---
 
-<a id="prompt-8c0796db-23e8-454e-a29b-43349bf09a10"></a>
+<a id="prompt-dc86ef73-08fc-4f8a-9e30-1d2be0c7c219"></a>
 
-#### Isometric Landmark Diorama Poster
+#### Pixel Art World Cup 2026 Team Poster
 
-<a href="https://musesignal.com/zh/prompt/8c0796db-23e8-454e-a29b-43349bf09a10?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQp4jpMXUAAf8Zw.jpg?format=jpg&amp;name=small" width="480" alt="Isometric Landmark Diorama Poster" /></a>
+<a href="https://musesignal.com/zh/prompt/dc86ef73-08fc-4f8a-9e30-1d2be0c7c219?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLf3L2daMAEJhYt.jpg?format=jpg&amp;name=small" width="480" alt="Pixel Art World Cup 2026 Team Poster" /></a>
 
-**GPT Image 2** · 原作者: TechieSA
+**GPT Image 2** · 原作者: 两斤
 
 创作场景: 海报设计
 
@@ -3127,28 +2927,22 @@ Lighting & Aesthetic: Cinematic editorial style, sharp focus on the woman, high-
 <summary>完整提示词</summary>
 
 ```text
-Simply replace [LANDMARK]:✨
-“Ultra-detailed photorealistic isometric miniature scale-model diorama of [LANDMARK], floating on a pure off-white studio background with a soft drop shadow beneath. The diorama takes the exact shape of the landmark's immediate site and surroundings — the terrain, grounds, approach roads, natural geography — extruded downward into a thick slab of raw rock and earth with rough natural cliff-like edges.
-[LANDMARK] dominates the entire top surface as the undisputed focal point, rendered with complete architectural accuracy and at a dramatically larger scale than its surroundings — every facade detail, material, texture and structural element precisely recreated. The immediate surroundings fill the rest of the slab: the real terrain, paths, plazas, trees, water features, and any structures that genuinely surround the landmark in real life. Tiny tourists and visitors visible throughout at micro-scale.
-Dense micro-detail: individual stones, vegetation, tiny figures, vehicles, surrounding architecture all rendered with hyper-realistic precision.
-Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus, no blur. Soft warm daylight from above, gentle diffuse shadows, rich natural colors.
-Layout: diorama floats centered in the lower two-thirds of the frame. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the city and country at the very top, then [LANDMARK] directly below in a bold condensed sans-serif in medium charcoal grey — large and dominant — with a small flat rectangular flag of the country sitting immediately to the right of the landmark name, vertically centered with it, accurately colored and proportioned, clean flat design, sized to roughly the cap-height of the landmark name, floating naturally beside the name as one cohesive unit. Then small wide-tracked caps below with a one-line historical note or founding date.
-Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.”
+[COUNTRY] national football team celebrating at FIFA World Cup 2026, iconic [COUNTRY] football stadium with roaring crowd, national flag colors saturating the pixel sky, player silhouettes raising the World Cup trophy, confetti rain, pixelated mosaic texture, CityPop retro pixel art illustration, stadium floodlight night, deep blue midnight sky with neon festive glow, in the style of tom whalen, james bullough, flat vector graphic illustration, travel poster composition, from behance dribbble, UI illustration, best quality --ar 3:4
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8c0796db-23e8-454e-a29b-43349bf09a10?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2092617537296929086>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/dc86ef73-08fc-4f8a-9e30-1d2be0c7c219?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/0x00_Krypt/status/2069394361973108945>)
 
 ---
 
-<a id="prompt-f4117c43-d7f4-4df9-ac5c-12dc360efee7"></a>
+<a id="prompt-45e934a8-ea96-425b-9a56-08ec7ed18414"></a>
 
-#### World Cup Career Staircase Poster
+#### 3D Clay-Illustration Weekend Food Festival Poster
 
-<a href="https://musesignal.com/zh/prompt/f4117c43-d7f4-4df9-ac5c-12dc360efee7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMXpK57XkAAW2Fd.jpg?format=jpg&amp;name=small" width="480" alt="World Cup Career Staircase Poster" /></a>
+<a href="https://musesignal.com/zh/prompt/45e934a8-ea96-425b-9a56-08ec7ed18414?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLZma90aUAASyo4.jpg?format=jpg&amp;name=small" width="480" alt="3D Clay-Illustration Weekend Food Festival Poster" /></a>
 
-**GPT Image 2** · 原作者: ai.gezgini
+**GPT Image 2** · 原作者: PromptLab
 
 创作场景: 海报设计
 
@@ -3156,16 +2950,12 @@ Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.�
 <summary>完整提示词</summary>
 
 ```text
-Prompt:
-👇
-The user enters one football player name: [PLAYER NAME].
-Create a vertical 9:16 cinematic football poster.
-Show the player’s complete FIFA World Cup history as a stacked vertical timeline on a realistic stadium-entry staircase, as if the same player is walking up toward the pitch again and again in different World Cup years. The scene must take place inside a dramatic football tunnel with a real stairway leading upward from the locker room to the stadium field. Each version of the player is shown from behind or three-quarter back view, ascending the stairs one after another, all of them the same player, each wearing a national-team-inspired jersey based on that exact World Cup year, with era-accurate hairstyle, age, body shape, number, and kit style. The oldest World Cup appearance must be at the bottom of the staircase, and the newest must be at the top. The very top must show the 2026 World Cup version as the final and most heroic step. Next to each player version, clearly write the tournament year and the host country, for example: “2018 — Russia”, “2022 — Qatar”, “2026 — USA / Canada / Mexico”. Also include that tournament’s final result or achievement for the player’s national team, such as “Champion”, “Runner-up”, “Third Place”, “Quarter-final”, “Round of 16”, or “Group Stage”. If the player won the World Cup in that year, visually add a trophy next to that version or beside the year label. If the team did not win, clearly write their finishing result for that tournament. You may also add a short achievement note for that specific World Cup, such as goals scored, captaincy, best player award, or a major milestone, but keep it short and visually clean. On the right side, write the vertical title “WORLD CUP HISTORY”. At the top, the player name can appear subtly as “[PLAYER NAME]”. Background should be a realistic stadium tunnel opening into a bright football pitch, with stadium lights, light smoke, crowd atmosphere, emotional pre-match tension, and a premium football documentary feel. Keep the composition clean, readable, and visually powerful. Do not use official logos, federation badges, sponsor logos, club logos, or copyrighted branding. Use fictional but accurate-looking national-team-inspired kits based on each era.
+3D clay-illustration style vertical poster with a clean minimalist background, abstract art aesthetic in the Behance/Dribbble visual design tradition. The mood is fresh, vibrant, youthful, and delicate. Theme: Weekend Food Festival. Aspect ratio: 16:9, 4K.
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f4117c43-d7f4-4df9-ac5c-12dc360efee7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/ai_gezgini/status/2073320616900300998>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/45e934a8-ea96-425b-9a56-08ec7ed18414?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamaiistudio/status/2068953812401054124>)
 
 ---
 
@@ -3451,6 +3241,29 @@ Full step by step tutorial below 👇
 
 ---
 
+<a id="prompt-7f5d1702-ce51-485f-bf3d-bd339678c513"></a>
+
+#### Underrated Middle East Lamb Dishes 2x2 Grid
+
+<a href="https://musesignal.com/zh/prompt/7f5d1702-ce51-485f-bf3d-bd339678c513?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTQjj6bXYAAbBWa.jpg?format=jpg&amp;name=small" width="480" alt="Underrated Middle East Lamb Dishes 2x2 Grid" /></a>
+
+**GPT Image 2.5** · 原作者: Gadgetify
+
+创作场景: 食物饮品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt: 2x2 grid, 16:9, do this for underrated middle east lamb dishes: input: $ dish  policy: infer all context from :dish. do not hardcode eras, cultures, styles, panel count, or composition.  create temp view flavorline as select     moment as era,     infer_dish_form(:dish, moment) as plate,     infer_origin_myth(plate) as origin,     infer_scarcity_or_excess(plate) as economy,     infer_authenticity_conflict(origin, economy) as tension,     infer_food_visual_language(plate, tension) as style,     infer_composition(plate, style) as layout from unnest(     infer_most_revealing_moments(:dish,         goal = "moments where the dish reveals migration, class, or cultural conflict",         count = infer_optimal_panel_count(:dish)     ) ) as moment;  select     render_panel(plate, origin, economy, tension, style, layout) as panel from flavorline order by infer_narrative_order(era, tension);  bind panels as infer_most_shareable_format(:dish, panels) with     thesis = infer_culinary_thesis(:dish, panels),     caption = infer_hook_caption(thesis);
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7f5d1702-ce51-485f-bf3d-bd339678c513?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Gdgtify/status/2104617885339468003>)
+
+---
+
 <a id="prompt-d1c505a0-1cd6-47f3-b06a-017f90e18500"></a>
 
 #### Miniature Brand Restaurant Built Inside Signature Food
@@ -3490,38 +3303,9 @@ Photographed like an award-winning commercial macro food campaign using an 85mm 
 
 ---
 
-<a id="prompt-11384b4c-53e6-4cc7-9fd5-18b6102715ba"></a>
-
-#### Cinematic Steamed Momos Food Photography
-
-<a href="https://musesignal.com/zh/prompt/11384b4c-53e6-4cc7-9fd5-18b6102715ba?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLaCM0_aAAIaZb6.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Steamed Momos Food Photography" /></a>
-
-**GPT Image 2** · 原作者: PromptLab
-
-创作场景: 食物饮品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Cinematic food photography of freshly steamed momos (dumplings) stacked on a rustic weathered wooden board. The dumplings have glossy dough with intricate handmade pleats and a subtle oil sheen, with thick dramatic steam rising. Split scene showing a deconstructed view: floating dumpling wrappers, balls of spiced minced filling, and scattered fresh herbs suspended in air.
-
-Frozen-in-time effect with flour particles mid-air, motion-frozen spices, and a dramatic slow-motion splash. Wispy swirling steam and falling herb leaves add atmosphere.
-
-Dark moody rustic kitchen setting. Weathered wooden cutting board with visible wood grains and cracks.
-
-Cinematic studio lighting with warm inviting tones, high contrast and deep shadows for a professional editorial look. Macro photography, 8K resolution, hyper-detailed textures, shallow depth of field with blurred background and crisp sharp focus on the ingredients.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/11384b4c-53e6-4cc7-9fd5-18b6102715ba?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/iamaiistudio/status/2068984482603147590>)
-
----
-
 <a id="selected-character-art"></a>
 
-### 角色艺术 · 14
+### 角色艺术 · 15
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>)
 
@@ -3846,6 +3630,41 @@ Set against a pure black background, emphasizing strong contrast and visual impa
 
 ---
 
+<a id="prompt-046bc935-bbb6-4bed-ba87-d054b42155da"></a>
+
+#### Cosmic Fantasy Portrait of a Man Holding a Black Hole
+
+<a href="https://musesignal.com/zh/prompt/046bc935-bbb6-4bed-ba87-d054b42155da?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOxQEjibEAAyae8.jpg?format=jpg&amp;name=small" width="480" alt="Cosmic Fantasy Portrait of a Man Holding a Black Hole" /></a>
+
+**GPT Image 2** · 原作者: Harry Potter
+
+创作场景: 角色艺术
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic cinematic cosmic fantasy portrait of a powerful middle-aged man smiling confidently while holding a miniature black hole suspended between his open hands. His body appears fused with an ancient planet, with cracked stone-like skin revealing glowing molten golden energy flowing through intricate fissures across his face, neck, shoulders, and arms. One half of his body is rugged volcanic rock while the other remains realistic human skin, creating a breathtaking duality between humanity and the universe.
+
+Behind him stretches an infinite deep-space backdrop filled with vibrant nebulae, glowing galaxies, planets, moons, floating asteroids, meteor fragments, and distant stars. Surrounding the black hole are intricate celestial geometry, sacred circular diagrams, zodiac symbols, alchemical glyphs, golden orbit lines, and mystical astronomical patterns radiating outward like an ancient cosmic blueprint.
+
+The black hole emits a brilliant golden accretion ring, casting warm volumetric light onto his hands and face. Countless tiny glowing particles drift through space, adding depth and scale. The composition is perfectly centered and symmetrical, with the subject making direct eye contact, creating an intense, god-like presence as if he is the architect of the universe.
+
+Lighting: dramatic cinematic rim lighting, warm golden highlights mixed with cool blue cosmic illumination, volumetric rays, HDR, global illumination, soft atmospheric haze, realistic reflections.
+
+Style: ultra-photorealistic fantasy, celestial mythology, epic sci-fi, surreal realism, premium digital art, hyper-detailed textures, cracked stone skin, cosmic energy, mystical realism.
+
+Camera: close-up portrait, 85mm lens, f/1.8, shallow depth of field, ultra-sharp facial details, dynamic contrast, cinematic color grading.
+
+Quality: masterpiece, 8K UHD, HDR, Unreal Engine 5, Octane Render, ray tracing, ultra-detailed, award-winning fantasy concept art, ArtStation quality, highly detailed, photorealistic, breathtaking composition, no text, no watermark.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/046bc935-bbb6-4bed-ba87-d054b42155da?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/mon010_de/status/2084128782307483999>)
+
+---
+
 <a id="prompt-9f34a6b5-e089-43e2-ae65-b5f20c6d9e9b"></a>
 
 #### Exhausted Waifu Battlefield Aftermath Portrait
@@ -3887,7 +3706,7 @@ Overall mood: absolute defeat with a pulse still beating underneath it — desol
 
 <a id="selected-scene-space"></a>
 
-### 场景空间 · 12
+### 场景空间 · 14
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>)
 
@@ -4179,13 +3998,13 @@ Articles & Text: The rest of the page is filled with a professional multi-column
 
 ---
 
-<a id="prompt-e25f8a02-49d6-4e3d-97ec-8c45b39d9951"></a>
+<a id="prompt-1cfdf299-57a4-432a-9572-17c8ca482a78"></a>
 
-#### Retro Sci-Fi Toyline in Cosmic Studio Light
+#### Woman with Thunderstorm Suitcase at Railway Station
 
-<a href="https://musesignal.com/zh/prompt/e25f8a02-49d6-4e3d-97ec-8c45b39d9951?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLPtSKdW8AAkHSk.jpg?format=jpg&amp;name=small" width="480" alt="Retro Sci-Fi Toyline in Cosmic Studio Light" /></a>
+<a href="https://musesignal.com/zh/prompt/1cfdf299-57a4-432a-9572-17c8ca482a78?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTNHk4CbkAArZrL.jpg?format=jpg&amp;name=small" width="480" alt="Woman with Thunderstorm Suitcase at Railway Station" /></a>
 
-**Midjourney** · 原作者: Tischeins
+**Midjourney** · 原作者: Future Vibes AI - Testing &amp; Educating
 
 创作场景: 场景空间
 
@@ -4193,18 +4012,65 @@ Articles & Text: The rest of the page is filled with a professional multi-column
 <summary>完整提示词</summary>
 
 ```text
-premium photo of an original retro sci-fi toy shelf showing a cosmic hero figure, alien companion, crystal swamp vehicle, ancient relic and masked villain figure, arranged as one coherent toyline, colorful cardboard planet backdrop, soft weekend studio light, clean unbranded image surface, fully original design --v 8.1 --ar 5:4
-2. Cinematic World Summary Prompt:
-cinematic group still from an original science fantasy world, signal runner, small alien companion, crystal swamp vehicle, ancient relic case and quiet masked antagonist implied in the background, warm horizon light, believable fabric, worn metal, dust, glass and scale, cohesive production design --v 8.1 --ar 5:4
-3. Toybox vs Cinema Split Image Prompt:
-split editorial composition showing the same original cosmic world in two modes, left side retro toy shelf with figures and vehicle, right side cinematic desert planet scene with real materials and atmosphere, coherent color logic, clear visual translation, premium image design --v 8.1 --ar 5:4
-4. Process Visual Prompt:
-clean studio tabletop with sketch notes, small original retro sci-fi toy figure, cinematic reference print, color swatches, tiny vehicle model and handwritten worldbuilding cards, warm morning light, organized creative process, premium editorial still life photography --v 8.1 --ar 5:4
+A woman carrying a transparent suitcase filled with a miniature thunderstorm instead of clothes, lightning flashing inside the suitcase, crowded railway station around her, everyone else moving in motion blur, emotional conceptual photography, loneliness and inner chaos represented visually
+--ar
+ 4:5
+--stylize
+ 350
+--hd
+@midjourney
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e25f8a02-49d6-4e3d-97ec-8c45b39d9951?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/tisch_eins/status/2068257569743757745>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1cfdf299-57a4-432a-9572-17c8ca482a78?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/FutureVibesAi/status/2104104183075148183>)
+
+---
+
+<a id="prompt-d4f7cb9a-2f90-4bdf-bf94-e5ffdf64f773"></a>
+
+#### Woman with Thunderstorm Suitcase at Railway Station
+
+<a href="https://musesignal.com/zh/prompt/d4f7cb9a-2f90-4bdf-bf94-e5ffdf64f773?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTKTYLEbEAAJgUG.jpg?format=jpg&amp;name=small" width="480" alt="Woman with Thunderstorm Suitcase at Railway Station" /></a>
+
+**Midjourney** · 原作者: Future Vibes AI - Testing &amp; Educating
+
+创作场景: 场景空间
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A woman carrying a transparent suitcase filled with a miniature thunderstorm instead of clothes, lightning flashing inside the suitcase, crowded railway station around her, everyone else moving in motion blur,
+--ar 4:5 --stylize 350 hd
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d4f7cb9a-2f90-4bdf-bf94-e5ffdf64f773?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/FutureVibesAi/status/2103906054459511173>)
+
+---
+
+<a id="prompt-ca47ad16-bbda-4dac-afb9-7f5f1b9c50c0"></a>
+
+#### Epic Fantasy Canyon City at Golden Hour
+
+<a href="https://musesignal.com/zh/prompt/ca47ad16-bbda-4dac-afb9-7f5f1b9c50c0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQL8UEsXIAAOE6r.jpg?format=jpg&amp;name=small" width="480" alt="Epic Fantasy Canyon City at Golden Hour" /></a>
+
+**Grok** · 原作者: Kaan
+
+创作场景: 场景空间
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Epic fantasy architectural canyon city viewed from a towering natural stone cavern framing, grand multi-tiered stone arch bridges spanning a deep abyssal river valley, majestic golden-domed imperial palace city complex crowning the distant plateau, cascading waterfalls plunging into dark blue reflective waters below, bustling cliffside settlements embedded directly into rugged vertical rock faces with glowing warm pinprick lights, dramatic golden hour sun breaking through heavy volumetric cumulus clouds, high-altitude atmospheric haze and sunbeams cutting through mist, epic cinematic establishing shot, wide-angle establishing composition looking down into a vast scale-defying world, cinematic golden hour lighting with warm directional sunlight contrasting deep cool blue shadows, color palette of burnished gold, weathered stone gray, deep indigo, and warm amber highlights, subtle atmospheric particulate, fine cinematic 35mm film grain, photorealistic architectural concept art style reminiscent of epic fantasy cinema and master matte painting.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ca47ad16-bbda-4dac-afb9-7f5f1b9c50c0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/kaanakz/status/2090512829342515675>)
 
 ---
 
@@ -4219,28 +4085,28 @@ clean studio tabletop with sketch notes, small original retro sci-fi toy figure,
 | 模型 | 提示词 | MuseSignal |
 | --- | ---: | --- |
 | Adobe Firefly | 2 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=adobe-firefly&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_adobe-firefly>) |
-| GPT Image | 45 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 366 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
-| GPT Image 2.5 | 2 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2.5>) |
-| Grok | 21 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
+| GPT Image | 46 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image>) |
+| GPT Image 2 | 371 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2.5 | 3 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2.5>) |
+| Grok | 23 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
 | Ideogram | 1 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=ideogram&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_ideogram>) |
 | Leonardo | 2 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=leonardo&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_leonardo>) |
-| Midjourney | 35 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
+| Midjourney | 37 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
 | Nano Banana | 25 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana>) |
-| Nano Banana 2 | 77 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
-| Nano Banana Pro | 82 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-pro>) |
+| Nano Banana 2 | 78 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
+| Nano Banana Pro | 83 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-pro>) |
 | 未注明 | 13 | — |
 
 ## 最近发布
 
-- [Surreal Retro-Luxury Interiors SREF](<https://musesignal.com/zh/prompt/fc44da04-d3e7-4084-9ca7-870601a18f39?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Midjourney
-- [JBL &#39;Feel the Sound&#39; Bold Typography Poster](<https://musesignal.com/zh/prompt/54c40536-8a97-44a0-a98a-d35d32083275?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2.5
-- [Exhausted Waifu Battlefield Aftermath Portrait](<https://musesignal.com/zh/prompt/9f34a6b5-e089-43e2-ae65-b5f20c6d9e9b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Luxury Brand Commercial Poster With Oversized 3D Typography](<https://musesignal.com/zh/prompt/3fc9738f-5d17-45c8-89a7-d638511cde96?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Miniature Brand Restaurant Built Inside Signature Food](<https://musesignal.com/zh/prompt/d1c505a0-1cd6-47f3-b06a-017f90e18500?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Luxury Editorial Fashion Poster with Glowing JULY Typography](<https://musesignal.com/zh/prompt/7ec2004a-ae6b-4cc1-8640-ca6c97918ad2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Coca-Cola Couple Commercial Render](<https://musesignal.com/zh/prompt/299e40f8-757f-414a-be62-f91a42e763a0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
-- [Corridor of Floating Memories Portrait](<https://musesignal.com/zh/prompt/ea21651e-5be6-42c2-9e21-fb2504df458a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Underrated Middle East Lamb Dishes 2x2 Grid](<https://musesignal.com/zh/prompt/7f5d1702-ce51-485f-bf3d-bd339678c513?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2.5
+- [Woman with Thunderstorm Suitcase at Railway Station](<https://musesignal.com/zh/prompt/1cfdf299-57a4-432a-9572-17c8ca482a78?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Midjourney
+- [Woman with Thunderstorm Suitcase at Railway Station](<https://musesignal.com/zh/prompt/d4f7cb9a-2f90-4bdf-bf94-e5ffdf64f773?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Midjourney
+- [Epic Fantasy Canyon City at Golden Hour](<https://musesignal.com/zh/prompt/ca47ad16-bbda-4dac-afb9-7f5f1b9c50c0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Grok
+- [Fisheye Low-Angle Street Portrait of a Man](<https://musesignal.com/zh/prompt/f987eccc-5faf-4973-aa1c-503c7fe98cca?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Cosmic Fantasy Portrait of a Man Holding a Black Hole](<https://musesignal.com/zh/prompt/046bc935-bbb6-4bed-ba87-d054b42155da?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Cinematic Chiaroscuro Beauty Portrait](<https://musesignal.com/zh/prompt/d2d77325-7b43-448a-8c33-0aa7ba01cb1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Grok
+- [Luxury Streetwear Shopping Bag Editorial Poster](<https://musesignal.com/zh/prompt/e9fb6ebe-7904-485d-ba1d-fcb5431f343e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 
 ## 在 MuseSignal 生成
 
@@ -4261,7 +4127,7 @@ clean studio tabletop with sketch notes, small original retro sci-fi toy figure,
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 671](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 684](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json
