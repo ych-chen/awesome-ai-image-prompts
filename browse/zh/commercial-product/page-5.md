@@ -1186,3 +1186,48 @@ Negative Prompt: blurry, low quality, distorted carton shape, extra objects, mes
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/36b1ba52-b4a9-4e2f-9484-c6a6aa40bc4e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/abs_uiux/status/2070131134940185047>)
 
 ---
+
+<a id="prompt-4ba6dc0b-2918-477d-afd8-6b9391f5d726"></a>
+
+## Pizza Hut Luxury Campaign Ad
+
+<a href="https://musesignal.com/zh/prompt/4ba6dc0b-2918-477d-afd8-6b9391f5d726?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLpvYhVawAAk7XH.jpg?format=jpg&amp;name=small" width="480" alt="Pizza Hut Luxury Campaign Ad" /></a>
+
+**GPT Image 2** · 原作者: Al-Shamus
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a minimalist commercial advertisement featuring an oversized cheese pizza as the hero product in an ultra-clean, luxury campaign style. A young WOMAN dressed in an elegant all-pink AND white outfit leans casually against the giant PIZZA in a relaxed yet confident pose, eyes gently closed, while holding a freshly made pizza hut CHEESE PIZZA in both hand. The composition is modern and editorial, emphasizing scale, freshness, and visual impact.
+Use a soft gradient green-to-yellow background with large bold white AND BLACK “PIZZA HUT” typography placed prominently behind the subject. Include a glossy reflective floor that subtly mirrors the sandwich and the model, enhanced with soft studio lighting and premium food photography aesthetics. Ensure the sandwich appears hyper-realistic, packed with fresh crisp lettuce, sliced tomatoes, cucumbers, onions, cheese, savory meat or veggie filling, signature sauces, and artisan bread with mouthwatering texture and detail.
+Maintain a clean, luxurious layout with balanced negative space and a sophisticated commercial look suitable for a high-end global advertising campaign.
+Add small text in the top-right corner reading “Designed by SHAMUS”. At the bottom center, place the tagline in small white font: “Freshly made. Delicious in every bite
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4ba6dc0b-2918-477d-afd8-6b9391f5d726?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/im_shahid7/status/2070089461577416758>)
+
+---
+
+<a id="prompt-f5ff41f3-52fc-4935-b79d-1b1278ca4b44"></a>
+
+## 8-Bit Embroidered FIFA Players Product Photo
+
+<a href="https://musesignal.com/zh/prompt/f5ff41f3-52fc-4935-b79d-1b1278ca4b44?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLM5wecaoAAbHKp.jpg?format=jpg&amp;name=small" width="480" alt="8-Bit Embroidered FIFA Players Product Photo" /></a>
+
+**Nano Banana 2** · 原作者: Shams
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Highly detailed close-up product photograph of [ITEM DESCRIPTION] laid flat on a minimal off-white background #F8F7F2, featuring a horizontal row of four distinct 8-bit pixel art style embroidered FIFA soccer players in dynamic action poses [PLACEMENT], exactly like retro video game sprites or cross-stitch. From left to right: Lionel Messi mid-kick in Argentina jersey, Cristiano Ronaldo signature celebration jump in Portugal jersey, Kylian Mbappé sprinting in France jersey, Erling Haaland powerful shot in Manchester City jersey. Small cute blocky pixelated designs with visible stitch texture and a slight 3D raised embroidery effect on [FABRIC MATERIAL]. Soft even lighting, sharp focus on embroidery details, realistic fabric texture, clean minimalist product photography style --ar 9:16 --stylize 250 --v 6
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f5ff41f3-52fc-4935-b79d-1b1278ca4b44?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2068060163702149447>)
+
+---

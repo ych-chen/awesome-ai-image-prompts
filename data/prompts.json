@@ -429,6 +429,35 @@
     "content_hash": "fd38a5ddba55dccd54227abdebcea9347beeb782e289f6c2ace37d1300222104"
   },
   {
+    "id": "0577db4c-b655-45fb-bca6-3653aa3c7969",
+    "title": "Minimal Geometric Editorial Travel Artwork",
+    "prompt": "Create a premium 4:5 vertical editorial travel artwork for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire composition creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.\n\nCORE CONCEPT\nCreate a realistic upper scene representing [COUNTRY / CITY / LOCATION / SUBJECT], paired with a small Minimal Geometric Graphic Vignette in the lower section. The lower artwork should visually echo the main scene without literally reproducing it.\n\nGRAPHIC VIGNETTE\nAutomatically identify the 2–5 strongest visual memory points of [COUNTRY / CITY / LOCATION / SUBJECT]—its most recognizable silhouette, movement, posture, structure, object, or narrative relationship. Remove everything unnecessary and reconstruct these elements using simple geometric forms, clean silhouettes, solid color blocks, and a few carefully layered shapes.\n\nThe vignette should remain small and refined, never attempting to recreate the entire scene. It may be slightly off-center, edge-aligned, floating, partially cropped, or asymmetrically positioned according to the visual weight of the subject.\n\nNEGATIVE SPACE\nGive the geometric artwork generous surrounding whitespace. Treat negative space as an essential design element, using scale contrast, positive/negative shapes, spacing, clustering, and asymmetrical balance to create a sophisticated editorial rhythm.\n\nCOLOR\nDerive a restrained 2–4 color palette from the visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Extract meaningful colors associated with the subject, environment, materials, season, atmosphere, clothing, architecture, vegetation, water, or food, then simplify and slightly brighten them into clean graphic colors.\n\nUse a very pale, soft background close to white. Avoid muddy neutrals, unnecessary muted palettes, fluorescent colors, or decorative colors unrelated to the subject.\n\nSTYLE\nKeep the vignette small, simple, precise, and highly recognizable. Use professional graphic-design language rather than realistic volume, complex textures, or cartoon styling.\n\nWhether the subject is a person, building, animal, plant, object, vehicle, or landscape, transform it into an elegant spot illustration with strong visual identity and minimal geometry.\n\nTYPOGRAPHY\nAdd only a very small amount of restrained editorial text if appropriate. Derive a short word or phrase from the destination, subject, action, mood, or visual metaphor. Keep it subtle and integrated into the surrounding negative space.\n\nFINAL AESTHETIC\nMinimal geometric graphic design × editorial spot illustration × contemporary travel art × intelligent negative space × semantic color palette.\n\nThe result should feel refined, modern, playful, highly intentional, and collectible—not like a photo tracing or ordinary cartoon.\n\nAvoid photorealistic lower artwork, literal photo recreation, excessive detail, complex shading, gradients, 3D rendering, oversized graphics, clutter, decorative colors, generic icons, excessive typography, logos, watermarks, or filled-in backgrounds.\n\nFORMAT: 4:5 vertical, premium editorial composition, small geometric vignette with generous negative space.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Saul Goodman",
+      "handle": "Goodmanprotocol"
+    },
+    "source_platform": "X",
+    "source_id": "2104518835076551144",
+    "source_url": "https://x.com/Goodmanprotocol/status/2104518835076551144",
+    "images": [
+      "https://pbs.twimg.com/media/HTTAsAmbUAAc-_H.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTTAsolbYAAVkiF.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTTAtRxaIAAYTIp.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTTAuHObwAAiPGd.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/0577db4c-b655-45fb-bca6-3653aa3c7969",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/0577db4c-b655-45fb-bca6-3653aa3c7969",
+    "published_at": "2026-10-01T07:22:36.350589+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "bc815681837083b3c237f71c988670a62e75c5f735e39b7f965cf3972d8228c6"
+  },
+  {
     "id": "05b9c30f-1a16-4237-ac0f-fc0cbf3f6ec5",
     "title": "Green Shade: Cinematic Portrait with Natural Obscuration",
     "prompt": "围绕具体主题内容生成一张具有电影宣传气质的人物画面：让核心人物处在被自然环境层层包裹出的观察窗口中，人物位于视觉重心附近，身体被前景枝叶、藤蔓或主题环境材质部分遮挡，只露出脸部与少量上半身，视线向上或望向画外，使画面像从密集世界里偶然捕捉到一个安静瞬间。前景要形成真实的深度包围，边缘密、中央开，叶片或同类主题元素有清晰大小层次、遮挡关系和湿润光泽，背景保持柔化散景与通风感，人物面部接受柔和自然光，肤色干净，神情克制、好奇、带一点成长前的沉默。色彩从具体主题自身的环境、材质、季节与情绪中提取，保留大面积清透明亮的基底、较深结构色压住边缘、少量高明度受光面引导视线、白色信息文字作为最干净的视觉锚点；整体保持明亮、清新、湿润、洁净的情绪，色阶清晰，饱和度受控，暗部透明而不浑浊。文字系统以手写感片名作为核心记忆点，白色笔触厚薄不均，像被自然包围后从画面中央偏下长出来，旁边配少量细瘦署名信息；顶部可安排小尺度奖项或标识符号，左右边缘放极细的制作名单，底部保留手写口吻的日期或短句，让信息密度服务于电影感而不抢走人物。整体质感为自然光胶片摄影，细腻颗粒、轻微柔焦、真实景深、安静留白与被植物包围的亲密压迫并存，避免变成普通人像写真或平铺装饰插画。\n\n——————\n应援屏竖图: 竖版 3:4，以成毅式古装清冷气质作为氛围参考，但画面是新的成年演员感人物，不做真人复制或官方活动暗示\n画面里的字: 手写白字“春山有信”，边缘细字写生日快乐 / 愿你一路有光\n场景选择: 人物从竹叶、浅色帷幔和雨雾之间望向画外，适合粉丝做线下大屏或超话封面",
@@ -1352,6 +1381,35 @@
     "content_hash": "187fde626c42500f3136edf036782673b43f50484c1e4ff3db6627f32f243791"
   },
   {
+    "id": "11757b96-3822-4dba-bd98-51cee45d3986",
+    "title": "High-Saturation Pop Anime Character with Hologram UI",
+    "prompt": "⬇️プロンプト内容⬇️\n画像比率は4:5。\nキャラクター毎に個別の画像で生成する。\n【キャラクター】を主役に、AI創作室を象徴する「高彩度ポップアニメ×グラフィックデザイン×ホログラムUI」の画風を完全固定して描く。\n画風は以下で固定する。\n太さに強弱のある黒色の輪郭線。\n鮮明で滑らかな線。\n大きく多層的な瞳。\n強い瞳ハイライト。\n束感のある髪。\nセル塗りを基礎にした2〜4段階の影。\n鮮やかな反射光。\nピンク、紫、青、水色、赤、金、黒を使った高彩度配色。\nステッカー、グリッチ、ホログラム、通知UI、星、ハート、稲妻、幾何学図形を使った情報量の多い画面。\n顔、瞳、手が埋もれない整理されたレイアウト。\nキャラクターは、画面の手前へ堂々と身を乗り出す。\nカメラは低い位置に置く。\n顔は画面全体の55〜70％を占める。\n表情は、細めた瞳、片側だけ上げた口角、軽く上げた眉、少し傾けた頭で構成する。\n「自分の可愛さも強さも全部分かっている」ような、メスガキ的な生意気さと見下しを表現する。\n片手は腰へ置く。\nもう片方は、カメラを指差す、手招きする、画面の端をつまむ、指先で小さなハートを作りながら目だけで煽るなど、可愛さと挑発を両立した仕草にする。\n背景には、AI創作室の制作部屋、キャラクターシート、配信UI、SSR通知、感情ゲージ、構図ガイド、光る制作レイヤーを配置する。\n読みづらい長文は入れず、短い記号と図形で表現する。\n参照画像がある場合は、顔立ち、髪型、髪色、瞳、衣装、配色、シルエット、キャラクター性を維持する。\n参照画像の画風ではなく、この指定画風へ統一して再構成する。\n参照画像そのもの、背景、構図、ポーズ、アングルは使用しない。\n最高品質。\n高精細。\n高彩度。\n輪郭線は滑らかにする。\n黒色部分を潰さず、明るい部分を白飛びさせない。\n瞳、髪、肌、衣装、ホログラムの質感を描き分ける。\n文字化け、余分な指、歪んだ顔、ノイズ、ガビガビを防ぐ。",
+    "category": "character-art",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "AI創作室｜ルミナ･グレイ🖤🌟",
+      "handle": "AI_SousakuRoom"
+    },
+    "source_platform": "X",
+    "source_id": "2081866194265760102",
+    "source_url": "https://x.com/AI_SousakuRoom/status/2081866194265760102",
+    "images": [
+      "https://pbs.twimg.com/media/HORGRK_aoAAyD3j.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HORGRKwa0AA6m6J.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HORGRKwawAAdBUV.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HORGRK-aAAATIaA.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/11757b96-3822-4dba-bd98-51cee45d3986",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/11757b96-3822-4dba-bd98-51cee45d3986",
+    "published_at": "2026-10-01T07:22:20.495929+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "c58cedc05dcb51247e0cac29f6c07a0579f6e2f57d2b1bbd6e0de0cafe2c0ad4"
+  },
+  {
     "id": "11d977e8-e1bc-4f29-9dfd-0e82dd1e8f71",
     "title": "Max Protein Choco Berry Bar Campaign",
     "prompt": "-\nMAX PROTEIN DAILY – CHOCO BERRY BAR\n“FUNCTIONAL INDULGENCE”\nULTRA PREMIUM AI MASTER JUMBO PROMPT V2\nMODERN INDIAN WELLNESS × CINEMATIC FOOD ADVERTISING × GEN Z PRODUCTIVITY CULTURE × PERFORMANCE SNACKING\nUltra-premium 6-grid horizontal campaign for Max Protein Daily Choco Berry Bar blending modern Indian wellness branding, luxury food-commercial cinematography, premium performance-snacking culture, rich chocolate realism, Gen Z productivity aesthetics, cinematic edible textures, urban lifestyle storytelling, elevated functional nutrition branding, and highly shareable social-first advertising visuals.\nCreate a completely ORIGINAL Max Protein campaign inspired by premium commercial food photography, luxury chocolate advertising, modern Indian Gen Z wellness culture, productivity-driven lifestyle branding, and cinematic snack storytelling — WITHOUT copying existing Max Protein campaigns, layouts, typography systems, Instagram ads, compositions, or ingredient placements.\nThe campaign should feel like:\nMax Protein × CRED × luxury chocolate advertising × Indian startup culture × premium wellness branding × modern productivity lifestyle × cinematic edible storytelling.\n---\nMASTER CAMPAIGN CONCEPT\nThe Choco Berry Bar should feel like:\n> “the protein bar that looks illegal to call healthy.”\nAND\n> “the smartest indulgence for ambitious people.”\nThis is NOT traditional protein advertising.\nThis is:\npremium edible cinematography\nfunctional indulgence\nhealthy luxury\nproductivity fuel\nurban aspiration\nmodern Indian coolness\nchocolate-commercial realism\nGen Z hustle culture aesthetics\ncinematic snack branding\nThe campaign should emotionally feel:\nrich\nrewarding\nmotivating\npremium\nhealthy-but-addictive\nambitious\nstylish\nproductive\nmodern\nhigh-performing\nsocial-first\nurban\naspirational\nwarm\ncinematic\nenergizing\ncrave-worthy\nsatisfying\ncool without trying\n---\nCORE CREATIVE DNA\nBlend together:\npremium chocolate commercials\nluxury food cinematography\nhigh-protein wellness branding\nurban Indian Gen Z culture\nsocial-first commercial layouts\nperformance-snacking aesthetics\ncinematic edible textures\nmodern nutrition advertising\nrich ingredient storytelling\nCRED-style premium minimalism\nInstagram-ready food realism\nhigh-end snack-ad polish\nhealthy indulgence aesthetics\nproductive lifestyle storytelling\nfunctional luxury branding\nThe visual identity should feel like:\n> “a luxury chocolate campaign secretly powered by protein.”\n---\nCAMPAIGN VISUAL WORLD\nThe world should resemble:\na premium modern Indian wellness brand\na cinematic snack universe\na luxury protein-food fantasy\nan urban productivity lifestyle world\na stylish café-work culture aesthetic\na performance-snacking dreamscape\na modern Gen Z Indian commercial campaign\na rich edible cinematic universe\na premium active-lifestyle brand\n---\nPRODUCT DESIGN PRIORITY\nThe Max Protein Daily Choco Berry Bar MUST remain:\nhyper realistic\ncommercial-grade detailed\nfully readable\npremium textured\nluxury packaged\nappetite-inducing\nrichly lit\ncenter-focused\ncrave-worthy\nhealthy-looking yet indulgent\nPackaging visibility must remain extremely sharp:\nlogo readable\n“10g Protein” visible\n“Choco Berry Bar” visible\npremium wrapper realism\nluxury snack-brand polish\nmodern Indian FMCG realism\n---\nCOLOR LANGUAGE\nPrimary palette:\nrich cocoa brown\nglossy dark chocolate\nberry crimson\nstrawberry red\nmaroon gradients\nwarm amber lighting\nmuted luxury black\ncopper highlights\npremium cream tones\nAccent palette:\nglossy berry reflections\ngolden oat highlights\ndeep cherry accents\nsubtle metallic red glows\nAvoid:\nneon gym colors\nartificial fitness blues\ncheap supplement palettes\noversaturated fake food colors",
@@ -1621,6 +1679,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "2e50d1fe113f790783571993b5957951f9934dd6a2f2958233264dc7aaa23bf9"
+  },
+  {
+    "id": "150d4607-1c76-4b22-8f44-31ef4583785b",
+    "title": "Vintage Hand-Drawn Travel Storybook Illustration",
+    "prompt": "GPT Image 2.5\n\nPrompt:\nCreate a premium 4:5 vertical vintage hand-drawn travel storybook illustration for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.\n\nCORE CONCEPT\nImagine [COUNTRY / CITY / LOCATION / SUBJECT] as a softly misremembered travel memory inspired by 1950s–1960s European city storybooks. Create one whimsical imagined street where the destination's real identity remains recognizable, but everything feels gently imperfect, intimate, and nostalgic rather than geographically precise.\n\nSCENE\nAutomatically choose one iconic primary landmark as the main focal point, one secondary landmark, and one smaller distant landmark partially hidden in the background. Add one authentic local vehicle, several tiny everyday environmental details, and 5–6 ordinary local residents casually performing simple daily activities.\n\nCompress everything naturally into the same imagined street scene with layered depth and a charming sense of discovery.\n\nDRAWING STYLE\nUse loose charcoal and deep navy ink with trembling hand-drawn contours, slightly crooked architecture, sparse windows, simplified silhouettes, minimal expressive lines, and imperfect handmade proportions. Characters should have oversized heads, thin legs, narrow bodies, tiny faces, slightly crooked accessories, and simple readable gestures.\n\nCOLOR\nUse a restrained palette of only 6–7 colors inspired by the visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Apply muted matte gouache in flat areas with uneven brush edges, tiny unpainted gaps, subtle registration shifts, and visible handmade imperfections. Leave large portions of the sky as untouched warm paper.\n\nFINAL AESTHETIC\nNaïve European travel storybook × loose charcoal sketch × navy ink × muted gouache × nostalgic city memory × handmade editorial illustration.\n\nThe artwork should feel warm, awkward, poetic, quietly humorous, and authentically handmade—not polished or digitally perfect.\n\nAdd only a small handwritten caption at the bottom containing the name of [COUNTRY / CITY / LOCATION / SUBJECT].\n\nAvoid photorealism, precise mapping, aerial views, gradients, 3D rendering, polished vector art, hyper-detailed watercolor, realistic faces, excessive linework, heavy distressed effects, clutter, logos, watermarks, or modern graphic design.\n\nFORMAT: 4:5 vertical, single unified illustration, generous paper/sky negative space.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Saul Goodman",
+      "handle": "Goodmanprotocol"
+    },
+    "source_platform": "X",
+    "source_id": "2104224095923831220",
+    "source_url": "https://x.com/Goodmanprotocol/status/2104224095923831220",
+    "images": [
+      "https://pbs.twimg.com/media/HTO0nPybQAA3RNr.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTO0oIlacAA11ch.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTO0o9WbwAApi33.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTO0p3JbcAAbFSk.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/150d4607-1c76-4b22-8f44-31ef4583785b",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/150d4607-1c76-4b22-8f44-31ef4583785b",
+    "published_at": "2026-10-01T07:22:31.105476+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "25136c820dce3cfbf2a53d97f413da56d4618b96d688b19e853758bc77d180b1"
   },
   {
     "id": "15b23340-a600-448f-96d0-caf96f6cb9b3",
@@ -3179,6 +3266,35 @@
     "content_hash": "05df00de93e56e00094a273d44564e59a02ba7e717aaf69411be32960eeb49b1"
   },
   {
+    "id": "2bdcaa37-7072-4e6e-9008-6010c6a0e2ee",
+    "title": "Architectural Travel Postcard Ink Illustration",
+    "prompt": "GPT Image 2.5\n\nPrompt:\nCreate a premium 2:3 vertical architectural travel postcard for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.\n\nCORE CONCEPT\nCreate a sophisticated collectible postcard centered around ONE unmistakable architectural landmark from [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically select the most iconic building, monument, street façade, or structure and make it the sole visual hero.\n\nARCHITECTURAL ART\nRender the landmark as an exceptionally detailed hand-drawn architectural ink illustration using fine black or graphite lines, precise proportions, delicate hatching, tiny windows, façade details, columns, roofs, cornices, and subtle handmade imperfections.\n\nShow the architecture from a slightly dramatic but believable low or three-quarter perspective. Allow tasteful cropping when it strengthens the composition.\n\nCOLOR\nKeep most of the landmark as exposed linework and introduce only 2–4 sophisticated colors naturally associated with the destination. Use restrained flat color with muted but clean tones. No gradients or glossy digital rendering.\n\nBACKGROUND\nUse a refined light ivory paper background. Subtly integrate faded archival elements related to the destination: fragments of maps, street plans, contour lines, architectural diagrams, coordinates, handwritten annotations, measurement marks, and restrained local-language details.\n\nKeep these elements secondary, delicate, and partially faded so the architecture remains dominant.\n\nCOMPOSITION\nUse an asymmetric editorial layout with generous breathing room and the landmark occupying roughly 60–75% of the artwork. Add only a few tiny contextual details such as pedestrians, bicycles, street lamps, trees, tram wires, or local street elements when appropriate.\n\nTYPOGRAPHY\nAdd the destination name and, if appropriate, its local-language name in small refined editorial typography. Include a minimal archival-style information strip near the bottom with subtle location or architectural details.\n\nFINAL AESTHETIC\nArchitectural sketchbook × museum-shop postcard × archival city document × contemporary editorial design. Intelligent, cultured, collectible, precise, and quietly sophisticated rather than a conventional tourist souvenir.\n\nAvoid landmark collages, generic watercolor, cartoon architecture, photorealism, giant typography, souvenir clichés, excessive decoration, heavy sepia filters, muddy colors, random landmarks, excessive distressing, or overly symmetrical layouts.\n\nFORMAT: 2:3 vertical, single architectural subject, premium collectible travel postcard.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Saul Goodman",
+      "handle": "Goodmanprotocol"
+    },
+    "source_platform": "X",
+    "source_id": "2104446409424753088",
+    "source_url": "https://x.com/Goodmanprotocol/status/2104446409424753088",
+    "images": [
+      "https://pbs.twimg.com/media/HTR-zlua4AAKHGC.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTR-0iYa0AAaqNo.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTR-1a0bQAEoKzv.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTR-2RrbcAAQmfp.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/2bdcaa37-7072-4e6e-9008-6010c6a0e2ee",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/2bdcaa37-7072-4e6e-9008-6010c6a0e2ee",
+    "published_at": "2026-10-01T07:22:34.466005+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "fd546a4242375078de27c3d0443e1c19c4c2470e3ae64ea741e51dc08fb20a17"
+  },
+  {
     "id": "2c2d57bf-07e2-4ce8-8871-e313ee498473",
     "title": "Luxury Diamond Jewelry in Golden Glow",
     "prompt": "[4:5 Vertical Luxury Jewelry Poster], [Ultra Realistic], [Premium Fashion Editorial]\nBeautiful [elegant female model], flawless skin, luxury makeup, confident pose.\nWearing [diamond necklace], [diamond earrings], [diamond bracelet], [luxury rings] with brilliant sparkle.\nColor palette: [Champagne Gold], [Pearl White], [Warm Beige], [Soft Gold Highlights]\nBackground: [luxury glossy interior], [golden bokeh lights], [premium reflections], [expensive atmosphere]\nLighting: [cinematic beauty lighting], [soft golden glow], [luxury reflections], [high-end commercial photography]\nLarge headline:\n\"TIMELESS ELEGANCE\"\nSmall tagline:\n\"Crafted To Shine Beyond Time\"\nStyle: [Cartier Advertisement], [Tiffany Luxury Campaign], [Vogue Jewelry Editorial], [Luxury Magazine Cover]\nQuality: [Photorealistic], [8K], [Ultra Detailed], [Glossy Finish], [Luxury Branding], [Premium Commercial Ad]\nNegative Prompt:\nlow quality, blurry, cartoon, anime, bad anatomy, extra fingers, cheap jewelry, watermark, text errors, duplicate accessories, oversaturated colors",
@@ -3531,6 +3647,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "402d59f2c05db47a6f56788212abb4a79af1bc1586beadd1363d35a01e511165"
+  },
+  {
+    "id": "30ddb1da-740e-4724-b7c2-1119118cd7d9",
+    "title": "Architectural Travel Postcard Illustration",
+    "prompt": "GPT Image 2.5\n\nPrompt:\nDESTINATION: [DESTINATION]\n\nCreate a sophisticated vertical 2:3 architectural travel postcard featuring [DESTINATION].\n\nSTYLE\n\nPremium contemporary editorial postcard with subtle vintage influence. Combine precise architectural pen-and-ink illustration, restrained travel graphics, archival details, and modern graphic design. The result should feel cultured, timeless, architectural, and collectible—not like a tourist souvenir.\n\nMAIN SUBJECT\n\nFeature ONE iconic building, monument, structure, street façade, or architectural landmark strongly associated with [DESTINATION]. Make it the clear visual hero, shown from a believable three-quarter or slightly dramatic architectural perspective. No landmark collage.\n\nILLUSTRATION\n\nUse exceptionally fine black or dark graphite linework, detailed architectural hatching, accurate proportions, and subtle hand-drawn imperfections. Include recognizable structural details such as windows, façades, roofs, columns, or ornaments where appropriate.\n\nCOLOR\n\nKeep much of the architecture as line art with selective flat color using only 2–4 destination-specific tones. Colors should be sophisticated and slightly muted. Avoid gradients, glossy rendering, photorealism, excessive beige, and muddy sepia.\n\nBACKGROUND\n\nUse a clean pure white background with subtle archival elements such as faint maps, street plans, coordinates, contour lines, architectural diagrams, or minimal local-language annotations. Keep these elements secondary and lightly faded.\n\nCOMPOSITION\n\nVertical 2:3 format, with the landmark occupying roughly 60–75% of the artwork. Use generous negative space and an asymmetric editorial layout. Allow tasteful cropping when it improves the composition.\n\nTYPOGRAPHY\n\nAdd restrained typography:\n\n[LOCAL NAME]\n[DESTINATION]\n\nUse elegant architectural or museum-catalogue-inspired typography. Add a tiny bottom information strip with relevant details such as CITY / COUNTRY · ARCHITECTURE · EST. YEAR · COORDINATES.\n\nDETAILS & MOOD\n\nAdd only a few tiny contextual elements—people, bicycles, trees, lamps, vehicles, or street details—when appropriate, mainly to establish scale.\n\nMood: quiet urban sophistication, cultural authenticity, history, and refined design.\n\nAVOID\n\nTourist clichés, cartoon styling, fake architecture, landmark collages, giant typography, excessive decoration, heavy vintage filters, fake stamps, clutter, 3D rendering, and unnecessary text.\n\nFINAL GOAL: A timeless, highly detailed, premium architectural postcard that feels like a museum-shop collectible or contemporary design print.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Saul Goodman",
+      "handle": "Goodmanprotocol"
+    },
+    "source_platform": "X",
+    "source_id": "2104813775610384490",
+    "source_url": "https://x.com/Goodmanprotocol/status/2104813775610384490",
+    "images": [
+      "https://pbs.twimg.com/media/HTXM9HeagAEpWTv.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTXM94za8AAXBiQ.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/30ddb1da-740e-4724-b7c2-1119118cd7d9",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/30ddb1da-740e-4724-b7c2-1119118cd7d9",
+    "published_at": "2026-10-01T07:22:40.195692+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "179328054035d9595f4924ec38fc5bf4c82771067c1a25fde543cba5078c7c0b"
   },
   {
     "id": "31697c0e-0536-4a3c-8e01-9aa707bf0338",
@@ -4213,6 +4356,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "05c3246343e965635f9a75340938d428f9a79459a5dd9af6006223ff321f978e"
+  },
+  {
+    "id": "3ed994f4-bbea-4e66-b917-ffefc1c25296",
+    "title": "Pixel Art Frodo and Sam Before Barad-dûr",
+    "prompt": "Create a high-contrast pixel art composition featuring Sam and Frodo, two hobbits of equal short stature, standing side by side on a cliffside, dressed in their iconic film-accurate tattered hobbit travel clothes simple woolen vests, layered shirts, worn cloaks, and bare oversized feet. The scene is characterized by a moody, atmospheric aesthetic with cool blue and slate gray tones punctuated by vibrant crimson red highlights in their tattered cloaks and foreground flora. The lighting is dominated by a pale, circular moon that provides a stark rim light silhouette against the dark, detailed silhouette of the distant Barad-dûr, the Dark Tower of Mordor, with its flaming Eye at the peak piercing through the mist. The rendering utilizes deliberate, coarse pixel art textures with sharp edges and a retro 8-bit digital finish, evoking a sense of melancholic fantasy and epic desolation through its cinematic, wide-angle composition that emphasizes vertical scale and depth through layered misty silhouettes.",
+    "category": "character-art",
+    "model_key": "grok",
+    "model_name": "Grok",
+    "model_family": null,
+    "author": {
+      "name": "Kaan",
+      "handle": "kaanakz"
+    },
+    "source_platform": "X",
+    "source_id": "2061019988593447029",
+    "source_url": "https://x.com/kaanakz/status/2061019988593447029",
+    "images": [
+      "https://pbs.twimg.com/media/HJo1M2kXMAMdgqm.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/3ed994f4-bbea-4e66-b917-ffefc1c25296",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/3ed994f4-bbea-4e66-b917-ffefc1c25296",
+    "published_at": "2026-10-01T07:22:00.573467+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "584aa5f4e7bafe41b32857a65f9f80ff271eb4636d98e94a54afe908eb8c815c"
   },
   {
     "id": "3f1f526c-5264-4050-9eb7-128d39594956",
@@ -5156,6 +5325,34 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "97b131209c4d7a6d415afe40131d18b4910df81e9e6ddb3257fa916f7c513e0b"
+  },
+  {
+    "id": "4ba6dc0b-2918-477d-afd8-6b9391f5d726",
+    "title": "Pizza Hut Luxury Campaign Ad",
+    "prompt": "Create a minimalist commercial advertisement featuring an oversized cheese pizza as the hero product in an ultra-clean, luxury campaign style. A young WOMAN dressed in an elegant all-pink AND white outfit leans casually against the giant PIZZA in a relaxed yet confident pose, eyes gently closed, while holding a freshly made pizza hut CHEESE PIZZA in both hand. The composition is modern and editorial, emphasizing scale, freshness, and visual impact.\nUse a soft gradient green-to-yellow background with large bold white AND BLACK “PIZZA HUT” typography placed prominently behind the subject. Include a glossy reflective floor that subtly mirrors the sandwich and the model, enhanced with soft studio lighting and premium food photography aesthetics. Ensure the sandwich appears hyper-realistic, packed with fresh crisp lettuce, sliced tomatoes, cucumbers, onions, cheese, savory meat or veggie filling, signature sauces, and artisan bread with mouthwatering texture and detail.\nMaintain a clean, luxurious layout with balanced negative space and a sophisticated commercial look suitable for a high-end global advertising campaign.\nAdd small text in the top-right corner reading “Designed by SHAMUS”. At the bottom center, place the tagline in small white font: “Freshly made. Delicious in every bite",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Al-Shamus",
+      "handle": "im_shahid7"
+    },
+    "source_platform": "X",
+    "source_id": "2070089461577416758",
+    "source_url": "https://x.com/im_shahid7/status/2070089461577416758",
+    "images": [
+      "https://pbs.twimg.com/media/HLpvYhVawAAk7XH.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLpvYhJaMAAg6Ny.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLpvYhibkAECW09.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/4ba6dc0b-2918-477d-afd8-6b9391f5d726",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/4ba6dc0b-2918-477d-afd8-6b9391f5d726",
+    "published_at": "2026-10-01T07:22:13.419751+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "645d88c6f2faf7b518dd1056fdd4f8e5422356ac5be80d179a28e07ea145147e"
   },
   {
     "id": "4bed0daf-9d61-4bac-9675-7eebdfbc6adb",
@@ -6916,6 +7113,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "3b543fa2f36993e6e82ca3db9fb7ada529231b9a28199ca2c4c91d3e13f90395"
+  },
+  {
+    "id": "642fcea5-4885-469d-a058-884893b0c644",
+    "title": "Japanese Woman with Milk Jelly Close-Up Portrait",
+    "prompt": "日本人の２０歳女性が薄暗いホテルのベッドの上で膝を立てて座っている。女性は手のひらに収まる筒状のパックに入った牛乳ゼリーを握っている。思わず強く握った拍子に顔にゼリー状の牛乳が口元にかかってしまう。少し嬉しそうな柔らかい表情で目をつぶっている。顔だけをかなりアップにした画像。パッケージを見せず顔だけにする。",
+    "category": "portrait",
+    "model_key": "grok",
+    "model_name": "Grok",
+    "model_family": null,
+    "author": {
+      "name": "こやす69＠AIプロンプト屋",
+      "handle": "AI_money_club"
+    },
+    "source_platform": "X",
+    "source_id": "2091361283446616536",
+    "source_url": "https://x.com/AI_money_club/status/2091361283446616536",
+    "images": [
+      "https://pbs.twimg.com/media/HQYB2qzbUAANGE6.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/642fcea5-4885-469d-a058-884893b0c644",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/642fcea5-4885-469d-a058-884893b0c644",
+    "published_at": "2026-10-01T07:22:23.588852+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "39806a3d71eca4e4b2d96b9f1b38735e099f0f411c4dedcc480cda863d6743eb"
   },
   {
     "id": "6461fb00-c842-4497-98f1-a46f0e5ac7f7",
@@ -9670,6 +9893,32 @@
     "content_hash": "0142d5601db3fada718bfda661c6e466bf7813f2a2568cf09678225874fe619d"
   },
   {
+    "id": "8765ce9a-709f-4d85-a965-c3022412827b",
+    "title": "Cinematic Low-Key Studio Portrait of Chinese Influencer",
+    "prompt": "Photorealistic emotional studio portrait, beautiful young Chinese female influencer, fair cool-toned porcelain skin, elegant slim figure, facing directly toward the camera, dark low-key studio environment with single-light cinematic setup, extreme light and shadow contrast, intense emotional atmosphere, strong direct eye contact, subtle melancholic expression, soft parted lips, delicate micro-expressions, vertical composition combining close-up and half-body framing.\n\nJapanese negative film aesthetic mixed with luxury editorial photography, Ricoh GR III mood, subtle Fujifilm Pro 400H / Classic Negative tones, low saturation, muted cinematic colors, soft highlight bloom, realistic skin texture, visible pores, delicate film grain, memory-like realism, soft diffusion around highlights, premium fashion-magazine mood.\n\nPose: facing the camera naturally, shoulders squared toward the lens, one hand gently touching lips or resting lightly near the chin, relaxed neck line, natural feminine posture, loose black hair falling softly across the face, subtle messy strands, emotional tension through eye expression instead of exaggerated posing, candid and intimate atmosphere.\n\nLighting: single soft spotlight from upper front-side angle, deep shadow falloff, dramatic chiaroscuro effect, controlled specular highlights on skin, black seamless backdrop fading into darkness.\n\nCamera settings: Canon DSLR, manual mode, aperture f1.8–f2.8, shutter speed 1/125s, ISO100–200, white balance 4000K neutral tone, single-point eye autofocus, shallow depth of field, ultra-detailed eyes, creamy background blur.\n\nUltra realistic photography, luxury emotional portrait, cinematic editorial quality, high-end beauty photography, no watermark, no text, no extra fingers, no distorted anatomy, 9:16 vertical composition.",
+    "category": "portrait",
+    "model_key": "grok",
+    "model_name": "Grok",
+    "model_family": null,
+    "author": {
+      "name": "BubbleBrain",
+      "handle": "BubbleBrain"
+    },
+    "source_platform": "X",
+    "source_id": "2080065793660981727",
+    "source_url": "https://x.com/BubbleBrain/status/2080065793660981727",
+    "images": [
+      "https://pbs.twimg.com/media/HN3grF0aoAAjODu.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/8765ce9a-709f-4d85-a965-c3022412827b",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/8765ce9a-709f-4d85-a965-c3022412827b",
+    "published_at": "2026-10-01T07:22:14.849973+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "0bee7509e88d71882b934e3ccc3c84faec8c32d85e46ba1fcdb1a681a6dc0240"
+  },
+  {
     "id": "88741e58-a4c5-4351-bc1d-07e1050d090f",
     "title": "Football Logo Enamel Pin on Denim",
     "prompt": "Where Legacy Meets The Pitch generated with GPT image 2 on @itsPolloAI\nA hyperrealistic 3D render of [Title football logol] converted into an enamel pin, with shiny metal edges and solid enamel colors. Set against a denim background. ratio 1080x1350 vertical",
@@ -9724,6 +9973,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "a49d4b608d34b84baec8c2ec46235ad0e03e23e3df3ca1a2a7d8bfa9825b30dc"
+  },
+  {
+    "id": "88c511d6-9a66-4b65-8640-3793e67e240e",
+    "title": "Modernist Editorial Travel Collage",
+    "prompt": "GPT Image 2.5\n\nPrompt:\nCreate a premium 4:5 vertical modernist editorial travel collage for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.\n\nCORE CONCEPT\nCreate a sophisticated modernist collage that translates the visual identity of [COUNTRY / CITY / LOCATION / SUBJECT] into bold graphic fragments rather than a realistic scene. Automatically determine the most fitting human figure, animal, environment, clothing, cultural details, and atmosphere.\n\nCOMPOSITION\nPlace the main human figure slightly off-center, occupying roughly one-third of the composition, with a smaller animal nearby. Reduce the surrounding environment into a few symbolic flat shapes rather than realistic depth.\n\nBuild the composition from bold matte-black rectangles, one dominant destination-inspired geometric shape, horizontal bars, thin rules, cropped blocks, small circles, and restrained typographic micro-marks. Allow selected geometric elements to overlap, crop, or partially mask the figure, animal, and scenery.\n\nSCENERY & FORM\nSimplify [COUNTRY / CITY / LOCATION / SUBJECT] into 2–5 instantly recognizable visual motifs—architecture, landscape, transportation, vegetation, objects, or cultural details—using clean cutout-like silhouettes and flat graphic fragments.\n\nSTYLE\nUse warm cream paper as an active background with generous open areas. Combine crisp cut edges, dry ink texture, subtle print grain, slight paper wear, controlled asymmetry, and carefully balanced visual density.\n\nPALETTE\nMatte black, warm cream, one dominant color derived from [COUNTRY / CITY / LOCATION / SUBJECT], one contrasting accent, and one muted supporting tone. Keep colors flat, sophisticated, and restrained.\n\nFINAL AESTHETIC\nModernist editorial collage × contemporary travel graphic × cut-paper abstraction × restrained surrealism × strong geometric hierarchy × sophisticated negative space.\n\nThe result should feel intelligent, artistic, tactile, and collectible, with a strong graphic rhythm rather than a conventional illustration.\n\nAvoid photorealism, realistic atmospheric depth, gradients, 3D rendering, glossy surfaces, excessive detail, clutter, generic icons, excessive typography, logos, watermarks, or symmetrical layouts.\n\nFORMAT: 4:5 vertical, single unified modernist composition.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Saul Goodman",
+      "handle": "Goodmanprotocol"
+    },
+    "source_platform": "X",
+    "source_id": "2105542735340118510",
+    "source_url": "https://x.com/Goodmanprotocol/status/2105542735340118510",
+    "images": [
+      "https://pbs.twimg.com/media/HThj6nJa0AAcH82.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HThj7WEawAAQrbs.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HThj8JUaoAAZoRp.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HThj87SbsAA1tcN.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/88c511d6-9a66-4b65-8640-3793e67e240e",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/88c511d6-9a66-4b65-8640-3793e67e240e",
+    "published_at": "2026-10-01T07:22:49.76541+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "4060fab85eba459d83ec770c79836b8f420c7490cf619b0dda5645edb6f24dd6"
   },
   {
     "id": "894f5d79-821a-4e9e-aea0-621779f5a838",
@@ -10439,6 +10717,35 @@
     "content_hash": "302cf5724d26e30c9a3792da70891c4a63729dbeecc75506dc801f4fa8c2adbe"
   },
   {
+    "id": "915a9670-7df4-4c46-a7ca-8944c549e205",
+    "title": "Playful Flat Editorial Storybook Illustration",
+    "prompt": "GPT Image 2.5\n\nPrompt:\nCreate a premium 4:5 vertical playful editorial illustration for [COUNTRY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire scene creatively from [COUNTRY / LOCATION / SUBJECT] alone. No reference image required.\n\nCORE CONCEPT\nAutomatically determine the most fitting human figure, animal, environment, clothing, cultural details, and atmosphere associated with [COUNTRY / LOCATION / SUBJECT]. Create one charming, instantly readable scene with a calm narrative relationship between the character and animal.\n\nCHARACTER & ANIMAL\nUse thick, slightly irregular black outlines, tiny dot eyes, minimal mouths, simplified facial features, flat silhouettes, and very limited detail. Give the human a relaxed frontal or three-quarter pose with simple clothing inspired by the location.\n\nPlace the animal clearly beside the character and reduce it to a distinctive, charming graphic shape while keeping its species immediately recognizable.\n\nSCENERY\nBuild the environment using only a few iconic elements associated with [COUNTRY / LOCATION / SUBJECT]. Keep large areas of open negative space and arrange the elements with deliberate asymmetrical balance rather than filling the entire frame.\n\nSTYLE & COLOR\nUse crisp flat color fills with a cheerful palette naturally inspired by [COUNTRY / LOCATION / SUBJECT]. Keep colors clean and solid with no gradients, photorealism, or heavy shading. Allow tiny handmade imperfections in the outlines and shapes.\n\nFINAL AESTHETIC\nNaïve storybook illustration × contemporary editorial design × playful flat graphics × gentle visual humor × handmade simplicity.\n\nThe artwork should feel warm, intelligent, minimal, and collectible, with strong silhouettes and a quiet narrative charm.\n\nAvoid photorealism, 3D rendering, gradients, realistic shading, complex textures, excessive detail, clutter, glossy digital effects, distorted anatomy, typography, logos, or watermarks.\n\nFORMAT: 4:5 vertical, single unified composition, generous negative space.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Saul Goodman",
+      "handle": "Goodmanprotocol"
+    },
+    "source_platform": "X",
+    "source_id": "2104877127858635215",
+    "source_url": "https://x.com/Goodmanprotocol/status/2104877127858635215",
+    "images": [
+      "https://pbs.twimg.com/media/HTYGjXgakAAjNrN.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTYGkFsakAA2-oA.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTYGktObwAA3uUl.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTYGlaPboAAinRd.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/915a9670-7df4-4c46-a7ca-8944c549e205",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/915a9670-7df4-4c46-a7ca-8944c549e205",
+    "published_at": "2026-10-01T07:22:41.935682+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "f4324c529e55d61a21882a474c2b079163b0b74f26eb90921d5ea8216003a4f3"
+  },
+  {
     "id": "918303c8-708c-4ee1-8f4d-4e48629e37ff",
     "title": "Minimalist Typography in Historical Weight",
     "prompt": "围绕具体主题内容生成一张具有清透舞台感与文字骨架张力的图像：大面积高明度留白作为安静的结构场，主体由低饱和、轻颗粒化的影像质感呈现，像被丝网印刷或细密网点轻轻压在纸面上，轮廓保留真实姿态与身体重量，但边缘带有透明、断续、被光吞没的虚化感。画面核心不是完整叙事场景，而是两个或数个主题主体在中央轴线附近形成上下错位的垂直张力，彼此之间保留明显呼吸距离；巨大的线性文字笔画穿过主体周围，文字既是信息又是构图骨架，使用极细而坚定的直线、弧线、折角与开放笔画，把空白切成清晰节奏，局部被主体遮挡，局部压在主体前方，形成影像与字形互相嵌套的叠影关系。中小字号信息集中在边缘空白处，字距舒展、行距克制，与巨大笔画形成尺度反差，使阅读路径从大字形、主体姿态再落到细节文字。色彩从主题自身的材质、情绪与文化语义中提取，保留大面积明亮干净底色、少量清晰高饱和强调色、低饱和主体影调和极轻纹理色的角色关系；强调色承担文字线条与视觉记忆点，面积小而锋利，主体色承担情绪与人体温度，背景保持清透通风、高明度、低杂质，整体呈现明亮、洁净、带仪式感的安静能量。纸面允许细微颗粒、零散色屑和轻微印刷不均，但质感必须保持新鲜、透亮、干净，避免厚重脏旧。最终效果应像一场被文字结构捕捉的身体瞬间，克制、空灵、精准，并让任何新主题都通过主体姿态、文字笔画、留白压力和主题派生色彩共同完成视觉表达。\n\n——————\n店铺告示: 竖版 3:4，咖啡店门口立牌，一位成年萨克斯手的演奏姿态和一只拿咖啡杯的手在中央上下呼应。\n门牌文案: 大字写“JAZZ AFTER 8”，细字放“周五晚间场 / 拿铁第二杯半价 / 20:00-22:00”。\n小店细节: 杯套上出现店名“巷口咖啡”，门口位置写“靠窗区留6席”，保持像真实小店可直接打印。",
@@ -10546,6 +10853,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "1a276fd449c39f219e8e6b6f3aedabf3b9505e1202624f6c30211697f7871b50"
+  },
+  {
+    "id": "929a104f-57ba-43a2-8529-52b91681fff4",
+    "title": "Golden Thread Travel-Art Poster Prompt for GPT Image 2.5",
+    "prompt": "GPT Image 2.5\n\nPrompt:\nCreate a premium 4:5 vertical conceptual travel-art poster for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork from [COUNTRY / CITY / LOCATION / SUBJECT] alone.\n\nCORE CONCEPT\nCreate a poetic travel memory in which a cinematic realistic destination scene gradually transforms into a delicate hand-drawn illustration through one continuous golden thread.\n\nUPPER SCENE\nCreate a breathtaking, highly realistic cinematic view of the most iconic location associated with [COUNTRY / CITY / LOCATION / SUBJECT]. Automatically choose the most atmospheric lighting—sunrise, sunset, golden hour, or blue hour.\n\nShow authentic architecture, landscape, proportions, recognizable local details, realistic materials, atmospheric depth, natural light, subtle film grain, and sophisticated editorial travel-photography composition.\n\nGOLDEN THREAD\nChoose one meaningful visual element from the scene—such as the sun, tower, dome, window, streetlight, mountain peak, river, bridge, cable, or architectural detail—and transform it into one thin golden thread that naturally extends downward from the scene.\n\nThe thread should remain continuous, delicate, slightly imperfect, and elegant as it travels into the open space below.\n\nLOWER STORY\nOn warm ivory textured paper, let the golden thread evolve into a tiny minimalist ink illustration inspired by [COUNTRY / CITY / LOCATION / SUBJECT].\n\nAutomatically choose one meaningful local symbol, traveler, traditional object, miniature landmark, street scene, boat, train, flower, map element, or cultural detail. Draw it with fine black ink lines, subtle hatching, tiny golden accents, and very little detail.\n\nKeep the illustration small and surrounded by generous negative space. It should feel like a quiet continuation of the upper scene rather than a separate picture.\n\nTYPOGRAPHY\nAdd minimal refined editorial typography based on [COUNTRY / CITY / LOCATION / SUBJECT]. Use a small destination name, landmark name, or short poetic phrase. Keep the typography subtle and secondary.\n\nFINAL AESTHETIC\nCinematic travel photography × delicate ink illustration × continuous golden thread × warm ivory paper × poetic visual storytelling × premium editorial art print.\n\nThe upper scene should feel authentic and visually dominant, while the lower illustration feels like a beautiful hand-drawn memory emerging naturally from the destination.\n\nAvoid split-screen rigidity, collage clutter, disconnected illustration, random objects, cartoon styling, distorted architecture, excessive text, logos, watermarks, heavy vintage effects, or generic travel imagery.\n\nFORMAT: 4:5 vertical, sophisticated museum-quality travel artwork, generous negative space. Generate for new york",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Saul Goodman",
+      "handle": "Goodmanprotocol"
+    },
+    "source_platform": "X",
+    "source_id": "2105230944617775113",
+    "source_url": "https://x.com/Goodmanprotocol/status/2105230944617775113",
+    "images": [
+      "https://pbs.twimg.com/media/HTdIWPyaAAABX_Z.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTdIW8Mb0AE3RiC.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTdIXl5aAAArwnw.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTdIYWLagAEJ3oU.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/929a104f-57ba-43a2-8529-52b91681fff4",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/929a104f-57ba-43a2-8529-52b91681fff4",
+    "published_at": "2026-10-01T07:22:46.535521+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "2c4a07ebb8da9d22985a569f304f8c4d3af9890f252ee1a6c37f55fb301973c5"
   },
   {
     "id": "92ecdced-9b11-405a-9460-46ef91507adb",
@@ -12016,6 +12352,35 @@
     "content_hash": "79ccb9325bdcfcf2a5d47e90cdb863d23f86bc701d2a2f7ca8fa0cec6a05a6ca"
   },
   {
+    "id": "a59b5c76-5b87-4c7a-8ceb-e1b99a288e77",
+    "title": "Dreamy Chinese Shanshui Landscapes",
+    "prompt": "Dreamy Chinese shanshui-inspired landscapes, the original \"touch grass\" art form 🤍\n\nMidjourney --sref 2238570187::4 3571208578::4 793053321::4 1291869462::2 2233708244::4 2556188940::2 2081531501",
+    "category": "scene-space",
+    "model_key": "midjourney",
+    "model_name": "Midjourney",
+    "model_family": null,
+    "author": {
+      "name": "Glitter Gal",
+      "handle": "GlitterPixely"
+    },
+    "source_platform": "X",
+    "source_id": "2105183864079667226",
+    "source_url": "https://x.com/GlitterPixely/status/2105183864079667226",
+    "images": [
+      "https://pbs.twimg.com/media/HTcBJGXXkAAEPFK.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTcBJGXXgAA6wou.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTcBJGZWgAAA0WP.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTcBJGZWEAAX1UX.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a59b5c76-5b87-4c7a-8ceb-e1b99a288e77",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a59b5c76-5b87-4c7a-8ceb-e1b99a288e77",
+    "published_at": "2026-10-01T07:22:44.919837+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "06c754b4e9e24b2ace53fdce6e2df9550d5003e30396a7b546ac915c8a5a8d95"
+  },
+  {
     "id": "a5abcb54-f120-49a6-9a8c-5713cfce8eaa",
     "title": "Seaside Bus Stop at Summer Dusk",
     "prompt": "Japanese coming-of-age movie aesthetic, seaside bus stop, Japanese rural train station, summer romance atmosphere, youth film poster, slice of life photography, candid interaction, soft blue color palette, dreamy cinematic filter, nostalgic film look, Japanese indie movie, ocean view, sparkling sea, fluffy white clouds, summer vacation mood, emotional storytelling, lens flare, sun halo, light leaks, film grain, natural candid moments, minimalist composition, wide environmental portrait, full body shot, ultra realistic, photorealistic, cinematic composition, masterpiece, highly detailed, soft atmosphere, romantic summer memory, Japanese postcard aesthetic.\nNegative Prompt: bad anatomy, malformed hands, extra fingers, missing fingers, incorrect finger count, cropped body, cut off feet, cut off head, stiff pose, stiff expression, blurry image, low quality, distorted perspective, crowded composition, dark atmosphere, rainy weather, overexposed sky, unrealistic proportions.",
@@ -12453,6 +12818,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "3c97f970611d23361c1a2dede11107d3a06f564f2161d4f9869bebecb0483cc1"
+  },
+  {
+    "id": "ab823396-c48a-42d6-a180-6b7ae5b3fc60",
+    "title": "Cinematic Travel Poster Collage with Oversized Typography",
+    "prompt": "Create a premium 4:5 vertical cinematic travel poster for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire composition creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.\n\nCORE CONCEPT\nCreate a dramatic editorial collage that merges multiple iconic views of [COUNTRY / CITY / LOCATION / SUBJECT] into one cohesive architectural composition. Use a warm ivory background with enormous condensed typography of the location name stretching vertically behind the architecture. The typography should act as a major graphic element, partially hidden and naturally overlapped by the landmarks.\n\nARCHITECTURE\nAutomatically select the most recognizable landmark as the dominant central subject, then surround it with 3–5 additional authentic landmarks from the same destination. Arrange them from different low-angle perspectives so buildings rise inward from the edges and create a powerful visual frame around the central landmark.\n\nKeep the architecture highly recognizable and structurally accurate. Allow controlled cropping at the edges for a dramatic editorial composition.\n\nCOLOR SYSTEM\nUse a mostly monochromatic photographic treatment for the architecture—warm charcoal, stone gray, cream, and subtle sepia—combined with ONE strong destination-specific accent color.\n\nApply that accent selectively to the oversized location typography and a few culturally recognizable foreground elements such as transportation, flowers, flags, lights, or architectural details.\n\nTYPOGRAPHY\nPlace the exact location name in huge, ultra-condensed uppercase lettering behind the landmarks. Make it tall, bold, tightly spaced, and partially concealed by the architecture. The letters should feel physically integrated into the composition rather than sitting on top as a normal title.\n\nAdd no unnecessary text.\n\nFOREGROUND\nInclude one or two small contextual foreground elements associated with the destination—such as a taxi, bus, tram, bicycle, street lamp, flowers, pedestrians, or street detail—slightly out of focus to create cinematic depth.\n\nLIGHTING & TEXTURE\nUse dramatic natural daylight with subtle atmospheric haze, realistic architectural shadows, selective depth of field, and a slightly nostalgic photographic finish. Add restrained vintage print grain, fine paper texture, and subtle imperfections without making the artwork look artificially aged.\n\nFINAL AESTHETIC\nLuxury travel editorial × cinematic city photography × oversized typography × architectural collage × vintage European poster design. Sophisticated, dramatic, recognizable, highly detailed, and visually balanced.\n\nAvoid random landmarks, incorrect architecture, excessive text, cartoon styling, 3D rendering, flat vector graphics, excessive saturation, distorted buildings, duplicated landmarks, clutter, logos, watermarks, or generic city imagery.\n\nFORMAT: 4:5 vertical, premium editorial travel poster, cinematic low-angle perspective, high detail.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Saul Goodman",
+      "handle": "Goodmanprotocol"
+    },
+    "source_platform": "X",
+    "source_id": "2104164709255770576",
+    "source_url": "https://x.com/Goodmanprotocol/status/2104164709255770576",
+    "images": [
+      "https://pbs.twimg.com/media/HTN-m-UbsAAKfE6.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTN-ntMbkAAStXq.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTN-odCboAAghH0.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTN-pKUbQAA_rCy.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/ab823396-c48a-42d6-a180-6b7ae5b3fc60",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/ab823396-c48a-42d6-a180-6b7ae5b3fc60",
+    "published_at": "2026-10-01T07:22:29.259782+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "86facf952c5eea57723b466cefc1df297d3a48b8aa7f9a377ca65ebe4d488c34"
   },
   {
     "id": "acf5e57a-cdf0-43b5-ae22-179f938b0c20",
@@ -14711,6 +15105,35 @@
     "content_hash": "88d9bea050c79cbb55a017f41c9980517c4dc5a6cafc83961826d91e8f84fc60"
   },
   {
+    "id": "d0891edd-e701-4f17-9bdd-fa233c1e912c",
+    "title": "Watercolor Fashion Illustration of Woman Under Tree",
+    "prompt": "Prompt: A delicate watercolor fashion illustration on textured cold-press paper. A young woman with long light-brown hair sits peacefully with her eyes closed, leaning against the base of a large tree trunk. She wears a long beige trench coat over a cream knit sweater, a plaid midi skirt in muted green, gray, and burgundy tones, and light gray ankle boots. Her posture is relaxed and elegant, one leg crossed over the other, one hand resting on her lap and the other loosely beside her.\nNext to her on the grass is a small pastel pink shopping bag with minimal typography. The tree trunk rises vertically behind her, occupying the center background. Soft patches of grass surround her feet. The overall composition is minimalist with ample negative space.\nStyle: hand-painted watercolor illustration, soft washes, translucent pigments, subtle ink sketch lines, fashion sketch aesthetic, gentle shadows, muted earth-tone palette, dreamy atmosphere, feminine elegance, Japanese stationery art style, high detail, watercolor paper texture visible, clean background, editorial illustration.\nLighting: soft diffused daylight, calm and serene mood.\nCamera/composition: full-body portrait, centered composition, slightly zoomed out, vertical artwork.",
+    "category": "character-art",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Oogie",
+      "handle": "oggii_0"
+    },
+    "source_platform": "X",
+    "source_id": "2068924288397373515",
+    "source_url": "https://x.com/oggii_0/status/2068924288397373515",
+    "images": [
+      "https://pbs.twimg.com/media/HLZLq3GbAAAiqse.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLZLq4NbkAAqgok.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLZLq5_bYAAFq7K.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLZLq8GaYAAV6Hh.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d0891edd-e701-4f17-9bdd-fa233c1e912c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d0891edd-e701-4f17-9bdd-fa233c1e912c",
+    "published_at": "2026-10-01T07:22:09.443205+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "cb8f31aada44a3a9fae55567e31e2650a518cea86c2de0ecd8df235811a060d5"
+  },
+  {
     "id": "d093b499-4d07-4f73-8b73-fa7e1c9c096c",
     "title": "400 Advanced Prompts for Business Automation",
     "prompt": "El resultado: Una biblioteca en Notion con los 400 mejores prompts avanzados para clonar tu cerebro y automatizar tu negocio.\nTe ahorra semanas de trabajo en:\n• Creación de contenido masivo\n• Automatización de sistemas\n• Copywriting que vende solo\n... Y mucho más en 20 categorías.\nGRATIS solo hoy.\nLike + RT\nSígueme (para abrir DM)\nComenta \"400\"",
@@ -15031,6 +15454,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "8e9cc663d100df58df8b35d3e5d78822bc3b4b9b5edf4f66ae8e98fa6767b992"
+  },
+  {
+    "id": "d40ccad2-813a-4127-aff2-a8056665da6e",
+    "title": "Perler Bead Travel Editorial Poster",
+    "prompt": "GPT Image 2.5\n\nPrompt:\nCreate a premium 3:4 vertical Perler Bead travel editorial artwork for [COUNTRY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire composition creatively from [COUNTRY / LOCATION / SUBJECT] alone. No reference image required.\n\nCOMPOSITION\nCreate an exact 50/50 vertical split. The upper half is a beautiful full-bleed realistic travel scene representing [COUNTRY / LOCATION / SUBJECT], automatically featuring its most recognizable landmark, architecture, landscape, or cultural element.\n\nThe lower half uses a warm off-white textured paper background with subtle natural grain.\n\nBEAD ARTWORK\nOn the lower-left, create one large square Perler Bead artwork depicting the most iconic visual element from the upper scene. Use precise pixel-art construction with clearly visible individual melted beads, authentic plastic texture, a clean cream bead border, and a soft natural shadow.\n\nPATCH COLLECTION\nOn the lower-right, arrange six small individual Perler Bead patches in a clean 2×3 grid. Each patch represents a different recognizable element associated with [COUNTRY / LOCATION / SUBJECT]. Give every patch a cream bead outline and subtle physical shadow.\n\nSTYLE\nUse authentic handcrafted Perler Bead construction, visible bead holes, slightly imperfect handmade edges, matte plastic texture, precise pixel patterns, soft studio lighting, and refined tactile detail.\n\nTYPOGRAPHY\nBelow the bead artwork, add exactly three short uppercase English keywords related to [COUNTRY / LOCATION / SUBJECT], separated by “ · ”. Use thin, widely letter-spaced sans-serif typography in dark gray.\n\nFINAL AESTHETIC\nMinimal travel editorial × handcrafted Perler Bead art × collectible souvenir design × tactile lifestyle magazine aesthetic. Keep the composition clean, balanced, sophisticated, and spacious.\n\nAvoid uploaded-image references, photo recreation, duplicated elements, random landmarks, excessive text, logos, watermarks, clutter, 3D CGI, glossy plastic, distorted bead patterns, or uneven composition.\n\nFORMAT: 3:4 vertical, exact 50/50 layout, premium handcrafted editorial design.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2.5",
+    "model_name": "GPT Image 2.5",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Saul Goodman",
+      "handle": "Goodmanprotocol"
+    },
+    "source_platform": "X",
+    "source_id": "2104088919684084124",
+    "source_url": "https://x.com/Goodmanprotocol/status/2104088919684084124",
+    "images": [
+      "https://pbs.twimg.com/media/HTM5rFbaYAAWe7k.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTM5sAPaQAA95JR.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTM5sybbEAAnNqE.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HTM5thLa0AAzt3k.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d40ccad2-813a-4127-aff2-a8056665da6e",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d40ccad2-813a-4127-aff2-a8056665da6e",
+    "published_at": "2026-10-01T07:22:25.154016+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "d228e7ca3076809e49ffbbc6e170c3dfac60a321cb87ede64f55bc28830e801d"
   },
   {
     "id": "d4108d0a-a3e2-405b-92c6-d275b8415e9f",
@@ -17518,6 +17970,32 @@
     "content_hash": "fe4e0a698000062bf872547682b34e9f1eb2e3693e8368812927b67315aad3e8"
   },
   {
+    "id": "f0e83318-6e3c-46be-bf40-4c8de667b7bc",
+    "title": "Pastel Observatory Window Overlooks Hidden Civilization",
+    "prompt": "Gpt Image 2 + Lightroom + Wonder 3 by @topazlabs .\nCreate an original photorealistic surreal editorial image from inside a vast, shadowed observatory room, looking out through a monumental arched window toward an impossible civilization on the far horizon.\nScene: a lone woman sits at an old wooden desk in the lower foreground, seen from behind, almost swallowed by the scale of the view. She should feel small, anonymous, quiet, and contemplative. Soft pastel curtains frame both sides of the window, in dusty blush, pale rose, muted mauve, or powder lavender. The room is dim and atmospheric, with worn rugs, scattered papers, antique wood, old scientific instruments, and warm low interior shadows, all softened with a pastel-toned color palette.\nView outside: beyond the window is a colossal green basin stretching to a distant horizon. A hidden civilization is embedded inside the landscape: monumental pale stone terraces, geometric megastructures, cliff-cut sanctuaries, horizontal bridges, and tower-like forms partially buried in dense forest canopy, vines, mist, and waterfalls. The city should feel ancient, advanced, quiet, and impossibly vast.\nComposition: vertical cinematic frame, interior in deep soft shadow, huge arched window dominating the image, tiny seated woman at the bottom center, extreme distance outside, strong depth from dim pastel interior to luminous sunlit horizon. The architecture outside should be far away, not close, with the horizon feeling endless.\nSky and atmosphere: enormous volumetric clouds over the horizon, soft sunbeams breaking through, pale pastel blue-gray sky, warm peach haze, a small moon barely visible above the distant city, mist pooling between sage-green ridges and monumental buildings.\nColor palette: all pastel colors throughout the image. Use soft sage green, pale mint, powder blue, dusty lavender, blush pink, muted peach, warm cream, ivory stone, faded rose, and gentle blue-gray shadows. Avoid harsh saturation, heavy crimson, pure black, neon colors, or overly dark color blocking. Keep the image elegant, airy, cinematic, and softly luminous while preserving depth and mystery.\nStyle: photorealistic surreal architectural editorial, refined cinematic realism, elegant atmospheric perspective, subtle film grain, rich but soft shadows, high-end art direction, pastel surrealism, delicate light, sophisticated composition.\nMood: quiet, powerful, mysterious, contemplative, vast, almost sacred.\nConstraints: no text, no watermark, no logo, no fantasy castle, no medieval kingdom, no ornate palace, no busy skyline, no vehicles, no crowds, no modern city clutter. Keep the woman small and anonymous. Keep the exterior civilization monumental, minimal, partially hidden by greenery, and far in the distance.\nAspect ratio: 3:4 vertical.",
+    "category": "scene-space",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Glitter Gal",
+      "handle": "GlitterPixely"
+    },
+    "source_platform": "X",
+    "source_id": "2067040223762997439",
+    "source_url": "https://x.com/GlitterPixely/status/2067040223762997439",
+    "images": [
+      "https://pbs.twimg.com/media/HK-ZmOSW8AAGbxn.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f0e83318-6e3c-46be-bf40-4c8de667b7bc",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f0e83318-6e3c-46be-bf40-4c8de667b7bc",
+    "published_at": "2026-10-01T07:22:02.899144+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "c4715631f43e247d9598c606217fd27f20423313e40395e4ba91acaf72097afb"
+  },
+  {
     "id": "f240a369-a8cb-4e80-9c3e-71dbb881800b",
     "title": "Y2K Scrapbook Collage: Music Listener in Streetwear",
     "prompt": "[Character]\n[Pose & Outfit] Create an original Y2K-style scrapbook collage poster featuring the side profile of a stylish person peacefully enjoying music with their eyes closed while wearing large wireless headphones. Style them in a relaxed streetwear look with an oversized vintage jacket featuring visible stitch details.\n[Expression & Design] Depict the character as a high-contrast black-and-white photo cutout with a thick white sticker-style outline around the entire body to create a trendy collage aesthetic. Use a clean and vivid turquoise/aqua blue and deep pastel pink background. Surround the character with playful white hand-drawn doodles such as planets, rings, stars, Jupiter rings, constellations, meteors, rockets, astronauts, satellites, orbit lines, abstract swirls, sparkles, and music notes. Add dynamic sketch arrows, crown doodles, motion lines, and layered graphic elements around the head and body to create youthful energy and movement. Some doodles should naturally overlap the character for a realistic scrapbook effect.\nIntegrate modern Gen-Z typography using a mix of handwritten fonts and bubbly sticker-style text. Include original phrases such as:\n“Love you”\n“Stay Calm”\n“Dream explore repeat”\n“cosmic soul”\n“beyond the stars”\nThe composition should feel creative yet balanced, inspired by Pinterest collage art, Tumblr aesthetics, Spotify cover designs, indie teen magazine layouts, and social media editorial posters.\nVisual Style:\nY2K collage aesthetics, indie music poster vibes, scrapbook journal style, modern streetwear editorial design, cute doodle graphics, trendy Gen-Z branding, minimalist yet stylish, dreamy youthful atmosphere.\nDesign Details:\nThick white outline cutout around the character, white doodle overlays, clean negative space, soft grain texture, high-resolution denim texture, hand-drawn imperfect sketch lines, dynamic asymmetrical composition, professional graphic design layout, aesthetic optimized for viral social media, high-resolution print-quality artwork. Make it feel like an original and unique branded design inspired by modern scrapbook collage trends. Ultra-detailed, aesthetic masterpiece, sophisticated graphic design.",
@@ -17819,6 +18297,35 @@
     "content_hash": "0b873a0e79ba195770058ff8bdd5c99b9e40ebb6293f9288fd84f1068040e4ac"
   },
   {
+    "id": "f4ec71ff-ee69-4386-bf3c-ecd2a71e0b1a",
+    "title": "Korean Scrapbook Food Poster",
+    "prompt": "GPT IMAGE 2 on CHATGPT \n\nCreate a cute, trendy scrapbook-style Korean food advertisement poster featuring [Menu Name] as the main focus, with the price [Price] displayed prominently beside it as a sticker or torn paper label. If a reference photo is provided, accurately preserve the food's shape, ingredients, colours, plating, and overall identity while enhancing lighting, texture, and realism to make it look more delicious. If no photo is provided, create a realistic version based on the menu name without adding uncertain ingredients. Place the food large in the centre with rich, appetising details such as crispy textures, juicy meat, glossy sauces, and fresh ingredients. Use a warm café aesthetic with a vintage scrapbook collage style, including torn paper, masking tape, sticky notes, handwritten doodles, arrows, stars, hearts, sparkles, checkerboard patterns, and cute food stickers. Add 4–6 Korean exclamation phrases that match the dish. All visible text, including the menu name, price, and decorative phrases, must be written only in Korean. Use warm brown, cream, orange, and green tones with subtle colourful marker accents, and produce the final poster in a vertical 3:4 aspect ratio with safe margins so nothing is cropped.",
+    "category": "food-drink",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Simply Ray",
+      "handle": "kingofdairyque"
+    },
+    "source_platform": "X",
+    "source_id": "2081580288971337797",
+    "source_url": "https://x.com/kingofdairyque/status/2081580288971337797",
+    "images": [
+      "https://pbs.twimg.com/media/HONCNOpWIAA3vzS.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HONCN2WWIAA_XHs.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HONCOgxXgAATsGh.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HONCPKMWsAAT-KA.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f4ec71ff-ee69-4386-bf3c-ecd2a71e0b1a",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f4ec71ff-ee69-4386-bf3c-ecd2a71e0b1a",
+    "published_at": "2026-10-01T07:22:18.690123+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "cf6460a830925c4fbf19d475f7860694e587df565774131759385bda1dc8d721"
+  },
+  {
     "id": "f52aacd4-f8f8-4f66-9e19-224e0e610732",
     "title": "Elegant Chinese Ink Wash Interpretation",
     "prompt": "“Traditional Chinese ink wash interpretation of [SUBJECT], expressive black ink brushstrokes, soft gradients, poetic simplicity, minimalist composition, large areas of untouched white space, contemporary gallery presentation, clean white background, no text, no logo.”",
@@ -17874,6 +18381,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "a094db050de997f4c3f55b4d3bdd89c3fddad556ff8609521da3c1bae3222514"
+  },
+  {
+    "id": "f5ff41f3-52fc-4935-b79d-1b1278ca4b44",
+    "title": "8-Bit Embroidered FIFA Players Product Photo",
+    "prompt": "Highly detailed close-up product photograph of [ITEM DESCRIPTION] laid flat on a minimal off-white background #F8F7F2, featuring a horizontal row of four distinct 8-bit pixel art style embroidered FIFA soccer players in dynamic action poses [PLACEMENT], exactly like retro video game sprites or cross-stitch. From left to right: Lionel Messi mid-kick in Argentina jersey, Cristiano Ronaldo signature celebration jump in Portugal jersey, Kylian Mbappé sprinting in France jersey, Erling Haaland powerful shot in Manchester City jersey. Small cute blocky pixelated designs with visible stitch texture and a slight 3D raised embroidery effect on [FABRIC MATERIAL]. Soft even lighting, sharp focus on embroidery details, realistic fabric texture, clean minimalist product photography style --ar 9:16 --stylize 250 --v 6",
+    "category": "commercial-product",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Shams",
+      "handle": "ShamsAmin56"
+    },
+    "source_platform": "X",
+    "source_id": "2068060163702149447",
+    "source_url": "https://x.com/ShamsAmin56/status/2068060163702149447",
+    "images": [
+      "https://pbs.twimg.com/media/HLM5wecaoAAbHKp.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLM5wfgakAATxr7.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLM5whSbAAAnZF1.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLM5wc7a8AA82E9.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f5ff41f3-52fc-4935-b79d-1b1278ca4b44",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f5ff41f3-52fc-4935-b79d-1b1278ca4b44",
+    "published_at": "2026-10-01T07:22:07.888189+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "9fec416da65a1e789eb5e97bac8151f6a9d5b0738d047a9203cc772c6c0623ab"
   },
   {
     "id": "f606725d-5ba0-4fed-94fe-4f1fbc09b3e0",

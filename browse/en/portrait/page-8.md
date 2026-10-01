@@ -657,3 +657,55 @@ A surreal Alice in Wonderland–inspired fashion portrait of a stylish young wom
 **[Try on MuseSignal →](<https://musesignal.com/prompt/7eda030b-391d-42a0-8533-199f68b270da?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamsofiaijaz/status/2068743816174239980>)
 
 ---
+
+<a id="prompt-8765ce9a-709f-4d85-a965-c3022412827b"></a>
+
+## Cinematic Low-Key Studio Portrait of Chinese Influencer
+
+<a href="https://musesignal.com/prompt/8765ce9a-709f-4d85-a965-c3022412827b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HN3grF0aoAAjODu.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Low-Key Studio Portrait of Chinese Influencer" /></a>
+
+**Grok** · Creator: BubbleBrain
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Photorealistic emotional studio portrait, beautiful young Chinese female influencer, fair cool-toned porcelain skin, elegant slim figure, facing directly toward the camera, dark low-key studio environment with single-light cinematic setup, extreme light and shadow contrast, intense emotional atmosphere, strong direct eye contact, subtle melancholic expression, soft parted lips, delicate micro-expressions, vertical composition combining close-up and half-body framing.
+
+Japanese negative film aesthetic mixed with luxury editorial photography, Ricoh GR III mood, subtle Fujifilm Pro 400H / Classic Negative tones, low saturation, muted cinematic colors, soft highlight bloom, realistic skin texture, visible pores, delicate film grain, memory-like realism, soft diffusion around highlights, premium fashion-magazine mood.
+
+Pose: facing the camera naturally, shoulders squared toward the lens, one hand gently touching lips or resting lightly near the chin, relaxed neck line, natural feminine posture, loose black hair falling softly across the face, subtle messy strands, emotional tension through eye expression instead of exaggerated posing, candid and intimate atmosphere.
+
+Lighting: single soft spotlight from upper front-side angle, deep shadow falloff, dramatic chiaroscuro effect, controlled specular highlights on skin, black seamless backdrop fading into darkness.
+
+Camera settings: Canon DSLR, manual mode, aperture f1.8–f2.8, shutter speed 1/125s, ISO100–200, white balance 4000K neutral tone, single-point eye autofocus, shallow depth of field, ultra-detailed eyes, creamy background blur.
+
+Ultra realistic photography, luxury emotional portrait, cinematic editorial quality, high-end beauty photography, no watermark, no text, no extra fingers, no distorted anatomy, 9:16 vertical composition.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8765ce9a-709f-4d85-a965-c3022412827b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/BubbleBrain/status/2080065793660981727>)
+
+---
+
+<a id="prompt-642fcea5-4885-469d-a058-884893b0c644"></a>
+
+## Japanese Woman with Milk Jelly Close-Up Portrait
+
+<a href="https://musesignal.com/prompt/642fcea5-4885-469d-a058-884893b0c644?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQYB2qzbUAANGE6.jpg?format=jpg&amp;name=small" width="480" alt="Japanese Woman with Milk Jelly Close-Up Portrait" /></a>
+
+**Grok** · Creator: こやす69＠AIプロンプト屋
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+日本人の２０歳女性が薄暗いホテルのベッドの上で膝を立てて座っている。女性は手のひらに収まる筒状のパックに入った牛乳ゼリーを握っている。思わず強く握った拍子に顔にゼリー状の牛乳が口元にかかってしまう。少し嬉しそうな柔らかい表情で目をつぶっている。顔だけをかなりアップにした画像。パッケージを見せず顔だけにする。
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/642fcea5-4885-469d-a058-884893b0c644?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AI_money_club/status/2091361283446616536>)
+
+---
