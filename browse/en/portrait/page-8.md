@@ -709,3 +709,206 @@ Ultra realistic photography, luxury emotional portrait, cinematic editorial qual
 **[Try on MuseSignal →](<https://musesignal.com/prompt/642fcea5-4885-469d-a058-884893b0c644?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/AI_money_club/status/2091361283446616536>)
 
 ---
+
+<a id="prompt-efe11ff2-16af-4656-a41c-37ad87b9973c"></a>
+
+## Expressive Oil Painting Portrait Style
+
+<a href="https://musesignal.com/prompt/efe11ff2-16af-4656-a41c-37ad87b9973c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSK6UW5XYAM-KP7.jpg?format=jpg&amp;name=small" width="480" alt="Expressive Oil Painting Portrait Style" /></a>
+
+**Nano Banana Pro** · Creator: Zayan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Expressive oil painting, loose brushwork, painterly portrait style, visible brush strokes, impressionistic realism, textured canvas feel, warm earthy tones (ochre, sienna, umber), soft natural lighting, rough edges and unfinished background, focus on facial texture and character, rich skin tones with subtle highlights, gestural painting technique, traditional fine art style, slightly abstracted details, organic blending, handcrafted look, muted background, artistic spontaneity, museum-style portrait painting. Ar 9:16!
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/efe11ff2-16af-4656-a41c-37ad87b9973c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/HustleXR/status/2099445268634894339>)
+
+---
+
+<a id="prompt-67ae1eb6-5458-4b03-8cfd-3ce1a891b20f"></a>
+
+## 9:16 3×3 Collage of Flawed Amateur Flash Portraits
+
+<a href="https://musesignal.com/prompt/67ae1eb6-5458-4b03-8cfd-3ce1a891b20f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTd7ZzCb0AAAVC7.jpg?format=jpg&amp;name=small" width="480" alt="9:16 3×3 Collage of Flawed Amateur Flash Portraits" /></a>
+
+**GPT Image 2** · Creator: Iqra Saifi
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Hochformat im Seitenverhältnis 9:16, Collage aus neun Bildern in einem 3×3-Raster. Ausschließlich natürliche, ungestellte Porträtfotografie.
+
+Thema: Eine Sammlung misslungener Amateuraufnahmen, die beinahe kleine Meisterwerke geworden wären.
+
+Die Collage besteht aus neun unterschiedlichen Aufnahmen, angeordnet wie auf einem fotografischen Kontaktbogen. Die Stimmung: spontane Schnappschüsse in einer gemütlichen Wohnung, aufgenommen von einer Freundin oder einem Freund, kurz vor einem Abend unterwegs.
+
+Jedes Bild wirkt, als hätte nur ein winziger Fehler im entscheidenden Moment eine mühelos großartige Aufnahme verhindert. Im Mittelpunkt steht der natürliche Kontrast zwischen einer ausgesprochen fotogenen Frau in einem schmeichelhaften Outfit und den typischen Pannen beim Fotografieren.
+
+Motiv:
+Eine erwachsene ostasiatische Frau Mitte zwanzig mit langen, dunkel glänzenden Haaren, die locker über ihre Schultern fallen. Elegante Gesichtszüge, ein warmer bis neutraler Hautton und dezentes, natürliches Make-up.
+Realistische Körperproportionen und eine natürlich kurvige, sportliche Figur: sichtbare Schlüsselbeine, eine elegante Schulterlinie, eine definierte Taille, ein sanfter Übergang von der Taille zur Hüfte und lange Beine. Sie wirkt ganz selbstverständlich fotogen, ohne übertriebenes Styling.
+
+Outfit:
+Ein figurbetontes, anthrazitgraues Tanktop aus Rippstrick mit tiefem, rundem Ausschnitt, das die Halslinie und Taille betont. Dazu ein schwarzer Jeansminirock mit hohem Bund und klarer Passform, der die natürlichen Proportionen von Taille, Hüfte und Beinen unterstreicht. Dezente Halsketten in unterschiedlichen Längen und lässige Canvas-Sneaker. Unkompliziert, schmeichelhaft und alltagstauglich.
+
+Umgebung und Atmosphäre:
+Das gemütliche Wohnzimmer einer Stadtwohnung mit einem Sofa aus neutralem Stoff, einem Bücherregal, einer warm leuchtenden Lampe im Hintergrund und einem bodenlangen Spiegel.
+Direkter Kamerablitz, der leicht körnige Look einer kompakten Digitalkamera mit CCD-Sensor, dezentes Bildrauschen und gelegentliche Bewegungsunschärfe. Authentische Atmosphäre einer kleinen Wohnungsparty.
+
+In allen neun Bildern sind dieselbe Frau, dasselbe Outfit und dieselbe Wohnung zu sehen. Jede Aufnahme zeigt eine andere Pose und einen anderen fotografischen Fehler.
+Die neun Aufnahmen:
+
+1. Bewegungsunschärfe beim Umdrehen
+
+Sie dreht sich mitten in einem Schritt leicht zur Seite. Ihr Profil und ihre natürliche Haltung kommen schön zur Geltung. Genau beim Auslösen bewegt sie sich jedoch, sodass Gesicht und Schultern eine leichte, gerichtete Bewegungsunschärfe zeigen.
+
+2. Vom Blitz überstrahlt
+
+Eine halbnahe Aufnahme: Sie lehnt lässig an der Wand und hat eine Hand auf die Hüfte gelegt. Die Pose betont ihre Taille und den Ausschnitt und wirkt ganz ungezwungen. Der Blitz wird jedoch aus zu kurzer Entfernung ausgelöst, sodass helle Bereiche in ihrem Gesicht und auf dem Oberteil überstrahlen und Details verlieren.
+3. Schöne Sitzpose, im falschen Moment geblinzelt
+Eine nähere Dreiviertelansicht: Sie sitzt auf der Armlehne des Sofas und schlägt ein Bein über das andere. Ihre Haltung bildet eine natürliche S-Kurve und bringt Taille und Hüfte zur Geltung. Sie lacht gerade und blinzelt genau in dem Moment, in dem das Foto aufgenommen wird.
+4. Hintergrund scharf, Person unscharf
+
+Sie steht der Kamera zugewandt in einer entspannten, schmeichelhaften Pose. Der Autofokus stellt jedoch auf die Bilderrahmen an der Wand hinter ihr scharf. Dadurch bleibt sie selbst weich und deutlich unscharf.
+5. Stark gekippte Kamera
+Eine Ganzkörperaufnahme im Stehen, auf der Minirock und Beinlinie schön zur Geltung kommen. Die fotografierende Person hält die Kamera jedoch um etwa 20 Grad schräg, sodass der Türrahmen und die gesamte Raumgeometrie auffällig kippen.
+6. Blick über die Schulter, Finger vor dem Objektiv
+
+Eine nahe bis halbnahe Dreiviertelansicht von hinten: Sie dreht den Kopf und blickt über ihre Schulter zur Kamera. Die Pose betont ihre Haltung, den Rücken und den natürlichen Übergang von Taille zu Hüfte. Ein unscharfer Daumen der fotografierenden Person verdeckt jedoch das untere rechte Drittel des Bildes.
+7. Unterbelichtet, weil der Blitz nicht ausgelöst hat
+Der Blitz bleibt aus. Die Aufnahme ist dunkel, stimmungsvoll und stark verrauscht. Nur das schwache Licht im Raum lässt ihre sitzende Haltung und Silhouette erkennen.
+8. Zu tief gezielt, Kopf angeschnitten
+
+Die Kamera ist zu weit nach unten gerichtet. Taille, Hüfte und Minirock sind schmeichelhaft im Bild, doch der obere Teil ihres Kopfes ab Augenhöhe wird vom oberen Bildrand abgeschnitten.
+9. Ungewollter Lampenschirmhut
+Sie steht aufrecht, hat eine schöne Haltung und lächelt natürlich. Der große Lampenschirm direkt hinter ihr ist jedoch so ungünstig ausgerichtet, dass er auf dem Foto wie ein riesiger Hut auf ihrem Kopf aussieht.
+Visuelle Anforderungen:
+– Authentischer Look spontaner Amateuraufnahmen mit direktem Kamerablitz.
+– Dezentes Bildrauschen und natürliche Blitzreflexionen im Innenraum.
+– Realistische Darstellung: eine mühelos fotogene Frau, deren Aufnahmen durch klassische Fotopannen misslingen.
+– Sauberes 3×3-Raster mit schmalen schwarzen oder dunklen Trennlinien.
+– Keine Wasserzeichen, Zeitstempel oder Bedienelemente.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/67ae1eb6-5458-4b03-8cfd-3ce1a891b20f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/IqrasaifiAI/status/2105287088874877312>)
+
+---
+
+<a id="prompt-ff0b57fd-16cf-40f4-b04a-b7a9f564c039"></a>
+
+## Atelier-Style Digital Oil Portrait
+
+<a href="https://musesignal.com/prompt/ff0b57fd-16cf-40f4-b04a-b7a9f564c039?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSZY3acb0AAcw4_.jpg?format=jpg&amp;name=small" width="480" alt="Atelier-Style Digital Oil Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Zayan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Digital oil painting with a semi-realistic portrait approach, painterly brushwork with visible, loose strokes and textured edges. Soft blending on facial features combined with expressive, rough brush strokes around the hair and clothing. Use a warm, natural skin tone palette with subtle color variation (peach, beige, soft pink highlights) and gentle light diffusion.
+Lighting is soft and directional, slightly from the front/side, creating smooth shadows without harsh contrast. Emphasize natural highlights on the nose, cheeks, and forehead with a slightly glossy, painterly finish.
+Background is abstract and minimal, composed of broad, dry-brush strokes with muted colors (desaturated teal, gray, olive, and beige), creating a soft halo effect around the subject. Edges of the subject fade organically into the background using broken brush strokes.
+Color treatment is vibrant but controlled, with warm tones (orange, red) contrasted against cool, muted background hues. Brush strokes should feel spontaneous and layered, with visible paint texture, as if done on canvas.
+Overall finish should resemble a modern atelier-style portrait painting, slightly stylized but still grounded in realism, with an artistic, handcrafted feel rather than hyper-detailed realism. No sharp outlines—forms are defined by color and light transitions.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/ff0b57fd-16cf-40f4-b04a-b7a9f564c039?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/HustleXR/status/2100463992938643539>)
+
+---
+
+<a id="prompt-e9915f4c-2619-4671-8701-858b5599d76c"></a>
+
+## Watercolor Portrait With Painter&#39;s Hand
+
+<a href="https://musesignal.com/prompt/e9915f4c-2619-4671-8701-858b5599d76c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRhngZ6bUAA3TJD.jpg?format=jpg&amp;name=small" width="480" alt="Watercolor Portrait With Painter&#39;s Hand" /></a>
+
+**Nano Banana Pro** · Creator: Zayan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ar 9:16! Expressive loose watercolor illustration style, ultra-detailed watercolor portrait rendering, soft translucent paint layering, wet-on-wet watercolor diffusion, natural pigment bleeding effects, delicate brushstroke textures, airy hand-painted aesthetic, realistic anatomy blended with painterly abstraction, subtle ink-like edge definition, elegant unfinished watercolor splashes around the composition, soft feathered transitions between colors, luminous paper texture visible through transparent paint layers, warm natural skin tones with gentle blush highlights, cinematic soft lighting, flowing organic brush movement, refined watercolor realism with emotional fine art atmosphere, smooth facial rendering contrasted with loose expressive edges, handcrafted traditional painting aesthetic, watercolor bloom effects, fluid color gradients, lightly desaturated palette with earthy warm neutrals and muted blues, premium sketchbook illustration style, visible artistic spontaneity, delicate strand-like hair strokes, atmospheric white negative space, minimal background detail, soft focus depth, editorial fine art watercolor aesthetic, subtle accidental paint marks and organic imperfections, elegant composition balance, painter’s hand holding a thin paintbrush visible in foreground, immersive artist-at-work perspective, realistic brush and hand rendering, museum-quality watercolor artwork, timeless classical painting mood, sophisticated contemporary watercolor portrait style, ultra refined paper-and-pigment texture, dreamy and poetic visual tone, handcrafted artistic realism, master-level watercolor detailing.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e9915f4c-2619-4671-8701-858b5599d76c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/HustleXR/status/2096539446120530325>)
+
+---
+
+<a id="prompt-2fb5e7db-dcd9-4bc1-a54e-35c94d0d9ab4"></a>
+
+## Hand-Drawn Editorial Portrait Illustration
+
+<a href="https://musesignal.com/prompt/2fb5e7db-dcd9-4bc1-a54e-35c94d0d9ab4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HR_bO1sboAAr712.jpg?format=jpg&amp;name=small" width="480" alt="Hand-Drawn Editorial Portrait Illustration" /></a>
+
+**Nano Banana Pro** · Creator: Zayan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Hand-drawn editorial portrait illustration, semi-realistic sketch style, fine ink linework, cross-hatching shading, textured pencil strokes, subtle watercolor wash, muted earthy color palette, warm tones, soft paper grain texture, vintage magazine illustration aesthetic, clean centered composition, minimal background with bold geometric color block, rough brush edges, natural skin texture rendering, soft shadow gradients, high detail facial features, artistic sketch-paint hybrid, modern retro illustration style, matte finish, subtle grunge texture, professional editorial artwork.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/2fb5e7db-dcd9-4bc1-a54e-35c94d0d9ab4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/HustleXR/status/2098637009191604686>)
+
+---
+
+<a id="prompt-da464b32-35e1-4a6a-9c96-845edfe1fca8"></a>
+
+## Vintage Messi European Travel Poster
+
+<a href="https://musesignal.com/prompt/da464b32-35e1-4a6a-9c96-845edfe1fca8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKxvnDwWUAAu_OW.jpg?format=jpg&amp;name=small" width="480" alt="Vintage Messi European Travel Poster" /></a>
+
+**Nano Banana** · Creator: Minahil
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A vintage-style illustration poster featuring a detailed, smiling portrait of Lionel Messi. He is dressed sharply in a dark blue two-button suit jacket with a bowtie, white shirt, and a patterned pocket square. He is leaning casually with his hands resting on a large, old-fashioned brown leather suitcase. The setting is a detailed old European city street with cobblestones, ornate multi-story buildings, and a classic city tram in the background. Behind him, a large, stylized blue crescent moon with gold stars is prominently displayed, surrounded by dynamic blue and sepia-toned paint splatters and dots. The entire composition has a hand-drawn, textured quality on aged, yellowed paper, with thick lines and a vintage print feel. The color palette is composed of blues, sepia browns, gold, and aged paper tones. The aspect ratio is vertical.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/da464b32-35e1-4a6a-9c96-845edfe1fca8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2066149061216915547>)
+
+---
+
+<a id="prompt-3bd032ac-bf95-4e67-8520-73ff619b81cb"></a>
+
+## Cinematic Groom Portrait in Golden Chapel
+
+<a href="https://musesignal.com/prompt/3bd032ac-bf95-4e67-8520-73ff619b81cb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HL9Kl3FagAAgLf9.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Groom Portrait in Golden Chapel" /></a>
+
+**GPT Image 2** · Creator: Akash
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt:
+Waist-up cinematic portrait of a handsome groom standing in an ornate church aisle, wearing a pristine white double-breasted suit jacket with subtle wool texture, matching waistcoat, crisp white dress shirt, pale sky-blue silk tie and neatly folded pocket square; medium-dark hair swept back, full groomed beard and mustache, striking blue-green eyes, warm tan skin, slight confident serene smile, hands gently clasped at waist showing a simple wedding band and classic silver wristwatch. Background softly blurred with golden crucifix, lit candles and lush white floral arrangements on an altar, creating a romantic, sacred atmosphere. Soft, warm directional lighting from front-left with delicate rim light to separate him from background, shallow depth of field, creamy bokeh, high-resolution photographic realism, natural skin texture, subtle filmic color grading with warm highlights and muted shadows, elegant, timeless, formal wedding portrait composition, vertical framing, 85mm portrait feel, f/1.8 shallow focus, gentle grain, authentic mood and refined styling.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3bd032ac-bf95-4e67-8520-73ff619b81cb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/heyakash_ai/status/2071456371535651286>)
+
+---

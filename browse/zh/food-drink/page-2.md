@@ -24,3 +24,26 @@ Create a cute, trendy scrapbook-style Korean food advertisement poster featuring
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f4ec71ff-ee69-4386-bf3c-ecd2a71e0b1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/kingofdairyque/status/2081580288971337797>)
 
 ---
+
+<a id="prompt-9e4f889d-a468-4d4e-a4be-04dd65daba1d"></a>
+
+## Cyanotype Sunday Breakfast Table
+
+<a href="https://musesignal.com/zh/prompt/9e4f889d-a468-4d4e-a4be-04dd65daba1d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQYp1dFXwAAhFAj.jpg?format=jpg&amp;name=small" width="480" alt="Cyanotype Sunday Breakfast Table" /></a>
+
+**Midjourney** · 原作者: TischEins
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+amateur cyanotype contact print of a quiet Sunday breakfast table by a tall window, a white ceramic teacup at center with a thin ribbon of steam curling downward and sinking back into the tea instead of rising, a folded unread newspaper with blank smudged columns, a chipped eggcup holding a half-eaten soft-boiled egg, linen tablecloth with visible weave, soft diffused window light rendered as gentle tonal gradients, deep Prussian blue monochrome shadows, faded indigo midtones, bone white paper highlights, pale cyan mist and warm sepia paper edge, visible cotton paper texture and uneven brush-coated borders, slight uneven chemical staining at the corners, three-quarter eye-level view with the cup centered and soft negative space around it, calm antique documentary quality, 35mm lens perspective, shallow depth of field on the cup
+|NEGATIVES| no watermark, extra fingers, extra limbs, deformed hands, plastic skin, legible gibberish text, brand logos, oversaturated colors, blurry main subject
+|PARAMS| --v 8.2 --s 250 --ar 5:4
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9e4f889d-a468-4d4e-a4be-04dd65daba1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/tisch_eins/status/2091405078250824006>)
+
+---

@@ -817,3 +817,191 @@ Aspect ratio: 3:4 vertical.
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f0e83318-6e3c-46be-bf40-4c8de667b7bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/GlitterPixely/status/2067040223762997439>)
 
 ---
+
+<a id="prompt-92bc9097-fdaa-4d01-85d4-30e955de0ac5"></a>
+
+## Architectural Watercolor-and-Ink Hybrid Style
+
+<a href="https://musesignal.com/zh/prompt/92bc9097-fdaa-4d01-85d4-30e955de0ac5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSGfLicbAAAinOg.jpg?format=jpg&amp;name=small" width="480" alt="Architectural Watercolor-and-Ink Hybrid Style" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a completely new visual style by synthesizing two contrasting visual languages:
+
+STYLE FOUNDATION:
+A cinematic architectural illustration with the clean composition, strong perspective, elegant architectural forms, crisp selective linework, luminous tropical colors, dramatic blue sky, and polished environmental storytelling of a high-end anime-inspired background painting.
+
+PAINT HANDLING:
+Fuse this with expressive traditional watercolor and ink techniques: loose gestural brush strokes, dry-brush texture, translucent watercolor washes, pigment blooms, irregular ink contours, spontaneous splatters, visible paper grain, partially unfinished edges, atmospheric paint bleeding, and subtle abstract fragmentation.
+
+NEW HYBRID STYLE:
+Do NOT simply imitate either reference. Develop an original visual language that sits between polished digital illustration and expressive architectural watercolor sketching.
+
+Keep the major architectural structures highly readable and beautifully designed, but allow secondary details, vegetation, reflections, clouds, distant objects, and peripheral elements to dissolve into loose watercolor marks and ink gestures.
+
+Use selective precision:
+sharp, deliberate linework around important architectural silhouettes, windows, domes, roofs, bridges, lamps, boats, and foreground structures;
+looser broken lines and painterly abstraction toward the edges and background.
+
+Combine luminous cinematic lighting with watercolor transparency.
+Use layered washes of turquoise, cyan, deep blue, warm ochre, coral, terracotta, muted green, and soft cream.
+Let colors subtly bleed into one another rather than appearing as perfectly flat digital fills.
+
+Atmosphere should feel tropical, poetic, nostalgic, peaceful, slightly dreamlike, and cinematic.
+
+Include strong foreground / middle-ground / background depth.
+Use reflections on water as loose, broken watercolor reflections rather than perfectly mirrored digital reflections.
+Clouds should be volumetric and luminous but painted with soft watercolor masses and irregular edges.
+Vegetation should alternate between identifiable tropical foliage and expressive abstract brushwork.
+
+SURFACE:
+fine cold-pressed watercolor paper texture,
+subtle grain,
+transparent pigment layers,
+ink-and-wash marks,
+dry brush,
+soft granulation,
+occasional paint splashes,
+slightly imperfect handmade edges.
+
+COMPOSITION:
+vertical cinematic composition,
+strong leading lines,
+architectural focal point,
+deep perspective,
+generous atmospheric space,
+balanced negative space,
+beautiful visual hierarchy,
+high-end editorial travel illustration.
+
+IMPORTANT:
+The final result must look like a coherent NEW ART STYLE, not a collage and not a literal combination of the two references.
+Avoid photorealism.
+Avoid generic watercolor clip-art.
+Avoid overly clean vector art.
+Avoid excessive anime facial features.
+Avoid uniform line thickness.
+Avoid making every object equally detailed.
+Preserve architectural clarity while allowing painterly abstraction to emerge naturally.
+
+highly sophisticated, cinematic, expressive, elegant, atmospheric, hand-painted, architectural watercolor-and-ink illustration, contemporary visual development art, original style. Ar 9:16!
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/92bc9097-fdaa-4d01-85d4-30e955de0ac5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2099133932122096054>)
+
+---
+
+<a id="prompt-fcdc1324-3613-457b-934d-7c538267bbe6"></a>
+
+## Architectural Watercolor Painting
+
+<a href="https://musesignal.com/zh/prompt/fcdc1324-3613-457b-934d-7c538267bbe6?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSO1xNwW8AAUtKg.jpg?format=jpg&amp;name=small" width="480" alt="Architectural Watercolor Painting" /></a>
+
+**Nano Banana Pro** · 原作者: Zayan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Expressive architectural watercolor painting, fluid confident brushwork, delicate structural ink/sketch lines, bright textured white paper background. Exact palette: deep charcoal gray, cool slate blue, warm golden-amber, beige, crisp white, subtle black accents. Glistening wet reflections, luminous atmospheric mist, controlled washes & paint splatters, translucent layered depth, balanced warm/cool contrast, elegant semi-simplified details, airy metropolitan mood, premium handcrafted fine-art quality. Ar 9:16!
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fcdc1324-3613-457b-934d-7c538267bbe6?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/HustleXR/status/2099721717853860339>)
+
+---
+
+<a id="prompt-af895d9d-e54f-4793-8e0c-f1292a177acb"></a>
+
+## Ultra-Realistic Cinematic House Exterior
+
+<a href="https://musesignal.com/zh/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HIhsI-PbIAAMqAy.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Cinematic House Exterior" /></a>
+
+**GPT Image 2** · 原作者: Ayesha.
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create an ultra-realistic cinematic house exterior with stunning architectural design and premium visual aesthetics. The house can be modern, luxury, rustic, cottage, gothic, fantasy, royal, or minimalist in style. Include highly detailed architecture, large windows, elegant textures, beautiful landscaping, realistic pathways, glowing interior lighting, and immersive outdoor surroundings.
+
+The environment should feel like a high-budget movie scene mixed with professional architectural photography and luxury real-estate advertising. Add dramatic cinematic lighting, volumetric sunlight, atmospheric fog, realistic reflections, shadows, rain or sunset mood, garden lights, trees, flowers, water elements, and detailed environmental effects for a visually powerful composition.
+
+Use wide-angle cinematic camera perspective, depth of field, HDR lighting, ray tracing, photorealistic rendering, Unreal Engine quality, cinematic color grading, hyper-detailed textures, luxury aesthetic, masterpiece composition, ultra-realistic environment design, highly immersive atmosphere, 8K ultra detail.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iayeshayousuf/status/2056012137001349171>)
+
+---
+
+<a id="prompt-8e50358f-22b5-4498-b53b-82f76e582eae"></a>
+
+## Mid-Air Soccer Kick Action Shot
+
+<a href="https://musesignal.com/zh/prompt/8e50358f-22b5-4498-b53b-82f76e582eae?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKwe1TQXgAAohX0.jpg?format=jpg&amp;name=small" width="480" alt="Mid-Air Soccer Kick Action Shot" /></a>
+
+**Nano Banana** · 原作者: Minahil
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+An action shot capturing a dynamic mid-air soccer kick in an open, grassy field under a bright, partly cloudy sky. The subject is frozen in a powerful, airborne leap, body twisted horizontally to the ground, with one leg extended high to strike a weathered, airborne soccer ball. Clods of dirt and grass fly off the boots, emphasizing the raw energy of the movement. The setting is a rustic, unmanicured field of dry winter grass, with soft-focus hills visible in the distant background, shot with a shallow depth of field that sharply isolates the athlete against the landscape.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8e50358f-22b5-4498-b53b-82f76e582eae?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Minahil42298354/status/2066060276776993001>)
+
+---
+
+<a id="prompt-a89cb610-abbf-4887-854b-219cd35d06ef"></a>
+
+## Brutalist Cliffside Living Room
+
+<a href="https://musesignal.com/zh/prompt/a89cb610-abbf-4887-854b-219cd35d06ef?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOEw5LiWMAAU3W7.jpg?format=jpg&amp;name=small" width="480" alt="Brutalist Cliffside Living Room" /></a>
+
+**Grok** · 原作者: Shams
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Brutalist concrete living room extending over a sheer mountain cliff, raw white-washed concrete walls and ceiling, dramatic angular window slits, one bold neon-red sculptural chaise lounge as the only furniture, polished white terrazzo floor, moody dramatic lighting, stark shadows, monumental scale, vertical framing --ar 9:16
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a89cb610-abbf-4887-854b-219cd35d06ef?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2080998968612291010>)
+
+---
+
+<a id="prompt-91d70165-ebf9-41be-a851-b881c6f09e3f"></a>
+
+## Surreal Breakfast Table in the Sea at Sunrise
+
+<a href="https://musesignal.com/zh/prompt/91d70165-ebf9-41be-a851-b881c6f09e3f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQi9BDAWsAAK4qi.jpg?format=jpg&amp;name=small" width="480" alt="Surreal Breakfast Table in the Sea at Sunrise" /></a>
+
+**Midjourney** · 原作者: TischEins
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A small round breakfast table standing alone in shallow ocean water at sunrise, white linen moving in the sea breeze, silver coffee pot, sliced blood oranges and one empty chair, distant mountains dissolving into peach mist, gentle ripples reflecting the sky, wide cinematic composition, soft natural light from the left, quiet surrealism, pearl white, coral, pale blue and brushed silver --v 8.2 --ar 5:4
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/91d70165-ebf9-41be-a851-b881c6f09e3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/tisch_eins/status/2092129855143838021>)
+
+---

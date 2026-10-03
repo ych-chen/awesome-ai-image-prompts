@@ -225,3 +225,309 @@ Create a high-contrast pixel art composition featuring Sam and Frodo, two hobbit
 **[Try on MuseSignal →](<https://musesignal.com/prompt/3ed994f4-bbea-4e66-b917-ffefc1c25296?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/kaanakz/status/2061019988593447029>)
 
 ---
+
+<a id="prompt-bfafecae-53ee-43d2-bd1a-852ae6648748"></a>
+
+## Comic-Book Illustration Style Prompt
+
+<a href="https://musesignal.com/prompt/bfafecae-53ee-43d2-bd1a-852ae6648748?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSUOklcXQAACy5l.jpg?format=jpg&amp;name=small" width="480" alt="Comic-Book Illustration Style Prompt" /></a>
+
+**Nano Banana Pro** · Creator: Zayan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Modern comic-book illustration style with a semi-realistic approach, bold inked linework combined with clean sharp edges, dynamic cel-shading with high contrast between light and shadow, subtle painterly blending on skin while maintaining graphic comic aesthetics, vibrant yet slightly gritty color grading, strong rim lighting and dramatic highlights, stylized anatomy with heroic proportions, detailed hair rendered with flowing strands and sharp highlights, textured brush splashes and ink splatter accents for a dynamic effect, minimalistic light background to emphasize the subject, cinematic composition, ultra-detailed, high resolution, graphic novel quality.
+ar 9:16!
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/bfafecae-53ee-43d2-bd1a-852ae6648748?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/HustleXR/status/2100100831945408531>)
+
+---
+
+<a id="prompt-cd24a259-12f5-4997-aca3-801eaff33460"></a>
+
+## Engraving-Style Semi-Realistic Digital Painting
+
+<a href="https://musesignal.com/prompt/cd24a259-12f5-4997-aca3-801eaff33460?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HR1GrB1aQAETXtM.jpg?format=jpg&amp;name=small" width="480" alt="Engraving-Style Semi-Realistic Digital Painting" /></a>
+
+**Nano Banana Pro** · Creator: Zayan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Soft semi-realistic digital painting blended with highly detailed engraving illustration style, combining painterly softness with ultra-fine crosshatching and dotting techniques. Cinematic warm lighting with a strong golden-orange glow illuminating one side of the subject, contrasted by soft cool shadows, enhanced by dramatic chiaroscuro. Skin and textures are rendered through a fusion of smooth luminous digital shading and dense layered engraving lines, creating a balance between soft gradients and intricate linework. Subtle glossy highlights and reflective surfaces are preserved, especially in the eyes, giving a luminous and lifelike appearance.
+Delicate painterly blending remains visible through soft brush strokes, seamlessly integrated with precise contour lines and micro-detail etching, forming rich textures built from thousands of fine strokes. Edges transition naturally—sharp and clean in focal areas while dissolving into loose sketch-like strokes in unfinished regions. The top of the head and lower body fade into an incomplete sketch effect with soft, disappearing lines and partially dissolved forms blending into the background.
+Background uses a textured brown cardboard surface with visible matte grain and slightly rough tactile quality, subtly merged with a dark, studio-like atmospheric depth. The composition is minimalistic and elegant, with a calm yet dramatic mood. Color grading leans toward warm, natural tones with a slightly muted and faded palette, maintaining harmony between digital painting warmth and classic engraving aesthetics.
+High contrast lighting with deep blacks and controlled highlights enhances depth, while maintaining soft transitions in key areas. Ultra-high detail, macro texture emphasis, cinematic shadow depth, museum-quality finish, handcrafted engraving feel, 8K resolution. Ar 9:16!
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/cd24a259-12f5-4997-aca3-801eaff33460?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/HustleXR/status/2097910747980255291>)
+
+---
+
+<a id="prompt-50f58b96-7d6f-4644-9e50-fce5c0cf24bd"></a>
+
+## Cinematic 2D Anime Character Art Style
+
+<a href="https://musesignal.com/prompt/50f58b96-7d6f-4644-9e50-fce5c0cf24bd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRgKek6a4AAUpiZ.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic 2D Anime Character Art Style" /></a>
+
+**Nano Banana Pro** · Creator: Zayan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Cinematic 2D digital illustration, polished semi-realistic anime aesthetic, clean bold linework, smooth cel shading blended with soft painterly gradients, expressive detailed facial rendering, subtly exaggerated proportions, glossy eyes, natural skin texture, dimensional hair with individual flowing strands, warm rim lighting, moody teal-and-amber color grading, muted vintage tones, soft ambient shadows, slightly grainy texture, nostalgic 1990s/2000s editorial-poster vibe, atmospheric indoor lighting, highly polished character art, crisp details, depth and cinematic composition, vertical 9:16.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/50f58b96-7d6f-4644-9e50-fce5c0cf24bd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/HustleXR/status/2096437155606196729>)
+
+---
+
+<a id="prompt-8e34e15d-2d22-4695-9184-ee53e1fce2e9"></a>
+
+## 90s Anime Gamer Girl and Grumpy Cat
+
+<a href="https://musesignal.com/prompt/8e34e15d-2d22-4695-9184-ee53e1fce2e9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK3FUkeW8AAOZ_N.jpg?format=jpg&amp;name=small" width="480" alt="90s Anime Gamer Girl and Grumpy Cat" /></a>
+
+**GPT Image 2** · Creator: Glitter Gal
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt:
+21:9 ultrawide 1990s anime fan-art scene, bright, funny, chaotic, instantly shareable, like a still frame from a mid-90s OVA comedy or anime magazine poster.
+Scene:
+A cozy, messy 1990s Japanese apartment living room at night. A college-age gamer girl is sprawled upside down across a worn couch in a ridiculous goblin-gamer posture while playing video games on a CRT television. Her head hangs off the front edge of the couch, messy hair spilling onto the floor, legs thrown over the backrest, one sock half-slipping off, one arm stretched awkwardly downward gripping a wired controller. Her pose is exaggerated, weird, and funny — energetic but believable, not seductive. She is completely locked into the game, eyes wide, mouth open, intensely focused like she is moments away from beating a boss.
+Next to her on the couch sits a round, grumpy cat with a deeply unimpressed expression. The cat is perfectly still, judging her silently, looking like it has watched this nonsense every night. The contrast between her chaotic upside-down gaming obsession and the cat’s deadpan boredom is the main joke.
+The CRT TV is visible on the left side of the frame, glowing brightly. On the screen is a recognizable 90s-style video game moment: colorful pixel-art action, a boss fight, side-scrolling platforms, explosions, health bars, and chunky sprites. It can feel inspired by iconic 90s console games like Sonic, Street Fighter II, Mega Man, Super Mario World, or early Pokémon-era gaming culture. Fan-art style is okay. The TV image should be colorful and readable as a video game, but avoid relying on perfect readable text.
+The room is packed with selective 90s otaku details: Super Famicom-style console on the floor, Sega Saturn or PlayStation-era game cases, loose cartridges, wired controllers, a stack of manga, a Sailor Moon-style wall poster, an Evangelion-style mecha model kit on a shelf, a Sonic-like plush, fighting game strategy guides, snack bags, soda cans, instant ramen cup, cassette boombox, anime VHS tapes, rumpled blanket, socks on the floor, cheap city apartment window with night buildings outside. The clutter should feel real, funny, and lived-in, not randomly generated or overly decorative.
+Composition:
+Ultra-wide 21:9 frame. The couch dominates the center and right side. The upside-down girl is the clear focal point, with her silhouette instantly readable even at thumbnail size. The unimpressed cat sits close beside her, facing forward with deadpan comedy timing. The CRT TV sits on the left, angled toward the couch, its colorful glow connecting the action. Use a strong triangular composition between TV, girl’s face, and cat’s expression. Make it feel like the funniest paused frame from a 90s anime episode.
+Style:
+Authentic 1990s Japanese anime cel-animation look. Clean inked outlines, bold expressive character drawing, flat cel shading, simple shadow shapes, limited highlights, matte colors, strong silhouette clarity, chunky 90s anime proportions, expressive eyes and mouth, charming imperfections, slightly off-register cel feel, faint VHS softness, subtle analog grain, slight color bleed, old TV-era contrast. The image should feel like a photographed anime cel or a scanned 90s anime magazine spread, not modern digital illustration.
+Character design:
+The girl should feel like a funny 90s anime gamer heroine: oversized white graphic T-shirt, red gym shorts, striped socks, messy dark hair, expressive face, casual and unglamorous. Make her charming through personality and comedy, not polished beauty. Her body language should scream “I have been gaming for six hours and I regret nothing.”
+Cat design:
+Round loaf-shaped cat, thick body, tiny paws tucked under, half-lidded eyes, flat unimpressed mouth, total emotional detachment. The cat should be meme-worthy.
+Color palette:
+Warm amber room lamp, saturated CRT blues and greens, dusty pinks, teal couch, red shorts, cream walls, colorful game clutter. Bright and playful, but with 90s analog softness. No modern neon cyberpunk palette. No glossy digital gradients.
+Lighting:
+Simple 90s anime lighting. Main light sources are the CRT TV and one warm lamp. Use clean cel-shaded light blocks, not hyper-realistic cinematic lighting. The TV glow should hit the girl’s upside-down face and the cat’s side, but keep the lighting graphic and readable.
+Mood:
+Funny, cozy, nostalgic, chaotic, extremely relatable, memeable, playful, late-night gamer energy. It should feel like a viral anime still: “the girl is losing her mind over the game, the cat has completely given up on her.”
+Important:
+- 21:9 ultrawide frame
+- girl upside down on the couch in a weird funny posture
+- wired controller in her hands
+- CRT TV clearly visible and clearly showing a game
+- unimpressed cat sitting next to her
+- strong 1990s anime cel look
+- fan-art / otaku-room references are allowed
+- prioritize comedy, silhouette, expression, and staging over excessive detail
+- make it feel like a real 90s anime frame, not polished AI wallpaper
+Avoid:
+modern glossy anime, AI fantasy polish, photorealism, CGI, 3D render, plastic skin, painterly concept art, over-rendered lighting, excessive tiny props everywhere, generic perfect bedroom, generic cute pose, seductive pin-up pose, stiff anatomy, overdesigned clutter, perfect readable logos, clean influencer room, modern LED gaming setup, neon RGB lighting, cyberpunk colors, bokeh, bloom-heavy lighting, watermark, fake nonsense text covering everything.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8e34e15d-2d22-4695-9184-ee53e1fce2e9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/GlitterPixely/status/2066525022198415469>)
+
+---
+
+<a id="prompt-2daed836-8113-4f45-adc1-1a25c80736d8"></a>
+
+## Monochrome Ink Fashion Portrait Illustration
+
+<a href="https://musesignal.com/prompt/2daed836-8113-4f45-adc1-1a25c80736d8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HRvaETCbsAEJXUf.jpg?format=jpg&amp;name=small" width="480" alt="Monochrome Ink Fashion Portrait Illustration" /></a>
+
+**Nano Banana Pro** · Creator: Zayan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+"Highly stylized monochrome fashion illustration, expressive black-and-white ink portrait style, ultra-clean grayscale palette with soft tonal shading and sharp dark accents, elegant feminine facial construction, elongated proportions, minimalistic luxury editorial aesthetic. Use flowing organic contour lines mixed with geometric construction lines crossing the face naturally. Combine loose gestural strokes with precise ink detailing around the eyes, eyebrows, lips, and hair strands.
+Hair rendered with sweeping fluid brush lines and layered ink curves, creating dynamic movement and asymmetrical framing. Skin shading uses smooth cel-shaded grayscale planes with subtle gradient transitions, while maintaining a hand-drawn ink illustration appearance. Thin sketch lines remain visible as part of the composition.
+Eyes highly detailed and luminous with crisp eyelashes and reflective highlights. Lips softly sculpted with semi-realistic shading and delicate line texture. Use selective contrast: bold black strokes around facial features balanced against large clean white negative spaces.
+Overall composition resembles a fusion of modern fashion sketch, manga-inspired editorial art, and minimalist ink wash illustration. Background kept plain light gray or off-white with uncluttered negative space. High contrast, elegant, refined, cinematic, expressive line-art aesthetic."
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/2daed836-8113-4f45-adc1-1a25c80736d8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/HustleXR/status/2097509829753651228>)
+
+---
+
+<a id="prompt-792126f5-29b1-4371-92d6-84a1316a23af"></a>
+
+## Cinematic Graphic Realism Engraved Portrait
+
+<a href="https://musesignal.com/prompt/792126f5-29b1-4371-92d6-84a1316a23af?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HThX9M5WYAAbkmq.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Graphic Realism Engraved Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Zayan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+CINEMATIC GRAPHIC REALISM
+Created with google gemini nano banana pro 
+
+Ultra-detailed cinematic graphic realism fused with traditional engraved illustration, dark fantasy comic art, and expressive hand-inked portraiture. The visual style combines highly dimensional semi-realistic anatomy with dense, controlled ink linework and dramatic chiaroscuro.
+
+Use a predominantly near-black environment/background, allowing the subject to emerge from darkness through carefully controlled warm highlights and deep shadow masses. The overall image should feel mysterious, dramatic, powerful, tactile, and intensely atmospheric.
+
+Color palette
+
+Use a restrained, dark cinematic palette dominated by:
+
+- deep black / near-black — background and deepest shadows
+- burnt umber and dark brown
+- rich copper / warm bronze
+- deep rust-orange
+- warm ochre
+- natural warm sienna skin tones
+- muted ivory / silver-gray for hair and highlights
+- extremely restrained desaturated blue-gray accents
+
+Colors should appear rich, earthy, dark, and slightly muted, with luminous warm highlights emerging against black. Avoid neon or overly saturated digital colors.
+
+Rendering technique
+
+Construct the image using dense fine ink strokes, engraving-style hatching, cross-hatching, contour hatching, stippling, and layered painterly brushwork.
+
+Every major anatomical plane should contain visible directional strokes following the form. Skin, hands, wrinkles, beard, hair, fabric, and accessories should be rendered with hundreds of controlled micro-strokes rather than smooth digital surfaces.
+
+Combine sharp ink contours with painterly color masses, creating a hybrid appearance between an old master engraving and a modern cinematic graphic-novel painting.
+
+Lighting
+
+Use intense low-key chiaroscuro lighting.
+
+Most of the surrounding environment disappears into almost pure black, while selected planes of the subject receive warm copper-orange illumination. Highlights should be concentrated on facial planes, hands, hair strands, and important structural details.
+
+Use strong directional lighting with:
+deep black shadow → rich burnt-orange midtone → narrow warm highlight.
+
+Highlights should remain controlled and relatively hard-edged, emphasizing wrinkles, bone structure, muscles, fingers, hair strands, and textured surfaces.
+
+Linework and texture
+
+Use extremely fine black/brown engraved lines combined with stronger graphic contours.
+
+Include:
+cross-hatching, parallel hatching, contour lines, stippled texture, scratch-like ink marks, fine hair strokes, irregular brush edges, and tiny engraved details.
+
+Line density should increase naturally inside shadow areas and decrease toward illuminated planes.
+
+Surface treatment
+
+Avoid perfectly smooth digital rendering. Preserve a hand-crafted tactile texture throughout the image.
+
+Skin should show subtle pores, wrinkles, folds, fine facial hair, and directional brush/ink strokes. Hair should be constructed from numerous individual strands mixed with larger graphic masses. Fabric should contain visible woven/brush textures and deep folds.
+
+Overall aesthetic
+
+Dark cinematic portrait + engraved realism + graphic novel realism + Renaissance-inspired chiaroscuro + hand-inked illustration + painterly color blocking + dark fantasy editorial art.
+
+The final appearance should be extremely detailed, dramatic, mature, rugged, cinematic, tactile, and powerful, with the realism coming from anatomical modeling and microscopic linework rather than photographic rendering.
+
+No flat vector style, no clean cartoon appearance, no soft airbrush, no plastic skin, no 3D-rendered look, no glossy CGI, no neon colors, no typography, no logo, no watermark.
+
+Aspect ratio: 9:16 — vertical composition.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/792126f5-29b1-4371-92d6-84a1316a23af?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/HustleXR/status/2105529544945832340>)
+
+---
+
+<a id="prompt-8fea3a3e-a72e-45a4-b751-7461ae58f678"></a>
+
+## Pixar-Style Woman on Cloud Hand Wallpaper
+
+<a href="https://musesignal.com/prompt/8fea3a3e-a72e-45a4-b751-7461ae58f678?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HJ8Yxq_aAAAQnOM.jpg?format=jpg&amp;name=small" width="480" alt="Pixar-Style Woman on Cloud Hand Wallpaper" /></a>
+
+**GPT Image 2** · Creator: Zyrella
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Estilo caricaturesco/3D tipo Pixar
+una mujer y una mirada directa y cautivadora. Su expresión es relajada, con los labios ligeramente fruncidos.
+Viste un atuendo tipo "streetwear" compuesto por un top negro, una chaqueta bomber de satén rojo vibrante y pantalones oscuros, completado con botas negras de suela gruesa.
+Detalles: La modelo lleva las uñas pintadas de un color negro brillante que combina con su delineado y su vestimenta. También se puede observar un anillo discreto con textura en su dedo y un pequeño pendiente, lo que añade un toque de elegancia a su estilismo.
+Iluminación y Textura: La iluminación es lateral y suave, resaltando la forma del rostro, la estructura de la nariz y los labios. La piel tiene un aspecto impecable, con un acabado mate muy natural.
+Pose: Está sentada con las piernas cruzadas. que le da una expresión coqueta y juguetona.
+Composición Surrealista: La figura femenina se encuentra sentada sobre lo que parece ser una mano gigantesca formada completamente por nubes densas y texturizadas. La mano parece elevarse hacia el cielo, creando una sensación de
+El dije está incrustado con múltiples piedras pequeñas y brillantes que reflejan la luz, dándole un aspecto lujoso.
+Color e Iluminación: La paleta de colores está dominada por tonos profundos de púrpura, violeta y destellos de un naranja rojizo. Los puntos de luz al final de algunas líneas crean un efecto de brillo o destello, sugiriendo un ambiente mágico o digital.
+Sujeto y Composición: La imagen muestra ondas fluidas y suaves en tonos violeta y azul profundo que atraviesan la composición, creando una sensación de movimiento y dinamismo.
+Elementos Decorativos: Sobre estas ondas, hay una multitud de pequeñas partículas brillantes, similares a confeti dorado o motas de polvo estelar, que parecen estar suspendidas en el aire.
+Sujeto Principal: En el centro superior destaca una luna llena de gran tamaño, representada con una intensa tonalidad azul. La superficie lunar presenta detalles claros de sus cráteres y texturas, lo que le otorga un aspecto realista y majestuoso.
+Entorno: La luna se encuentra inmersa en un cielo nocturno estrellado. Se pueden observar numerosas estrellas pequeñas y brillantes dispersas por todo el fondo, lo que profundiza la sensación de inmensidad del espacio.
+Composición y Nubes: En la parte inferior, una serie de nubes densas y voluminosas se extienden hacia arriba, enmarcando la luna. La iluminación de estas nubes, también en tonos azulados, sugiere que están siendo iluminadas directamente por la luz lunar, creando un efecto de profundidad y dramatismo.
+parada que salga así le pones házmela estilo wallpaper 9:16
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8fea3a3e-a72e-45a4-b751-7461ae58f678?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Zyrellix/status/2062394400052023781>)
+
+---
+
+<a id="prompt-279512a3-6b7c-455f-b7ae-7b28359ac0cb"></a>
+
+## Ethereal Fantasy Fox Portrait
+
+<a href="https://musesignal.com/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMkHlw2awAAMgjz.jpg?format=jpg&amp;name=small" width="480" alt="Ethereal Fantasy Fox Portrait" /></a>
+
+**GPT Image 2** · Creator: Rossy
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create an ultra-realistic ethereal fantasy fox portrait, centered vertically on a clean pure white background. The fox has silky flowing white fur blended with shimmering champagne-gold glitter, giving it a luxurious celestial appearance. Its elegant body dissolves into long, fluid ribbon-like fur trails mixed with sparkling golden dust, creating a graceful sense of motion. The ears are covered in fine golden glitter, while the face remains soft, refined, and peaceful with gently closed eyes and a subtle mystical smile. Add delicate glowing particles, magical bokeh, soft light rays, and tiny floating sparkles surrounding the fox. The composition is minimalistic yet luxurious, with no scenery, no text, no watermark, and no extra objects. Soft ivory, pearl white, champagne gold, and warm golden tones dominate the palette. Premium fantasy illustration, luxury editorial aesthetic, dreamy atmosphere, ultra-clean composition, photorealistic fur texture, cinematic lighting, Octane Render, Unreal Engine 5 quality, ray tracing, HDR, masterpiece, 8K, hyper-detailed.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/xRahultripathi/status/2074197471866347891>)
+
+---
+
+<a id="prompt-36e271e4-0f55-4607-bee7-9064a21e4142"></a>
+
+## Fierce Zombie-Slayer 3D Character Concept
+
+<a href="https://musesignal.com/prompt/36e271e4-0f55-4607-bee7-9064a21e4142?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMo9hp3W8AAAh-i.jpg?format=jpg&amp;name=small" width="480" alt="Fierce Zombie-Slayer 3D Character Concept" /></a>
+
+**Midjourney** · Creator: Kaan
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Full-body 3D digital sculpture of a fierce young woman with a ponytail, wearing a white tank top, short gray shorts, and hiking boots. She has an angry expression, with stylish sunglasses resting on top of her hair. Her arms and legs are covered in dirt and battle scars. A pistol is holstered at her waistband. In her left hand she holds an 7.65mm pistol, and in her right hand she grips an iron crowbar embedded into the head of a severed zombie beneath her feet. Minimalist cream-white background, high-detail character concept art, octane render style --c 50 --s 500 --sref 852649
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/36e271e4-0f55-4607-bee7-9064a21e4142?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/kaanakz/status/2074547495598747657>)
+
+---

@@ -7,12 +7,12 @@
   {
     "key": "gpt-image",
     "name": "GPT Image",
-    "count": 46
+    "count": 47
   },
   {
     "key": "gpt-image-2",
     "name": "GPT Image 2",
-    "count": 376
+    "count": 389
   },
   {
     "key": "gpt-image-2.5",
@@ -22,7 +22,7 @@
   {
     "key": "grok",
     "name": "Grok",
-    "count": 26
+    "count": 28
   },
   {
     "key": "ideogram",
@@ -37,12 +37,12 @@
   {
     "key": "midjourney",
     "name": "Midjourney",
-    "count": 38
+    "count": 42
   },
   {
     "key": "nano-banana",
     "name": "Nano Banana",
-    "count": 25
+    "count": 28
   },
   {
     "key": "nano-banana-2",
@@ -52,7 +52,7 @@
   {
     "key": "nano-banana-pro",
     "name": "Nano Banana Pro",
-    "count": 83
+    "count": 97
   },
   {
     "key": null,

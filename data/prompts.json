@@ -1681,6 +1681,32 @@
     "content_hash": "2e50d1fe113f790783571993b5957951f9934dd6a2f2958233264dc7aaa23bf9"
   },
   {
+    "id": "14f4474e-08c3-430a-a7a1-114601e5fa41",
+    "title": "Neon Nike Swoosh Cyberpunk Portrait",
+    "prompt": "A photorealistic, high-detail portrait of a young man with a trimmed beard and a determined expression, looking up and slightly to the left. He is wearing a black and orange puffer jacket/down jacket with the zipper pulled up.\nBackground/Aesthetic: Dark, moody, and futuristic studio setting. The main visual feature is a massive, glowing neon-orange outline of the Nike swoosh logo centered behind the subject. The lighting is dramatic, with a strong orange key light hitting the man's face, neck, and the top of his shoulders, creating high contrast.\nVisual Elements: Floating, futuristic HUD (Heads-Up Display) elements in neon orange are overlaid on the dark background around the subject. These include:\nData readouts, graphs, and target crosshairs in the top-left corner.\nA minimal progress bar/loading graphic around the small swoosh in the top-right corner.\nA bar graph/data visualization in the bottom-right corner.\nStyle/Technique: Cinematic, high-contrast lighting, volumetric lighting, hyper-detailed, photorealistic, shot on an 8K camera (like a Sony a7R V or Arri), deep depth of field, inspired by cyberpunk or sports advertising.\nNegative Prompts (To ensure quality and focus): low resolution, blurry, text, watermark, cartoon, bad anatomy, deformed hands, extra fingers, noisy, oversaturated with 3:4 size.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Aijaz",
+      "handle": "iamsofiaijaz"
+    },
+    "source_platform": "X",
+    "source_id": "2080947263250272657",
+    "source_url": "https://x.com/iamsofiaijaz/status/2080947263250272657",
+    "images": [
+      "https://pbs.twimg.com/media/HOECgOGaUAACpUe.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/14f4474e-08c3-430a-a7a1-114601e5fa41",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/14f4474e-08c3-430a-a7a1-114601e5fa41",
+    "published_at": "2026-10-02T07:14:38.363419+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "e54ca2043d9fe073ea6a953512adfdbc5d56d2f5143655f139a4f3b5e9f4daf4"
+  },
+  {
     "id": "150d4607-1c76-4b22-8f44-31ef4583785b",
     "title": "Vintage Hand-Drawn Travel Storybook Illustration",
     "prompt": "GPT Image 2.5\n\nPrompt:\nCreate a premium 4:5 vertical vintage hand-drawn travel storybook illustration for [COUNTRY / CITY / LOCATION / SUBJECT].\n\nTEXT-TO-IMAGE ONLY — generate the entire artwork creatively from [COUNTRY / CITY / LOCATION / SUBJECT] alone. No reference image required.\n\nCORE CONCEPT\nImagine [COUNTRY / CITY / LOCATION / SUBJECT] as a softly misremembered travel memory inspired by 1950s–1960s European city storybooks. Create one whimsical imagined street where the destination's real identity remains recognizable, but everything feels gently imperfect, intimate, and nostalgic rather than geographically precise.\n\nSCENE\nAutomatically choose one iconic primary landmark as the main focal point, one secondary landmark, and one smaller distant landmark partially hidden in the background. Add one authentic local vehicle, several tiny everyday environmental details, and 5–6 ordinary local residents casually performing simple daily activities.\n\nCompress everything naturally into the same imagined street scene with layered depth and a charming sense of discovery.\n\nDRAWING STYLE\nUse loose charcoal and deep navy ink with trembling hand-drawn contours, slightly crooked architecture, sparse windows, simplified silhouettes, minimal expressive lines, and imperfect handmade proportions. Characters should have oversized heads, thin legs, narrow bodies, tiny faces, slightly crooked accessories, and simple readable gestures.\n\nCOLOR\nUse a restrained palette of only 6–7 colors inspired by the visual identity of [COUNTRY / CITY / LOCATION / SUBJECT]. Apply muted matte gouache in flat areas with uneven brush edges, tiny unpainted gaps, subtle registration shifts, and visible handmade imperfections. Leave large portions of the sky as untouched warm paper.\n\nFINAL AESTHETIC\nNaïve European travel storybook × loose charcoal sketch × navy ink × muted gouache × nostalgic city memory × handmade editorial illustration.\n\nThe artwork should feel warm, awkward, poetic, quietly humorous, and authentically handmade—not polished or digitally perfect.\n\nAdd only a small handwritten caption at the bottom containing the name of [COUNTRY / CITY / LOCATION / SUBJECT].\n\nAvoid photorealism, precise mapping, aerial views, gradients, 3D rendering, polished vector art, hyper-detailed watercolor, realistic faces, excessive linework, heavy distressed effects, clutter, logos, watermarks, or modern graphic design.\n\nFORMAT: 4:5 vertical, single unified illustration, generous paper/sky negative space.",
@@ -1787,6 +1813,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "57a159d4c23d926f63c0f72de1c899930223087be2ef3d0e76f4650e58ecd83b"
+  },
+  {
+    "id": "1766b37f-c961-476a-a005-4fddb207d713",
+    "title": "Premium Sneaker Box Product Mockup",
+    "prompt": "Create an ultra-realistic premium sneaker packaging mockup featuring a pair of stylish low-top streetwear sneakers displayed alongside a luxury branded shoe box. The sneakers have a clean, modern silhouette with premium leather panels, subtle suede accents, textured rubber soles, and neatly tied laces. Use a sophisticated neutral color palette of black, cream, beige, and white.\n\nThe shoe box should feature a bold minimalist logo prominently on the top and front, with premium typography, product information, barcode, size label, and subtle graphic accents for an authentic luxury footwear brand appearance. The packaging should look high-end with crisp edges, matte finish, and realistic print quality.\n\nPlace one sneaker on top of the box and the second shoe in front of it at a slight angle to create a balanced premium product presentation.\n\nSet the scene in a modern urban environment with blurred city skyscrapers, concrete pavement, and a graffiti-covered wall in the background. Use a shallow depth of field so the sneakers remain perfectly sharp while the background stays softly out of focus.\n\nIlluminate the scene with warm golden-hour lighting, soft cinematic shadows, realistic reflections, and subtle ambient light wrapping around the shoes. The materials should display highly detailed leather textures, visible stitching, perforations, rubber outsole patterns, and realistic fabric laces.\n\nComposition should resemble a luxury streetwear campaign advertisement with professional product photography, dramatic perspective, premium branding, and editorial-quality styling.\n\nStyle: Luxury product photography, photorealistic, ultra-detailed, commercial advertising, premium streetwear aesthetic, cinematic lighting, HDR, global illumination, ray tracing, shallow depth of field, 8K resolution, hyper-realistic textures, high-end branding, clean composition, magazine-quality product showcase.",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Abkr Sadiq",
+      "handle": "abs_uiux"
+    },
+    "source_platform": "X",
+    "source_id": "2081799439887249755",
+    "source_url": "https://x.com/abs_uiux/status/2081799439887249755",
+    "images": [
+      "https://pbs.twimg.com/media/HOQJjI6XQAAZFAm.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/1766b37f-c961-476a-a005-4fddb207d713",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/1766b37f-c961-476a-a005-4fddb207d713",
+    "published_at": "2026-10-03T06:45:08.576274+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "aca0a0ba06bc5dae967a7170f73064a0c9d352bdaa4ebd2a25d6fd84d0aa5c41"
   },
   {
     "id": "17b0cc64-b838-4c1c-b4fc-e41f3a4d3a31",
@@ -2608,6 +2660,33 @@
     "content_hash": "4d84177373b5d3af80d1aabbdac6140345d0effff00e533b452223ed9e21d134"
   },
   {
+    "id": "22db3731-18ce-48e1-b97c-de41d7aca2b3",
+    "title": "Photorealistic Man in White T-Shirt Portrait",
+    "prompt": "A medium shot of a handsome man with styled brown hair and a neat beard, looking directly at the camera with a confident expression. He is wearing a clean white t-shirt featuring a small black swoosh logo on the left chest, a simple silver chain necklace with a small rectangular pendant, and a dark luxury watch on his wrist. The background is a softly blurred office or study room with warm indoor lighting, showing hints of a wooden bookshelf and potted plants. Photorealistic, soft depth of field, high detail, studio lighting.",
+    "category": "portrait",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Aijaz",
+      "handle": "iamsofiaijaz"
+    },
+    "source_platform": "X",
+    "source_id": "2068653183233360316",
+    "source_url": "https://x.com/iamsofiaijaz/status/2068653183233360316",
+    "images": [
+      "https://pbs.twimg.com/media/HLVVGz6bMAA6MeN.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLVVG2-a4AAmyxG.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/22db3731-18ce-48e1-b97c-de41d7aca2b3",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/22db3731-18ce-48e1-b97c-de41d7aca2b3",
+    "published_at": "2026-10-02T07:14:27.204181+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "7846be11bfcb163b726b56a42e0cffa36f9f55f17b2d9859c9d60120e505f89b"
+  },
+  {
     "id": "22e0adc7-adca-4b33-8d8d-c2f185c2aeeb",
     "title": "Golden Hour Café Portrait with Prismatic Flare",
     "prompt": "warm sunlit film portrait, young woman sitting relaxed at a small café terrace table in bright golden afternoon sun, calm soft gaze with open eyes, oversized white tee, clearly readable open-air street setting behind her, bright and airy scene, a single prismatic rainbow lens flare sweeping across the frame, luminous skin, soft 35mm grain, generous negative space, effortless premium editorial --ar 4:5 --raw --profile hq8ipax --stylize 180 --weird 4 --hd --preview",
@@ -2933,6 +3012,34 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "9e29aa030988154718fcbf3d236d4e0f942b9870a6fdf8cca1d8fa55d06d6f7d"
+  },
+  {
+    "id": "279512a3-6b7c-455f-b7ae-7b28359ac0cb",
+    "title": "Ethereal Fantasy Fox Portrait",
+    "prompt": "Create an ultra-realistic ethereal fantasy fox portrait, centered vertically on a clean pure white background. The fox has silky flowing white fur blended with shimmering champagne-gold glitter, giving it a luxurious celestial appearance. Its elegant body dissolves into long, fluid ribbon-like fur trails mixed with sparkling golden dust, creating a graceful sense of motion. The ears are covered in fine golden glitter, while the face remains soft, refined, and peaceful with gently closed eyes and a subtle mystical smile. Add delicate glowing particles, magical bokeh, soft light rays, and tiny floating sparkles surrounding the fox. The composition is minimalistic yet luxurious, with no scenery, no text, no watermark, and no extra objects. Soft ivory, pearl white, champagne gold, and warm golden tones dominate the palette. Premium fantasy illustration, luxury editorial aesthetic, dreamy atmosphere, ultra-clean composition, photorealistic fur texture, cinematic lighting, Octane Render, Unreal Engine 5 quality, ray tracing, HDR, masterpiece, 8K, hyper-detailed.",
+    "category": "character-art",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Rossy",
+      "handle": "xRahultripathi"
+    },
+    "source_platform": "X",
+    "source_id": "2074197471866347891",
+    "source_url": "https://x.com/xRahultripathi/status/2074197471866347891",
+    "images": [
+      "https://pbs.twimg.com/media/HMkHlw2awAAMgjz.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HMkHmOOaEAE1aFX.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HMkHmqNbEAAmJOC.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/279512a3-6b7c-455f-b7ae-7b28359ac0cb",
+    "published_at": "2026-10-03T06:44:48.406985+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "e82850169da4887e0076153d024dc80b76d900d86fc9f30c4c2eef67c6232c17"
   },
   {
     "id": "2813bd81-bf87-4c3e-9415-efe55967ed99",
@@ -3400,6 +3507,35 @@
     "content_hash": "15c2d90279ae6b361c336e167e21c8b18ad0ee17680b0cf921c4074b1ce7c216"
   },
   {
+    "id": "2daed836-8113-4f45-adc1-1a25c80736d8",
+    "title": "Monochrome Ink Fashion Portrait Illustration",
+    "prompt": "\"Highly stylized monochrome fashion illustration, expressive black-and-white ink portrait style, ultra-clean grayscale palette with soft tonal shading and sharp dark accents, elegant feminine facial construction, elongated proportions, minimalistic luxury editorial aesthetic. Use flowing organic contour lines mixed with geometric construction lines crossing the face naturally. Combine loose gestural strokes with precise ink detailing around the eyes, eyebrows, lips, and hair strands.\nHair rendered with sweeping fluid brush lines and layered ink curves, creating dynamic movement and asymmetrical framing. Skin shading uses smooth cel-shaded grayscale planes with subtle gradient transitions, while maintaining a hand-drawn ink illustration appearance. Thin sketch lines remain visible as part of the composition.\nEyes highly detailed and luminous with crisp eyelashes and reflective highlights. Lips softly sculpted with semi-realistic shading and delicate line texture. Use selective contrast: bold black strokes around facial features balanced against large clean white negative spaces.\nOverall composition resembles a fusion of modern fashion sketch, manga-inspired editorial art, and minimalist ink wash illustration. Background kept plain light gray or off-white with uncluttered negative space. High contrast, elegant, refined, cinematic, expressive line-art aesthetic.\"",
+    "category": "character-art",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2097509829753651228",
+    "source_url": "https://x.com/HustleXR/status/2097509829753651228",
+    "images": [
+      "https://pbs.twimg.com/media/HRvaETCbsAEJXUf.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HRvaETNbEAAl2hE.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HRvaETIaUAA_juY.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HRvaETJaEAA-Tpz.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/2daed836-8113-4f45-adc1-1a25c80736d8",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/2daed836-8113-4f45-adc1-1a25c80736d8",
+    "published_at": "2026-10-02T07:14:54.293488+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "69ecfc53c8f401716bf11c3f9fe444030946a55ba25f08c477d5b821205f2e65"
+  },
+  {
     "id": "2dca3684-bdc2-427b-9e69-117ff319b389",
     "title": "Nano Banana on Open Art AI",
     "prompt": "low quality, worst quality (1.4), bad anatomy, deformed, ugly appearance, crossed eyes, extra limbs, missing limbs, fused fingers, extra fingers, watermark, text, signature, illustration, painting, cartoon.",
@@ -3511,6 +3647,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "aff49ac9d983072a07956bf35d78e81013d3e89469518221fec1e65d835f2aca"
+  },
+  {
+    "id": "2fb5e7db-dcd9-4bc1-a54e-35c94d0d9ab4",
+    "title": "Hand-Drawn Editorial Portrait Illustration",
+    "prompt": "Hand-drawn editorial portrait illustration, semi-realistic sketch style, fine ink linework, cross-hatching shading, textured pencil strokes, subtle watercolor wash, muted earthy color palette, warm tones, soft paper grain texture, vintage magazine illustration aesthetic, clean centered composition, minimal background with bold geometric color block, rough brush edges, natural skin texture rendering, soft shadow gradients, high detail facial features, artistic sketch-paint hybrid, modern retro illustration style, matte finish, subtle grunge texture, professional editorial artwork.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2098637009191604686",
+    "source_url": "https://x.com/HustleXR/status/2098637009191604686",
+    "images": [
+      "https://pbs.twimg.com/media/HR_bO1sboAAr712.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HR_bO1zbEAAU3Fv.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HR_bO1qaQAA2qHS.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HR_bO1jakAAyc54.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/2fb5e7db-dcd9-4bc1-a54e-35c94d0d9ab4",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/2fb5e7db-dcd9-4bc1-a54e-35c94d0d9ab4",
+    "published_at": "2026-10-02T07:15:01.565752+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "3acd2046e137ac2c1236fb4f8e8934e9a68a707c43a01beab0a53cbed37dbfca"
   },
   {
     "id": "2fc272ad-d041-4c68-b539-43c1e8fffb3d",
@@ -4006,6 +4171,32 @@
     "content_hash": "adac14a6842bed88e00f21d757cb7455006c8e02b81e35a1ca3655945a45c243"
   },
   {
+    "id": "36e271e4-0f55-4607-bee7-9064a21e4142",
+    "title": "Fierce Zombie-Slayer 3D Character Concept",
+    "prompt": "Full-body 3D digital sculpture of a fierce young woman with a ponytail, wearing a white tank top, short gray shorts, and hiking boots. She has an angry expression, with stylish sunglasses resting on top of her hair. Her arms and legs are covered in dirt and battle scars. A pistol is holstered at her waistband. In her left hand she holds an 7.65mm pistol, and in her right hand she grips an iron crowbar embedded into the head of a severed zombie beneath her feet. Minimalist cream-white background, high-detail character concept art, octane render style --c 50 --s 500 --sref 852649",
+    "category": "character-art",
+    "model_key": "midjourney",
+    "model_name": "Midjourney",
+    "model_family": null,
+    "author": {
+      "name": "Kaan",
+      "handle": "kaanakz"
+    },
+    "source_platform": "X",
+    "source_id": "2074547495598747657",
+    "source_url": "https://x.com/kaanakz/status/2074547495598747657",
+    "images": [
+      "https://pbs.twimg.com/media/HMo9hp3W8AAAh-i.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/36e271e4-0f55-4607-bee7-9064a21e4142",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/36e271e4-0f55-4607-bee7-9064a21e4142",
+    "published_at": "2026-10-03T06:44:51.279005+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ac6481998749bc2b5631814be19babc37182f9ba06a07b31ab967b01ede0526c"
+  },
+  {
     "id": "3728cad7-dde0-4be0-b251-0f67c9094af5",
     "title": "Luxurious Chocolate Indulgence in Bold Elegance",
     "prompt": "Elegance never tasted this bold. 🍫✨\nWhere luxury meets pure indulgence.\nCreated with Nano Banana 2 on @Lart_AI\nCheck the Stey bye step Tutorial here 👇🏻",
@@ -4057,6 +4248,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "76005b3e5511988d8460aabf94bfdf47c0d58ccf2d3f7b2c30fdfe707d79d395"
+  },
+  {
+    "id": "38b83a3d-e0fe-418c-a3ec-7d8289438298",
+    "title": "Neon Bedroom Overhead Selfie Portrait",
+    "prompt": "Hyper-realistic vertical portrait photo of an original adult Japanese woman in her 20s, photographed in a real bedroom with a softly lit purple-magenta ambient atmosphere.\nShe has delicate and refined Japanese facial features: a small face, smooth fair skin, large light gray-blue eyes, subtle under-eye definition, sharp but elegant black winged eyeliner, soft glossy pink lips, and a calm, slightly mysterious expression while looking directly into the camera. Her hair is short brown bob hair, smooth and straight, with a soft side part and natural volume framing the face.\nShe has a feminine curvy silhouette with balanced natural proportions. She is wearing a stylish black fitted fashion top with thin shoulder straps and subtle decorative crossing lines, paired with fitted black high-waisted shorts. The outfit feels edgy, alternative, and fashion-editorial, while remaining tasteful and non-explicit.\nComposition and camera angle: vertical smartphone selfie shot from a very close, high-angle perspective. The camera is held above the subject’s face, around forehead height or slightly higher, angled downward at about 35–45 degrees. The lens is very close to the subject, creating a subtle wide-angle selfie distortion. Her face fills the upper center of the frame, with the top of the head close to the upper edge. One arm extends toward the camera and appears large in the foreground along the lower-left side of the frame. The subject is leaning forward on a bed, upper body angled diagonally from the lower-left toward the upper-right, while looking directly up into the lens. The perspective should feel like an intimate overhead selfie, not a straight-on portrait.\nBackground: a real bedroom interior at night, with soft white bedding clearly visible beneath her. A desk setup with a PC monitor or gaming PC is visible in the softly blurred background. Shelves and small personal items are present, creating a cozy lived-in bedroom atmosphere.\nLighting: purple and magenta LED ambient lighting throughout the bedroom, with a soft frontal fill light illuminating the face. Cool violet shadows, gentle highlights on the brown hair, eyes, lips, and skin. High contrast between fair skin, dark clothing, and neon room lighting.\nStyle: ultra-realistic fashion photography, realistic skin texture, natural hair strands, sharp focus on the face, soft bokeh background, cinematic neon color grading, subtle smartphone camera look, vertical 9:16, high resolution.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "こやす69＠AIプロンプト屋",
+      "handle": "AI_money_club"
+    },
+    "source_platform": "X",
+    "source_id": "2068548212080947519",
+    "source_url": "https://x.com/AI_money_club/status/2068548212080947519",
+    "images": [
+      "https://pbs.twimg.com/media/HLREB5ua4AALcIp.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/38b83a3d-e0fe-418c-a3ec-7d8289438298",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/38b83a3d-e0fe-418c-a3ec-7d8289438298",
+    "published_at": "2026-10-03T06:44:40.652457+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "a4693f5233959f111ecf8bf6d5c0cff8459424a88156692aef9a25bd036e801d"
   },
   {
     "id": "3999f9fa-d813-4dfa-bf78-23546b0f6d1a",
@@ -4193,6 +4410,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "fbf1349b0e532250fcfa8ee3f6367861e7faebb135bb4db2716b435629aee3fc"
+  },
+  {
+    "id": "3bd032ac-bf95-4e67-8520-73ff619b81cb",
+    "title": "Cinematic Groom Portrait in Golden Chapel",
+    "prompt": "Prompt:\nWaist-up cinematic portrait of a handsome groom standing in an ornate church aisle, wearing a pristine white double-breasted suit jacket with subtle wool texture, matching waistcoat, crisp white dress shirt, pale sky-blue silk tie and neatly folded pocket square; medium-dark hair swept back, full groomed beard and mustache, striking blue-green eyes, warm tan skin, slight confident serene smile, hands gently clasped at waist showing a simple wedding band and classic silver wristwatch. Background softly blurred with golden crucifix, lit candles and lush white floral arrangements on an altar, creating a romantic, sacred atmosphere. Soft, warm directional lighting from front-left with delicate rim light to separate him from background, shallow depth of field, creamy bokeh, high-resolution photographic realism, natural skin texture, subtle filmic color grading with warm highlights and muted shadows, elegant, timeless, formal wedding portrait composition, vertical framing, 85mm portrait feel, f/1.8 shallow focus, gentle grain, authentic mood and refined styling.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Akash",
+      "handle": "heyakash_ai"
+    },
+    "source_platform": "X",
+    "source_id": "2071456371535651286",
+    "source_url": "https://x.com/heyakash_ai/status/2071456371535651286",
+    "images": [
+      "https://pbs.twimg.com/media/HL9Kl3FagAAgLf9.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/3bd032ac-bf95-4e67-8520-73ff619b81cb",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/3bd032ac-bf95-4e67-8520-73ff619b81cb",
+    "published_at": "2026-10-02T07:14:32.637928+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "7aabe96785ece8246a36e9488bf5848e02e9640c6cf5b2905e42400d39759d79"
   },
   {
     "id": "3c866235-8a58-48d2-bbd6-386cae29415d",
@@ -5685,6 +5928,34 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "445b4a301d6fdc1a027c310808c7239764d3d79ffe26984f51abcff7d86d7e39"
+  },
+  {
+    "id": "50f58b96-7d6f-4644-9e50-fce5c0cf24bd",
+    "title": "Cinematic 2D Anime Character Art Style",
+    "prompt": "Cinematic 2D digital illustration, polished semi-realistic anime aesthetic, clean bold linework, smooth cel shading blended with soft painterly gradients, expressive detailed facial rendering, subtly exaggerated proportions, glossy eyes, natural skin texture, dimensional hair with individual flowing strands, warm rim lighting, moody teal-and-amber color grading, muted vintage tones, soft ambient shadows, slightly grainy texture, nostalgic 1990s/2000s editorial-poster vibe, atmospheric indoor lighting, highly polished character art, crisp details, depth and cinematic composition, vertical 9:16.",
+    "category": "character-art",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2096437155606196729",
+    "source_url": "https://x.com/HustleXR/status/2096437155606196729",
+    "images": [
+      "https://pbs.twimg.com/media/HRgKek6a4AAUpiZ.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HRgKekvaMAAphSy.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HRgKelJbkAADZtU.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/50f58b96-7d6f-4644-9e50-fce5c0cf24bd",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/50f58b96-7d6f-4644-9e50-fce5c0cf24bd",
+    "published_at": "2026-10-02T07:14:49.005534+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "636fc701b5a3bfdd39bba3b2c1cc6ee1c1485031f1ac7c718b7dcff4d73243cd"
   },
   {
     "id": "51209500-d9dd-4c54-aeb5-5a50643434eb",
@@ -7444,6 +7715,32 @@
     "content_hash": "d693581a7e5414d88362250c7a6048e0d40dae25ae1bd7d918fb840922933547"
   },
   {
+    "id": "67ae1eb6-5458-4b03-8cfd-3ce1a891b20f",
+    "title": "9:16 3×3 Collage of Flawed Amateur Flash Portraits",
+    "prompt": "Hochformat im Seitenverhältnis 9:16, Collage aus neun Bildern in einem 3×3-Raster. Ausschließlich natürliche, ungestellte Porträtfotografie.\n\nThema: Eine Sammlung misslungener Amateuraufnahmen, die beinahe kleine Meisterwerke geworden wären.\n\nDie Collage besteht aus neun unterschiedlichen Aufnahmen, angeordnet wie auf einem fotografischen Kontaktbogen. Die Stimmung: spontane Schnappschüsse in einer gemütlichen Wohnung, aufgenommen von einer Freundin oder einem Freund, kurz vor einem Abend unterwegs.\n\nJedes Bild wirkt, als hätte nur ein winziger Fehler im entscheidenden Moment eine mühelos großartige Aufnahme verhindert. Im Mittelpunkt steht der natürliche Kontrast zwischen einer ausgesprochen fotogenen Frau in einem schmeichelhaften Outfit und den typischen Pannen beim Fotografieren.\n\nMotiv:\nEine erwachsene ostasiatische Frau Mitte zwanzig mit langen, dunkel glänzenden Haaren, die locker über ihre Schultern fallen. Elegante Gesichtszüge, ein warmer bis neutraler Hautton und dezentes, natürliches Make-up.\nRealistische Körperproportionen und eine natürlich kurvige, sportliche Figur: sichtbare Schlüsselbeine, eine elegante Schulterlinie, eine definierte Taille, ein sanfter Übergang von der Taille zur Hüfte und lange Beine. Sie wirkt ganz selbstverständlich fotogen, ohne übertriebenes Styling.\n\nOutfit:\nEin figurbetontes, anthrazitgraues Tanktop aus Rippstrick mit tiefem, rundem Ausschnitt, das die Halslinie und Taille betont. Dazu ein schwarzer Jeansminirock mit hohem Bund und klarer Passform, der die natürlichen Proportionen von Taille, Hüfte und Beinen unterstreicht. Dezente Halsketten in unterschiedlichen Längen und lässige Canvas-Sneaker. Unkompliziert, schmeichelhaft und alltagstauglich.\n\nUmgebung und Atmosphäre:\nDas gemütliche Wohnzimmer einer Stadtwohnung mit einem Sofa aus neutralem Stoff, einem Bücherregal, einer warm leuchtenden Lampe im Hintergrund und einem bodenlangen Spiegel.\nDirekter Kamerablitz, der leicht körnige Look einer kompakten Digitalkamera mit CCD-Sensor, dezentes Bildrauschen und gelegentliche Bewegungsunschärfe. Authentische Atmosphäre einer kleinen Wohnungsparty.\n\nIn allen neun Bildern sind dieselbe Frau, dasselbe Outfit und dieselbe Wohnung zu sehen. Jede Aufnahme zeigt eine andere Pose und einen anderen fotografischen Fehler.\nDie neun Aufnahmen:\n\n1. Bewegungsunschärfe beim Umdrehen\n\nSie dreht sich mitten in einem Schritt leicht zur Seite. Ihr Profil und ihre natürliche Haltung kommen schön zur Geltung. Genau beim Auslösen bewegt sie sich jedoch, sodass Gesicht und Schultern eine leichte, gerichtete Bewegungsunschärfe zeigen.\n\n2. Vom Blitz überstrahlt\n\nEine halbnahe Aufnahme: Sie lehnt lässig an der Wand und hat eine Hand auf die Hüfte gelegt. Die Pose betont ihre Taille und den Ausschnitt und wirkt ganz ungezwungen. Der Blitz wird jedoch aus zu kurzer Entfernung ausgelöst, sodass helle Bereiche in ihrem Gesicht und auf dem Oberteil überstrahlen und Details verlieren.\n3. Schöne Sitzpose, im falschen Moment geblinzelt\nEine nähere Dreiviertelansicht: Sie sitzt auf der Armlehne des Sofas und schlägt ein Bein über das andere. Ihre Haltung bildet eine natürliche S-Kurve und bringt Taille und Hüfte zur Geltung. Sie lacht gerade und blinzelt genau in dem Moment, in dem das Foto aufgenommen wird.\n4. Hintergrund scharf, Person unscharf\n\nSie steht der Kamera zugewandt in einer entspannten, schmeichelhaften Pose. Der Autofokus stellt jedoch auf die Bilderrahmen an der Wand hinter ihr scharf. Dadurch bleibt sie selbst weich und deutlich unscharf.\n5. Stark gekippte Kamera\nEine Ganzkörperaufnahme im Stehen, auf der Minirock und Beinlinie schön zur Geltung kommen. Die fotografierende Person hält die Kamera jedoch um etwa 20 Grad schräg, sodass der Türrahmen und die gesamte Raumgeometrie auffällig kippen.\n6. Blick über die Schulter, Finger vor dem Objektiv\n\nEine nahe bis halbnahe Dreiviertelansicht von hinten: Sie dreht den Kopf und blickt über ihre Schulter zur Kamera. Die Pose betont ihre Haltung, den Rücken und den natürlichen Übergang von Taille zu Hüfte. Ein unscharfer Daumen der fotografierenden Person verdeckt jedoch das untere rechte Drittel des Bildes.\n7. Unterbelichtet, weil der Blitz nicht ausgelöst hat\nDer Blitz bleibt aus. Die Aufnahme ist dunkel, stimmungsvoll und stark verrauscht. Nur das schwache Licht im Raum lässt ihre sitzende Haltung und Silhouette erkennen.\n8. Zu tief gezielt, Kopf angeschnitten\n\nDie Kamera ist zu weit nach unten gerichtet. Taille, Hüfte und Minirock sind schmeichelhaft im Bild, doch der obere Teil ihres Kopfes ab Augenhöhe wird vom oberen Bildrand abgeschnitten.\n9. Ungewollter Lampenschirmhut\nSie steht aufrecht, hat eine schöne Haltung und lächelt natürlich. Der große Lampenschirm direkt hinter ihr ist jedoch so ungünstig ausgerichtet, dass er auf dem Foto wie ein riesiger Hut auf ihrem Kopf aussieht.\nVisuelle Anforderungen:\n– Authentischer Look spontaner Amateuraufnahmen mit direktem Kamerablitz.\n– Dezentes Bildrauschen und natürliche Blitzreflexionen im Innenraum.\n– Realistische Darstellung: eine mühelos fotogene Frau, deren Aufnahmen durch klassische Fotopannen misslingen.\n– Sauberes 3×3-Raster mit schmalen schwarzen oder dunklen Trennlinien.\n– Keine Wasserzeichen, Zeitstempel oder Bedienelemente.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Iqra Saifi",
+      "handle": "IqrasaifiAI"
+    },
+    "source_platform": "X",
+    "source_id": "2105287088874877312",
+    "source_url": "https://x.com/IqrasaifiAI/status/2105287088874877312",
+    "images": [
+      "https://pbs.twimg.com/media/HTd7ZzCb0AAAVC7.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/67ae1eb6-5458-4b03-8cfd-3ce1a891b20f",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/67ae1eb6-5458-4b03-8cfd-3ce1a891b20f",
+    "published_at": "2026-10-03T06:45:14.868481+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "493f022434977816d0ab0e34cbd50fa14bc3390f26ab2e1a451cc8bdfc20ad73"
+  },
+  {
     "id": "6843b363-862e-411c-a138-ee79a8e8731c",
     "title": "Ultraviolet Beetle Style Fusion",
     "prompt": "Mixing 5 of my best ultraviolet styles\nHercules Beetle --raw --sref 460346061 3889935155 271502886 1632499533 1444835694 --sw 100 --stylize 300 --hd --v 8.1\nHot examples in attached post 🌶️",
@@ -8316,6 +8613,33 @@
     "content_hash": "edfdfd077c50eef00e1dc615982f79e0f198dfa98275b9993796b54e378d5c33"
   },
   {
+    "id": "766cdca4-5f5e-47eb-b28f-14aada203672",
+    "title": "B&W Audrey Hepburn with Snake Studio Portrait",
+    "prompt": "35mm black and white photo of smartly dressed Audrey Hepburn with a snake wrapped around her head, white background, studio lighting --ar 1:1 --raw --stylize 150 --hd --v 8.2",
+    "category": "portrait",
+    "model_key": "midjourney",
+    "model_name": "Midjourney",
+    "model_family": null,
+    "author": {
+      "name": "Michael Rabone",
+      "handle": "michaelrabone"
+    },
+    "source_platform": "X",
+    "source_id": "2081696109378810002",
+    "source_url": "https://x.com/michaelrabone/status/2081696109378810002",
+    "images": [
+      "https://pbs.twimg.com/media/HOOrYhqWcAEaJhO.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOOrYiAXkAAWO5l.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/766cdca4-5f5e-47eb-b28f-14aada203672",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/766cdca4-5f5e-47eb-b28f-14aada203672",
+    "published_at": "2026-10-03T06:45:05.251578+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "9e9eb2a81751cdbe09931b711828151b9393845cd608eaf996d5bd1dd3bb91d5"
+  },
+  {
     "id": "76a0dcbf-035a-4e27-aec5-9f818eabdcb1",
     "title": "Confident Woman in Olive Green Blazer",
     "prompt": "𝗔 𝘀𝘁𝘂𝗱𝗶𝗼 𝗽𝗼𝗿𝘁𝗿𝗮𝗶𝘁 𝗼𝗳 𝗮 𝘀𝗼𝗽𝗵𝗶𝘀𝘁𝗶𝗰𝗮𝘁𝗲𝗱 𝘄𝗼𝗺𝗮𝗻 𝘄𝗶𝘁𝗵 𝗹𝗼𝗻𝗴, 𝘃𝗼𝗹𝘂𝗺𝗶𝗻𝗼𝘂𝘀, 𝗰𝘂𝗿𝗹𝘆 𝗱𝗮𝗿𝗸 𝗯𝗿𝗼𝘄𝗻 𝗵𝗮𝗶𝗿, 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝗱𝗶𝗿𝗲𝗰𝘁𝗹𝘆 𝗮𝘁 𝘁𝗵𝗲 𝗰𝗮𝗺𝗲𝗿𝗮 𝘄𝗶𝘁𝗵 𝗮 𝗰𝗼𝗻𝗳𝗶𝗱𝗲𝗻𝘁 𝗲𝘅𝗽𝗿𝗲𝘀𝘀𝗶𝗼𝗻. 𝗦𝗵𝗲 𝗶𝘀 𝘄𝗲𝗮𝗿𝗶𝗻𝗴 𝗮𝗻 𝗲𝗹𝗲𝗴𝗮𝗻𝘁 𝗮𝗹𝗶𝘃𝗲 𝗴𝗿𝗲𝗲𝗻 𝘁𝗮𝗶𝗹𝗼𝗿𝗲𝗱 𝗯𝗹𝗮𝘇𝗲𝗿 𝘀𝘂𝗶𝘁. 𝗦𝗵𝗲 𝗶𝘀 𝗮𝗱𝗼𝗿𝗻𝗲𝗱 𝘄𝗶𝘁𝗵 𝘁𝗵𝗶𝗰𝗸, 𝗰𝗵𝘂𝗻𝗸𝘆 𝗴𝗼𝗹𝗱 𝗰𝘂𝗳𝗳 𝗯𝗿𝗮𝗰𝗲𝗹𝗲𝘁𝘀 𝗼𝗻 𝗯𝗼𝘁𝗵 𝘄𝗿𝗶𝘀𝘁𝘀 𝗮𝗻𝗱 𝗹𝗮𝗿𝗴𝗲 𝗴𝗼𝗹𝗱 𝗵𝗼𝗼𝗽 𝗲𝗮𝗿𝗿𝗶𝗻𝗴𝘀. 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝘀𝘁𝘂𝗱𝗶𝗼 𝗹𝗶𝗴𝗵𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗮 𝘀𝘂𝗯𝘁𝗹𝗲 𝗿𝗶𝗺 𝗹𝗶𝗴𝗵𝘁 𝗵𝗶𝗴𝗵𝗹𝗶𝗴𝗵𝘁𝗶𝗻𝗴 𝗵𝗲𝗿 𝗵𝗮𝗶𝗿. 𝗧𝗵𝗲 𝗯𝗮𝗰𝗸𝗴𝗿𝗼𝘂𝗻𝗱 𝗶𝘀 𝗮 𝗺𝗶𝗻𝗶𝗺𝗮𝗹𝗶𝘀𝘁 𝗱𝗮𝗿𝗸 𝗴𝗿𝗲𝘆 𝘄𝗶𝘁𝗵 𝗮 𝘀𝗼𝗳𝘁, 𝗰𝗶𝗿𝗰𝘂𝗹𝗮𝗿 𝘀𝗽𝗼𝘁𝗹𝗶𝗴𝗵𝘁 𝗲𝗳𝗳𝗲𝗰𝘁 𝗯𝗲𝗵𝗶𝗻𝗱 𝗵𝗲𝗿. 𝗛𝗶𝗴𝗵-𝗲𝗻𝗱 𝗳𝗮𝘀𝗵𝗶𝗼𝗻 𝗽𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝘆 𝘀𝘁𝘆𝗹𝗲, 𝘀𝗵𝗮𝗿𝗽 𝗳𝗼𝗰𝘂𝘀, 𝟴𝗸 𝗿𝗲𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻, 𝗰𝗶𝗻𝗲𝗺𝗮𝘁𝗶𝗰 𝗹𝗶𝗴𝗵𝘁𝗶𝗻𝗴. --𝗮𝗿 𝟮:𝟯",
@@ -8671,6 +8995,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "649bd5152f18e01ab3aac1e795e3f182c280323bd3368819b00b424086d4451b"
+  },
+  {
+    "id": "792126f5-29b1-4371-92d6-84a1316a23af",
+    "title": "Cinematic Graphic Realism Engraved Portrait",
+    "prompt": "CINEMATIC GRAPHIC REALISM\nCreated with google gemini nano banana pro \n\nUltra-detailed cinematic graphic realism fused with traditional engraved illustration, dark fantasy comic art, and expressive hand-inked portraiture. The visual style combines highly dimensional semi-realistic anatomy with dense, controlled ink linework and dramatic chiaroscuro.\n\nUse a predominantly near-black environment/background, allowing the subject to emerge from darkness through carefully controlled warm highlights and deep shadow masses. The overall image should feel mysterious, dramatic, powerful, tactile, and intensely atmospheric.\n\nColor palette\n\nUse a restrained, dark cinematic palette dominated by:\n\n- deep black / near-black — background and deepest shadows\n- burnt umber and dark brown\n- rich copper / warm bronze\n- deep rust-orange\n- warm ochre\n- natural warm sienna skin tones\n- muted ivory / silver-gray for hair and highlights\n- extremely restrained desaturated blue-gray accents\n\nColors should appear rich, earthy, dark, and slightly muted, with luminous warm highlights emerging against black. Avoid neon or overly saturated digital colors.\n\nRendering technique\n\nConstruct the image using dense fine ink strokes, engraving-style hatching, cross-hatching, contour hatching, stippling, and layered painterly brushwork.\n\nEvery major anatomical plane should contain visible directional strokes following the form. Skin, hands, wrinkles, beard, hair, fabric, and accessories should be rendered with hundreds of controlled micro-strokes rather than smooth digital surfaces.\n\nCombine sharp ink contours with painterly color masses, creating a hybrid appearance between an old master engraving and a modern cinematic graphic-novel painting.\n\nLighting\n\nUse intense low-key chiaroscuro lighting.\n\nMost of the surrounding environment disappears into almost pure black, while selected planes of the subject receive warm copper-orange illumination. Highlights should be concentrated on facial planes, hands, hair strands, and important structural details.\n\nUse strong directional lighting with:\ndeep black shadow → rich burnt-orange midtone → narrow warm highlight.\n\nHighlights should remain controlled and relatively hard-edged, emphasizing wrinkles, bone structure, muscles, fingers, hair strands, and textured surfaces.\n\nLinework and texture\n\nUse extremely fine black/brown engraved lines combined with stronger graphic contours.\n\nInclude:\ncross-hatching, parallel hatching, contour lines, stippled texture, scratch-like ink marks, fine hair strokes, irregular brush edges, and tiny engraved details.\n\nLine density should increase naturally inside shadow areas and decrease toward illuminated planes.\n\nSurface treatment\n\nAvoid perfectly smooth digital rendering. Preserve a hand-crafted tactile texture throughout the image.\n\nSkin should show subtle pores, wrinkles, folds, fine facial hair, and directional brush/ink strokes. Hair should be constructed from numerous individual strands mixed with larger graphic masses. Fabric should contain visible woven/brush textures and deep folds.\n\nOverall aesthetic\n\nDark cinematic portrait + engraved realism + graphic novel realism + Renaissance-inspired chiaroscuro + hand-inked illustration + painterly color blocking + dark fantasy editorial art.\n\nThe final appearance should be extremely detailed, dramatic, mature, rugged, cinematic, tactile, and powerful, with the realism coming from anatomical modeling and microscopic linework rather than photographic rendering.\n\nNo flat vector style, no clean cartoon appearance, no soft airbrush, no plastic skin, no 3D-rendered look, no glossy CGI, no neon colors, no typography, no logo, no watermark.\n\nAspect ratio: 9:16 — vertical composition.",
+    "category": "character-art",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2105529544945832340",
+    "source_url": "https://x.com/HustleXR/status/2105529544945832340",
+    "images": [
+      "https://pbs.twimg.com/media/HThX9M5WYAAbkmq.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HThX9M7XkAA7R2v.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/792126f5-29b1-4371-92d6-84a1316a23af",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/792126f5-29b1-4371-92d6-84a1316a23af",
+    "published_at": "2026-10-02T07:15:23.414219+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "622eee830894a8870dee792b33dace15fb71e73a1bf0006dd7825e3c7575e6dc"
   },
   {
     "id": "794071c6-688b-416b-9fec-515d41294c15",
@@ -9261,6 +9612,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "04676f80755867b0c031ac19316f70189d75a81f95126d15ab52507b40ca793d"
+  },
+  {
+    "id": "81681811-2547-40bd-8467-fc07f65fc9ad",
+    "title": "Rainy Parisian Blue Hour Fashion Editorial Portrait",
+    "prompt": "Create a luxury travel fashion editorial portrait of a young man standing on a rainy Parisian street during blue hour. The atmosphere feels cinematic, romantic, and effortlessly sophisticated, inspired by Saint Laurent campaigns and European street photography.\nThe subject stands confidently at the center of a pedestrian crossing with both hands tucked into his jacket pockets. His body faces the camera while his head turns to the left, looking away with a relaxed, contemplative expression.\nHe has curly, tousled dark brown hair and wears black rectangular sunglasses. His outfit consists of a dark brown oversized field jacket layered over a cream knit sweater with black tailored trousers, creating a timeless European autumn style.\nThe background features elegant Haussmann architecture lining both sides of the street. A classic Parisian café glows warmly with amber lights, while wet pavement reflects the surrounding lamps. Vintage streetlights illuminate the sidewalks, pedestrians walk softly blurred in the distance, and a compact car with headlights on approaches from behind, adding realism without distracting from the subject.\nLighting combines cool overcast evening light with warm café lighting, producing rich cinematic color contrast. Captured with an 85mm lens at eye level, shallow depth of field, realistic rain reflections, soft bokeh, Kodak Vision3 film look, ultra detailed textures, luxury editorial photography, natural color grading, premium travel magazine aesthetic, 8K.\nNegative Prompt: Bright sunshine, crowded scene, exaggerated reflections, cartoon style, watermark, text, low quality, AI artifacts, distorted body, extra people in focus.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Orion",
+      "handle": "Prime_54"
+    },
+    "source_platform": "X",
+    "source_id": "2073081512904556675",
+    "source_url": "https://x.com/Prime_54/status/2073081512904556675",
+    "images": [
+      "https://pbs.twimg.com/media/HMUQpNDbAAAEagf.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/81681811-2547-40bd-8467-fc07f65fc9ad",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/81681811-2547-40bd-8467-fc07f65fc9ad",
+    "published_at": "2026-10-03T06:44:46.706584+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "a8b54065c08ead5d741c9757c4da42cddff0c58a94d5a593ce41bd5dc46fe7fe"
   },
   {
     "id": "816f98a0-47d0-4a3d-b0db-8dc1cf518c86",
@@ -10474,6 +10851,59 @@
     "content_hash": "4b91499b7b4c681030f118f524280cb9fe8842560c67583750502eefc3ff9f8c"
   },
   {
+    "id": "8e34e15d-2d22-4695-9184-ee53e1fce2e9",
+    "title": "90s Anime Gamer Girl and Grumpy Cat",
+    "prompt": "Prompt:\n21:9 ultrawide 1990s anime fan-art scene, bright, funny, chaotic, instantly shareable, like a still frame from a mid-90s OVA comedy or anime magazine poster.\nScene:\nA cozy, messy 1990s Japanese apartment living room at night. A college-age gamer girl is sprawled upside down across a worn couch in a ridiculous goblin-gamer posture while playing video games on a CRT television. Her head hangs off the front edge of the couch, messy hair spilling onto the floor, legs thrown over the backrest, one sock half-slipping off, one arm stretched awkwardly downward gripping a wired controller. Her pose is exaggerated, weird, and funny — energetic but believable, not seductive. She is completely locked into the game, eyes wide, mouth open, intensely focused like she is moments away from beating a boss.\nNext to her on the couch sits a round, grumpy cat with a deeply unimpressed expression. The cat is perfectly still, judging her silently, looking like it has watched this nonsense every night. The contrast between her chaotic upside-down gaming obsession and the cat’s deadpan boredom is the main joke.\nThe CRT TV is visible on the left side of the frame, glowing brightly. On the screen is a recognizable 90s-style video game moment: colorful pixel-art action, a boss fight, side-scrolling platforms, explosions, health bars, and chunky sprites. It can feel inspired by iconic 90s console games like Sonic, Street Fighter II, Mega Man, Super Mario World, or early Pokémon-era gaming culture. Fan-art style is okay. The TV image should be colorful and readable as a video game, but avoid relying on perfect readable text.\nThe room is packed with selective 90s otaku details: Super Famicom-style console on the floor, Sega Saturn or PlayStation-era game cases, loose cartridges, wired controllers, a stack of manga, a Sailor Moon-style wall poster, an Evangelion-style mecha model kit on a shelf, a Sonic-like plush, fighting game strategy guides, snack bags, soda cans, instant ramen cup, cassette boombox, anime VHS tapes, rumpled blanket, socks on the floor, cheap city apartment window with night buildings outside. The clutter should feel real, funny, and lived-in, not randomly generated or overly decorative.\nComposition:\nUltra-wide 21:9 frame. The couch dominates the center and right side. The upside-down girl is the clear focal point, with her silhouette instantly readable even at thumbnail size. The unimpressed cat sits close beside her, facing forward with deadpan comedy timing. The CRT TV sits on the left, angled toward the couch, its colorful glow connecting the action. Use a strong triangular composition between TV, girl’s face, and cat’s expression. Make it feel like the funniest paused frame from a 90s anime episode.\nStyle:\nAuthentic 1990s Japanese anime cel-animation look. Clean inked outlines, bold expressive character drawing, flat cel shading, simple shadow shapes, limited highlights, matte colors, strong silhouette clarity, chunky 90s anime proportions, expressive eyes and mouth, charming imperfections, slightly off-register cel feel, faint VHS softness, subtle analog grain, slight color bleed, old TV-era contrast. The image should feel like a photographed anime cel or a scanned 90s anime magazine spread, not modern digital illustration.\nCharacter design:\nThe girl should feel like a funny 90s anime gamer heroine: oversized white graphic T-shirt, red gym shorts, striped socks, messy dark hair, expressive face, casual and unglamorous. Make her charming through personality and comedy, not polished beauty. Her body language should scream “I have been gaming for six hours and I regret nothing.”\nCat design:\nRound loaf-shaped cat, thick body, tiny paws tucked under, half-lidded eyes, flat unimpressed mouth, total emotional detachment. The cat should be meme-worthy.\nColor palette:\nWarm amber room lamp, saturated CRT blues and greens, dusty pinks, teal couch, red shorts, cream walls, colorful game clutter. Bright and playful, but with 90s analog softness. No modern neon cyberpunk palette. No glossy digital gradients.\nLighting:\nSimple 90s anime lighting. Main light sources are the CRT TV and one warm lamp. Use clean cel-shaded light blocks, not hyper-realistic cinematic lighting. The TV glow should hit the girl’s upside-down face and the cat’s side, but keep the lighting graphic and readable.\nMood:\nFunny, cozy, nostalgic, chaotic, extremely relatable, memeable, playful, late-night gamer energy. It should feel like a viral anime still: “the girl is losing her mind over the game, the cat has completely given up on her.”\nImportant:\n- 21:9 ultrawide frame\n- girl upside down on the couch in a weird funny posture\n- wired controller in her hands\n- CRT TV clearly visible and clearly showing a game\n- unimpressed cat sitting next to her\n- strong 1990s anime cel look\n- fan-art / otaku-room references are allowed\n- prioritize comedy, silhouette, expression, and staging over excessive detail\n- make it feel like a real 90s anime frame, not polished AI wallpaper\nAvoid:\nmodern glossy anime, AI fantasy polish, photorealism, CGI, 3D render, plastic skin, painterly concept art, over-rendered lighting, excessive tiny props everywhere, generic perfect bedroom, generic cute pose, seductive pin-up pose, stiff anatomy, overdesigned clutter, perfect readable logos, clean influencer room, modern LED gaming setup, neon RGB lighting, cyberpunk colors, bokeh, bloom-heavy lighting, watermark, fake nonsense text covering everything.",
+    "category": "character-art",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Glitter Gal",
+      "handle": "GlitterPixely"
+    },
+    "source_platform": "X",
+    "source_id": "2066525022198415469",
+    "source_url": "https://x.com/GlitterPixely/status/2066525022198415469",
+    "images": [
+      "https://pbs.twimg.com/media/HK3FUkeW8AAOZ_N.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/8e34e15d-2d22-4695-9184-ee53e1fce2e9",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/8e34e15d-2d22-4695-9184-ee53e1fce2e9",
+    "published_at": "2026-10-02T07:14:25.360156+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "f3a32e99b5998fa7a3e000d99efae1370c9ca22a3c82160c0375ba3f18fc50d5"
+  },
+  {
+    "id": "8e50358f-22b5-4498-b53b-82f76e582eae",
+    "title": "Mid-Air Soccer Kick Action Shot",
+    "prompt": "An action shot capturing a dynamic mid-air soccer kick in an open, grassy field under a bright, partly cloudy sky. The subject is frozen in a powerful, airborne leap, body twisted horizontally to the ground, with one leg extended high to strike a weathered, airborne soccer ball. Clods of dirt and grass fly off the boots, emphasizing the raw energy of the movement. The setting is a rustic, unmanicured field of dry winter grass, with soft-focus hills visible in the distant background, shot with a shallow depth of field that sharply isolates the athlete against the landscape.",
+    "category": "scene-space",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Minahil",
+      "handle": "Minahil42298354"
+    },
+    "source_platform": "X",
+    "source_id": "2066060276776993001",
+    "source_url": "https://x.com/Minahil42298354/status/2066060276776993001",
+    "images": [
+      "https://pbs.twimg.com/media/HKwe1TQXgAAohX0.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HKwe1bSXsAAJdf3.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/8e50358f-22b5-4498-b53b-82f76e582eae",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/8e50358f-22b5-4498-b53b-82f76e582eae",
+    "published_at": "2026-10-03T06:44:36.888576+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "bad32b21d3588f9c4c8aaa21527799bf77ca9f58d9807d70bbc90231c19f1042"
+  },
+  {
     "id": "8eb2a646-28a8-4f79-9f4c-037c02ac1b5a",
     "title": "Forced Perspective Makeup at the Great Sphinx",
     "prompt": "PROMPT ⬇\n[Reference Image]\nUse the reference photo while keeping the face completely unchanged and identical to the original subject, A creative forced-perspective photograph at the Great Sphinx of Giza, Egypt. In the foreground, a young woman with long dark hair, photographed in profile, holds a lipstick wand near the camera, her lips puckered as if applying lipstick. Due to forced perspective, the lipstick appears to be touching the lips of the Great Sphinx in the background, creating an optical illusion that she is applying makeup to the ancient monument.\nThe Sphinx is shot from a low angle, looking majestic and weathered, carved from sandy limestone, with visible erosion details on its face.\nBright daytime lighting, warm desert tones, vivid blue sky with fluffy white clouds. Sharp focus on both the woman's hand/lipstick and the Sphinx's face, shallow depth of field on the background landscape. Shot on a wide-angle lens to enhance the size illusion, travel photography style, vibrant and playful, high resolution, professional composition.",
@@ -10636,6 +11066,32 @@
     "content_hash": "bb0c0d7e530794dac8df63fe8439fcfc8df363a5771e971cffe41ea03b5a3ae8"
   },
   {
+    "id": "8fea3a3e-a72e-45a4-b751-7461ae58f678",
+    "title": "Pixar-Style Woman on Cloud Hand Wallpaper",
+    "prompt": "Estilo caricaturesco/3D tipo Pixar\nuna mujer y una mirada directa y cautivadora. Su expresión es relajada, con los labios ligeramente fruncidos.\nViste un atuendo tipo \"streetwear\" compuesto por un top negro, una chaqueta bomber de satén rojo vibrante y pantalones oscuros, completado con botas negras de suela gruesa.\nDetalles: La modelo lleva las uñas pintadas de un color negro brillante que combina con su delineado y su vestimenta. También se puede observar un anillo discreto con textura en su dedo y un pequeño pendiente, lo que añade un toque de elegancia a su estilismo.\nIluminación y Textura: La iluminación es lateral y suave, resaltando la forma del rostro, la estructura de la nariz y los labios. La piel tiene un aspecto impecable, con un acabado mate muy natural.\nPose: Está sentada con las piernas cruzadas. que le da una expresión coqueta y juguetona.\nComposición Surrealista: La figura femenina se encuentra sentada sobre lo que parece ser una mano gigantesca formada completamente por nubes densas y texturizadas. La mano parece elevarse hacia el cielo, creando una sensación de\nEl dije está incrustado con múltiples piedras pequeñas y brillantes que reflejan la luz, dándole un aspecto lujoso.\nColor e Iluminación: La paleta de colores está dominada por tonos profundos de púrpura, violeta y destellos de un naranja rojizo. Los puntos de luz al final de algunas líneas crean un efecto de brillo o destello, sugiriendo un ambiente mágico o digital.\nSujeto y Composición: La imagen muestra ondas fluidas y suaves en tonos violeta y azul profundo que atraviesan la composición, creando una sensación de movimiento y dinamismo.\nElementos Decorativos: Sobre estas ondas, hay una multitud de pequeñas partículas brillantes, similares a confeti dorado o motas de polvo estelar, que parecen estar suspendidas en el aire.\nSujeto Principal: En el centro superior destaca una luna llena de gran tamaño, representada con una intensa tonalidad azul. La superficie lunar presenta detalles claros de sus cráteres y texturas, lo que le otorga un aspecto realista y majestuoso.\nEntorno: La luna se encuentra inmersa en un cielo nocturno estrellado. Se pueden observar numerosas estrellas pequeñas y brillantes dispersas por todo el fondo, lo que profundiza la sensación de inmensidad del espacio.\nComposición y Nubes: En la parte inferior, una serie de nubes densas y voluminosas se extienden hacia arriba, enmarcando la luna. La iluminación de estas nubes, también en tonos azulados, sugiere que están siendo iluminadas directamente por la luz lunar, creando un efecto de profundidad y dramatismo.\nparada que salga así le pones házmela estilo wallpaper 9:16",
+    "category": "character-art",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Zyrella",
+      "handle": "Zyrellix"
+    },
+    "source_platform": "X",
+    "source_id": "2062394400052023781",
+    "source_url": "https://x.com/Zyrellix/status/2062394400052023781",
+    "images": [
+      "https://pbs.twimg.com/media/HJ8Yxq_aAAAQnOM.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/8fea3a3e-a72e-45a4-b751-7461ae58f678",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/8fea3a3e-a72e-45a4-b751-7461ae58f678",
+    "published_at": "2026-10-02T07:14:19.802756+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "005219b670ef09b30d28e5732d8a362b898ac8a795a7c7d3856c9c6347be8f23"
+  },
+  {
     "id": "8ff7f755-1ad9-483e-83c4-b1d0dbe0a419",
     "title": "Snowy Village Serenity",
     "prompt": "A cinematic portrait of a young woman standing in a peaceful snowy village, surrounded by softly falling snowflakes. She wears a delicate blue floral shawl draped over her head and shoulders, lightly dusted with fresh snow. Her fair skin has a natural glow, complemented by soft pink lips and expressive light-colored eyes gazing gently to the side. Her expression is calm, serene, and introspective. The background features a softly blurred wooden cabin with a faint silhouette in the distance, creating a dreamy winter atmosphere. Ultra-realistic, high detail, soft natural lighting, shallow depth of field, 85mm lens, cinematic color grading, 8K quality.",
@@ -10775,6 +11231,32 @@
     "content_hash": "a61f6a062e66f9152c93468a69141fdff76b14160e5a78f93ec6b5f06173bc6b"
   },
   {
+    "id": "91d70165-ebf9-41be-a851-b881c6f09e3f",
+    "title": "Surreal Breakfast Table in the Sea at Sunrise",
+    "prompt": "A small round breakfast table standing alone in shallow ocean water at sunrise, white linen moving in the sea breeze, silver coffee pot, sliced blood oranges and one empty chair, distant mountains dissolving into peach mist, gentle ripples reflecting the sky, wide cinematic composition, soft natural light from the left, quiet surrealism, pearl white, coral, pale blue and brushed silver --v 8.2 --ar 5:4",
+    "category": "scene-space",
+    "model_key": "midjourney",
+    "model_name": "Midjourney",
+    "model_family": null,
+    "author": {
+      "name": "TischEins",
+      "handle": "tisch_eins"
+    },
+    "source_platform": "X",
+    "source_id": "2092129855143838021",
+    "source_url": "https://x.com/tisch_eins/status/2092129855143838021",
+    "images": [
+      "https://pbs.twimg.com/media/HQi9BDAWsAAK4qi.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/91d70165-ebf9-41be-a851-b881c6f09e3f",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/91d70165-ebf9-41be-a851-b881c6f09e3f",
+    "published_at": "2026-10-02T07:14:45.532469+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "a05030842376895628e13a706c6dfbe24e3dcb257da3e1bfe42b912fcacf30ec"
+  },
+  {
     "id": "91ea343d-e191-49d8-8949-58e747525977",
     "title": "Editorial Football Fashion with Portugal Jersey",
     "prompt": "Create a hyper-realistic editorial football fashion portrait of the same man from the uploaded reference image, seated confidently on a sleek contemporary designer chair inside a luxury studio environment. He is wearing the newest portugal fifa world cup jersey with premium fabric details, slim-fit black cargo pants, and modern white Nike Air sneakers with subtle red accents. His pose is relaxed yet powerful, one leg crossed naturally over the other, one arm resting casually on the chair, projecting confidence and effortless masculine energy. Preserve the exact facial identity, hairstyle, beard structure, skin tone, and expression from the reference image with ultra-accurate likeness.\nThe studio background should feature a smooth matte charcoal-gray backdrop with soft cinematic rim lighting and diffused shadows, creating a premium sports-fashion magazine aesthetic. Add subtle ambient glow reflections on the floor, luxury editorial atmosphere, and modern sporty elegance. Highly realistic skin texture, visible fabric stitching, authentic jersey material, natural shadows, crisp details, shallow depth of field, 85mm lens photography look, symmetrical framing, full-body composition, photorealistic 8K quality.\nMood should feel elite, stylish, athletic, calm, and iconic, like a world-famous football star during a luxury brand photoshoot.",
@@ -10882,6 +11364,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "2c4a07ebb8da9d22985a569f304f8c4d3af9890f252ee1a6c37f55fb301973c5"
+  },
+  {
+    "id": "92bc9097-fdaa-4d01-85d4-30e955de0ac5",
+    "title": "Architectural Watercolor-and-Ink Hybrid Style",
+    "prompt": "Create a completely new visual style by synthesizing two contrasting visual languages:\n\nSTYLE FOUNDATION:\nA cinematic architectural illustration with the clean composition, strong perspective, elegant architectural forms, crisp selective linework, luminous tropical colors, dramatic blue sky, and polished environmental storytelling of a high-end anime-inspired background painting.\n\nPAINT HANDLING:\nFuse this with expressive traditional watercolor and ink techniques: loose gestural brush strokes, dry-brush texture, translucent watercolor washes, pigment blooms, irregular ink contours, spontaneous splatters, visible paper grain, partially unfinished edges, atmospheric paint bleeding, and subtle abstract fragmentation.\n\nNEW HYBRID STYLE:\nDo NOT simply imitate either reference. Develop an original visual language that sits between polished digital illustration and expressive architectural watercolor sketching.\n\nKeep the major architectural structures highly readable and beautifully designed, but allow secondary details, vegetation, reflections, clouds, distant objects, and peripheral elements to dissolve into loose watercolor marks and ink gestures.\n\nUse selective precision:\nsharp, deliberate linework around important architectural silhouettes, windows, domes, roofs, bridges, lamps, boats, and foreground structures;\nlooser broken lines and painterly abstraction toward the edges and background.\n\nCombine luminous cinematic lighting with watercolor transparency.\nUse layered washes of turquoise, cyan, deep blue, warm ochre, coral, terracotta, muted green, and soft cream.\nLet colors subtly bleed into one another rather than appearing as perfectly flat digital fills.\n\nAtmosphere should feel tropical, poetic, nostalgic, peaceful, slightly dreamlike, and cinematic.\n\nInclude strong foreground / middle-ground / background depth.\nUse reflections on water as loose, broken watercolor reflections rather than perfectly mirrored digital reflections.\nClouds should be volumetric and luminous but painted with soft watercolor masses and irregular edges.\nVegetation should alternate between identifiable tropical foliage and expressive abstract brushwork.\n\nSURFACE:\nfine cold-pressed watercolor paper texture,\nsubtle grain,\ntransparent pigment layers,\nink-and-wash marks,\ndry brush,\nsoft granulation,\noccasional paint splashes,\nslightly imperfect handmade edges.\n\nCOMPOSITION:\nvertical cinematic composition,\nstrong leading lines,\narchitectural focal point,\ndeep perspective,\ngenerous atmospheric space,\nbalanced negative space,\nbeautiful visual hierarchy,\nhigh-end editorial travel illustration.\n\nIMPORTANT:\nThe final result must look like a coherent NEW ART STYLE, not a collage and not a literal combination of the two references.\nAvoid photorealism.\nAvoid generic watercolor clip-art.\nAvoid overly clean vector art.\nAvoid excessive anime facial features.\nAvoid uniform line thickness.\nAvoid making every object equally detailed.\nPreserve architectural clarity while allowing painterly abstraction to emerge naturally.\n\nhighly sophisticated, cinematic, expressive, elegant, atmospheric, hand-painted, architectural watercolor-and-ink illustration, contemporary visual development art, original style. Ar 9:16!",
+    "category": "scene-space",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2099133932122096054",
+    "source_url": "https://x.com/HustleXR/status/2099133932122096054",
+    "images": [
+      "https://pbs.twimg.com/media/HSGfLicbAAAinOg.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSGfLh7WsAQ4L8V.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSGfLh3XAAgd9mc.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSGfLihaIAAo3MW.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/92bc9097-fdaa-4d01-85d4-30e955de0ac5",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/92bc9097-fdaa-4d01-85d4-30e955de0ac5",
+    "published_at": "2026-10-02T07:15:05.253898+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "c83bd5f1b26c0956e94df81e7fa4dab105cae72cd918202fa9e4bb780992c80d"
   },
   {
     "id": "92ecdced-9b11-405a-9460-46ef91507adb",
@@ -11207,6 +11718,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "6c538518a8e4e7016412668a5cff8ef5551f9b5aaa0d622405a9e62ba1c7ffba"
+  },
+  {
+    "id": "96a3e151-a859-4f79-b0dd-f051f1d0760f",
+    "title": "CR7 Immortal Luxury Collector Poster",
+    "prompt": "Create an ultra-premium global collector campaign titled:\nCR7 // IMMORTAL\nThis is not a football poster.\nIt should feel like a limited-edition collector's print, a luxury Nike campaign, a museum exhibition piece, a premium editorial cover, and a contemporary street-art installation fused into one unforgettable artwork.\nUnlike dark sports posters, the overall mood is bright, uplifting, colorful, optimistic, and celebratory. The atmosphere feels like a perfect golden summer afternoon after victory—not aggressive or intimidating, but inspiring and timeless.\nAt the center stands Cristiano Ronaldo, wearing a clean white kit, looking directly into the camera with a relaxed confident expression and a subtle smile. His presence radiates calm greatness rather than intensity. Hyper-realistic skin detail, natural lighting, luxury sports photography.\nBehind him rises a gigantic monumental stone number \"7\", carved from warm ivory limestone and white marble with subtle weathering. Fine cracks reveal glowing champagne-gold light from within. Small floating marble fragments drift through the air with soft dust illuminated by sunlight. The sculpture feels like a world-famous public monument.\nAround the composition, seamlessly integrated into the architecture—not as collage boxes—are elegant environmental moments:\n• Ronaldo training alone at sunrise on pristine grass\n• Practicing free kicks beneath bright stadium lights\n• Walking through a players' tunnel toward daylight\n• A distant silhouette standing in the middle of a sold-out stadium\nThese moments appear naturally through reflections, layered architecture, carved reliefs, glass surfaces, and atmospheric transitions.\nThe background merges Lisbon, Manchester, Madrid, Turin, and Riyadh into one vibrant football metropolis filled with colorful Mediterranean architecture, Portuguese mosaic streets, elegant modern skylines, lush greenery, championship banners, stadiums, flowers, fountains, blue skies, and glowing sunlight. Every city blends organically without obvious borders.\nTYPOGRAPHY\nMassive luxury editorial typography dominates the composition:\nIMMORTAL\nDISCIPLINE BUILT THIS.\nTHE STANDARD.\nMORE THAN A NUMBER.\nLEGACY NEVER RETIRES.\nTypography is integrated into architecture, marble, concrete, stadium walls, brushed steel, banners, and illuminated signage. Some text is embossed, engraved, painted, etched, or carved with elegant depth.\nPREMIUM DATA DESIGN\nSophisticated editorial overlays inspired by Nike design language, NASA engineering blueprints, and Sotheby's exhibition catalogues:\n• Career milestone timeline\n• Heat maps\n• Shot trajectory diagrams\n• Performance graphs\n• Tactical sketches\n• Radar charts\n• Collector serial number\n• Certificate of authenticity\n• Hall of Fame classification\n• Blueprint overlays\n• Stadium coordinates\n• Technical grid systems\n• Fine geometric alignment guides\n• Luxury certification seals\nEverything feels clean, premium, minimal, and beautifully organized.\nMICRO DETAILS\nGolden handwritten tactical notes\nFine gold foil accents\nPortuguese tile textures\nLaurel wreath engravings\nChampionship star motifs\nSoft marble dust\nFloating stone particles\nLuxury embossed paper textures\nMetallic reflections\nInvisible UV print details\nMicroscopic premium print imperfections\nElegant collector-edition finishing\nCOLOR PALETTE\nWarm ivory\nWhite marble\nMediterranean blue\nSky blue\nChampionship gold\nSoft sandstone\nEmerald green\nPortuguese green\nRich crimson accents\nClean white\nBrushed titanium\nChampagne highlights\nWarm sunlight\nGolden hour glow\nBright floral accents\nLIGHTING\nBright cinematic daylight, warm golden-hour sunlight, soft volumetric rays, crisp blue skies, premium luxury advertising lighting, high dynamic range, vibrant but refined colors, realistic global illumination, museum-quality presentation.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Hemayxn.ai",
+      "handle": "hemayxn"
+    },
+    "source_platform": "X",
+    "source_id": "2072587636842394101",
+    "source_url": "https://x.com/hemayxn/status/2072587636842394101",
+    "images": [
+      "https://pbs.twimg.com/media/HMNPdoObUAAJNjC.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/96a3e151-a859-4f79-b0dd-f051f1d0760f",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/96a3e151-a859-4f79-b0dd-f051f1d0760f",
+    "published_at": "2026-10-03T06:44:43.060863+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "fa4b093bdbcf476767d6c1b677cad3b7173991f1e6730990fcdb69388317ce23"
   },
   {
     "id": "96d194b8-1ba5-45cb-baca-7aa064d6e906",
@@ -11917,6 +12454,61 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "9cb6bdb7767861768431f0be08a90e792e819266848d4d715dd55b6fcb66e375"
+  },
+  {
+    "id": "9e4f889d-a468-4d4e-a4be-04dd65daba1d",
+    "title": "Cyanotype Sunday Breakfast Table",
+    "prompt": "amateur cyanotype contact print of a quiet Sunday breakfast table by a tall window, a white ceramic teacup at center with a thin ribbon of steam curling downward and sinking back into the tea instead of rising, a folded unread newspaper with blank smudged columns, a chipped eggcup holding a half-eaten soft-boiled egg, linen tablecloth with visible weave, soft diffused window light rendered as gentle tonal gradients, deep Prussian blue monochrome shadows, faded indigo midtones, bone white paper highlights, pale cyan mist and warm sepia paper edge, visible cotton paper texture and uneven brush-coated borders, slight uneven chemical staining at the corners, three-quarter eye-level view with the cup centered and soft negative space around it, calm antique documentary quality, 35mm lens perspective, shallow depth of field on the cup\n|NEGATIVES| no watermark, extra fingers, extra limbs, deformed hands, plastic skin, legible gibberish text, brand logos, oversaturated colors, blurry main subject\n|PARAMS| --v 8.2 --s 250 --ar 5:4",
+    "category": "food-drink",
+    "model_key": "midjourney",
+    "model_name": "Midjourney",
+    "model_family": null,
+    "author": {
+      "name": "TischEins",
+      "handle": "tisch_eins"
+    },
+    "source_platform": "X",
+    "source_id": "2091405078250824006",
+    "source_url": "https://x.com/tisch_eins/status/2091405078250824006",
+    "images": [
+      "https://pbs.twimg.com/media/HQYp1dFXwAAhFAj.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/9e4f889d-a468-4d4e-a4be-04dd65daba1d",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/9e4f889d-a468-4d4e-a4be-04dd65daba1d",
+    "published_at": "2026-10-03T06:45:10.067527+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "f2df6b38e92afc6b4407bac43449788a186486060edbca8c1505cc6a07c07def"
+  },
+  {
+    "id": "9eae8bf9-ed54-4a7e-9577-147ec6a3f599",
+    "title": "Landmark Cutaway Infographic Poster",
+    "prompt": "“A jaw-dropping vertical infographic poster of [LANDMARK], 4:5 aspect ratio. A dramatic 3D cutaway diorama — one quarter of the structure cleanly sliced away to reveal its hidden interior: staircases, chambers, foundations, mechanisms, structural skeleton, all rendered in exquisite miniature detail.\nThe landmark sits on a floating slab of terrain with surrounding ground-level context (trees, tiny people, roads, water — whatever fits [LANDMARK]), with a cross-section of underground foundations visible below street level.\nBACKGROUND: A solid deep [BACKGROUND COLOR] — rich, saturated, and flat. No gradients, no sky, no texture. The color should feel like a premium museum exhibition wall. The landmark and terrain float against it with soft shadow underneath.\nCUTAWAY: The interior slice reveals every hidden layer — structural skeleton, floors, rooms, mechanical systems, secret spaces — rendered with obsessive detail like a luxury collectible model. Warm interior lighting glows from within the revealed sections, contrasting with the exterior materials.\nCALLOUTS: 8–10 thin white hairline pointer lines extending from specific interior and exterior details to short ALL-CAPS labels with a one-line description beneath each. Labels placed asymmetrically, never crowding each other, balanced left and right of the landmark.\nTITLE: The landmark's name in massive condensed bold serif uppercase across the top, in a warm off-white or cream tone. Below it, the city, country, and year in small elegant letter-spaced type.\nBOTTOM: One single jaw-dropping stat about [LANDMARK] in enormous display numerals spanning the full width, with a short descriptor phrase beneath it in smaller caps.\nSTYLE: Wes Anderson symmetry, product-shoot studio lighting, tactile and warm. The cutaway feels like a $500 collectible figurine photographed for a luxury catalogue. No dark moody skies, no glass panels, no floating data boxes, no clutter.”",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "TechieSA",
+      "handle": "TechieBySA"
+    },
+    "source_platform": "X",
+    "source_id": "2081444405781594232",
+    "source_url": "https://x.com/TechieBySA/status/2081444405781594232",
+    "images": [
+      "https://pbs.twimg.com/media/HOLGph3W4AAvXIj.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOLGphtXoAATMKP.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOLGphrX0AEsBgT.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOLGphtW0AAgC8v.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/9eae8bf9-ed54-4a7e-9577-147ec6a3f599",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/9eae8bf9-ed54-4a7e-9577-147ec6a3f599",
+    "published_at": "2026-10-03T06:45:03.677643+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "53206c63adae1c3d909c3c62097292e4c392413e296d47e7b08e44e7287bc6a6"
   },
   {
     "id": "9ee550b1-5ba5-4496-b748-fc9040d3fa8f",
@@ -12682,6 +13274,35 @@
     "content_hash": "4b98de4c53f21de5c271c5b460fa9ac369a72a185d69f1e734c9a2077f139856"
   },
   {
+    "id": "a89cb610-abbf-4887-854b-219cd35d06ef",
+    "title": "Brutalist Cliffside Living Room",
+    "prompt": "Brutalist concrete living room extending over a sheer mountain cliff, raw white-washed concrete walls and ceiling, dramatic angular window slits, one bold neon-red sculptural chaise lounge as the only furniture, polished white terrazzo floor, moody dramatic lighting, stark shadows, monumental scale, vertical framing --ar 9:16",
+    "category": "scene-space",
+    "model_key": "grok",
+    "model_name": "Grok",
+    "model_family": null,
+    "author": {
+      "name": "Shams",
+      "handle": "ShamsAmin56"
+    },
+    "source_platform": "X",
+    "source_id": "2080998968612291010",
+    "source_url": "https://x.com/ShamsAmin56/status/2080998968612291010",
+    "images": [
+      "https://pbs.twimg.com/media/HOEw5LiWMAAU3W7.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOEw5LgWQAEtODp.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOEw5LhXkAA5wEj.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOEw5LdWcAEDzSz.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a89cb610-abbf-4887-854b-219cd35d06ef",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a89cb610-abbf-4887-854b-219cd35d06ef",
+    "published_at": "2026-10-03T06:44:59.783952+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "78c78e2ec2b44caf3ad2a7264a2ca647af71c821fb2d6bf62c9fd03d3720bd0b"
+  },
+  {
     "id": "a8a9b365-b6fd-4c31-9bc4-1dbc72c24758",
     "title": "Whimsical Folk Flat Illustration with Doodle Elements",
     "prompt": "2. Please transform the entire image into a single Decorative Folk Flat Illustration with Doodle elements. Use a bold and playful color palette, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical",
@@ -13043,6 +13664,35 @@
     "content_hash": "3a1c6a813f85d01fd2cb30ef3bc4847726fec29f230a4c2db9dd6c108862174b"
   },
   {
+    "id": "af895d9d-e54f-4793-8e0c-f1292a177acb",
+    "title": "Ultra-Realistic Cinematic House Exterior",
+    "prompt": "Create an ultra-realistic cinematic house exterior with stunning architectural design and premium visual aesthetics. The house can be modern, luxury, rustic, cottage, gothic, fantasy, royal, or minimalist in style. Include highly detailed architecture, large windows, elegant textures, beautiful landscaping, realistic pathways, glowing interior lighting, and immersive outdoor surroundings.\n\nThe environment should feel like a high-budget movie scene mixed with professional architectural photography and luxury real-estate advertising. Add dramatic cinematic lighting, volumetric sunlight, atmospheric fog, realistic reflections, shadows, rain or sunset mood, garden lights, trees, flowers, water elements, and detailed environmental effects for a visually powerful composition.\n\nUse wide-angle cinematic camera perspective, depth of field, HDR lighting, ray tracing, photorealistic rendering, Unreal Engine quality, cinematic color grading, hyper-detailed textures, luxury aesthetic, masterpiece composition, ultra-realistic environment design, highly immersive atmosphere, 8K ultra detail.",
+    "category": "scene-space",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Ayesha.",
+      "handle": "iayeshayousuf"
+    },
+    "source_platform": "X",
+    "source_id": "2056012137001349171",
+    "source_url": "https://x.com/iayeshayousuf/status/2056012137001349171",
+    "images": [
+      "https://pbs.twimg.com/media/HIhsI-PbIAAMqAy.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HIhsJDaaAAAJNRZ.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HIhsJFdbUAA_yqE.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HIhsJHmbEAAX6Rc.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/af895d9d-e54f-4793-8e0c-f1292a177acb",
+    "published_at": "2026-10-03T06:44:35.121789+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "c9a6ad10ace1d3c3c2610e7cba37194657ce58e2fcd2eeacb04bf27d4b7ce3fd"
+  },
+  {
     "id": "afb85975-e489-4112-bb34-e8349f67897e",
     "title": "Golden Morning in Khan el-Khalili Bazaar",
     "prompt": "A bustling, medium tracking shot down a narrow alleyway in the newly expanded Khan el-Khalili bazaar in the early morning, 1500 AD. Sharp, distinct shafts of golden morning sunlight pierce through the wooden slatted roof, illuminating swirling dust motes.\nMerchants in voluminous turbans are unrolling vibrant Persian and Egyptian carpets, while hanging brass lanterns catch the bright sun.\nThe scene is incredibly dense with rich textiles and metallic reflections.\nStyle & Technicals: Cinematic documentary style, volumetric lighting, rich color palette, depth of field (f/2.8), photorealistic fabric and brass textures, 35mm lens.\n#ChatGpt on @runwayml",
@@ -13179,6 +13829,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "19d544c5cb4675c0dc34c0acb01de5a7719d2946cdb733aa35c5ef81d6b4ffe4"
+  },
+  {
+    "id": "b19f42a2-8ad0-443f-a329-ecea0ae8d0da",
+    "title": "Corporate Fashion Editorial Triptych Portrait",
+    "prompt": "version\": \"4.0\",\n  \"style\": {\n    \"genre\": \"Ultra-realistic corporate fashion editorial\",\n    \"aesthetic\": \"Minimal luxury, modern executive elegance, premium lifestyle photography\",\n    \"quality\": \"16K Ultra-HD, 4K output, HDR, DSLR realism, hyper-detailed, magazine cover quality, photorealistic, cinematic color grading\",\n    \"camera_style\": \"Fashion editorial, Vogue, Harper's Bazaar, luxury campaign\"\n  },\n  \"composition\": {\n    \"layout\": \"Vertical triptych (3-panel collage)\",\n    \"panel_1\": \"Close-up portrait\",\n    \"panel_2\": \"Full-body standing portrait\",\n    \"panel_3\": \"Extreme close-up portrait\",\n    \"panel_spacing\": \"Thin white vertical dividers\",\n    \"aspect_ratio\": \"1:1\"\n  },\n  \"subject\": {\n    \"gender\": \"Young woman\",\n    \"age\": \"Early 20s\",\n    \"ethnicity\": \"European-inspired appearance\",\n    \"body_type\": \"Slim, elegant\",\n    \"pose\": {\n      \"left_panel\": \"Head slightly turned toward camera\",\n      \"center_panel\": \"Standing confidently with one hand inside trouser pocket, other hand resting beside desk\",\n      \"right_panel\": \"Partial face close-up\"\n    },\n    \"expression\": \"Neutral, calm, intelligent, confident, subtle elegance\",\n    \"eye_contact\": \"Directly looking at camera\"\n  },\n  \"face\": {\n    \"shape\": \"Soft oval\",\n    \"skin\": \"Fair porcelain skin with smooth texture\",\n    \"finish\": \"Natural matte with soft glow\",\n    \"eyes\": {\n      \"color\": \"Hazel green\",\n      \"shape\": \"Large almond\",\n      \"lashes\": \"Long defined eyelashes\"\n    },\n    \"eyebrows\": \"Thick natural dark brows\",\n    \"nose\": \"Small straight nose\",\n    \"lips\": {\n      \"shape\": \"Full\",\n      \"color\": \"Muted nude pink\"\n    },\n    \"makeup\": {\n      \"foundation\": \"Natural skin finish\",\n      \"blush\": \"Soft peach\",\n      \"eyeshadow\": \"Warm brown\",\n      \"eyeliner\": \"Thin wing\",\n      \"lipstick\": \"Matte nude\"\n    }\n  },\n  \"hair\": {\n    \"color\": \"Dark chocolate brown\",\n    \"style\": \"Messy high bun\",\n    \"texture\": \"Soft wavy\",\n    \"details\": [\n      \"Loose face-framing strands\",\n      \"Natural volume\",\n      \"Slightly tousled finish\"\n    ]\n  },\n  \"eyewear\": {\n    \"type\": \"Round oversized eyeglasses\",\n    \"frame\": \"Brown tortoise shell\",\n    \"lens\": \"Clear anti-reflective\"\n  },\n  \"jewelry\": {\n    \"earrings\": \"Medium gold hoop earrings\",\n    \"necklace\": \"None\",\n    \"rings\": \"Minimal or not visible\"\n  },\n  \"outfit\": {\n    \"top\": {\n      \"type\": \"Cream ribbed turtleneck sweater\",\n      \"fit\": \"Slim fit\"\n    },\n    \"blazer\": {\n      \"color\": \"Dark espresso brown\",\n      \"style\": \"Tailored business blazer\",\n      \"fit\": \"Relaxed structured fit\"\n    },\n    \"pants\": {\n      \"type\": \"High-waisted tailored trousers\",\n      \"color\": \"Dark brown\",\n      \"fit\": \"Wide straight leg\"\n    },\n    \"belt\": {\n      \"material\": \"Brown leather\",\n      \"buckle\": \"Classic gold buckle\"\n    },\n    \"shoes\": {\n      \"type\": \"Brown pointed-toe heels\",\n      \"finish\": \"Leather\"\n    }\n  },\n  \"environment\": {\n    \"location\": \"Luxury executive office\",\n    \"design\": \"Modern contemporary workspace\",\n    \"background\": [\n      \"Dark wooden shelving\",\n      \"Warm ambient shelf lighting\",\n      \"Decorative books\",\n      \"Minimal ceramic vases\",\n      \"Office desk\",\n      \"Laptop\",\n      \"Small indoor plant\",\n      \"Large window with soft daylight\"\n    ]\n  },\n  \"lighting\": {\n    \"type\": \"Soft cinematic natural light\",\n    \"key_light\": \"Window daylight\",\n    \"fill_light\": \"Warm indoor ambient lighting\",\n    \"temperature\": \"Warm neutral\",\n    \"shadows\": \"Soft realistic shadows\"\n  },\n  \"camera\": {\n    \"camera\": \"Hasselblad X2D\",\n    \"lens\": \"85mm portrait lens\",\n    \"aperture\": \"f/1.8\",\n    \"ISO\": 100,\n    \"shutter_speed\": \"1/250s\",\n    \"focus\": \"Sharp focus on eyes\",\n    \"depth_of_field\": \"Shallow DOF with creamy background bokeh\"\n  },\n  \"color_palette\": {\n    \"primary\": [\n      \"Dark brown\",\n      \"Cream\",\n      \"Warm wood\",\n      \"Gold\",\n      \"Soft beige\"\n    ],\n    \"mood\": \"Elegant, luxurious, professional\"",
+    "category": "portrait",
+    "model_key": "gpt-image",
+    "model_name": "GPT Image",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "NUSRAT",
+      "handle": "nxnusratul"
+    },
+    "source_platform": "X",
+    "source_id": "2075517102245728429",
+    "source_url": "https://x.com/nxnusratul/status/2075517102245728429",
+    "images": [
+      "https://pbs.twimg.com/media/HM23zE4bwAAPQrW.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/b19f42a2-8ad0-443f-a329-ecea0ae8d0da",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/b19f42a2-8ad0-443f-a329-ecea0ae8d0da",
+    "published_at": "2026-10-02T07:14:36.448945+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "8ae5f01304827865ec4b7d36072738121d271fc9aa793ebc5c0e2235552b5e76"
   },
   {
     "id": "b20c605a-de0f-4ddb-8b87-136879ee4208",
@@ -14083,6 +14759,33 @@
     "content_hash": "fa78fadb89155a9c1f8239dd444557be552b9d5ef844d29a27397d20acd7d347"
   },
   {
+    "id": "bd35ff88-1392-43ca-be7b-33c46bf7ea36",
+    "title": "Blue Ballpoint Ink Zine Poster Illustration",
+    "prompt": "\"Ultra-detailed blue ballpoint pen illustration translated into monochrome black ink, dense cross-hatching and fine hatch shading, intricate biro sketch texture, obsessive linework, engraved contour rendering, hand-drawn pen illustration aesthetic, expressive organic strokes, editorial surreal composition, high-detail facial rendering, layered sketchbook construction lines, vintage technical scribbles and handwritten notes in pure white only over bold red background, white typographic annotations integrated into backdrop, underground zine poster aesthetic, raw imperfect ink marks, high-contrast black ink subject against vivid red field, experimental graphic design, avant-garde magazine cover style --ar 9:16 --stylize 750.\"",
+    "category": "poster-graphic",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2098087685348892674",
+    "source_url": "https://x.com/HustleXR/status/2098087685348892674",
+    "images": [
+      "https://pbs.twimg.com/media/HR3nnAIXYAYSAvd.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HR3nnAlawAEwyt2.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/bd35ff88-1392-43ca-be7b-33c46bf7ea36",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/bd35ff88-1392-43ca-be7b-33c46bf7ea36",
+    "published_at": "2026-10-02T07:14:59.488754+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "e652ec8a5e0ef572158d927de1f0665257883512229f1643c3d6614d4a02b1a0"
+  },
+  {
     "id": "bd6ce446-9dfc-4266-b051-f42c75af307d",
     "title": "Gym Selfie with Adidas Sports Bra",
     "prompt": "{\n\"prompt\": \"A highly detailed, realistic photograph of a beautiful young woman in her early 20s taking a gym selfie. She has fair skin with a light sweat sheen, striking blue-green eyes, subtle natural makeup, and light brown hair with darker roots tied in a messy high ponytail with loose strands framing her face. She is wearing a vibrant royal blue ribbed Adidas triangle sports bra with the black Adidas logo visible on the left side, and black leggings. She has a delicate pearl choker necklace and small gold hoop earrings. She is holding a smartphone with a black-and-white speckled/dalmatian-style case in her right hand, capturing her reflection. Confident slight smile, head slightly tilted, looking at the phone camera. Toned athletic physique with visible collarbones and abs. Gym setting with green artificial turf floor, treadmills, exercise balls, and large windows showing a city night view with lights in the background. Soft indoor lighting mixed with cool fluorescent gym lights, cinematic composition, sharp focus, photorealistic, 8k detail, natural skin texture, sweaty glow.\",\n\"negative_prompt\": \"blurry, deformed, ugly, extra limbs, bad anatomy, watermark, text, overexposed, underexposed, cartoon, painting, illustration, low quality\",\n\"aspect_ratio\": \"9:16\",\n\"style\": \"photorealistic\",\n\"quality\": \"high\"",
@@ -14187,6 +14890,62 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "0f2c899f2b3861f261f8897e048159b87ba6241ca620a4081f8be94ff9701573"
+  },
+  {
+    "id": "bf809ccc-3b6b-433b-9946-dfd2d93169a5",
+    "title": "Black-and-White High Fashion Jewelry Editorial",
+    "prompt": "Black-and-white high fashion jewelry editorial photograph featuring two models — a woman in the foreground and a man in the background. The woman has sleek hair pulled back tightly, wearing a black turtleneck top, a small geometric diamond stud earring, and a delicate diamond eternity ring on her finger. Her hand rests gently on the man's chest/shoulder. The man is positioned behind her in side profile, head slightly tilted upward, wearing a dark structured jacket, his face partially in deep shadow creating a dramatic silhouette. Pure white overexposed background. Dramatic high contrast studio lighting with deep shadows sculpting the faces. Intimate yet distant mood, luxury jewelry campaign aesthetic, sharp focus on the ring and earring, cinematic composition, shot from a slight low angle looking up, editorial Vogue or Tiffany & Co. campaign style, 8K, hyper-realistic.",
+    "category": "commercial-product",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Maddox",
+      "handle": "Maddox_Digital"
+    },
+    "source_platform": "X",
+    "source_id": "2075576614973530314",
+    "source_url": "https://x.com/Maddox_Digital/status/2075576614973530314",
+    "images": [
+      "https://pbs.twimg.com/media/HM3t6c2bYAAmrGo.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HM3t7KhaUAAt7zP.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/bf809ccc-3b6b-433b-9946-dfd2d93169a5",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/bf809ccc-3b6b-433b-9946-dfd2d93169a5",
+    "published_at": "2026-10-03T06:44:53.425279+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "9d5b1755bb632b4e0cdc1b31651bdf7d7472edd7ef882471e58f6678c007b54b"
+  },
+  {
+    "id": "bfafecae-53ee-43d2-bd1a-852ae6648748",
+    "title": "Comic-Book Illustration Style Prompt",
+    "prompt": "Modern comic-book illustration style with a semi-realistic approach, bold inked linework combined with clean sharp edges, dynamic cel-shading with high contrast between light and shadow, subtle painterly blending on skin while maintaining graphic comic aesthetics, vibrant yet slightly gritty color grading, strong rim lighting and dramatic highlights, stylized anatomy with heroic proportions, detailed hair rendered with flowing strands and sharp highlights, textured brush splashes and ink splatter accents for a dynamic effect, minimalistic light background to emphasize the subject, cinematic composition, ultra-detailed, high resolution, graphic novel quality.\nar 9:16!",
+    "category": "character-art",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2100100831945408531",
+    "source_url": "https://x.com/HustleXR/status/2100100831945408531",
+    "images": [
+      "https://pbs.twimg.com/media/HSUOklcXQAACy5l.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSUOklWWAAEI8_e.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSUOklbWQAAnTUD.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSUOkleWsAAtaYI.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/bfafecae-53ee-43d2-bd1a-852ae6648748",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/bfafecae-53ee-43d2-bd1a-852ae6648748",
+    "published_at": "2026-10-02T07:15:15.320526+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "b8f508e7dddd1322fff95f0a55b4a80c7a1cb38e04a498d791ca0be668f7e066"
   },
   {
     "id": "bfdd2c53-cd3b-4448-9753-3c72ff8b0dcf",
@@ -14510,6 +15269,35 @@
     "content_hash": "f8948d02c2207015271d2622d68afd42054d21cb8bb705f22f273c431717b0b5"
   },
   {
+    "id": "c709c036-8035-405d-aa92-ae77131c9c84",
+    "title": "Cinematic Taj Mahal Model Portrait",
+    "prompt": "a elegant long hair, black girl model wearing black summer dress, standing in front of the taj mahal with a big elephant touching her with its trunk, Whole body in frame shot from the side. Soft outdoor daylight, diffused lighting, warm highlights, gentle white tones, natural color grading. Natural skin texture, realistic facial proportions, confident yet friendly expression. High-end commercial photography, photorealistic, ultra-detailed, cinematic realism. Canon EOS R5, 85mm lens, f/1.2 aperture, shallow depth of field, creamy bokeh, sharp focus, 8K, the camera makes a close up, she is posing for the camera",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Maddox",
+      "handle": "Maddox_Digital"
+    },
+    "source_platform": "X",
+    "source_id": "2084094837012455860",
+    "source_url": "https://x.com/Maddox_Digital/status/2084094837012455860",
+    "images": [
+      "https://pbs.twimg.com/media/HOwxKZjaUAAmWJY.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOwxLP7asAAShCg.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOwxMCaaIAAva7n.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HOwxM4mawAEnF3p.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/c709c036-8035-405d-aa92-ae77131c9c84",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/c709c036-8035-405d-aa92-ae77131c9c84",
+    "published_at": "2026-10-02T07:14:43.711484+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "7c2f5fa56b82178b6679f32f7e3a81c289a62fecfbcb470db0a7df2059578dce"
+  },
+  {
     "id": "c8f675e3-ef54-4b57-81cf-e3e2634ab08d",
     "title": "Sun-Kissed Morning Portrait with Striking Features",
     "prompt": "{\n\"subject\": {\n\"identity\": {\n\"biometric_reference\": \"Gal Gadot\",\n\"facial_structure\": \"Strong oval facial structure, sharply defined elegant jawline, high sculpted cheekbones, straight refined nose bridge\",\n\"eyes\": \"Deep warm dark brown irises with distinct limbal rings, realistic sclera vascularity\",\n\"hair\": \"Voluminous, layered dark brunette waves, styled flowing downward with soft face-framing strands around the shielded face, natural sheen\"\n},\n\"body\": {\n\"somatotype\": \"Tall, athletic, and slender frame with toned musculature\",\n\"skin\": \"Sun-kissed olive complexion with realistic subsurface scattering and visible tan lines\",\n\"feet\": \"Fully visible, resting on pavers, with glossy white toenail polish\"\n},\n\"pose\": {\n\"orientation\": \"Seated, leaning back on right hand, left hand shielding forehead\",\n\"legs\": \"Extended forward, fully visible feet resting on the stone pavers\",\n\"hand_detail\": \"Left hand shielding eyes, fingers naturally relaxed, no jewelry\"\n}\n},\n\"wardrobe\": {\n\"primary_garment\": \"Deep crimson halter-neck one-piece swimsuit with central knot detail\",\n\"accessories\": \"none\"\n},\n\"scene\": {\n\"environment\": \"Outdoor poolside patio with weathered grey granite pavers\",\n\"background\": \"Reflective glass sliding door, wicker armchair\"\n},\n\"lighting\": {\n\"source\": \"Hard midday sunlight\",\n\"characteristics\": \"High-contrast, sharp shadows, realistic micro-glints on skin and fabric\"\n},\n\"camera\": {\n\"format\": \"9:16 vertical aspect ratio\",\n\"shot_type\": \"Medium close-up portrait, focusing on torso, face, and extended legs/feet\",\n\"technical_quality\": \"Raw 8k photorealistic capture, sharp focus, no artifacts\",\n\"negative_constraints\": [\n\"no jewelry\",\n\"no bracelets\",\n\"no necklace\",\n\"no blonde hair\",\n\"no light hair\",\n\"no extra limbs\",\n\"no distorted features\",\n\"no logos\",\n\"no beautify smoothing\",\n\"no text\"\n],\n\"reflection_integrity_rules\": \"Ensure perfect structural and color consistency for all subjects and background elements reflected in the glass sliding door; no ghostly duplication, no clipping, and exact alignment with real-world spatial positioning.\"",
@@ -14806,6 +15594,34 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "86d8af045c92a6c852192a4ecce493c8ad403cd3caf0493789da0b7bd17c11da"
+  },
+  {
+    "id": "cd24a259-12f5-4997-aca3-801eaff33460",
+    "title": "Engraving-Style Semi-Realistic Digital Painting",
+    "prompt": "Soft semi-realistic digital painting blended with highly detailed engraving illustration style, combining painterly softness with ultra-fine crosshatching and dotting techniques. Cinematic warm lighting with a strong golden-orange glow illuminating one side of the subject, contrasted by soft cool shadows, enhanced by dramatic chiaroscuro. Skin and textures are rendered through a fusion of smooth luminous digital shading and dense layered engraving lines, creating a balance between soft gradients and intricate linework. Subtle glossy highlights and reflective surfaces are preserved, especially in the eyes, giving a luminous and lifelike appearance.\nDelicate painterly blending remains visible through soft brush strokes, seamlessly integrated with precise contour lines and micro-detail etching, forming rich textures built from thousands of fine strokes. Edges transition naturally—sharp and clean in focal areas while dissolving into loose sketch-like strokes in unfinished regions. The top of the head and lower body fade into an incomplete sketch effect with soft, disappearing lines and partially dissolved forms blending into the background.\nBackground uses a textured brown cardboard surface with visible matte grain and slightly rough tactile quality, subtly merged with a dark, studio-like atmospheric depth. The composition is minimalistic and elegant, with a calm yet dramatic mood. Color grading leans toward warm, natural tones with a slightly muted and faded palette, maintaining harmony between digital painting warmth and classic engraving aesthetics.\nHigh contrast lighting with deep blacks and controlled highlights enhances depth, while maintaining soft transitions in key areas. Ultra-high detail, macro texture emphasis, cinematic shadow depth, museum-quality finish, handcrafted engraving feel, 8K resolution. Ar 9:16!",
+    "category": "character-art",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2097910747980255291",
+    "source_url": "https://x.com/HustleXR/status/2097910747980255291",
+    "images": [
+      "https://pbs.twimg.com/media/HR1GrB1aQAETXtM.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HR1Gr99WUAMR5kZ.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HR1GszOaUAA7t04.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/cd24a259-12f5-4997-aca3-801eaff33460",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/cd24a259-12f5-4997-aca3-801eaff33460",
+    "published_at": "2026-10-02T07:14:55.926614+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "1a874132389d782856b38a4fbd60f4785c6215cdd5ae5dbabe4ba6a2ca2d36a3"
   },
   {
     "id": "cd2bdc74-f1d0-44a6-a886-86ee09661616",
@@ -15759,6 +16575,32 @@
     "content_hash": "a5ce4d0ab67f95ee533957e3ded8e04e1acd1bbaba42af48cd50005838e441c2"
   },
   {
+    "id": "d62139f0-6b71-42ac-8241-7ee05c30a42c",
+    "title": "Explore India Floating State Islands Travel Poster",
+    "prompt": "CREATE AN ULTRA-PREMIUM COLLECTOR'S EDITION TRAVEL POSTER TITLED:\n\nEXPLORE INDIA\n\nDesign a sophisticated museum-quality editorial poster that celebrates India's diversity through geography rather than ordinary travel photography.\n\nThe poster should feature a collection of floating geological islands suspended in mid-air. Every island must be carved in the EXACT geographic silhouette of a real Indian state, preserving its coastline and borders with high accuracy. The state outlines should be immediately recognizable, not approximated or stylized.\n\nEach floating state should contain ONLY ONE defining landscape or landmark that instantly represents that state. Do not combine multiple attractions. The emphasis is on a single iconic identity.\n\nExamples:\n\n• Jammu & Kashmir → Dal Lake with a lone shikara beneath snow-covered Himalayan peaks.\n• Himachal Pradesh → Key Monastery dramatically perched on a mountain ridge.\n• Uttarakhand → Valley of Flowers in full alpine bloom.\n• Rajasthan → Jaisalmer Fort emerging from golden desert dunes.\n• Gujarat → Endless white salt desert of the Rann of Kutch.\n• Kerala → One winding backwater canal lined with coconut palms and a traditional houseboat.\n• Meghalaya → A single dramatic Living Root Bridge spanning a rainforest stream.\n• Sikkim → Gurudongmar Lake beneath Kanchenjunga.\n• Maharashtra → Raigad Fort atop the Sahyadri cliffs.\n• Karnataka → The stone ruins of Hampi.\n• Tamil Nadu → Brihadeeswarar Temple rising above lush greenery.\n• Goa → One pristine tropical beach with dramatic laterite cliffs.\n\nEach state should feel like a tiny self-contained world rather than a miniature city.\n\nThe islands should have cinematic geological cross-sections with exposed sedimentary rock layers, hanging roots, waterfalls where appropriate, scattered floating debris, realistic erosion, moss, vegetation, and atmospheric mist.\n\nAvoid filling every island with unnecessary details. One iconic feature should dominate each composition while the surrounding terrain simply supports it.\n\nArrange the islands asymmetrically around the title instead of using a perfectly symmetrical grid. Allow generous negative space for a premium editorial feel.\n\nTypography should resemble a luxury travel magazine:\nLarge elegant serif title,\nminimal small-cap labels beneath each island,\nfine decorative divider lines,\nsubtle engraved ornamentation.\n\nBackground:\nDeep charcoal textured paper with warm directional lighting and soft vignette, creating a refined museum exhibition aesthetic rather than a tourism brochure.\n\nColor palette:\nNatural earth tones, sandstone, emerald forests, glacier whites, Himalayan blues, volcanic greys, tropical greens, and warm golden sunlight.\n\nLighting:\nGolden-hour cinematic lighting with soft volumetric atmosphere, realistic shadows, ambient occlusion, physically based rendering, ray-traced reflections where water is present.\n\nStyle:\nHyperreal miniature world, architectural visualization, premium editorial design, National Geographic collector's edition, luxury atlas illustration, floating terrain sculptures, photorealistic environmental storytelling, 8K, ultra-detailed, breathtaking realism.\n\nCRITICAL REQUIREMENTS:\n\n• Every state outline must closely match its real geographic shape.\n• One landmark per state only.\n• No collage of attractions.\n• No people.\n• No vehicles except where iconic (such as a single shikara or Kerala houseboat).\n• Avoid visual clutter.\n• Maintain generous spacing.\n• Each floating landmass should feel like an individually sculpted masterpiece.\n• Original composition with its own visual identity—do not imitate existing posters or layouts.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Hemayxn.ai",
+      "handle": "hemayxn"
+    },
+    "source_platform": "X",
+    "source_id": "2070517020920316070",
+    "source_url": "https://x.com/hemayxn/status/2070517020920316070",
+    "images": [
+      "https://pbs.twimg.com/media/HLv0QG6a4AAjVH4.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/d62139f0-6b71-42ac-8241-7ee05c30a42c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d62139f0-6b71-42ac-8241-7ee05c30a42c",
+    "published_at": "2026-10-02T07:14:31.079123+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "de4d6b62ec3cf679e336bbea271eb35664c0855e2600080cd853f883afc7f1d6"
+  },
+  {
     "id": "d6c99e95-87f3-4164-9634-c1136d1d1f16",
     "title": "Bloom Pop Strawberry Watermelon Campaign Grid",
     "prompt": "-\nBLOOM POP — STRAWBERRY WATERMELON\n“PINK NEVER FELT THIS REFRESHING.”\nULTRA CREATIVE JUMBO MASTER PROMPT — FINAL CAMPAIGN LOCK (BASED ON FINAL 6-GRID)\n(HORIZONTAL 6-GRID • 2×3 • ONE CONNECTED WORLD • BEAUTY × BEVERAGE × INTERNET CULTURE)\nCreate a completely ORIGINAL premium social-first campaign for Bloom Pop — Strawberry Watermelon Sparkling Energy.\nDesign a visually unified horizontal 6-grid campaign (2 rows × 3 columns) that feels like opening one addictive Bloom summer universe—not six individual beverage ads.\nThis campaign should feel like:\nPinterest-core\nbeauty campaign aesthetics\npink internet culture\nvacation dopamine\ncool-girl summer\nfridge aesthetic energy\nY2K internet joy\npoolside softness\nclean-girl meets fun-girl\neditorial refreshment\nsaved-post energy\nmain-character lifestyle\nThis should NOT feel like:\nenergy drink advertising\nsupplement branding\nclinical wellness\nfitness marketing\nperformance culture\nsports drink campaigns\ngeneric influencer content\ncatalog product photography\nThe campaign should feel like:\n✨ sparkling pink happiness\n✨ your favorite summer memory\n✨ a beauty campaign that accidentally became a drink ad\n✨ collectible fridge energy\n✨ “I need this in my hand immediately”\n✨ internet-native joy\n✨ vacation in can form\nAudience emotional ladder:\n“I want that drink.”\n↓\n“I want that fridge.”\n↓\n“I want that summer.”\n↓\n“I want this aesthetic.”\n↓\n“I want to become this person.”\n---\nCAMPAIGN TITLE\nPINK NEVER FELT THIS REFRESHING\nSupporting lines:\nSip the pink life.\nDrink your main character moment.\nCold girl summer.\nEnergy—but make it cute.\nGood mood in a can.\nSweet. Bright. Bloom.\nThis belongs in your camera roll.\nSummer tastes better.\nYour pink era starts now.\nSparkle louder.\n---\nWORLD LOCK (MOST IMPORTANT)\nALL 6 FRAMES MUST EXIST INSIDE:\nTHE BLOOM PINK SUMMER UNIVERSE\nEverything connected.\nEverything collectible.\nEverything cold.\nEverything screenshot-worthy.\nEverything feels like same weather, same afternoon, same vacation.\nVisual language:\nglossy pink gradients\ncold condensation\nsparkling bubbles\njuicy strawberries\nfresh watermelon\npool reflections\nice cubes\nchrome sparkle\nglass shine\nbeauty lighting\neditorial softness\nsummer sunlight\nwater texture\nfruit freshness\nvacation warmth\nsoft glitter\npink air\ncooler aesthetics\ninternet nostalgia\nEvery frame should feel:\nsame campaign\nsame day\nsame emotional temperature\nsame obsession\n---\nCOLOR SYSTEM\nPRIMARY\nBloom pink\nwatermelon red\nsoft magenta\nbubblegum pink\ncream white\ncotton candy\nSECONDARY\nlavender\npastel coral\nwarm peach\nfresh green\nACCENTS\nchrome reflections\nglass highlights\ncold silver\nwater sparkle\nice transparency\nSTRICT:\nNO black\nNO dark styling\nNO muted beige\nNO grey mood\nNO dull color grading\n---\nLIGHTING LOCK\ncommercial beverage lighting\neditorial sunlight\nbright glossy reflections\nsummer glow\ncold condensation\nbeauty campaign softness\nsparkle highlights\npool shimmer\nglass reflections\nLighting emotion:\ncold\nhappy\ntouchable\ngirly\nfresh\nviral\n---\nMATERIAL LANGUAGE\ncondensation\nice cubes\ncold aluminum\nglass reflections\nsparkling drink\nwater droplets\nfruit texture\npool water\nchrome highlights\nsummer skin glow\nEverything should feel:\ncold\njuicy\nfresh\nclean\nshareable\n---\nCAMERA SYSTEM\nsocial-first framing\neditorial realism\nbeauty campaign angles\nmacro beverage\nphone intimacy\ncommercial polish\npremium Instagram compositions\nnatural expressions\nNo distortion.\nNo weird fingers.\nNo duplicated limbs.\nNo over CGI.\nNo uncanny faces.\n---\nCOMPOSITION JOURNEY\nDISCOVERY\n↓\nCRAVING\n↓\nIDENTITY\n↓\nEXPERIENCE\n↓\nGOOD MOOD\n↓\nBELONGING\nResult:\nSAVE → SHARE → WANT → BUY",
@@ -16101,6 +16943,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "e6c0a00d9e2ce37ed579d25771ed33a50b0158dfdfd47627d5619a5c0e52d182"
+  },
+  {
+    "id": "da464b32-35e1-4a6a-9c96-845edfe1fca8",
+    "title": "Vintage Messi European Travel Poster",
+    "prompt": "A vintage-style illustration poster featuring a detailed, smiling portrait of Lionel Messi. He is dressed sharply in a dark blue two-button suit jacket with a bowtie, white shirt, and a patterned pocket square. He is leaning casually with his hands resting on a large, old-fashioned brown leather suitcase. The setting is a detailed old European city street with cobblestones, ornate multi-story buildings, and a classic city tram in the background. Behind him, a large, stylized blue crescent moon with gold stars is prominently displayed, surrounded by dynamic blue and sepia-toned paint splatters and dots. The entire composition has a hand-drawn, textured quality on aged, yellowed paper, with thick lines and a vintage print feel. The color palette is composed of blues, sepia browns, gold, and aged paper tones. The aspect ratio is vertical.",
+    "category": "portrait",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Minahil",
+      "handle": "Minahil42298354"
+    },
+    "source_platform": "X",
+    "source_id": "2066149061216915547",
+    "source_url": "https://x.com/Minahil42298354/status/2066149061216915547",
+    "images": [
+      "https://pbs.twimg.com/media/HKxvnDwWUAAu_OW.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/da464b32-35e1-4a6a-9c96-845edfe1fca8",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/da464b32-35e1-4a6a-9c96-845edfe1fca8",
+    "published_at": "2026-10-02T07:14:21.627276+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "8b414ba608b45c1a77c3cf09c9d9cfbff42c96d5253ff23dc01601896a7acb3e"
   },
   {
     "id": "da934fe0-b4f4-4d1b-85eb-ed3f8217f12e",
@@ -17445,6 +18313,35 @@
     "content_hash": "d232ef8c183829cc4263760218e5863b809e8ad02a73324fdb41f79814fe6be9"
   },
   {
+    "id": "e9915f4c-2619-4671-8701-858b5599d76c",
+    "title": "Watercolor Portrait With Painter's Hand",
+    "prompt": "Ar 9:16! Expressive loose watercolor illustration style, ultra-detailed watercolor portrait rendering, soft translucent paint layering, wet-on-wet watercolor diffusion, natural pigment bleeding effects, delicate brushstroke textures, airy hand-painted aesthetic, realistic anatomy blended with painterly abstraction, subtle ink-like edge definition, elegant unfinished watercolor splashes around the composition, soft feathered transitions between colors, luminous paper texture visible through transparent paint layers, warm natural skin tones with gentle blush highlights, cinematic soft lighting, flowing organic brush movement, refined watercolor realism with emotional fine art atmosphere, smooth facial rendering contrasted with loose expressive edges, handcrafted traditional painting aesthetic, watercolor bloom effects, fluid color gradients, lightly desaturated palette with earthy warm neutrals and muted blues, premium sketchbook illustration style, visible artistic spontaneity, delicate strand-like hair strokes, atmospheric white negative space, minimal background detail, soft focus depth, editorial fine art watercolor aesthetic, subtle accidental paint marks and organic imperfections, elegant composition balance, painter’s hand holding a thin paintbrush visible in foreground, immersive artist-at-work perspective, realistic brush and hand rendering, museum-quality watercolor artwork, timeless classical painting mood, sophisticated contemporary watercolor portrait style, ultra refined paper-and-pigment texture, dreamy and poetic visual tone, handcrafted artistic realism, master-level watercolor detailing.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2096539446120530325",
+    "source_url": "https://x.com/HustleXR/status/2096539446120530325",
+    "images": [
+      "https://pbs.twimg.com/media/HRhngZ6bUAA3TJD.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HRhngZ0a4AANTT2.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HRhngZ7akAA294l.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HRhngZpbsAAj2wJ.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/e9915f4c-2619-4671-8701-858b5599d76c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/e9915f4c-2619-4671-8701-858b5599d76c",
+    "published_at": "2026-10-02T07:14:50.621087+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "66a7260a62f195483a4e0b7e5c2e0cab4a8f2adde0b0be3ffad4d41d133b562e"
+  },
+  {
     "id": "e9b084d7-d0b2-4243-b041-4376d8db3789",
     "title": "Vibrant Fragrance Campaign with Bold Blue Backdrop",
     "prompt": "Ultra-realistic lifestyle product portrait of a young man holding a large red glass perfume bottle toward the camera, shot with a wide-angle lens for dramatic perspective. Bright solid blue studio background. Casual streetwear outfit with beanie, layered shirt, chain necklace. Confident, friendly expression. Sharp focus on the perfume bottle with visible branding, glossy reflections on glass. Even studio lighting, vibrant colors, modern advertising aesthetic, shallow depth of field, high-resolution commercial photography, contemporary fragrance campaign style.",
@@ -17889,6 +18786,34 @@
     "content_hash": "8df3eb48a7149305d416204e8fb27990b071bcadb53216c04d27de4a590fbaad"
   },
   {
+    "id": "efe11ff2-16af-4656-a41c-37ad87b9973c",
+    "title": "Expressive Oil Painting Portrait Style",
+    "prompt": "Expressive oil painting, loose brushwork, painterly portrait style, visible brush strokes, impressionistic realism, textured canvas feel, warm earthy tones (ochre, sienna, umber), soft natural lighting, rough edges and unfinished background, focus on facial texture and character, rich skin tones with subtle highlights, gestural painting technique, traditional fine art style, slightly abstracted details, organic blending, handcrafted look, muted background, artistic spontaneity, museum-style portrait painting. Ar 9:16!",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2099445268634894339",
+    "source_url": "https://x.com/HustleXR/status/2099445268634894339",
+    "images": [
+      "https://pbs.twimg.com/media/HSK6UW5XYAM-KP7.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSK6UUnbQAAoFoF.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSK6UW0WkAAUNif.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/efe11ff2-16af-4656-a41c-37ad87b9973c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/efe11ff2-16af-4656-a41c-37ad87b9973c",
+    "published_at": "2026-10-02T07:15:06.771241+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ac6b9303c9e8c9cadde24e1ee0edcc4153521385e34249595eff3c74579408b5"
+  },
+  {
     "id": "f013cad3-544b-4fb7-a990-2551e45f84b7",
     "title": "Supercar on the Moon",
     "prompt": "Supercar on the Moon 🔥\nBeyond roads. Beyond limits. 🌕🏎️\nSome dreams are built for another world.\nCreated with Nano Banana 2 on @Lart_AI\nCheck the Stey bye step Tutorial here 👇🏻",
@@ -18324,6 +19249,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "cf6460a830925c4fbf19d475f7860694e587df565774131759385bda1dc8d721"
+  },
+  {
+    "id": "f5119f87-233b-42f7-845f-320c79812c10",
+    "title": "Japanese Woman with Milk Jelly Close-Up",
+    "prompt": "日本人の２０歳女性が薄暗いホテルのベッドの上で膝を立てて座っている。女性は手のひらに収まる筒状のパックに入った牛乳ゼリーを握っている。思わず強く握った拍子に顔にゼリー状の牛乳が口元にかかってしまう。少し嬉しそうな柔らかい表情で目をつぶっている。顔だけをかなりアップにした画像。パッケージを見せず顔だけにする。",
+    "category": "portrait",
+    "model_key": "grok",
+    "model_name": "Grok",
+    "model_family": null,
+    "author": {
+      "name": "こやす69＠AIプロンプト屋",
+      "handle": "AI_money_club"
+    },
+    "source_platform": "X",
+    "source_id": "2092582836226449733",
+    "source_url": "https://x.com/AI_money_club/status/2092582836226449733",
+    "images": [
+      "https://pbs.twimg.com/media/HQku0OKbMAA8Ibt.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f5119f87-233b-42f7-845f-320c79812c10",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f5119f87-233b-42f7-845f-320c79812c10",
+    "published_at": "2026-10-03T06:45:13.510903+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "8766c9a54bd0606959c1f923e7a120f6ba0f86da0622bbdfe46937442ebe30dc"
   },
   {
     "id": "f52aacd4-f8f8-4f66-9e19-224e0e610732",
@@ -18873,6 +19824,34 @@
     "content_hash": "0fd1e1ab5547a6677de5d4cf4023d6c4f0c5e2ca8e238b580c2c83089bf1e82c"
   },
   {
+    "id": "fcdc1324-3613-457b-934d-7c538267bbe6",
+    "title": "Architectural Watercolor Painting",
+    "prompt": "Expressive architectural watercolor painting, fluid confident brushwork, delicate structural ink/sketch lines, bright textured white paper background. Exact palette: deep charcoal gray, cool slate blue, warm golden-amber, beige, crisp white, subtle black accents. Glistening wet reflections, luminous atmospheric mist, controlled washes & paint splatters, translucent layered depth, balanced warm/cool contrast, elegant semi-simplified details, airy metropolitan mood, premium handcrafted fine-art quality. Ar 9:16!",
+    "category": "scene-space",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2099721717853860339",
+    "source_url": "https://x.com/HustleXR/status/2099721717853860339",
+    "images": [
+      "https://pbs.twimg.com/media/HSO1xNwW8AAUtKg.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSO1xNwW0AEYQ1a.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSO1xN1WYAA97AB.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/fcdc1324-3613-457b-934d-7c538267bbe6",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/fcdc1324-3613-457b-934d-7c538267bbe6",
+    "published_at": "2026-10-02T07:15:13.178852+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "d9220dd1fabc54d4786a86297bf0b82282a0a1abe7f131769e2549da1af12a06"
+  },
+  {
     "id": "fd2dc468-5c6f-452d-8eb8-effccbde7d0a",
     "title": "Summer Solstice Stillness: A Modern Elegy for Duanwu",
     "prompt": "生成一张 9:16 竖版高级海报，主题为「端午」，但必须彻底跳出传统节日海报框架。不要做粽子、卡通龙舟、红金喜庆、祥云边框、安康祝福模板，也不要做成过度概念化的设计师海报。整张图要像 Pinterest 高收藏视觉、年轻人会一眼喜欢并愿意保存的夏日情绪海报。核心表达是：端午不是热闹过节，而是夏天来临时，人从喧闹中慢下来、重新找回呼吸和节奏。画面以清爽、松弛、时尚、安静、自然为气质主轴，营造一种夏天、微风、水面反光、植物生长、阳光洒落、空气流动的感觉。可以出现一位年轻亚洲人物，穿着白衬衫或浅色亚麻夏装，作为情绪锚点，人物不必突出五官，而要突出整体氛围与生活方式感。场景可结合极简水边空间、现代东方露台、白墙、窗边、自然光影、绿色植物等元素。端午元素必须被高级转译：艾草 / 菖蒲转化为修长的绿色植物符号，龙舟转化为流动线条、节奏轨迹和排列感，水作为核心视觉材质以清透反光、水波纹、镜面感流动高光呈现，粽叶转化为绿色叶形、折叠结构或布料包裹感，但不要直接画粽子。整体构图要留白充足、呼吸感强、像时尚杂志封面与生活方式 campaign 视觉。色彩以雾白、米白、浅灰、苔绿色、鼠尾草绿、水蓝、柔和青绿色为主，少量深墨绿或深靛色压住画面，可极少量点缀浅金或柔和橘红。质感上要有自然光、轻微胶片颗粒、印刷感、轻海报纸张质地，避免过度光滑的 AI 感。文字排版极简高级，中文主标题「端午」，可搭配副文案「把夏天，过得慢一点」或英文「Slow into summer.」，整体像高端品牌海报、Pinterest 高赞图片、小红书高审美封面。",
@@ -19035,6 +20014,34 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "a49bf994c28995fbd9b131b8b232334bd4e4885e0dcb5dc473f4b956338d5b30"
+  },
+  {
+    "id": "ff0b57fd-16cf-40f4-b04a-b7a9f564c039",
+    "title": "Atelier-Style Digital Oil Portrait",
+    "prompt": "Digital oil painting with a semi-realistic portrait approach, painterly brushwork with visible, loose strokes and textured edges. Soft blending on facial features combined with expressive, rough brush strokes around the hair and clothing. Use a warm, natural skin tone palette with subtle color variation (peach, beige, soft pink highlights) and gentle light diffusion.\nLighting is soft and directional, slightly from the front/side, creating smooth shadows without harsh contrast. Emphasize natural highlights on the nose, cheeks, and forehead with a slightly glossy, painterly finish.\nBackground is abstract and minimal, composed of broad, dry-brush strokes with muted colors (desaturated teal, gray, olive, and beige), creating a soft halo effect around the subject. Edges of the subject fade organically into the background using broken brush strokes.\nColor treatment is vibrant but controlled, with warm tones (orange, red) contrasted against cool, muted background hues. Brush strokes should feel spontaneous and layered, with visible paint texture, as if done on canvas.\nOverall finish should resemble a modern atelier-style portrait painting, slightly stylized but still grounded in realism, with an artistic, handcrafted feel rather than hyper-detailed realism. No sharp outlines—forms are defined by color and light transitions.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Zayan",
+      "handle": "HustleXR"
+    },
+    "source_platform": "X",
+    "source_id": "2100463992938643539",
+    "source_url": "https://x.com/HustleXR/status/2100463992938643539",
+    "images": [
+      "https://pbs.twimg.com/media/HSZY3acb0AAcw4_.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSZY3apbgAA8_dc.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HSZY3aUbYAISu61.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/ff0b57fd-16cf-40f4-b04a-b7a9f564c039",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/ff0b57fd-16cf-40f4-b04a-b7a9f564c039",
+    "published_at": "2026-10-02T07:15:20.092972+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "b4d94c3957da1cf24a8985e6a136227e0e8b2e9ee0e402c7f7f126d3e460769a"
   },
   {
     "id": "ff2f80aa-bd6b-4456-aeb0-91bdcb693f3e",
