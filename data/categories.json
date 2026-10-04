@@ -5,7 +5,7 @@
       "en": "Portrait",
       "zh": "人像摄影"
     },
-    "count": 247
+    "count": 252
   },
   {
     "key": "commercial-product",
@@ -13,7 +13,7 @@
       "en": "Commercial & Product",
       "zh": "商业产品"
     },
-    "count": 133
+    "count": 134
   },
   {
     "key": "poster-graphic",
@@ -21,7 +21,7 @@
       "en": "Poster & Graphic",
       "zh": "海报设计"
     },
-    "count": 134
+    "count": 135
   },
   {
     "key": "food-drink",
@@ -37,7 +37,7 @@
       "en": "Character & Art",
       "zh": "角色艺术"
     },
-    "count": 136
+    "count": 138
   },
   {
     "key": "scene-space",
@@ -45,6 +45,6 @@
       "en": "Scene & Space",
       "zh": "场景空间"
     },
-    "count": 58
+    "count": 60
   }
 ]

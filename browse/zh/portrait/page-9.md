@@ -320,3 +320,159 @@ Style: ultra-realistic fashion photography, realistic skin texture, natural hair
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/38b83a3d-e0fe-418c-a3ec-7d8289438298?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/AI_money_club/status/2068548212080947519>)
 
 ---
+
+<a id="prompt-7e97b5c6-a124-427e-a47a-877e987ab106"></a>
+
+## Platinum Blue-Haired Alternative Beauty Portrait
+
+<a href="https://musesignal.com/zh/prompt/7e97b5c6-a124-427e-a47a-877e987ab106?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQTEozPW4AA4Mg5.jpg?format=jpg&amp;name=small" width="480" alt="Platinum Blue-Haired Alternative Beauty Portrait" /></a>
+
+**Midjourney** · 原作者: 𝗦𝗮𝗻𝗶𝗮
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Young woman with long straight platinum blonde hair fading into vivid electric blue, center-parted hair, pale skin, dramatic red-orange eye makeup, glossy coral-red lips, silver septum piercing, multiple silver ear piercings, butterfly cheek tattoo, intricate black floral tattoos on neck and chest, tattooed hand covering part of her face, long glossy black nails, red statement ring, intense direct gaze, edgy alternative fashion aesthetic, close-up beauty portrait, perfectly centered composition, vivid red background, professional studio photography, soft dramatic lighting, realistic skin texture, detailed hair strands, natural facial features, high-end editorial photography, ultra photorealistic, sharp focus, shallow depth of field --ar 4:5
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7e97b5c6-a124-427e-a47a-877e987ab106?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/saniaspeaks_/status/2091012408827650094>)
+
+---
+
+<a id="prompt-40a08629-7bec-47d4-a778-e9784fc054e0"></a>
+
+## Ancient Chinese POV Night Portrait with Fireflies
+
+<a href="https://musesignal.com/zh/prompt/40a08629-7bec-47d4-a778-e9784fc054e0?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HL4GF7xaMAAX1cc.jpg?format=jpg&amp;name=small" width="480" alt="Ancient Chinese POV Night Portrait with Fireflies" /></a>
+
+**GPT Image 2** · 原作者: Rossy
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a highly realistic vertical 9:16 ancient-Chinese POV night portrait with authentic smartphone photography aesthetics. High-angle first-person perspective with a gentle diagonal downward view, creating an intimate, immersive interaction.
+
+Interaction: The viewer gently ties a small red wishing ribbon around her wrist while she softly extends her hand toward the camera.
+
+Scene: A peaceful bamboo forest pathway at night, illuminated by hundreds of glowing fireflies. Ancient stone steps, traditional wooden lanterns, soft drifting mist, lush green bamboo swaying gently in the wind, creating a magical and romantic atmosphere.
+
+Outfit: Elegant jade-green Hanfu with delicate gold bamboo embroidery, flowing translucent sleeves, realistic silk fabric, natural folds, graceful layered skirt with authentic movement.
+
+Subject: A beautiful young adult East Asian woman with naturally connected long black hair styled in a traditional half-up hairstyle with jade hairpins and small pearl ornaments. Realistic skin texture, expressive almond-shaped eyes, soft rosy lips, gentle smile, slightly lowered chin while looking warmly toward the viewer with a shy yet trusting expression.
+
+Body: Naturally elegant adult feminine proportions, slim waist, graceful shoulders, realistic posture, healthy body proportions, refined classical beauty.
+
+Lighting: Warm lantern glow mixed with cool moonlight filtering through bamboo leaves. Hundreds of tiny fireflies create subtle golden highlights around her hair, sleeves, and face. Soft cinematic contrast with realistic night photography.
+
+Style: Ultra-realistic ancient Chinese cinematic photography, authentic smartphone capture feel, premium editorial quality, realistic skin texture, detailed silk fabric, natural depth of field, subtle film grain, emotional storytelling, timeless historical atmosphere.
+
+Negative Prompt: modern buildings, cars, electric lights, logos, watermark, text, anime, CGI, cartoon style, plastic skin, AI face, distorted anatomy, extra fingers, disconnected hair, unrealistic fabric, overexposed lighting, low quality
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/40a08629-7bec-47d4-a778-e9784fc054e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/xRahultripathi/status/2071099636925002131>)
+
+---
+
+<a id="prompt-ded0e741-ed24-47aa-a719-38968685cd54"></a>
+
+## Man in Newspaper Origami Boat on Open Sea
+
+<a href="https://musesignal.com/zh/prompt/ded0e741-ed24-47aa-a719-38968685cd54?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNjrD-4agAA5kYR.jpg?format=jpg&amp;name=small" width="480" alt="Man in Newspaper Origami Boat on Open Sea" /></a>
+
+**GPT Image 2** · 原作者: Duet \| AI
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt: Ultra-realistic cinematic portrait of a stylish young man sitting inside a life-sized origami paper boat made entirely from folded newspaper sheets, floating peacefully on crystal-clear deep blue ocean water. The boat is handcrafted from real newspapers with visible printed text, folded creases, and natural paper texture. The man faces the camera with a calm, confident expression, wearing a charcoal gray hoodie, olive-green shorts, clean white sneakers, and amber-tinted round sunglasses. He has short dark curly hair, a neatly trimmed goatee, and a relaxed posture with one hand resting on the edge of the newspaper boat.
+The setting is an expansive open sea with gentle ripples, distant islands and mountains softly blurred along the horizon beneath a bright blue sky with thin wispy clouds. Warm golden-hour sunlight illuminates the subject from the front-left, creating soft highlights on the face and realistic reflections across the water. The newspaper boat floats naturally with subtle water displacement and realistic buoyancy.
+Photographed with a full-frame mirrorless camera using an 85mm lens at f/2.8, shallow depth of field, ultra-sharp facial details, crisp newspaper texture, natural skin tones, cinematic color grading, realistic lighting, HDR, editorial lifestyle photography, premium fashion campaign aesthetic, photorealistic, 8K, highly detailed, clean composition, no watermark, no text overlay.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ded0e741-ed24-47aa-a719-38968685cd54?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Sheldon056/status/2078669692777157049>)
+
+---
+
+<a id="prompt-bdc7fc5f-05f6-418e-a48c-c444b8f8eaf5"></a>
+
+## Three-Panel Cinematic Portrait Collage of a Woman
+
+<a href="https://musesignal.com/zh/prompt/bdc7fc5f-05f6-418e-a48c-c444b8f8eaf5?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNFa8bRbcAATim8.jpg?format=jpg&amp;name=small" width="480" alt="Three-Panel Cinematic Portrait Collage of a Woman" /></a>
+
+**Nano Banana** · 原作者: NUSRAT
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Gemini nano Banana image. 
+Prompt:
+
+  "image_composition": {
+    "layout": "Collage of three distinct scenes featuring the same female subject.",
+    "style": "4k resolution, cinematic lighting, photorealistic, high detail."
+  },
+  "panel_1_left": {
+    "subject": "Young woman with long dark wavy hair, elegant facial features.",
+    "pose": "Standing, leaning against a glass storefront at night, looking towards the camera.",
+    "outfit": "Vibrant red pantsuit consisting of a structured blazer and matching tailored trousers over a matching red top.",
+    "accessories": "Gold wristwatch, small gold hoop earrings.",
+    "setting": "Urban city street at night, illuminated by neon signs in Chinese characters and blurred city lights in the background."
+  },
+  "panel_2_top_right": {
+    "subject": "Same young woman, joyful expression, hair styled in an intricate braided updo.",
+    "pose": "Standing outdoors, holding a coconut with a straw, smiling naturally.",
+    "outfit": "Silk halter-neck top with a white, navy, and gold pattern, paired with beige linen trousers.",
+    "setting": "Resort or tropical poolside setting, lush green tropical plants, palm trees, golden hour lighting."
+  },
+  "panel_3_bottom_right": {
+    "subject": "Same young woman, serene expression, hair styled in a sleek low bun.",
+    "pose": "Sitting gracefully, looking down demurely.",
+    "outfit": "Rich dark emerald green ethnic Indian lehenga choli with intricate gold embroidery and a matching sheer dupatta.",
+    "accessories": "Large ornate gold jhumka earrings, small clutch bag.",
+    "setting": "Festive indoor event, bokeh lighting from hanging fairy lights or chandeliers in the background, elegant atmosphere."
+  }
+}
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bdc7fc5f-05f6-418e-a48c-c444b8f8eaf5?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/nxnusratul/status/2076540906266882321>)
+
+---
+
+<a id="prompt-73cd6790-1448-413a-a863-f046f61c8463"></a>
+
+## Sydney Sweeney on Red Lamborghini in High-Fashion Street Scene
+
+<a href="https://musesignal.com/zh/prompt/73cd6790-1448-413a-a863-f046f61c8463?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQlol5FbAAAaS06.jpg?format=jpg&amp;name=small" width="480" alt="Sydney Sweeney on Red Lamborghini in High-Fashion Street Scene" /></a>
+
+**Nano Banana 2** · 原作者: ANKIT PATEL 🇮🇳 \| AI
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Who wants to join this sport ride ?
+
+Nano Banana 2 via @ImagineArt_X @imagineart_creo 
+
+Sydney Sweeney, Madlyen Cline and Angelina Jolie 
+
+A quiet residential avenue turns into an elegant open-air setting against modern apartment facades. Perched on the electric red Lamborghini sports car hood, Sydney Sweeney radiates an unhurried, sculpted authority with a coolly withheld gaze behind dark lenses. The long high-gloss black  leather coat drapes heavily over a tight black latex short skirt, framing glossy high black heels with a small sign 'love' engraved on it. Soft overcast daylight descends as an immense canopy, wrapping gentle satin highlights around her ivory skin and coat. Defocused white plaster walls, climbing ivy, and grey stone pavers form a muted cool background pierced by the car's crimson bodywork. Stillness becomes an architectural statement where silent composure redefines the language of modern high-fashion luxury.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/73cd6790-1448-413a-a863-f046f61c8463?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ankit_patel211/status/2092318524966646067>)
+
+---

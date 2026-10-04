@@ -1285,3 +1285,24 @@ Style: Luxury product photography, photorealistic, ultra-detailed, commercial ad
 **[Try on MuseSignal →](<https://musesignal.com/prompt/1766b37f-c961-476a-a005-4fddb207d713?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/abs_uiux/status/2081799439887249755>)
 
 ---
+
+<a id="prompt-7b43ca80-aa44-49f3-8cb1-9323033ec8b3"></a>
+
+## Luxury Water Bottle Splash Product Shot
+
+<a href="https://musesignal.com/prompt/7b43ca80-aa44-49f3-8cb1-9323033ec8b3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPKntutaMAAQ3v1.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Water Bottle Splash Product Shot" /></a>
+
+**Nano Banana Pro** · Creator: Maddox
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic luxury commercial product photography of a premium transparent water bottle standing upright on a glossy reflective surface. The bottle is covered with tiny cold water droplets, symbolizing freshness. A dramatic splash of crystal-clear water wraps around the bottle in a dynamic spiral. Background features cool icy blue gradients with soft white lighting, floating ice cubes, light mist, and subtle glowing particles. High-end studio lighting with cinematic rim light, premium advertising style, sharp focus, ultra-detailed, photorealistic, 8K, clean composition, luxury beverage campaign, minimalistic yet eye-catching, plenty of copy space for branding and text.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7b43ca80-aa44-49f3-8cb1-9323033ec8b3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Maddox_Digital/status/2085914015390458233>)
+
+---
