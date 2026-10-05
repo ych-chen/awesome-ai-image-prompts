@@ -47,3 +47,88 @@ amateur cyanotype contact print of a quiet Sunday breakfast table by a tall wind
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9e4f889d-a468-4d4e-a4be-04dd65daba1d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/tisch_eins/status/2091405078250824006>)
 
 ---
+
+<a id="prompt-db9c2670-d11c-4a52-be01-a5ee24bb120f"></a>
+
+## Messi and Ronaldo at Taiwanese Night Market
+
+<a href="https://musesignal.com/zh/prompt/db9c2670-d11c-4a52-be01-a5ee24bb120f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLg8K--aQAAVwXt.jpg?format=jpg&amp;name=small" width="480" alt="Messi and Ronaldo at Taiwanese Night Market" /></a>
+
+**Nano Banana Pro** · 原作者: Ciri
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic nighttime street food photography at a crowded Taiwanese night market.
+
+Two world-famous football superstars Ronaldo and Messi sitting side-by-side at a busy outdoor food stall. One athlete wears a sky-blue-and-white striped football jersey and gestures with a hesitant expression, while the other athlete wears a red national team football jersey and confidently eats a bowl of roasted snails. Friendly rivalry and contrasting reactions create a humorous moment.
+
+Location: Shilin Night Market, Taipei, Taiwan. Bright neon signs with Chinese characters, glowing storefronts, colorful food stalls, crowded market atmosphere, authentic Taiwanese street-food culture.
+
+Foreground:
+
+- Athlete in red jersey holding a paper bowl full of roasted snails
+- Eating a snail with fingers
+- Luxury watch visible
+- Detailed facial expression of enjoyment
+
+Second athlete:
+
+- Sitting beside him
+- Looking skeptical and slightly disgusted
+- One hand raised in refusal
+- Tattoo sleeve visible on forearm
+- Wearing striped football jersey
+
+Background:
+
+- Night market entrance sign
+- Neon lights and illuminated food signs
+- Street-food vendors cooking
+- Busy crowd with shallow depth of field
+- Bokeh lights throughout scene
+- Authentic Asian night market atmosphere
+
+Camera:
+
+- Eye-level angle
+- Medium shot
+- 35mm lens
+- f/1.8 aperture
+- Cinematic depth of field
+- High-detail documentary photography
+- Natural skin texture
+- Sharp focus on subjects
+- Soft background blur
+
+Lighting:
+
+- Mixed neon and warm food-stall lighting
+- Vibrant night colors
+- Realistic reflections
+- Professional travel photography
+
+Style:
+
+- Hyperrealistic
+- Award-winning photojournalism
+- National Geographic travel photography
+- Ultra detailed
+- 8K resolution
+- HDR
+- Realistic facial expressions
+- Authentic street-food culture
+
+Mood:
+Playful rivalry, curiosity, travel adventure, cultural food experience, humorous reaction shot, candid moment.
+
+Negative Prompt:
+cartoon, illustration, painting, CGI, 3D render, anime, low resolution, blurry face, distorted hands, extra fingers, oversaturated colors, artificial lighting, unrealistic proportions.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/db9c2670-d11c-4a52-be01-a5ee24bb120f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Ciri_ai/status/2069470215185027181>)
+
+---

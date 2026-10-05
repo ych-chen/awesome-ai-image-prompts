@@ -12,7 +12,7 @@
   {
     "key": "gpt-image-2",
     "name": "GPT Image 2",
-    "count": 394
+    "count": 400
   },
   {
     "key": "gpt-image-2.5",
@@ -37,7 +37,7 @@
   {
     "key": "midjourney",
     "name": "Midjourney",
-    "count": 44
+    "count": 45
   },
   {
     "key": "nano-banana",
@@ -47,12 +47,17 @@
   {
     "key": "nano-banana-2",
     "name": "Nano Banana 2",
-    "count": 80
+    "count": 82
   },
   {
     "key": "nano-banana-pro",
     "name": "Nano Banana Pro",
-    "count": 98
+    "count": 100
+  },
+  {
+    "key": "seedream-5.0-pro",
+    "name": "Seedream 5.0 Pro",
+    "count": 7
   },
   {
     "key": null,
