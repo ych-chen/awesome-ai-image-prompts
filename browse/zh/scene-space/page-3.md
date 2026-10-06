@@ -221,3 +221,82 @@ An intimate, detailed street scene inside a narrow residential alley (درب) of
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/6c9cdf37-c808-494a-91bb-19db01c18898?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Malzahran2/status/2106741560322732038>)
 
 ---
+
+<a id="prompt-e5cd83d5-202c-4bc9-bd4e-4f93f1da5ba1"></a>
+
+## Architectural Cat Houses in Studio Style
+
+<a href="https://musesignal.com/zh/prompt/e5cd83d5-202c-4bc9-bd4e-4f93f1da5ba1?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNB_elFa4AA89TJ.jpg?format=jpg&amp;name=small" width="480" alt="Architectural Cat Houses in Studio Style" /></a>
+
+**Nano Banana 2** · 原作者: Shams
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A breathtaking luxury cat house inspired by [ARCHITECTURE STYLE], transformed into a highly detailed miniature architectural masterpiece for cats while faithfully preserving the iconic design language of [ARCHITECTURE STYLE]. The structure features [signature architectural elements], intricate handcrafted detailing, premium construction materials, elegant proportions, layered architectural depth, decorative façades, sculptural roofs, grand entrance, ornamental windows, balconies, arches, columns, towers, staircases, hidden cat tunnels, cozy cat rooms, elevated observation decks, built-in scratching areas, sleeping nooks, and playful climbing platforms seamlessly integrated into the architecture. Every surface showcases exceptional craftsmanship with realistic materials, rich textures, and authentic architectural detailing.
+Beside the house stands one beautiful mature ornamental tree that perfectly complements the architectural style, featuring a naturally sculpted trunk and lush foliage. Two adorable playful kittens are climbing, sitting, and interacting naturally among the branches. One elegant adult cat sits proudly at the main entrance, looking directly toward the viewer. Three extremely tiny fluffy kittens peek curiously from different parts of the house, including windows, balconies, roof openings, arches, decorative niches, and cozy interior spaces, creating storytelling, depth, and a charming sense of scale.
+Centered composition, isolated architectural subject, pure white seamless studio background, clean negative space, soft realistic contact shadows beneath the house and tree only, luxury product-style presentation, architectural visualization, ultra-photorealistic rendering, physically based rendering (PBR), ray tracing, global illumination, ambient occlusion, realistic reflections, cinematic daylight, HDR lighting, hyper-realistic textures, ultra-detailed architectural ornamentation, realistic stone, wood, metal, glass, or marble materials according to the selected style, ultra-realistic cat fur, razor-sharp focus, Octane Render quality, Unreal Engine 5 quality, V-Ray quality, Corona Renderer quality, architectural photography, magazine-quality render, masterpiece, 8K ultra-high resolution, vertical 9:16, no people, no text, no watermark, no logo, no border, no extra animals beyond 1 adult cat, 2 kittens in the tree, and 3 tiny kittens inside the house.
+- Replace These Fields
+[ARCHITECTURE STYLE]
+Milan Cathedral Gothic
+Parametric Architecture
+Japanese Zen
+Santorini Greek
+Baroque Palace
+Brutalism
+Neo-Futurism
+Mughal Palace
+French Château
+Tudor Manor
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e5cd83d5-202c-4bc9-bd4e-4f93f1da5ba1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2076300999057449082>)
+
+---
+
+<a id="prompt-fbfeb657-1d40-419a-90bc-dc1109e716ce"></a>
+
+## If a Country Had a Bedroom — Cinematic Interior
+
+<a href="https://musesignal.com/zh/prompt/fbfeb657-1d40-419a-90bc-dc1109e716ce?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HT3eeQbaYAAmEGL.jpg?format=jpg&amp;name=small" width="480" alt="If a Country Had a Bedroom — Cinematic Interior" /></a>
+
+**GPT Image 2.5** · 原作者: simeon-sanai
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+GPT image 2.5
+
+prompt: Create an exceptionally beautiful, highly detailed cinematic interior artwork titled “If [COUNTRY] Had a Bedroom.”
+
+Imagine that the entire personality, culture, architecture, landscapes, colors, traditions, and atmosphere of [COUNTRY] have been transformed into one dreamlike bedroom.
+
+The bedroom should feel luxurious yet authentic, not like a generic themed room. Every object should subtly tell the story of the country.
+
+Include culturally recognizable details through elegant interior design: traditional materials, local patterns, iconic objects, regional flowers, books, artwork, architecture-inspired furniture, textiles, lighting, food or drink details, and a large window revealing a breathtaking view inspired by [COUNTRY].
+
+The bed should be the visual centerpiece — beautifully styled with layered fabrics, textured cushions, and subtle patterns inspired by the country's heritage.
+
+Add small unexpected details that reward viewers for zooming in.
+
+The room should feel lived-in, peaceful, aspirational and cinematic, rather than like a museum or tourist attraction.
+
+Use natural golden-hour light entering through the window, realistic shadows, soft atmospheric depth, sophisticated interior photography, rich textures, subtle imperfections, ultra-realistic materials, editorial luxury travel magazine aesthetic.
+
+No people. No excessive flags. No obvious stereotypical decorations. Keep the design sophisticated and believable.
+
+A small elegant handwritten inscription somewhere in the room:
+“If [COUNTRY] had a bedroom…”
+
+Vertical 4:5 composition, photorealistic, highly detailed, visually addictive, Pinterest-worthy, premium aesthetic.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fbfeb657-1d40-419a-90bc-dc1109e716ce?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Naiknelofar788/status/2107084839954661388>)
+
+---

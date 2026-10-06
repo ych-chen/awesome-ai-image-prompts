@@ -572,3 +572,112 @@ handsome man sitting on the edge of a bed tying his shoes, early morning light, 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0e41a16e-0683-49c9-b9a6-e68de2267dea?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/tisch_eins/status/2080895829527724433>)
 
 ---
+
+<a id="prompt-22131019-926b-4e69-a004-b9e6a4fd500a"></a>
+
+## Golden-Hour Editorial Portrait by Vintage Window
+
+<a href="https://musesignal.com/zh/prompt/22131019-926b-4e69-a004-b9e6a4fd500a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HS5fDqhawAAcnFm.jpg?format=jpg&amp;name=small" width="480" alt="Golden-Hour Editorial Portrait by Vintage Window" /></a>
+
+**GPT Image 2** · 原作者: Eesha
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a highly photorealistic aesthetic portrait of an elegant adult woman standing beside a large vintage window in a beautiful sunlit room. She has long, naturally flowing dark hair, soft expressive eyes, realistic skin texture, natural facial features, and a subtle gentle smile.
+
+She is wearing a sophisticated cream-colored oversized shirt tucked into a high-waisted dark skirt, minimal delicate jewelry, and a small elegant handbag. Relaxed natural pose, one hand lightly holding the handbag and the other resting naturally by her side.
+
+Warm golden-hour sunlight entering through the window, soft shadows, muted beige and cream interior, vintage furniture, subtle film grain, dreamy atmosphere, Kodak-inspired color grading, soft highlights, natural skin tones, editorial fashion photography, cinematic composition, shallow depth of field, 85mm lens, ultra-detailed, realistic proportions, premium aesthetic, 8K.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/22131019-926b-4e69-a004-b9e6a4fd500a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MissDelulu9/status/2102722643237781791>)
+
+---
+
+<a id="prompt-c0d913cd-ca5f-426b-82e0-0bba91bce558"></a>
+
+## Autumn Editorial Portrait of a Woman in Wine Red Dress
+
+<a href="https://musesignal.com/zh/prompt/c0d913cd-ca5f-426b-82e0-0bba91bce558?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTDpLXkbQAA5xau.jpg?format=jpg&amp;name=small" width="480" alt="Autumn Editorial Portrait of a Woman in Wine Red Dress" /></a>
+
+**GPT Image** · 原作者: Eesha
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic cinematic autumn editorial portrait of a stylish woman standing gracefully in a beautiful autumn park, surrounded by golden and burnt-orange maple trees, fallen leaves covering the ground, soft warm sunlight filtering through the trees, gentle breeze moving her long soft wavy dark hair and a few autumn leaves around her, elegant natural expression with a subtle confident smile, refined facial features, minimal Korean-style makeup, wearing a sophisticated elegant wine red sleeveless midi one-piece dress with a refined neckline and fitted silhouette, classy and timeless styling, natural graceful pose, warm golden-hour lighting, rich autumn atmosphere, realistic skin texture, cinematic depth of field, soft background bokeh, 85mm lens, photorealistic, luxury fashion magazine aesthetic, highly detailed, 4K, vertical 9:16 composition, no text, no logo, no watermark.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/c0d913cd-ca5f-426b-82e0-0bba91bce558?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MissDelulu9/status/2103437453529162220>)
+
+---
+
+<a id="prompt-fe590046-d41d-4fa6-b05b-14390c545652"></a>
+
+## Golden Hour Cinematic Portrait
+
+<a href="https://musesignal.com/zh/prompt/fe590046-d41d-4fa6-b05b-14390c545652?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKypEPaX0AA607y.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Cinematic Portrait" /></a>
+
+**Grok** · 原作者: Minahil
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A close-up portrait of a young woman with a thoughtful, serene expression, captured in a dramatic cinematic style. She has dark, wavy brown hair styled into a loose, elegant updo with soft, curled tendrils framing her face. Her complexion is flawless with a warm, sun-kissed glow, accentuated by subtle makeup including a sharp winged eyeliner, defined eyebrows, and natural peachy-pink lips. Intense, golden hour sunlight streams from the left, creating a stark contrast of deep shadows and bright highlights across her face and collarbone. She is gazing slightly off-camera into the light. The background is a solid, dark textured wall, making the warm light on her skin pop with a moody, artistic, and painterly aesthetic.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/fe590046-d41d-4fa6-b05b-14390c545652?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Minahil42298354/status/2066212222737465393>)
+
+---
+
+<a id="prompt-8bfcfba7-c198-4c94-b1bc-0123dcc7f1e2"></a>
+
+## Stereoscopic Double Exposure Woman with Light Leaks
+
+<a href="https://musesignal.com/zh/prompt/8bfcfba7-c198-4c94-b1bc-0123dcc7f1e2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOI4maQXsAAVdav.jpg?format=jpg&amp;name=small" width="480" alt="Stereoscopic Double Exposure Woman with Light Leaks" /></a>
+
+**Midjourney** · 原作者: Michael Rabone
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Stereoscopic double exposure photo of a woman, creative light leaks --ar 16:9 --raw --profile wswelaj --stylize 300 --hd --v 8.2
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8bfcfba7-c198-4c94-b1bc-0123dcc7f1e2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/michaelrabone/status/2081288432937001391>)
+
+---
+
+<a id="prompt-17cd8e4c-fd01-4f61-8916-7be5e545b7af"></a>
+
+## Golden Hour Portrait of a Woman in White Linen
+
+<a href="https://musesignal.com/zh/prompt/17cd8e4c-fd01-4f61-8916-7be5e545b7af?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPmeSdpagAAbR6Q.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Portrait of a Woman in White Linen" /></a>
+
+**GPT Image 2** · 原作者: Sairah
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic golden hour close-up portrait of a young woman outdoors, eyes gently closed with a soft peaceful smile, face tilted slightly upward toward the warm setting sun, loose windblown dark brown hair flowing naturally across her face, glowing sun-kissed skin with natural texture and subtle freckles, minimal makeup, soft glossy lips, wearing a loose white linen blouse with a delicate collar, cinematic warm amber sunlight creating beautiful highlights and gentle shadows, shallow depth of field, clean blue sky background, dreamy summer atmosphere, authentic candid expression, ultra-detailed skin texture, high dynamic range, 85mm portrait lens, f/1.8, professional fashion photography, natural color grading, soft contrast, editorial lifestyle aesthetic, photorealistic, 8K, RAW quality.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/17cd8e4c-fd01-4f61-8916-7be5e545b7af?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Sairah_0/status/2087873952513438160>)
+
+---

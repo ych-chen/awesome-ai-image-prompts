@@ -1582,3 +1582,49 @@ Prompt:
 **[Try on MuseSignal →](<https://musesignal.com/prompt/9a736949-45ac-4cb8-a49a-f0f23b69e769?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Maercihh/status/2092661708125098379>)
 
 ---
+
+<a id="prompt-e9708f01-8815-4674-af57-26aa049b0d6e"></a>
+
+## Luxury Hand Cream Bottle with Cherries Product Shot
+
+<a href="https://musesignal.com/prompt/e9708f01-8815-4674-af57-26aa049b0d6e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMo_AcTboAA_WhL.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Hand Cream Bottle with Cherries Product Shot" /></a>
+
+**GPT Image 2** · Creator: Snow
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Dramatic low-angle product photography of the dark red Sokolov Beauty hand cream bottle standing on the sharp edge of a transparent glass podium. The bottle is shot from a low perspective looking up. Clear water is elegantly dripping and flowing down the sides of the bottle and across the glass surface. Several juicy, glossy dark red cherries are placed next to the bottle on the podium. Deep burgundy background with a soft light gradient fading toward the top. Dramatic cinematic lighting with strong highlights and deep shadows, creating a luxurious and sensual mood. Highly detailed water droplets and reflections, premium commercial beauty photography, sharp focus, 8K resolution, photorealistic.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/e9708f01-8815-4674-af57-26aa049b0d6e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamrealsnow/status/2074539886028456425>)
+
+---
+
+<a id="prompt-63f87d90-fb43-42b5-b635-afdbf48ac80a"></a>
+
+## Cheetos Fisheye Snack-Ad Portrait
+
+<a href="https://musesignal.com/prompt/63f87d90-fb43-42b5-b635-afdbf48ac80a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTyqEPzagAAi_Rq.jpg?format=jpg&amp;name=small" width="480" alt="Cheetos Fisheye Snack-Ad Portrait" /></a>
+
+**Nano Banana Pro** · Creator: simeon-sanai
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Studio portrait of one smiling person holding a Cheetos Crunchy orange chips bag close to the camera, both the bag and the person’s head in the foreground. Captured with an ultra-wide fisheye lens for a playful, youthful, energetic feel.
+The model wears a glossy bright orange puffer jacket over a white t-shirt.
+Background in a vibrant orange gradient with light yellow accents, bold and fun.
+Soft cinematic lighting, juicy highlights, slight saturation boost, modern snack-ad editorial style.
+Expressive smile, fun street-commercial aesthetic.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/63f87d90-fb43-42b5-b635-afdbf48ac80a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Naiknelofar788/status/2106745724545446089>)
+
+---
