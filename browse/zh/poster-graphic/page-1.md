@@ -1653,27 +1653,3 @@ Content Policy: >
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/4d06ffe8-d207-4d44-b98a-330cdea4e830?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2069721086833414439>)
 
 ---
-
-<a id="prompt-d468ae68-8448-4a3d-bf50-a0c99793fea4"></a>
-
-## AI Model Timeline Infographic Since October 2025
-
-<a href="https://musesignal.com/zh/prompt/d468ae68-8448-4a3d-bf50-a0c99793fea4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLHxM0JWsAACtWy.png?format=jpg&amp;name=small" width="480" alt="AI Model Timeline Infographic Since October 2025" /></a>
-
-**Nano Banana** · 原作者: Angel 🌼
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Since October 2025:
-- OpenAI: 5 models
-- Anthropic: 6 models
-- Google: 3 models, one of them was Gemini 3.5 Flash, which was more expensive to use than 3.1 Pro and also worse than it
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/d468ae68-8448-4a3d-bf50-a0c99793fea4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Angaisb_/status/2067699508830507040>)
-
----

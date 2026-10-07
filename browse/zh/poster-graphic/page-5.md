@@ -1434,3 +1434,24 @@ Aspect ratio 4:5.
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9210de63-b1e7-4f23-9e56-58cce4b4b616?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/aripratama293/status/2062102785181864021>)
 
 ---
+
+<a id="prompt-f5d8bdf7-0d14-4614-b319-6040b98d2e32"></a>
+
+## 3D Soccer Letter Player Poster Prompt
+
+<a href="https://musesignal.com/zh/prompt/f5d8bdf7-0d14-4614-b319-6040b98d2e32?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLaoPbsaQAAc34F.jpg?format=jpg&amp;name=small" width="480" alt="3D Soccer Letter Player Poster Prompt" /></a>
+
+**Nano Banana 2** · 原作者: Shams
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Massive 3D capital letter [LETTER] in modern bold typography with realistic black-and-white soccer ball texture, detailed pentagonal and hexagonal panels, glossy leather texture with subtle stitching and slight wear, [PLAYER NAME] in [POSE/ACTION] emerging powerfully from the letter, wearing [TEAM] home jersey, [ADDITIONAL ACTION OR MOTION], at the bottom center a smaller funny caricature head and neck of the same player with exaggerated humorous playful expression peeking from the bottom mid of the canvas, only head and neck visible, not too large, well-balanced composition, small FIFA 2026 logo placed in the top left corner, player number [NUMBER] displayed prominently in the top right corner in bold modern font, dramatic cinematic lighting, strong shadows, realistic depth and volume, premium sports branding aesthetic, solid [BACKGROUND COLOR] background, dynamic composition, ultra realistic, highly detailed textures, professional sports advertising style, sharp focus, cinematic color grading, masterpiece, 16:9 aspect ratio.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f5d8bdf7-0d14-4614-b319-6040b98d2e32?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2069026620925698186>)
+
+---

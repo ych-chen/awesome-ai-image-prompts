@@ -837,6 +837,32 @@
     "content_hash": "39353bb2b752345bc32834b9901798bee2d6d15af35e4f2db4e989387403a1b8"
   },
   {
+    "id": "0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8",
+    "title": "Luxury Editorial Korean Woman Collage",
+    "prompt": "Create a luxurious editorial-style digital collage featuring the same elegant Korean woman consistently across every frame. Preserve perfect facial consistency in all portraits with the same hairstyle, facial proportions, skin texture, eye shape, nose, lips, and expression while varying only the pose and camera angle.\n\nDesign a warm, cinematic composition in a rich palette of amber, bronze, mahogany, burnt sienna, copper, and golden candlelight. Arrange four main portraits blended seamlessly into a single vertical collage:\n•A large, softly lit close-up portrait with direct eye contact and a gentle smile.\n•A graceful side-profile with eyes closed, creating a peaceful, introspective mood.\n•A three-quarter portrait looking confidently toward the viewer with subtle elegance.\n•An extreme macro close-up of one eye showcasing intricate eyelashes, iris details, and warm reflections.\n•A soft macro crop of naturally glossy lips blended artistically into the composition.\n\nDress her in an exquisite deep burgundy traditional-inspired embroidered outfit with intricate gold threadwork, delicate floral motifs, sheer embroidered sleeves, and elegant drop earrings. Her long black hair falls naturally with soft, slightly tousled waves framing her face.\n\nSurround the portraits with blooming bronze lilies, warm-toned flowers, floating petals, glowing candles, delicate bokeh lights, handwritten vintage manuscript textures, and subtle smoky overlays. Blend every element with smooth cinematic transitions so the collage feels like one cohesive artwork rather than separate photographs.\n\nUse soft Rembrandt lighting mixed with warm candlelight, volumetric glow, rich shadows, shallow depth of field, dreamy atmosphere, premium fashion editorial styling, luxury magazine aesthetics, cinematic color grading, ultra-realistic skin texture, natural makeup, photorealistic details, HDR, masterpiece quality, ultra-high detail, 8K resolution, award-winning digital art, harmonious composition, and an elegant romantic mood.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Professor",
+      "handle": "Professor_134"
+    },
+    "source_platform": "X",
+    "source_id": "2074526602931904514",
+    "source_url": "https://x.com/Professor_134/status/2074526602931904514",
+    "images": [
+      "https://pbs.twimg.com/media/HMoy6qqbkAA1G0L.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8",
+    "published_at": "2026-10-07T07:29:09.912453+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "e744bfbd62162a2a0d9c66dcc7e8a1f47d793da55ea96173d7d0649e6ad06a8e"
+  },
+  {
     "id": "0a640817-c8b2-498c-a345-8a174ec9ffc3",
     "title": "Photorealistic Megan Fox Tongue-Out Portrait",
     "prompt": "A highly detailed, photorealistic close-up portrait of Megan Fox with two-toned hair (blonde on top, dark underneath) styled in voluminous waves, fair skin, and striking facial features with heavy makeup, long lashes, and multiple facial piercings including lip studs. She wears black-rimmed glasses and a glossy black leather halter top with a front zipper unzipped. She playfully sticks her tongue out while looking directly at the camera with a seductive and fun expression. The background has soft pink ambient lighting. Tight close-up selfie-style shot focusing on her face, upper chest, and playful expression. Soft pink ambient lighting creates an intimate, edgy, and vibrant atmosphere. Beautiful woman in her early-to-mid 30s, alternative style, two-toned wavy hair, multiple piercings and tattoos visible on neck and arms, confident and playful expression with tongue out. Glossy black leather halter top with front zipper unzipped. Modern indoor room with colorful pink ambient lighting. Add a small, elegant embroidered sign reading 'Keor' in delicate cursive script on the visible border or edge of her black leather halter top unzipped. Place it realistically along the neckline, zipper border, or hem using fine metallic or contrasting thread that blends naturally as a subtle, high-end custom detail. Photorealistic, high-resolution alternative/glamour photography, soft pink ambient lighting, sharp focus on facial features, piercings, leather texture, and hair details, playful and seductive mood. Extremely detailed wavy hair strands with two-tone color, realistic skin texture, glossy leather reflections, piercing details, and subtle embroidered 'Keor' sign.",
@@ -1355,32 +1381,6 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "05e68a1cc5079056c95c2338d75cc9b0d2ba12721c998dfdd049a76d9b95d8f7"
-  },
-  {
-    "id": "1016fbb2-d0f8-4a04-8643-d3fddf71ec8e",
-    "title": "Onyx: Open Source AI Platform with 31K GitHub Stars",
-    "prompt": "Se llama Onyx y acaba de superar las 31.000 estrellas en GitHub.\nEs una plataforma de IA que puedes instalar en tus propios servidores y conectar con prácticamente cualquier LLM:\n↳ Claude\n↳ ChatGPT\n↳ Gemini\n↳ DeepSeek\n↳ Ollama\n↳ Modelos locales\nPero lo realmente potente es todo lo que incluye:\n• Agentes de IA personalizados\n• RAG sobre tus propios documentos\n• Investigación profunda\n• Búsqueda web\n• Ejecución de código\n• Creación de archivos\n• Integración con MCP\n• Más de 50 conectores\n• Despliegue con Docker\nPuedes conectarlo a Slack, Google Drive, GitHub, Jira, Confluence y muchas otras fuentes.\nAdemás, su sistema de investigación profunda llegó a liderar DeepResearch Bench, por encima de varias alternativas propietarias.\nY puedes alojarlo tú mismo para mantener el control sobre tus datos.\nRepositorio: github onyx-dot-app\n🚨 Guárdalo antes de que todo el mundo empiece a hablar de él.",
-    "category": "poster-graphic",
-    "model_key": "gpt-image",
-    "model_name": "GPT Image",
-    "model_family": "gpt-image",
-    "author": {
-      "name": "Miguel Ángel | GptZone",
-      "handle": "MiguelMaestroIA"
-    },
-    "source_platform": "X",
-    "source_id": "2080703728945176833",
-    "source_url": "https://x.com/MiguelMaestroIA/status/2080703728945176833",
-    "images": [
-      "https://pbs.twimg.com/media/HOAk0KrXEAERUU2.jpg?format=jpg&name=large"
-    ],
-    "musesignal_url": "https://musesignal.com/prompt/1016fbb2-d0f8-4a04-8643-d3fddf71ec8e",
-    "musesignal_url_zh": "https://musesignal.com/zh/prompt/1016fbb2-d0f8-4a04-8643-d3fddf71ec8e",
-    "published_at": "2026-07-29T14:07:13.997035+00:00",
-    "source_published_at": null,
-    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
-    "license": null,
-    "content_hash": "0d7ad8edc08b9aaabf9838736149ad1072b6433cd916fca0b114b6ce3bb6b6b2"
   },
   {
     "id": "10c83da2-160e-42c4-a347-5e8a412ca821",
@@ -5282,6 +5282,32 @@
     "content_hash": "0e097aff2582b2d2497f08ea6a596e4078da449dc888e2774d840e20e1cdb2a5"
   },
   {
+    "id": "43aaff00-fccf-4074-89b3-c0c7bc9fae88",
+    "title": "Tang-Fantasy Spring Guofeng Heroine Portrait",
+    "prompt": "9:16 竖版，高精度古风仙侠春日女主写真，唐风幻想审美，华丽精修角色写真感，明亮通透、柔美梦幻、角色海报级完成度。\n画面主体是一位年轻成年东方女性，视觉年龄约 20–28 岁，具有自然明确的东方女性特征，不欧美化，不幼态化，不网红脸。她拥有精致东方淡颜，柔和杏眼，面中饱满，五官柔美耐看，脸型线条流畅，眼神清甜、灵动、温婉，带一点春日女主的柔和亲近感。整体气质为柔美、清甜、灵动、温婉、梦幻。\n妆容为桃粉水光妆，妆容浓度精致，重点强化水光底妆、腮红与卧蚕提亮。底妆瓷白通透、细腻水润，面中有明显但高级的奶油光泽与水光感，不油腻、不塑料。眼妆为桃粉与玫瑰棕柔和渐层，眼尾轻微加深，卧蚕自然提亮，增强清甜灵动感。腮红为桃粉或浅胭脂粉，存在感明显但自然高级，脸颊有春日气色。唇妆为柔润饱满的桃粉、花瓣粉或浅玫瑰粉，整体桃粉妆感明显但不廉价、不网红、不夸张。\n发型为黑长直半披半挽，发尾柔顺，发丝顺滑细腻，有自然光泽，少量碎发自然垂落在脸侧。头饰等级为华丽，佩戴精致浅金发冠、步摇、珍珠流苏、粉白宝石点缀与细金结构件，搭配精致耳饰、珍珠项链与浅粉宝石吊坠。头饰与首饰华丽但不杂乱，增强古偶女主感。\n服装为轻纱外袍 + 刺绣内层 + 华丽腰封，中高华丽度唐风幻想古装女主妆造。服装采用藕粉珍珠金系配色：主色为藕粉与柔和樱粉，辅色为奶白、珍珠白，点缀色为浅金、珍珠与粉晶感宝石。注意不要把全画面都染成粉色，粉色主要集中在人物服装与妆容，背景保持春日自然清透色彩。服装面料轻盈柔软，外层为半透明轻纱，内层有精致花卉刺绣与细腻藤蔓纹样，腰部为华丽浅金腰封，带珍珠、细金边、粉晶宝石与垂坠小饰件。胸部饱满但克制，整体端雅高级，不低俗、不暴露。\n场景为柳岸溪桥、春溪水边、轻雾桃柳之间。人物站在春溪水边或木桥附近，背景为虚化柳枝、溪流、木桥、桃花与春日散景。柳枝从画面上方或侧边自然垂落，溪水有柔和反光，木桥位于背景中远景，轻雾营造空气感与空间层次。背景只负责烘托氛围，不喧宾夺主。\n镜头为正面姿态或轻微三分之二侧身的大半身构图，人物为画面绝对视觉中心。姿态优雅自然，可以一只手轻扶轻纱外袍或袖口，另一只手自然垂落；也可以一只手轻触柳枝，另一只手放在腰封附近。手部动作简单、柔和、稳定，突出古风女主的温婉与灵动。\n光线氛围为晨间柔光，轻微逆光，空气感通透。人物面部受光柔和干净，发丝边缘有轻微逆光，高光不过曝，首饰、珍珠、金边与刺绣有细小闪光。整体画面明亮、清新、柔和、梦幻，春日感强，色彩高级，不灰、不脏、不全画面泛粉。\n画面质感要求高精度、高完成度、发丝细腻、肌肤通透、妆面精致、刺绣清晰、首饰精致、浅景深背景虚化，具有古风仙侠、唐风幻想、华丽女主写真与角色海报级完成度。\n负面约束：未成年感，幼态脸，欧美脸，网红整容脸，夸张现代浓妆，廉价影楼风，廉价 cosplay 风，西式礼服感，现代服装元素，过度暴露，低俗化，服装层次混乱，头饰简陋，首饰塑料感，手部畸形，手指错误，五官失衡，背景喧宾夺主，整张图过度泛粉，画面脏灰，光线过暗，过曝严重，过度模糊，低清晰度，塑料皮肤，低级 AI 感。",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "李岳",
+      "handle": "liyue_ai"
+    },
+    "source_platform": "X",
+    "source_id": "2069716689080680895",
+    "source_url": "https://x.com/liyue_ai/status/2069716689080680895",
+    "images": [
+      "https://pbs.twimg.com/media/HLkcWVhbcAAufew.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/43aaff00-fccf-4074-89b3-c0c7bc9fae88",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/43aaff00-fccf-4074-89b3-c0c7bc9fae88",
+    "published_at": "2026-10-07T07:29:04.89017+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "b231fed6d482f59cb6b40ac0c682ca0da045c4634bf173f56f00036365b8ab92"
+  },
+  {
     "id": "43c7faad-e206-4441-9316-ad8a1ba4baaf",
     "title": "Nighttime Train Station Portrait in Vintage Film Style",
     "prompt": "Adobe Firefly Image 5 Prompt: Nighttime train station platform. A young East Asian woman stands in the foreground with her back to the camera, turning to look over her shoulder. Dark brown hair in a short ponytail, soft bangs, fair skin, delicate features, subtle smile, one hand touching her chin. She wears a fitted white cropped T shirt, dark navy pleated mini skirt, white ankle socks, and carries a large dark blue leather shoulder bag with metal chain details. Behind her, a turquoise and beige train begins moving, its warm amber lit windows creating motion blur. Rough concrete platform, metal railings, yellow warning line. Strong film grain, slightly faded vintage tones, cool night ambience mixed with warm artificial light, Japanese urban cinematic mood. Vertical 3:4 composition, subject slightly right of center, shallow depth of field.",
@@ -5306,6 +5332,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "a11a15e0402c5000cfd90d0ed40d4c99fc02a2aa6393397fa90f936a79935770"
+  },
+  {
+    "id": "43f22921-9081-40de-b634-58e32bc5ad32",
+    "title": "Cozy Freckled Loungewear Selfies",
+    "prompt": "A collection of casual home selfies featuring a young woman with fair skin, prominent facial freckles, and light eyes, wearing comfortable loungewear in cozy indoor settings. In one scene, she stands in a bedroom taking a mirror selfie, smiling and winking while wearing a cream-colored knit sweater and grey leggings. In another view, she leans in close for a high-angle selfie by a window, showing off messy, wavy red hair while wearing the same cream sweater. The next perspective shows her lying on her stomach on a bed, holding up a phone to take a selfie while smiling warmly and giving a peace sign, dressed in a grey sweatshirt. Finally, she takes a direct mirror selfie with her hair tied up in a messy ponytail, smiling brightly while wearing an oversized olive green crewneck sweatshirt with a brightly lit bedroom blurred in the background.",
+    "category": "portrait",
+    "model_key": "grok",
+    "model_name": "Grok",
+    "model_family": null,
+    "author": {
+      "name": "Minahil",
+      "handle": "Minahil42298354"
+    },
+    "source_platform": "X",
+    "source_id": "2065464449247359337",
+    "source_url": "https://x.com/Minahil42298354/status/2065464449247359337",
+    "images": [
+      "https://pbs.twimg.com/media/HKoA9sDWUAAkp4Z.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HKoA9V6XoAAnU7_.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HKoA9a6XUAATLqR.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HKoA9l6WAAAX9NB.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/43f22921-9081-40de-b634-58e32bc5ad32",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/43f22921-9081-40de-b634-58e32bc5ad32",
+    "published_at": "2026-10-07T07:28:50.279447+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "5a2f657cb3ce86d1c350b10aa12008e126e8291fd72fcd32846efb77bea9e3fd"
   },
   {
     "id": "43fbfa5f-491d-4b13-9c5d-f17a0a9cf71b",
@@ -10976,6 +11031,32 @@
     "content_hash": "4060fab85eba459d83ec770c79836b8f420c7490cf619b0dda5645edb6f24dd6"
   },
   {
+    "id": "894be808-cfa7-4e43-b3e2-e7e50dfe0d76",
+    "title": "Quiet Night Garden Anomaly Photo Prompt",
+    "prompt": "amateur available light photograph of a small back garden at night, a single warm porch light illuminating a wooden bench and a row of potted herbs, [QUIET ANOMALY] resting undisturbed at the edge of the frame, completely still air with no movement in the surrounding leaves, soft long exposure glow on the porch light, deep navy sky with a few faint stars, 35mm lens at f/2, warm amber porch light, muted sage green foliage, charcoal shadow, dust blue night air and pale stone palette, calm asymmetric composition with the porch light off center and half the frame in soft darkness\n|NEGATIVES| no watermark, extra fingers, extra limbs, deformed hands, plastic skin, legible gibberish text, brand logos, oversaturated colors, blurry main subject\n|PARAMS| --v 8.2 --s 250 --ar 5:4",
+    "category": "scene-space",
+    "model_key": "midjourney",
+    "model_name": "Midjourney",
+    "model_family": null,
+    "author": {
+      "name": "TischEins",
+      "handle": "tisch_eins"
+    },
+    "source_platform": "X",
+    "source_id": "2091586271835512988",
+    "source_url": "https://x.com/tisch_eins/status/2091586271835512988",
+    "images": [
+      "https://pbs.twimg.com/media/HQbOoThXkAALWaQ.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/894be808-cfa7-4e43-b3e2-e7e50dfe0d76",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/894be808-cfa7-4e43-b3e2-e7e50dfe0d76",
+    "published_at": "2026-10-07T07:29:11.885498+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "84a60cb7218846561b2f7d9cc5bb442765624c0ff2cc48f531eb3849be7df50f"
+  },
+  {
     "id": "894f5d79-821a-4e9e-aea0-621779f5a838",
     "title": "Whimsical Miniature Beach Adventure Collage",
     "prompt": "> Ultra-realistic whimsical miniature beach adventure collage featuring the same tiny man with an oversized expressive head in six different funny beach scenes, arranged in a clean 2×3 grid with thin white borders. The character has short black hair, a neatly trimmed beard and mustache, wide shocked eyes, raised eyebrows, and an exaggerated surprised expression. His tiny body is perfectly proportioned beneath the oversized head, creating a humorous bobblehead effect. Warm golden sunlight, cinematic beach atmosphere, soft ocean waves, shallow depth of field, creamy bokeh, ultra-detailed sand textures, vibrant summer colors, photorealistic skin, HDR, 8K.\n> Scene 1: Tiny man relaxing on a miniature wooden beach chair while holding a coconut drink with a pink umbrella. A giant human hand gently places the tiny umbrella into the coconut. Seashells and a starfish decorate the sandy beach.\n> Scene 2: Tiny man body-surfing on a yellow skimboard at the shoreline while a giant human hand playfully stretches the back of his red shirt as a wave splashes around him.\n> Scene 3: Tiny man sitting on top of a giant orange crab, looking into the distance with one hand above his eyes as if searching the horizon. Ocean softly blurred in the background.\n> Scene 4: Tiny man standing on a smooth beach rock while struggling to reel in an enormous fish using a fishing rod, with the fish hanging dramatically from the hook.\n> Scene 5: Tiny man buried up to his neck in a mound of sand while a giant blue plastic shovel pours more sand over him. He wears a straw beach hat and looks hilariously terrified.\n> Scene 6: Tiny man trapped inside a giant open seashell, reaching one hand toward the viewer with a dramatic expression, surrounded by scattered seashells on the beach.\n> Hyper-realistic miniature photography, cinematic lighting, ultra-sharp focus, realistic skin textures, premium DSLR quality, 85mm lens, f/1.8, shallow depth of field, soft natural sunlight, highly detailed beach environment, playful surreal scale, Pixar-inspired realism, magazine-quality composition.",
@@ -14992,6 +15073,33 @@
     "content_hash": "998d7a22f4bdb26cd4f50860a8e286b38d33ace3d9fd1959d77fb5c18c7992b1"
   },
   {
+    "id": "b67d51d9-95b7-4f83-8393-785c477fbdce",
+    "title": "Football Screening Euphoria to Suspense",
+    "prompt": "A vibrant outdoor public screening of a football match in a historic European city square, filled with a dense crowd of passionate spectators. The main focus is on a young Caucasian couple—a man with dark, curly hair and a beard, and a woman with long, wavy brown hair—both wearing jerseys in the national team colors of red and green, featuring numbers 7 and 10, with Portuguese flags painted on their cheeks. In one scene, they are captured in a moment of pure euphoria; the man is ecstatically cheering while waving a large national flag high in the air, his arm wrapped around the woman, who smiles brightly with a fist raised in celebration. In a contrasting scene, the atmosphere shifts to intense suspense and anxiety; they lean close together, looking at each other with wide, worried eyes. The woman holds her hands together in a prayer-like gesture near her face, while the man holds a printed match schedule or ticket, looking stressed. The background shows a massive LED screen broadcasting the game, string lights illuminating the evening, and other fans reacting emotionally, all set against historic stone buildings and cobblestone streets.",
+    "category": "scene-space",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Minahil",
+      "handle": "Minahil42298354"
+    },
+    "source_platform": "X",
+    "source_id": "2065489535044039039",
+    "source_url": "https://x.com/Minahil42298354/status/2065489535044039039",
+    "images": [
+      "https://pbs.twimg.com/media/HKoXxxKWMAADliU.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HKoXxxIWsAAAD0k.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/b67d51d9-95b7-4f83-8393-785c477fbdce",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/b67d51d9-95b7-4f83-8393-785c477fbdce",
+    "published_at": "2026-10-07T07:28:52.619066+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "a42f439189b51ba0a5234ff5944525f9ca65f7b0df1dc62630d5bed57d9c5585"
+  },
+  {
     "id": "b6836c57-e441-481d-bdee-9d9984cebd4b",
     "title": "文字穿插：让封面人物站到标题前面",
     "prompt": "{\n\"style_name\": \"Sunlit Kinetic Block Type Photo Poster\",\n\"style_slug\": \"sunlit-kinetic-block-type-photo-poster-style\",\n\"style_version\": \"2.1.0\",\n\"style_summary\": \"A high-energy editorial sports and lifestyle poster style built from full-bleed sunlit photography, oversized cream condensed block typography, diagonal subject crops, compact microcopy clusters, and vivid blue-sky color fields.\",\n\"environment_variables\": {\n\"SUBJECT\": \"main subject\",\n\"SUBJECT_ACTION\": \"main action\",\n\"PRODUCT_OR_PROP\": \"object, product, or prop\",\n\"LOCATION\": \"environment or setting\",\n\"BACKGROUND_ELEMENTS\": \"secondary scene details\",\n\"MAIN_TEXT\": \"main headline or graphic text\",\n\"SECONDARY_TEXT\": \"small repeated supporting text\",\n\"ACCENT_SYMBOL\": \"separator or decorative symbol\",\n\"WARDROBE_STYLE\": \"styling direction\",\n\"STYLE_FIDELITY_ANCHORS\": \"observable style traits that must remain visible\",\n\"SOURCE_CONTENT_TO_AVOID\": \"literal source content that generated samples must not recreate\",\n\"ASPECT_RATIO\": \"9:16 or 16:9\"\n},\nCUT / MOVE / FRESH / SHIFT——如果你是杂志封面，你的那个字会是什么？",
@@ -17245,32 +17353,6 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "b7d4022213fe927092e82578539502d5834b00b38cb909f15f4883257cf51ffe"
-  },
-  {
-    "id": "d468ae68-8448-4a3d-bf50-a0c99793fea4",
-    "title": "AI Model Timeline Infographic Since October 2025",
-    "prompt": "Since October 2025:\n- OpenAI: 5 models\n- Anthropic: 6 models\n- Google: 3 models, one of them was Gemini 3.5 Flash, which was more expensive to use than 3.1 Pro and also worse than it",
-    "category": "poster-graphic",
-    "model_key": "nano-banana",
-    "model_name": "Nano Banana",
-    "model_family": "nano-banana",
-    "author": {
-      "name": "Angel 🌼",
-      "handle": "Angaisb_"
-    },
-    "source_platform": "X",
-    "source_id": "2067699508830507040",
-    "source_url": "https://x.com/Angaisb_/status/2067699508830507040",
-    "images": [
-      "https://pbs.twimg.com/media/HLHxM0JWsAACtWy.png?format=jpg&name=large"
-    ],
-    "musesignal_url": "https://musesignal.com/prompt/d468ae68-8448-4a3d-bf50-a0c99793fea4",
-    "musesignal_url_zh": "https://musesignal.com/zh/prompt/d468ae68-8448-4a3d-bf50-a0c99793fea4",
-    "published_at": "2026-07-29T15:47:36.243755+00:00",
-    "source_published_at": null,
-    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
-    "license": null,
-    "content_hash": "62e9a195b7a92f714d77ca6d7691a05319f0c0e91739f816b75000ed3d40f805"
   },
   {
     "id": "d46cf08a-54be-4be5-90d7-3e427616ad14",
@@ -20412,6 +20494,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "a094db050de997f4c3f55b4d3bdd89c3fddad556ff8609521da3c1bae3222514"
+  },
+  {
+    "id": "f5d8bdf7-0d14-4614-b319-6040b98d2e32",
+    "title": "3D Soccer Letter Player Poster Prompt",
+    "prompt": "Massive 3D capital letter [LETTER] in modern bold typography with realistic black-and-white soccer ball texture, detailed pentagonal and hexagonal panels, glossy leather texture with subtle stitching and slight wear, [PLAYER NAME] in [POSE/ACTION] emerging powerfully from the letter, wearing [TEAM] home jersey, [ADDITIONAL ACTION OR MOTION], at the bottom center a smaller funny caricature head and neck of the same player with exaggerated humorous playful expression peeking from the bottom mid of the canvas, only head and neck visible, not too large, well-balanced composition, small FIFA 2026 logo placed in the top left corner, player number [NUMBER] displayed prominently in the top right corner in bold modern font, dramatic cinematic lighting, strong shadows, realistic depth and volume, premium sports branding aesthetic, solid [BACKGROUND COLOR] background, dynamic composition, ultra realistic, highly detailed textures, professional sports advertising style, sharp focus, cinematic color grading, masterpiece, 16:9 aspect ratio.",
+    "category": "poster-graphic",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Shams",
+      "handle": "ShamsAmin56"
+    },
+    "source_platform": "X",
+    "source_id": "2069026620925698186",
+    "source_url": "https://x.com/ShamsAmin56/status/2069026620925698186",
+    "images": [
+      "https://pbs.twimg.com/media/HLaoPbsaQAAc34F.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLaoPbsbUAAm4aI.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLaoPbnawAEZbpO.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLaoPbrbQAEatmV.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f5d8bdf7-0d14-4614-b319-6040b98d2e32",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f5d8bdf7-0d14-4614-b319-6040b98d2e32",
+    "published_at": "2026-10-07T07:29:02.701501+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "da49fc7cf4fc975d32eee241dc349b21d84a799fc7d0e3a9d1ff0f9188310b90"
   },
   {
     "id": "f5ff41f3-52fc-4935-b79d-1b1278ca4b44",

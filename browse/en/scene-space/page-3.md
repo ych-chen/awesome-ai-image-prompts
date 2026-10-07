@@ -300,3 +300,47 @@ Vertical 4:5 composition, photorealistic, highly detailed, visually addictive, P
 **[Try on MuseSignal →](<https://musesignal.com/prompt/fbfeb657-1d40-419a-90bc-dc1109e716ce?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Naiknelofar788/status/2107084839954661388>)
 
 ---
+
+<a id="prompt-b67d51d9-95b7-4f83-8393-785c477fbdce"></a>
+
+## Football Screening Euphoria to Suspense
+
+<a href="https://musesignal.com/prompt/b67d51d9-95b7-4f83-8393-785c477fbdce?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKoXxxKWMAADliU.jpg?format=jpg&amp;name=small" width="480" alt="Football Screening Euphoria to Suspense" /></a>
+
+**Nano Banana** · Creator: Minahil
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A vibrant outdoor public screening of a football match in a historic European city square, filled with a dense crowd of passionate spectators. The main focus is on a young Caucasian couple—a man with dark, curly hair and a beard, and a woman with long, wavy brown hair—both wearing jerseys in the national team colors of red and green, featuring numbers 7 and 10, with Portuguese flags painted on their cheeks. In one scene, they are captured in a moment of pure euphoria; the man is ecstatically cheering while waving a large national flag high in the air, his arm wrapped around the woman, who smiles brightly with a fist raised in celebration. In a contrasting scene, the atmosphere shifts to intense suspense and anxiety; they lean close together, looking at each other with wide, worried eyes. The woman holds her hands together in a prayer-like gesture near her face, while the man holds a printed match schedule or ticket, looking stressed. The background shows a massive LED screen broadcasting the game, string lights illuminating the evening, and other fans reacting emotionally, all set against historic stone buildings and cobblestone streets.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/b67d51d9-95b7-4f83-8393-785c477fbdce?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2065489535044039039>)
+
+---
+
+<a id="prompt-894be808-cfa7-4e43-b3e2-e7e50dfe0d76"></a>
+
+## Quiet Night Garden Anomaly Photo Prompt
+
+<a href="https://musesignal.com/prompt/894be808-cfa7-4e43-b3e2-e7e50dfe0d76?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQbOoThXkAALWaQ.jpg?format=jpg&amp;name=small" width="480" alt="Quiet Night Garden Anomaly Photo Prompt" /></a>
+
+**Midjourney** · Creator: TischEins
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+amateur available light photograph of a small back garden at night, a single warm porch light illuminating a wooden bench and a row of potted herbs, [QUIET ANOMALY] resting undisturbed at the edge of the frame, completely still air with no movement in the surrounding leaves, soft long exposure glow on the porch light, deep navy sky with a few faint stars, 35mm lens at f/2, warm amber porch light, muted sage green foliage, charcoal shadow, dust blue night air and pale stone palette, calm asymmetric composition with the porch light off center and half the frame in soft darkness
+|NEGATIVES| no watermark, extra fingers, extra limbs, deformed hands, plastic skin, legible gibberish text, brand logos, oversaturated colors, blurry main subject
+|PARAMS| --v 8.2 --s 250 --ar 5:4
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/894be808-cfa7-4e43-b3e2-e7e50dfe0d76?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/tisch_eins/status/2091586271835512988>)
+
+---
