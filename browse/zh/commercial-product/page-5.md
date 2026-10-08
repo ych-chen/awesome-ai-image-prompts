@@ -1628,3 +1628,39 @@ Expressive smile, fun street-commercial aesthetic.
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/63f87d90-fb43-42b5-b635-afdbf48ac80a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Naiknelofar788/status/2106745724545446089>)
 
 ---
+
+<a id="prompt-71b29aee-f76d-4ab9-86fa-4ff9597715db"></a>
+
+## High-Fashion Product Campaign Poster Prompt
+
+<a href="https://musesignal.com/zh/prompt/71b29aee-f76d-4ab9-86fa-4ff9597715db?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOJTXubaYAALVm3.jpg?format=jpg&amp;name=small" width="480" alt="High-Fashion Product Campaign Poster Prompt" /></a>
+
+**GPT Image 2** · 原作者: Larus Canus
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Prompt:
+[Product type]: {perfume / sunscreen / sports drink / cushion compact / other}
+[Brand name]: {original fictional brand}
+[Product name]: {original product name}
+[Main word]: {AURA / SHIELD / BOOST / GLOW / other}
+[Model]: {gender, appearance, hairstyle, attitude}
+[Outfit]: {fashion direction and key materials}
+[Color palette]: {main color + neutral color + accent color}
+[Atmosphere]: {mist / sunbeams / water reflections / powder glow / other}
+[Aspect ratio]: 9:16
+Create a vertical high-fashion commercial campaign poster.
+Turn the product into an oversized architectural stage occupying about 40–50% of the frame. The model sits, leans, or poses naturally on the product with believable weight, contact, balance, and body proportions. Use a slightly low camera angle and a strong diagonal or layered composition to create scale and visual impact.
+Place one oversized emotional keyword behind the model and product. The typography should feel spatial, with partial cropping, foreground–background overlap, transparency, reflections, refraction, shadows, or material effects related to the product.
+Add 3–5 short pieces of original brand copy. Arrange them creatively along the product edge, a light beam, a circular structure, or the side of the frame. Keep the micro typography refined, readable, and asymmetrical rather than placing every text block in the corners.
+Build a minimal but atmospheric brand world. Use one main atmospheric effect and one subtle supporting effect, such as soft haze and glass caustics, sunlight and warm reflections, condensation and cool mist, or pearl powder and halo lighting. Avoid excessive particles and visual clutter.
+Realistic luxury commercial photography, authentic skin texture, accurate product packaging, refined materials, controlled reflections, cinematic lighting, editorial fashion styling, strong hierarchy, generous negative space, premium campaign quality.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/71b29aee-f76d-4ab9-86fa-4ff9597715db?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/MrLarus/status/2081318396243947848>)
+
+---
