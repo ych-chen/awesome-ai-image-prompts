@@ -501,3 +501,30 @@ amateur available light photograph of a small back garden at night, a single war
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/7817903b-a8b6-485f-a266-51da54295572?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/nxnusratul/status/2067441319677776309>)
 
 ---
+
+<a id="prompt-6e2dc8ed-707e-4753-8733-f81b2317abda"></a>
+
+## Ordinary Evenings of the Future
+
+<a href="https://musesignal.com/zh/prompt/6e2dc8ed-707e-4753-8733-f81b2317abda?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOIH3ADWoAAJtLg.jpg?format=jpg&amp;name=small" width="480" alt="Ordinary Evenings of the Future" /></a>
+
+**Midjourney** · 原作者: Vigo Zhao
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+nobody paints the boring parts of the future.
+
+a laundromat in orbit. a fuel stop on the red highway. an empty pool under the dome. the last train home.
+
+one sref, four ordinary evenings. 
+
+--midjourney v8.2
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/6e2dc8ed-707e-4753-8733-f81b2317abda?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/VigoCreativeAI/status/2081234873923084558>)
+
+---
