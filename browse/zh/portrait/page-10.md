@@ -245,3 +245,163 @@ beautiful woman in an oversized sweater holding coffee, sitting on the kitchen f
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/58a14909-fe5c-4832-b850-f69a1a0f975a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/tisch_eins/status/2080533446170931698>)
 
 ---
+
+<a id="prompt-c0cc6c7f-587b-449b-901c-fafbb7df1f64"></a>
+
+## Monochrome Streetwear Editorial Portrait
+
+<a href="https://musesignal.com/zh/prompt/c0cc6c7f-587b-449b-901c-fafbb7df1f64?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLT53Q-acAAVnEW.jpg?format=jpg&amp;name=small" width="480" alt="Monochrome Streetwear Editorial Portrait" /></a>
+
+**Nano Banana 2** · 原作者: Heisenberg
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic monochrome portrait of a young man wearing black wayfarer sunglasses, messy dark hair, well groomed beard beard, and a thin silver chain necklace with a small round pendant. Dressed in an oversized black t-shirt with a minimal white chest logo. Subject standing indoors, head slightly tilted downward and turned 15 degrees to the side, relaxed confident expression. Moody editorial fashion photography, luxury streetwear campaign aesthetic.
+Soft natural window light coming from camera-right, creating gentle highlights on the face and subtle shadow falloff across the body. Shallow depth of field with creamy background blur. Dark gray minimalist interior background with soft gradients and no distractions. High contrast black-and-white grading with deep blacks, rich midtones, and cinematic shadows. Shot on a full-frame camera with an 85mm telephoto lens, f/1.8 aperture, ISO 200, professional portrait composition, chest-up framing, subject centered slightly left. Fine skin texture, realistic fabric details, premium magazine-quality retouching, subtle film grain, Leica photography style, luxury fashion editorial, Vogue Men aesthetic, cinematic mood, ultra sharp focus on face, photorealistic, 8K.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/c0cc6c7f-587b-449b-901c-fafbb7df1f64?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/rovvmut_/status/2068552876860088635>)
+
+---
+
+<a id="prompt-f2041249-7c60-460a-98e4-69f0070715bc"></a>
+
+## Cinematic Fashion Editorial Portrait of a Bearded Man
+
+<a href="https://musesignal.com/zh/prompt/f2041249-7c60-460a-98e4-69f0070715bc?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNo7b4NaEAAtE22.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Fashion Editorial Portrait of a Bearded Man" /></a>
+
+**GPT Image 2** · 原作者: Duet \| AI
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A close-up, cinematic fashion editorial portrait of a stylish man with a sharp undercut fade and a thick, well-groomed beard. The man is looking downwards and to the left in a 3/4 profile pose. He is wearing classic black matte sunglasses with a thick plastic frame, featuring a subtle white logo printed on the temple arm.
+He is dressed in a heavily textured, black open waffle-knit sweater. His left hand is raised across his chest, lightly touching the collar area, which prominently displays a minimalist black watch with a slim silver rim, a clean radial black dial, and fine white tick markers without numbers.
+The lighting is soft, diffused natural daylight coming from the top-right, creating gentle highlights on his right cheekbone, nose, and knuckles, while casting subtle shadows that define the rich texture of his beard and sweater. The background is a clean, split minimalist backdrop: a vibrant, matte teal blue surface on the upper half and a softly blurred, out-of-focus warm tan tone on the lower half. The shot is captured at eye-level with a shallow depth of field, keeping the sharp focus entirely on the subject’s face, sunglasses, and the crisp details of his watch.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f2041249-7c60-460a-98e4-69f0070715bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Sheldon056/status/2079039541001003498>)
+
+---
+
+<a id="prompt-f7895897-d9b1-4e91-a68d-bb1934e8a337"></a>
+
+## Golden Hour Luxury Apartment Portrait
+
+<a href="https://musesignal.com/zh/prompt/f7895897-d9b1-4e91-a68d-bb1934e8a337?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNRQdvyagAARid5.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Luxury Apartment Portrait" /></a>
+
+**Nano Banana Pro** · 原作者: Dockie
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+{
+  "prompt": "Ultra-realistic lifestyle fashion portrait of a young platinum-blonde woman sitting casually inside a luxurious modern high-rise apartment during golden hour. Hair styled in two soft messy space buns with wispy curtain bangs and loose face-framing strands, natural flyaways, and subtle volume. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks and nose, soft facial vellus hair, luminous satin complexion, subtle peach blush, feathered brows, champagne shimmer eyeshadow, delicate fox-eye eyeliner, wispy lashes, glossy nude-pink lips, and authentic micro skin imperfections. Wearing a fitted black spaghetti-strap camisole tucked into high-waisted acid-wash denim shorts with a black leather belt, layered beneath an oversized faded light-wash denim jacket casually slipping off the shoulders. Relaxed seated pose on a light gray sofa while looking directly into the camera with a calm editorial expression. Bright luxury apartment featuring floor-to-ceiling windows overlooking a modern city skyline, warm golden sunset light flooding the room, indoor tropical plants, designer furniture, neutral décor, coffee table, and elegant minimalist styling. Captured with a Sony A7R V and 50mm f/1.4 GM lens. Kodak Portra-inspired skin tones, cinematic golden-hour lighting, premium influencer aesthetic, luxury lifestyle editorial, realistic skin rendering, DSLR-quality sharpness, RAW photo, ultra photorealistic, 8K.",
+  
+  "negative_prompt": "cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate furniture, oversaturated colors, clipped highlights, low-detail hair",
+  
+  "style": "photorealistic",
+  
+  "camera": {
+    "type": "Sony A7R V",
+    "lens": "50mm f/1.4 GM",
+    "aperture": "f/2.0",
+    "iso": 100,
+    "angle": "eye-level lifestyle portrait",
+    "depth_of_field": "shallow"
+  },
+  
+  "lighting": {
+    "type": "natural golden-hour window light",
+    "direction": "soft side lighting",
+    "mood": "warm, cozy, luxury"
+  },
+  
+  "composition": {
+    "framing": "vertical portrait",
+    "subject_position": "centered on sofa",
+    "background": "luxury penthouse apartment with floor-to-ceiling windows, city skyline, indoor plants, designer furniture, and golden sunset"
+  },
+  
+  "quality": {
+    "resolution": "8k",
+    "detail": "ultra high",
+    "sharpness": "DSLR-quality",
+    "skin_detail": "visible pores, realistic texture, natural freckles",
+    "realism": "maximum"
+  }
+}
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f7895897-d9b1-4e91-a68d-bb1934e8a337?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Document195/status/2077375459374068134>)
+
+---
+
+<a id="prompt-81671e41-2ece-4af5-9a4c-4e036959d709"></a>
+
+## Cinematic Night Portrait in Luxury Car
+
+<a href="https://musesignal.com/zh/prompt/81671e41-2ece-4af5-9a4c-4e036959d709?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTYaBOybEAAqB6g.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Night Portrait in Luxury Car" /></a>
+
+**GPT Image 2.5** · 原作者: Shore Lyn
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a cinematic photorealistic portrait of a young woman sitting inside a dark luxury car at night, viewed from outside through the passenger-side window.
+
+She has straight copper-red hair with soft bangs framing her forehead, pale natural skin, subtle makeup, and a quiet, thoughtful expression. She rests her chin gently on her hand, looking slightly to the side with a distant, introspective gaze. She wears a beige hooded jacket with the hood pulled over her head, creating a cozy contrast against the dark interior.
+
+The car has glossy black paint and reflective glass, with the window frame and door cutting diagonally across the composition. Warm amber streetlights and colorful city lights reflect across the glass and car body, creating soft circular bokeh in yellow, orange, green, white, and red. The interior is mostly dark, with subtle warm lighting illuminating her face and hair.
+
+Shot from a low outside angle through the car window, intimate close-up framing, slightly off-center composition, realistic reflections and refractions on the glass, shallow depth of field, cinematic night photography, natural skin texture, detailed hair strands, soft atmospheric lighting, deep shadows, moody urban atmosphere, subtle film grain, realistic lens flare, high dynamic range, 85mm lens look, f/1.4, professional cinematic color grading, photorealistic, ultra-detailed.
+
+Vertical 9:16 composition, no text, no watermark.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/81671e41-2ece-4af5-9a4c-4e036959d709?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2104898608927842762>)
+
+---
+
+<a id="prompt-b8c838cd-d541-4954-ab2b-ba40edb16f16"></a>
+
+## Korean Woman Luxury Car 2x2 Collage
+
+<a href="https://musesignal.com/zh/prompt/b8c838cd-d541-4954-ab2b-ba40edb16f16?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSzPRseaAAAa0Sp.jpg?format=jpg&amp;name=small" width="480" alt="Korean Woman Luxury Car 2x2 Collage" /></a>
+
+**GPT Image 2.5** · 原作者: Shore Lyn
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a 2x2 four-panel cinematic photo collage featuring the EXACT SAME Korean-looking young woman in all four panels. Strong identity consistency: same face, same hairstyle, same black oversized sweatshirt, same sunglasses, same earrings, same makeup, same Mercedes car, same beige leather interior, same lighting, same time of day, and the same Dubai skyline with the Burj Khalifa visible through the windows.
+
+She is sitting comfortably inside the car taking stylish photos/selfies. Each panel must show a DIFFERENT natural pose while everything else remains identical.
+
+Panel 1: She rests her cheek on her hand and gives a playful wink toward the camera.
+Panel 2: She turns slightly toward the camera with a soft confident expression, one hand near the steering wheel.
+Panel 3: She holds her smartphone in front of her face while taking a selfie.
+Panel 4: She looks toward the window with her hand gently touching her cheek.
+
+Photorealistic luxury lifestyle photography, elegant Korean fashion aesthetic, realistic skin texture, natural facial expressions, cinematic sunset lighting, Dubai city lights beginning to glow, Burj Khalifa clearly visible in the background, premium social-media aesthetic, highly detailed, realistic camera photography, seamless 2x2 collage, perfect visual consistency across all four panels, no face changes, no outfit changes, no car changes, no background changes.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b8c838cd-d541-4954-ab2b-ba40edb16f16?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2102283043696165107>)
+
+---

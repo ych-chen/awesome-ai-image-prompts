@@ -714,3 +714,24 @@ Fat Batman Character --sref 4197509103
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cb011749-b37a-4790-ae5a-7d54172228cb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/michaelrabone/status/2069072927455125803>)
 
 ---
+
+<a id="prompt-ee001c50-5855-43a1-916f-96b927a7f2bd"></a>
+
+## Caricature SREF: Grumpy Office Worker with Tiny Turtle
+
+<a href="https://musesignal.com/zh/prompt/ee001c50-5855-43a1-916f-96b927a7f2bd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HN-zW1_XgAAu0q1.jpg?format=jpg&amp;name=small" width="480" alt="Caricature SREF: Grumpy Office Worker with Tiny Turtle" /></a>
+
+**Midjourney** · 原作者: TischEins
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+grumpy office worker walking a tiny turtle on a red leash --sref 3845419946 --v 8.1 --ar 5:4
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ee001c50-5855-43a1-916f-96b927a7f2bd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/tisch_eins/status/2080578760143700353>)
+
+---

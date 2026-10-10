@@ -18,7 +18,7 @@
 
 | 本仓库公开 Prompt | 本页完整展示 | 数据更新 |
 | ---: | ---: | --- |
-| **815** | **100** | 2026-10-09 |
+| **828** | **100** | 2026-10-10 |
 
 本仓库发布 MuseSignal 的部分内容。以上数字分别为 JSON 收录量和本页展示量，不代表网站全量；模型专题是总库子集。
 
@@ -28,11 +28,11 @@
 
 | 按场景浏览 | JSON 收录 | MuseSignal |
 | --- | ---: | --- |
-| [人像摄影](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 277 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
-| [商业产品](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 142 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
-| [海报设计](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 144 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
-| [食物饮品](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 37 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
-| [角色艺术](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 141 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
+| [人像摄影](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 282 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
+| [商业产品](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 145 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
+| [海报设计](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 147 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
+| [食物饮品](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 38 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
+| [角色艺术](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 142 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
 | [场景空间](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) | 74 | [在 MuseSignal 浏览](<https://musesignal.com/zh?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
@@ -45,7 +45,7 @@
 
 <a id="selected-portrait"></a>
 
-### 人像摄影 · 26
+### 人像摄影 · 24
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>)
 
@@ -927,6 +927,176 @@ Negative prompt: full-body distant shot, face too small, unclear expression, neu
 
 ---
 
+<a id="prompt-81671e41-2ece-4af5-9a4c-4e036959d709"></a>
+
+#### Cinematic Night Portrait in Luxury Car
+
+<a href="https://musesignal.com/zh/prompt/81671e41-2ece-4af5-9a4c-4e036959d709?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTYaBOybEAAqB6g.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Night Portrait in Luxury Car" /></a>
+
+**GPT Image 2.5** · 原作者: Shore Lyn
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a cinematic photorealistic portrait of a young woman sitting inside a dark luxury car at night, viewed from outside through the passenger-side window.
+
+She has straight copper-red hair with soft bangs framing her forehead, pale natural skin, subtle makeup, and a quiet, thoughtful expression. She rests her chin gently on her hand, looking slightly to the side with a distant, introspective gaze. She wears a beige hooded jacket with the hood pulled over her head, creating a cozy contrast against the dark interior.
+
+The car has glossy black paint and reflective glass, with the window frame and door cutting diagonally across the composition. Warm amber streetlights and colorful city lights reflect across the glass and car body, creating soft circular bokeh in yellow, orange, green, white, and red. The interior is mostly dark, with subtle warm lighting illuminating her face and hair.
+
+Shot from a low outside angle through the car window, intimate close-up framing, slightly off-center composition, realistic reflections and refractions on the glass, shallow depth of field, cinematic night photography, natural skin texture, detailed hair strands, soft atmospheric lighting, deep shadows, moody urban atmosphere, subtle film grain, realistic lens flare, high dynamic range, 85mm lens look, f/1.4, professional cinematic color grading, photorealistic, ultra-detailed.
+
+Vertical 9:16 composition, no text, no watermark.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/81671e41-2ece-4af5-9a4c-4e036959d709?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2104898608927842762>)
+
+---
+
+<a id="prompt-b8c838cd-d541-4954-ab2b-ba40edb16f16"></a>
+
+#### Korean Woman Luxury Car 2x2 Collage
+
+<a href="https://musesignal.com/zh/prompt/b8c838cd-d541-4954-ab2b-ba40edb16f16?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSzPRseaAAAa0Sp.jpg?format=jpg&amp;name=small" width="480" alt="Korean Woman Luxury Car 2x2 Collage" /></a>
+
+**GPT Image 2.5** · 原作者: Shore Lyn
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a 2x2 four-panel cinematic photo collage featuring the EXACT SAME Korean-looking young woman in all four panels. Strong identity consistency: same face, same hairstyle, same black oversized sweatshirt, same sunglasses, same earrings, same makeup, same Mercedes car, same beige leather interior, same lighting, same time of day, and the same Dubai skyline with the Burj Khalifa visible through the windows.
+
+She is sitting comfortably inside the car taking stylish photos/selfies. Each panel must show a DIFFERENT natural pose while everything else remains identical.
+
+Panel 1: She rests her cheek on her hand and gives a playful wink toward the camera.
+Panel 2: She turns slightly toward the camera with a soft confident expression, one hand near the steering wheel.
+Panel 3: She holds her smartphone in front of her face while taking a selfie.
+Panel 4: She looks toward the window with her hand gently touching her cheek.
+
+Photorealistic luxury lifestyle photography, elegant Korean fashion aesthetic, realistic skin texture, natural facial expressions, cinematic sunset lighting, Dubai city lights beginning to glow, Burj Khalifa clearly visible in the background, premium social-media aesthetic, highly detailed, realistic camera photography, seamless 2x2 collage, perfect visual consistency across all four panels, no face changes, no outfit changes, no car changes, no background changes.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b8c838cd-d541-4954-ab2b-ba40edb16f16?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2102283043696165107>)
+
+---
+
+<a id="prompt-f2041249-7c60-460a-98e4-69f0070715bc"></a>
+
+#### Cinematic Fashion Editorial Portrait of a Bearded Man
+
+<a href="https://musesignal.com/zh/prompt/f2041249-7c60-460a-98e4-69f0070715bc?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNo7b4NaEAAtE22.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Fashion Editorial Portrait of a Bearded Man" /></a>
+
+**GPT Image 2** · 原作者: Duet \| AI
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A close-up, cinematic fashion editorial portrait of a stylish man with a sharp undercut fade and a thick, well-groomed beard. The man is looking downwards and to the left in a 3/4 profile pose. He is wearing classic black matte sunglasses with a thick plastic frame, featuring a subtle white logo printed on the temple arm.
+He is dressed in a heavily textured, black open waffle-knit sweater. His left hand is raised across his chest, lightly touching the collar area, which prominently displays a minimalist black watch with a slim silver rim, a clean radial black dial, and fine white tick markers without numbers.
+The lighting is soft, diffused natural daylight coming from the top-right, creating gentle highlights on his right cheekbone, nose, and knuckles, while casting subtle shadows that define the rich texture of his beard and sweater. The background is a clean, split minimalist backdrop: a vibrant, matte teal blue surface on the upper half and a softly blurred, out-of-focus warm tan tone on the lower half. The shot is captured at eye-level with a shallow depth of field, keeping the sharp focus entirely on the subject’s face, sunglasses, and the crisp details of his watch.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f2041249-7c60-460a-98e4-69f0070715bc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Sheldon056/status/2079039541001003498>)
+
+---
+
+<a id="prompt-f7895897-d9b1-4e91-a68d-bb1934e8a337"></a>
+
+#### Golden Hour Luxury Apartment Portrait
+
+<a href="https://musesignal.com/zh/prompt/f7895897-d9b1-4e91-a68d-bb1934e8a337?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNRQdvyagAARid5.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Luxury Apartment Portrait" /></a>
+
+**Nano Banana Pro** · 原作者: Dockie
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+{
+  "prompt": "Ultra-realistic lifestyle fashion portrait of a young platinum-blonde woman sitting casually inside a luxurious modern high-rise apartment during golden hour. Hair styled in two soft messy space buns with wispy curtain bangs and loose face-framing strands, natural flyaways, and subtle volume. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks and nose, soft facial vellus hair, luminous satin complexion, subtle peach blush, feathered brows, champagne shimmer eyeshadow, delicate fox-eye eyeliner, wispy lashes, glossy nude-pink lips, and authentic micro skin imperfections. Wearing a fitted black spaghetti-strap camisole tucked into high-waisted acid-wash denim shorts with a black leather belt, layered beneath an oversized faded light-wash denim jacket casually slipping off the shoulders. Relaxed seated pose on a light gray sofa while looking directly into the camera with a calm editorial expression. Bright luxury apartment featuring floor-to-ceiling windows overlooking a modern city skyline, warm golden sunset light flooding the room, indoor tropical plants, designer furniture, neutral décor, coffee table, and elegant minimalist styling. Captured with a Sony A7R V and 50mm f/1.4 GM lens. Kodak Portra-inspired skin tones, cinematic golden-hour lighting, premium influencer aesthetic, luxury lifestyle editorial, realistic skin rendering, DSLR-quality sharpness, RAW photo, ultra photorealistic, 8K.",
+  
+  "negative_prompt": "cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate furniture, oversaturated colors, clipped highlights, low-detail hair",
+  
+  "style": "photorealistic",
+  
+  "camera": {
+    "type": "Sony A7R V",
+    "lens": "50mm f/1.4 GM",
+    "aperture": "f/2.0",
+    "iso": 100,
+    "angle": "eye-level lifestyle portrait",
+    "depth_of_field": "shallow"
+  },
+  
+  "lighting": {
+    "type": "natural golden-hour window light",
+    "direction": "soft side lighting",
+    "mood": "warm, cozy, luxury"
+  },
+  
+  "composition": {
+    "framing": "vertical portrait",
+    "subject_position": "centered on sofa",
+    "background": "luxury penthouse apartment with floor-to-ceiling windows, city skyline, indoor plants, designer furniture, and golden sunset"
+  },
+  
+  "quality": {
+    "resolution": "8k",
+    "detail": "ultra high",
+    "sharpness": "DSLR-quality",
+    "skin_detail": "visible pores, realistic texture, natural freckles",
+    "realism": "maximum"
+  }
+}
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/f7895897-d9b1-4e91-a68d-bb1934e8a337?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Document195/status/2077375459374068134>)
+
+---
+
+<a id="prompt-c0cc6c7f-587b-449b-901c-fafbb7df1f64"></a>
+
+#### Monochrome Streetwear Editorial Portrait
+
+<a href="https://musesignal.com/zh/prompt/c0cc6c7f-587b-449b-901c-fafbb7df1f64?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLT53Q-acAAVnEW.jpg?format=jpg&amp;name=small" width="480" alt="Monochrome Streetwear Editorial Portrait" /></a>
+
+**Nano Banana 2** · 原作者: Heisenberg
+
+创作场景: 人像摄影
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic monochrome portrait of a young man wearing black wayfarer sunglasses, messy dark hair, well groomed beard beard, and a thin silver chain necklace with a small round pendant. Dressed in an oversized black t-shirt with a minimal white chest logo. Subject standing indoors, head slightly tilted downward and turned 15 degrees to the side, relaxed confident expression. Moody editorial fashion photography, luxury streetwear campaign aesthetic.
+Soft natural window light coming from camera-right, creating gentle highlights on the face and subtle shadow falloff across the body. Shallow depth of field with creamy background blur. Dark gray minimalist interior background with soft gradients and no distractions. High contrast black-and-white grading with deep blacks, rich midtones, and cinematic shadows. Shot on a full-frame camera with an 85mm telephoto lens, f/1.8 aperture, ISO 200, professional portrait composition, chest-up framing, subject centered slightly left. Fine skin texture, realistic fabric details, premium magazine-quality retouching, subtle film grain, Leica photography style, luxury fashion editorial, Vogue Men aesthetic, cinematic mood, ultra sharp focus on face, photorealistic, 8K.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/c0cc6c7f-587b-449b-901c-fafbb7df1f64?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/rovvmut_/status/2068552876860088635>)
+
+---
+
 <a id="prompt-ff6d0838-bc23-4add-a259-46f0f8dab3e0"></a>
 
 #### High-Fashion Street-Style Portrait of a Woman
@@ -1063,201 +1233,6 @@ Prompt:
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/11941c8d-8e88-422c-a902-6f8b9f2adc4b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Document195/status/2080274223000654316>)
-
----
-
-<a id="prompt-145af37b-22f0-4a71-8b3d-c203b7923170"></a>
-
-#### Three-Panel Professional Office Portrait Collage
-
-<a href="https://musesignal.com/zh/prompt/145af37b-22f0-4a71-8b3d-c203b7923170?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM6aGVSaYAARf8s.jpg?format=jpg&amp;name=small" width="480" alt="Three-Panel Professional Office Portrait Collage" /></a>
-
-**Nano Banana** · 原作者: NUSRAT
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Gemini nano Banana image .
-Prompt:
-
-  "subject": {
-    "person": "Young woman with an elegant, professional appearance",
-    "hair": "Dark brown, styled in a polished, wavy shoulder-length bob cut",
-    "facial_features": "Defined eyebrows, warm brown eyes, soft natural makeup, neutral-toned lipstick",
-    "jewelry": "Art Deco style dangling geometric silver earrings"
-  },
-  "outfit": {
-    "suit": "Tailored deep blue blazer and matching slim-fit trousers",
-    "blouse": "Silk button-down shirt featuring an intricate teal, cream, and gold botanical/artistic pattern",
-    "accessories": "Black leather belt with a decorative silver buckle",
-    "footwear": "Dark grey or metallic pointed-toe Mary Jane heels"
-  },
-  "setting": {
-    "environment": "Modern professional office",
-    "background_elements": "Large floor-to-ceiling windows with a city skyline view, a wooden desk, a sleek office chair, indoor plants, and framed artwork on the wall",
-    "lighting": "Bright, natural daylight with soft, professional studio lighting"
-  },
-  "composition": {
-    "style": "Three-panel professional portrait collage",
-    "layout": "Left: Close-up bust shot; Center: Full-body standing shot with arms crossed; Right: Macro close-up shot focused on face and earrings",
-    "quality": "Photorealistic, 4k resolution, high-end commercial photography style, sharp focus, crisp textures"
-  }
-}
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/145af37b-22f0-4a71-8b3d-c203b7923170?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/nxnusratul/status/2075765919947919725>)
-
----
-
-<a id="prompt-96ba898e-8fc7-4b9a-87c0-0dd159e6e7e9"></a>
-
-#### Painterly Digital Sketch Portrait Illustration
-
-<a href="https://musesignal.com/zh/prompt/96ba898e-8fc7-4b9a-87c0-0dd159e6e7e9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLBC_iEb0AA8Ny1.jpg?format=jpg&amp;name=small" width="480" alt="Painterly Digital Sketch Portrait Illustration" /></a>
-
-**Nano Banana 2** · 原作者: zayan
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Ultra-premium expressive portrait illustration, blending painterly realism with stylized digital sketch art, highly detailed facial rendering, semi-realistic character design, crisp facial anatomy, smooth brush-painted skin textures, subtle hand-drawn construction lines and loose artistic scribbles surrounding the subject, cinematic warm-and-cool dual lighting, golden-orange highlights contrasted with soft teal-blue rim lighting, rich skin depth and natural color transitions, realistic eyes with painterly reflections, refined hair strands with dynamic volume, elegant eyewear reflections, soft graphic shading, contemporary editorial portrait aesthetics, concept-art quality, controlled brushwork mixed with clean digital painting, minimalist bright background with abstract sketch accents, selective texture overlays, professional illustration finish, balanced realism and artistic stylization, sophisticated color harmony, modern visual storytelling, gallery-quality portrait artwork, ultra-sharp details, high-end digital painting, 8K masterpiece. R 9:16 vertikal.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/96ba898e-8fc7-4b9a-87c0-0dd159e6e7e9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2067233028121006260>)
-
----
-
-<a id="prompt-66224c00-f662-4399-805d-2de31c334cfe"></a>
-
-#### Night Market Poker Snapshot
-
-<a href="https://musesignal.com/zh/prompt/66224c00-f662-4399-805d-2de31c334cfe?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HIr68_taQAAqDy2.jpg?format=jpg&amp;name=small" width="480" alt="Night Market Poker Snapshot" /></a>
-
-**GPT Image 2** · 原作者: Iqra Saifi
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Ein körniges, ungestelltes Smartphone-Foto, aus einer niedrigen Perspektive aufgenommen, während einer nächtlichen Straßen-Pokerrunde auf einem belebten Nachtmarkt. Um einen billigen, abgenutzten Holztisch sitzen vier Männer mittleren Alters auf niedrigen Plastikstühlen — Xi Jinping und Donald Trump tragen weiße gerippte Tanktops, Elon Musk trägt ein schwarzes Tanktop und greift nach einem Stapel blauer Chips, während Tim Cook ganz rechts mit Brille sitzt und Bier aus einem Plastikbecher trinkt.
-
-Im Vordergrund hält die Hand des Fotografen zwei Spielkarten, eine Dame und eine 8, wodurch der Blick auf den Tisch teilweise verdeckt wird. Auf dem Tisch liegen verstreut rote, weiße und blaue Pokerchips, eine grüne Glasbierflasche und mehrere Plastikbecher.
-
-Der Hintergrund zeigt eine überfüllte, authentische asiatische Nachtstraße mit verschwommenen Neonschildern in chinesischen Schriftzeichen, aufsteigendem Dampf von entfernten Essensständen und gedämpften, grellen Straßenlampen von oben. Blitzlicht-Effekt, hohes ISO-Rauschen, leicht unperfekte Bildkomposition, rohe Texturen, lässiger 35mm-Schnappschuss-Stil, hyperrealistisch, ungestellt, alltägliche Realität. --ar 4:3 --style raw
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/66224c00-f662-4399-805d-2de31c334cfe?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/IqrasaifiAI/status/2056732310213624199>)
-
----
-
-<a id="prompt-99054e6d-7e34-4c87-8326-f84205029a46"></a>
-
-#### Warm Editorial Portrait of a South Asian Woman in Teal
-
-<a href="https://musesignal.com/zh/prompt/99054e6d-7e34-4c87-8326-f84205029a46?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOP0LSFXwAEv2TG.jpg?format=jpg&amp;name=small" width="480" alt="Warm Editorial Portrait of a South Asian Woman in Teal" /></a>
-
-**GPT Image** · 原作者: Minahil
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A captivating medium close-up portrait of a South Asian woman with long, voluminous, wavy dark brown hair, looking back over her shoulder with a soft expression. She is wearing an elegant teal traditional outfit adorned with delicate gold embroidery and a matching dupatta draped over her shoulder, complemented by ornate traditional earrings. The scene is bathed in warm, natural sunlight casting gentle shadows, with a minimalist neutral-toned background featuring a large decorative ceramic vase. The overall aesthetic is warm, cinematic, and editorial, highlighting rich textures and a soft focus.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/99054e6d-7e34-4c87-8326-f84205029a46?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Minahil42298354/status/2081775939470414270>)
-
----
-
-<a id="prompt-41c31874-9ace-4083-a2fd-dc89c1177887"></a>
-
-#### Colored Pencil Portrait on Recycled Paper
-
-<a href="https://musesignal.com/zh/prompt/41c31874-9ace-4083-a2fd-dc89c1177887?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOO1UFPbYAApnvs.jpg?format=jpg&amp;name=small" width="480" alt="Colored Pencil Portrait on Recycled Paper" /></a>
-
-**Nano Banana** · 原作者: zayan
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Ultra-detailed traditional colored pencil illustration, realistic hand-drawn portrait with refined graphite construction lines and layered colored pencil rendering, soft cross-hatching, delicate directional strokes, subtle burnished pencil blending, rich paper grain texture, visible sketch marks intentionally preserved, elegant mixed-media illustration combining colored pencil, graphite, and light pastel accents, handcrafted fine-art aesthetic.
-The face is rendered with maximum precision and clarity, featuring razor-sharp details, rich color saturation, crisp edges, realistic skin texture, finely layered pencil pigments, luminous highlights, expressive eyes, and high-definition facial features as the primary focal point. Strong tonal contrast and refined color transitions create a striking, realistic traditional drawing appearance.
-The illustration gradually transitions downward into an intentionally unfinished sketch. Colors softly fade into loose colored pencil strokes, rough graphite lines, expressive cross-hatching, visible construction marks, painterly smudges, incomplete outlines, and spontaneous hand-drawn gestures. The lower clothing and surrounding elements dissolve naturally into abstract unfinished sketch textures, preserving the authentic work-in-progress aesthetic.
-Background: muted teal-green to warm gray recycled paper, textured handmade paper surface with visible recycled fibers, subtle pulp grain, soft paper speckles, natural paper imperfections, lightly weathered matte finish, organic fibrous texture, gentle tonal variations, clean minimal composition, elegant sketchbook presentation. The artwork blends naturally into the paper surface, allowing some pencil strokes and unfinished marks to merge seamlessly with the textured recycled paper.
-Natural muted color palette featuring dusty teal, sage green, muted turquoise, warm gray, soft ivory, beige, sepia, charcoal, faded denim blue, and restrained warm golden highlights. The face remains the most vibrant and sharply colored area, while the lower portion gradually becomes lighter, softer, and more transparent.
-Soft natural lighting, gentle highlights, subtle ambient shadows, smooth tonal gradients created entirely through layered pencil strokes, crisp focal details concentrated on the face, gradually dissolving into expressive unfinished linework toward the bottom, premium traditional illustration aesthetic, timeless fine-art realism, museum-quality sketchbook illustration, ultra-high detail. Ar 9:16!
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/41c31874-9ace-4083-a2fd-dc89c1177887?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/HustleXR/status/2081706843227975967>)
-
----
-
-<a id="prompt-b672095a-a66a-41f3-9fe8-de2cd617ddae"></a>
-
-#### Rugged Man on Italian Lakeside Balcony
-
-<a href="https://musesignal.com/zh/prompt/b672095a-a66a-41f3-9fe8-de2cd617ddae?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLe6jz2XoAAFLm2.jpg?format=jpg&amp;name=small" width="480" alt="Rugged Man on Italian Lakeside Balcony" /></a>
-
-**Nano Banana 2** · 原作者: Picts by AI
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A ruggedly handsome man stands in profile, leaning back slightly with relaxed shoulders, his gaze directed away in a candid, serious expression with neutral brows and mouth. He features medium textured hair and a thick beard, with subtle specular highlights catching his forehead, nose bridge, and the individual strands of his hair. He wears an unbuttoned dark charcoal brown linen shirt that reveals a silver pendant necklace resting on his exposed chest, paired with black trousers. His left hand is tucked casually into his trouser pocket with only the wrist and thumb visible, while his right hand rests effortlessly near his hip, lightly holding a pair of sunglasses by the frames in a relaxed, organic gesture, accented by a silver watch and bracelet. He is positioned on a gray concrete floor behind a pristine black wrought-iron balcony railing featuring twisted vertical bars in the immediate foreground. Beyond the balcony, the scene opens with deep spatial depth to a calm, deep slate blue lake dotted with moored sailboats, flanked on the bottom right by vintage Italian-style buildings displaying weathered, patchy plaster walls painted in pale yellow and topped with warm terracotta tiled roofs. The background is dominated by steep, rocky mountain cliffs that are misty and partially obscured by low-hanging clouds. The atmosphere exudes calm, sophisticated luxury, illuminated by a single diffused natural light source from above that casts a soft, moody, low-contrast glow. Soft, gradual gray shadows pool gently under the man's chin and shirt collar, while an ambient fill unifies the cool, desaturated complementary color palette of charcoal brown, slate blue, and terracotta. Captured as a tack-sharp realistic digital photograph straight-on using an 85mm lens at f/5.6 for deep focus, the European luxury lifestyle aesthetic is finalized with a grain-free finish, desaturated greens and blues, enhanced midtone contrast, and a subtle cool color grade, all naturally framed in a 4:5 aspect ratio.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b672095a-a66a-41f3-9fe8-de2cd617ddae?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/pictsbyai/status/2069327718865363334>)
-
----
-
-<a id="prompt-63e2be27-0935-411b-aae1-375ea6df83cc"></a>
-
-#### Lakeside Lifestyle Portrait in Tortoiseshell Sunglasses
-
-<a href="https://musesignal.com/zh/prompt/63e2be27-0935-411b-aae1-375ea6df83cc?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLUqDgUWIAACCfu.jpg?format=jpg&amp;name=small" width="480" alt="Lakeside Lifestyle Portrait in Tortoiseshell Sunglasses" /></a>
-
-**Nano Banana Pro** · 原作者: Picts by AI
-
-创作场景: 人像摄影
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-A young male sits in a black outdoor chair, positioned in the center with a confident demeanor and a relaxed 45-degree turn of his body. His short hair features a matte styled, textured top about two to three inches long with tapered sides, revealing natural imperfections, subtle waves, and realistic stray flyaways. He maintains a neutral mouth and directs a steady gaze through tortoiseshell sunglasses. He is dressed in a black shirt. His relaxed shoulders lead down to his organically positioned hands; his left hand rests smoothly on his thigh, casually holding a cylindrical matte taupe handleless cup, while his right hand rests elevated on his right thigh with fingers loosely curled inward, displaying a gold rectangular watch with a brown leather strap. He interacts seamlessly with his outdoor setting, where the foreground features a heavily weathered, grayish-brown wooden deck with prominently grooved planks, flanked subtly by a small round table frame on the right edge. The medium depth of field slightly blurs the deep spatial background, giving way to a calm midground lake that perfectly reflects the cloudy sky, alongside a small floating wooden pier accented by a yellow buoy on the left. In the deep background, thriving coastal town architecture and rolling hills fade gently into the distance. The scene exudes a calm, relaxed, overcast lakeside atmosphere, dominated by an analogous and cool color palette of desaturated cloudy blue-grays, plum browns, and weathered wood tones. A single source of natural, soft daylight diffuses gently from above, wrapping the scene in moderate intensity and low flat contrast. This creates a flattering illumination that casts faint, short shadows with soft gradual edges directly under the subject, while dusting subtle specular highlights across the texture of his matte hair and shoulders supported by neutral ambient fill. Captured as a tack sharp digital photograph employing an 85mm lens at an f/4.0 aperture, the straight-on perspective draws heavily from clean lifestyle social media photography. The realistic, grain-free image undergoes post-processing to desaturate the blues, mute the overall tones, and apply a mild contrast adjustment, seamlessly guiding the asymmetric visual hierarchy from his face down to his hands and out toward the lake, beautifully framed in a 4:5 aspect ratio.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/63e2be27-0935-411b-aae1-375ea6df83cc?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/pictsbyai/status/2068605868212355268>)
 
 ---
 
@@ -1749,13 +1724,13 @@ Midjourney + NanoBanana + Ps
 
 ---
 
-<a id="prompt-01f6379c-3071-4f68-874a-439a131d0d61"></a>
+<a id="prompt-9a2c0c8c-4885-4bcd-93f7-b38f411871c8"></a>
 
-#### LEGO-Style Soccer Minifigure Collectible Studio Shot
+#### Cheetos Fisheye Snack-Ad Portrait
 
-<a href="https://musesignal.com/zh/prompt/01f6379c-3071-4f68-874a-439a131d0d61?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLWPIZ8aQAAPkF2.jpg?format=jpg&amp;name=small" width="480" alt="LEGO-Style Soccer Minifigure Collectible Studio Shot" /></a>
+<a href="https://musesignal.com/zh/prompt/9a2c0c8c-4885-4bcd-93f7-b38f411871c8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTwZ2I6a4AA-N_z.jpg?format=jpg&amp;name=small" width="480" alt="Cheetos Fisheye Snack-Ad Portrait" /></a>
 
-**GPT Image 2** · 原作者: K
+**Nano Banana Pro** · 原作者: Duet \| AI
 
 创作场景: 商业产品
 
@@ -1763,22 +1738,26 @@ Midjourney + NanoBanana + Ps
 <summary>完整提示词</summary>
 
 ```text
-A highly detailed collectible toy figure inspired by a LEGO-style minifigure, standing in a professional studio. The figure has a realistic young woman’s face with porcelain skin, straight jet-black hair, blunt bangs, and a single striking white streak running through the hair. She wears small silver earrings and maintains a calm, confident expression. The body is a glossy plastic brick-toy minifigure wearing a soccer jersey with the number 10, matching shorts, and national-team-inspired colors. Full-body composition, centered framing, shallow depth of field, premium product photography, ultra-clean lighting, reflective plastic surfaces, realistic shadows, sharp focus, luxury collectible aesthetic, high-end commercial advertising style, photorealistic face blended seamlessly with toy body, 8K resolution, vibrant color grading, studio backdrop matching the jersey color theme.
+Studio portrait of one smiling person holding a Cheetos Crunchy orange chips bag close to the camera, both the bag and the person’s head in the foreground. Captured with an ultra-wide fisheye lens for a playful, youthful, energetic feel.
+The model wears a glossy bright orange puffer jacket over a white t-shirt.
+Background in a vibrant orange gradient with light yellow accents, bold and fun.
+Soft cinematic lighting, juicy highlights, slight saturation boost, modern snack-ad editorial style.
+Expressive smile, fun street-commercial aesthetic.
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/01f6379c-3071-4f68-874a-439a131d0d61?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/ChillaiKalan__/status/2068717001145778630>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/9a2c0c8c-4885-4bcd-93f7-b38f411871c8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Sheldon056/status/2106587208916566057>)
 
 ---
 
-<a id="prompt-25db3fcb-f09c-4ac6-9625-6e57e31b2a70"></a>
+<a id="prompt-3c7a8595-e6c5-43ee-bd04-ab88c0988280"></a>
 
-#### Miniature 3D Diorama Product Promo
+#### Cinematic BMW E30 Street-Racing Editorial Poster
 
-<a href="https://musesignal.com/zh/prompt/25db3fcb-f09c-4ac6-9625-6e57e31b2a70?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HBXUd3ubcAIidMX.jpg?format=jpg&amp;name=small" width="480" alt="Miniature 3D Diorama Product Promo" /></a>
+<a href="https://musesignal.com/zh/prompt/3c7a8595-e6c5-43ee-bd04-ab88c0988280?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTIL8gAboAA74kF.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic BMW E30 Street-Racing Editorial Poster" /></a>
 
-**Nano Banana Pro** · 原作者: Max
+**GPT Image 2.5** · 原作者: Shore Lyn
 
 创作场景: 商业产品
 
@@ -1786,59 +1765,215 @@ A highly detailed collectible toy figure inspired by a LEGO-style minifigure, st
 <summary>完整提示词</summary>
 
 ```text
-Start Nano Banana Pro || 8K Ultra-Realistic Promotional
-Create a stylized miniature 3D diorama viewed from a 45-degree angled perspective, emphasizing careful scale, clean geometry, and fine craftsmanship. WATER GLASS device serves as the central base of the composition. From within or above this device, a miniature interpretation of the selected NEW YORK emerges naturally, forming a compact, self contained world.
-The scene highlights recognizable landmarks, terrain features, or symbolic structures associated with the NEW YORK, arranged harmoniously and rendered with precise detail. Miniature roads, pathways, environmental elements, and tiny human figures interact naturally with the Nano Banana Pro, reinforcing its presence as the foundation of the world.
-Use cinematic lighting, soft highlights, reflections on premium surfaces, and selective depth-of-field blur to create a magical, dreamlike, ultra realistic promotional atmosphere. Emphasize the product’s premium materials, sleek design, and futuristic aesthetic,Image size 4 5..
-```
+GPT image 2.5 on ChatGPT 
 
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/25db3fcb-f09c-4ac6-9625-6e57e31b2a70?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Max__Build/status/2023757225148510702>)
-
----
-
-<a id="prompt-71b29aee-f76d-4ab9-86fa-4ff9597715db"></a>
-
-#### High-Fashion Product Campaign Poster Prompt
-
-<a href="https://musesignal.com/zh/prompt/71b29aee-f76d-4ab9-86fa-4ff9597715db?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOJTXubaYAALVm3.jpg?format=jpg&amp;name=small" width="480" alt="High-Fashion Product Campaign Poster Prompt" /></a>
-
-**GPT Image 2** · 原作者: Larus Canus
-
-创作场景: 商业产品
-
-<details>
-<summary>完整提示词</summary>
-
-```text
 Prompt:
-[Product type]: {perfume / sunscreen / sports drink / cushion compact / other}
-[Brand name]: {original fictional brand}
-[Product name]: {original product name}
-[Main word]: {AURA / SHIELD / BOOST / GLOW / other}
-[Model]: {gender, appearance, hairstyle, attitude}
-[Outfit]: {fashion direction and key materials}
-[Color palette]: {main color + neutral color + accent color}
-[Atmosphere]: {mist / sunbeams / water reflections / powder glow / other}
-[Aspect ratio]: 9:16
-Create a vertical high-fashion commercial campaign poster.
-Turn the product into an oversized architectural stage occupying about 40–50% of the frame. The model sits, leans, or poses naturally on the product with believable weight, contact, balance, and body proportions. Use a slightly low camera angle and a strong diagonal or layered composition to create scale and visual impact.
-Place one oversized emotional keyword behind the model and product. The typography should feel spatial, with partial cropping, foreground–background overlap, transparency, reflections, refraction, shadows, or material effects related to the product.
-Add 3–5 short pieces of original brand copy. Arrange them creatively along the product edge, a light beam, a circular structure, or the side of the frame. Keep the micro typography refined, readable, and asymmetrical rather than placing every text block in the corners.
-Build a minimal but atmospheric brand world. Use one main atmospheric effect and one subtle supporting effect, such as soft haze and glass caustics, sunlight and warm reflections, condensation and cool mist, or pearl powder and halo lighting. Avoid excessive particles and visual clutter.
-Realistic luxury commercial photography, authentic skin texture, accurate product packaging, refined materials, controlled reflections, cinematic lighting, editorial fashion styling, strong hierarchy, generous negative space, premium campaign quality.
+Create a high-end cinematic automotive editorial poster featuring a classic 1980s BMW E30 race car as the main subject. The visual style combines underground street racing culture, distressed vintage motorsport graphics, brutalist urban design, and experimental contemporary magazine art.
+
+SUBJECT:
+A heavily modified classic BMW E30 coupe, low and wide stance, aggressive lowered suspension, deep-dish black racing wheels, wide fenders, performance bodywork, front splitter, roll cage visible through the windshield, racing decals and small sponsor stickers, weathered white/off-white paint with scratches, dirt, faded graphics, chipped paint and realistic signs of hard racing use. Keep the BMW proportions and recognizable E30 design extremely accurate. Detailed circular headlights, classic kidney grille, boxy body shape and authentic period-correct details.
+
+VISUAL STYLE:
+Raw 1980s/1990s underground street-racing aesthetic mixed with luxury automotive editorial photography. Distressed screen-print textures, faded ink, rough paper grain, scratched surfaces, photocopy artifacts, torn-poster textures, imperfect registration, subtle halftone patterns, paint splashes, dust, concrete textures and analog film grain.
+
+COLOR PALETTE:
+Muted cream, dirty white, charcoal black, faded teal, desaturated green, warm beige, burnt orange and selective racing red. Use restrained colors with occasional bold red graphic elements.
+
+COMPOSITION:
+Vertical 4:5 editorial poster composition. The BMW dominates the lower and middle portion of the frame. Use dramatic low camera angles, wide-angle automotive photography, strong perspective, detailed reflections and cinematic depth. Leave enough negative space around the vehicle for oversized graphic typography.
+
+BACKGROUND:
+A dense modern city skyline with tall glass skyscrapers, brutalist architecture, industrial structures, elevated roads and urban streets. Integrate large abstract graphic shapes, painted walls, torn advertisements and oversized typographic elements into the environment. The background should feel like a real city photographed through a distressed analog editorial aesthetic.
+
+TYPOGRAPHY:
+Add enormous bold condensed sans-serif typography behind and partially around the car. Use fragmented words and abstract letterforms inspired by vintage motorsport posters and experimental Swiss graphic design. Typography should look screen-printed, weathered, partially erased and layered over the architecture. Keep the typography visually integrated rather than clean digital text.
+
+SCENE VARIATION:
+Create one of these cinematic situations while maintaining the same BMW and visual identity:
+
+1. FRONT HERO SHOT:
+   BMW facing directly toward the camera on a cracked urban road, extremely low front angle, city skyline behind it, enormous faded red typography covering the background, warm late-afternoon sunlight, long shadows and gritty asphalt texture.
+
+2. THREE-QUARTER HERO SHOT:
+   BMW viewed from a dramatic low front three-quarter angle, parked inside or beside a damaged industrial structure, tall skyscrapers visible behind it, broken concrete and large red graphic typography on the wall, soft atmospheric sunlight and heavy film grain.
+
+3. REAR DRIFT SHOT:
+   BMW E30 accelerating away from the camera, rear three-quarter perspective, wide stance and black wheels visible, tires producing smoke and dust, colorful faded racing graphics on the body, large abstract typography behind the car, cinematic sunset light and flying debris.
+
+4. APOCALYPTIC STREET SHOT:
+   BMW facing the camera in the middle of a chaotic urban canyon, surrounded by torn posters, flying paper, broken advertisements, dust and fragments. Tall buildings rise on both sides. Strong central perspective, mostly monochrome environment with selective red and yellow graphic accents, dramatic overcast light and intense motion.
+
+PHOTOGRAPHY:
+Ultra-detailed professional automotive photography, 24mm wide-angle lens, low camera position, realistic reflections, realistic tire deformation, physically accurate shadows, cinematic depth, subtle motion blur where appropriate, natural atmospheric haze, 35mm analog film texture, fine grain, slightly faded highlights and rich shadow detail.
+
+TEXTURE:
+Extremely tactile printed-poster appearance. Add aged paper grain, scratches, dust, faded ink, cracked paint, torn edges, imperfect screen printing, subtle chromatic misregistration and distressed photographic textures without making the image look artificially low quality.
+
+MOOD:
+Rebellious, nostalgic, raw, urban, underground, cinematic and experimental. The image should feel like a rare vintage motorsport magazine cover discovered decades later, but photographed with modern high-end automotive photography.
+
+QUALITY:
+Photorealistic BMW, accurate vehicle geometry, realistic materials, realistic city architecture, physically believable lighting, extremely detailed textures, cinematic composition, premium editorial photography, 8K detail, sharp subject, subtle film grain, sophisticated art direction.
+
+Avoid cartoon styling, generic modern cars, futuristic vehicle designs, incorrect BMW proportions, excessive neon, clean digital graphics, plastic-looking surfaces, unrealistic wheels, distorted headlights, malformed typography, excessive HDR, oversaturation and artificial CGI appearance.
 ```
 
 </details>
 
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/71b29aee-f76d-4ab9-86fa-4ff9597715db?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/MrLarus/status/2081318396243947848>)
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/3c7a8595-e6c5-43ee-bd04-ab88c0988280?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2103757153383457195>)
+
+---
+
+<a id="prompt-32905e2e-ed00-443d-8b86-8e5d187db484"></a>
+
+#### Giant Strawberry Milk Bottle FMCG Campaign
+
+<a href="https://musesignal.com/zh/prompt/32905e2e-ed00-443d-8b86-8e5d187db484?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HJFR-PvasAAYuJX.jpg?format=jpg&amp;name=small" width="480" alt="Giant Strawberry Milk Bottle FMCG Campaign" /></a>
+
+**GPT Image 2** · 原作者: Hemayxn.ai
+
+创作场景: 商业产品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a hyper-realistic luxury FMCG advertisement titled:
+
+“THE WORLD’S MOST BEAUTIFUL STRAWBERRY MILK.”
+
+The image should feel:
+bright,
+instantly understandable,
+premium,
+saveable and aggressively scroll-stopping.
+
+IMPORTANT:
+This should NOT feel like a normal product shot.
+
+It should feel like:
+a billion-dollar global campaign designed specifically to dominate social media feeds.
+
+SCENE:
+
+A gigantic transparent glass bottle of premium strawberry milk stands in the middle of a dreamy sunlit strawberry field during golden-hour sunset.
+
+The bottle should be enormous —
+larger than a small house —
+like a real-world landmark.
+
+Inside the glass bottle:
+perfect creamy pink strawberry milk swirls realistically with soft condensation and flowing liquid movement.
+
+The bottle itself should look:
+obsessively tactile and luxurious:
+
+- cold condensation droplets,
+- glossy glass reflections,
+- creamy liquid texture,
+- embossed logo,
+- realistic strawberry illustrations,
+- tiny imperfections in glass,
+- sunlight refracting through the liquid.
+
+AROUND THE BOTTLE:
+
+People naturally interact with it as though it has always existed there.
+
+Examples:
+
+- children running through giant strawberries,
+- friends sitting beneath the shadow of the bottle,
+- someone climbing a ladder attached to the bottle cap,
+- a girl photographing reflections in the glass,
+- strawberries rolling through grass in cinematic slow motion,
+- milk splashes forming organically around the environment.
+
+The atmosphere should feel:
+joyful,
+warm,
+dreamlike and visually addictive.
+
+IMPORTANT:
+
+The image should contain:
+MASSIVE oversized strawberries scattered across the landscape like natural objects.
+
+Some sliced open.
+Some reflecting sunlight.
+Some partially dipped in milk.
+
+The strawberries should feel:
+hyper-realistic,
+fresh,
+glossy and almost edible through the screen.
+
+TYPOGRAPHY:
+
+Minimal clean luxury typography floating softly in the sky:
+
+“DRINK SUMMER.”
+
+Small subtext beneath:
+“Sweetness, bottled.”
+
+Typography should feel:
+Apple-level minimal and globally iconic.
+
+LIGHTING:
+
+Warm golden-hour sunset lighting with:
+
+- glowing milk reflections,
+- cinematic lens flare,
+- soft atmospheric haze,
+- warm grass highlights,
+- dreamy backlighting,
+- realistic shadow falloff,
+- reflective liquid highlights.
+
+CAMERA STYLE:
+
+Blend:
+
+- luxury beverage commercials,
+- FMCG photography,
+- dreamlike environmental realism,
+- and tactile food cinematography.
+
+Use:
+
+- medium-format realism,
+- cinematic depth of field,
+- realistic skin texture,
+- subtle motion blur,
+- premium lens behavior,
+- aerial drone composition,
+- and practical reflections.
+
+COLOR PALETTE:
+
+creamy pink,
+warm strawberry red,
+golden sunlight,
+fresh green grass,
+soft white highlights and sunset orange tones.
+
+The final image should feel:
+so visually satisfying and commercially polished that people immediately stop scrolling and think:
+
+“how is this not a real campaign?”
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/32905e2e-ed00-443d-8b86-8e5d187db484?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/hemayxn/status/2058516638086156502>)
 
 ---
 
 <a id="selected-poster-graphic"></a>
 
-### 海报设计 · 15
+### 海报设计 · 16
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>)
 
@@ -2745,6 +2880,133 @@ Keywords:
 
 ---
 
+<a id="prompt-1fb00a56-1a79-40a1-bfd0-b4a7e2a4ab68"></a>
+
+#### Vintage Travel Poster with 3D Papercraft Diorama
+
+<a href="https://musesignal.com/zh/prompt/1fb00a56-1a79-40a1-bfd0-b4a7e2a4ab68?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HThrAZDakAAlol4.jpg?format=jpg&amp;name=small" width="480" alt="Vintage Travel Poster with 3D Papercraft Diorama" /></a>
+
+**GPT Image 2.5** · 原作者: Shore Lyn
+
+创作场景: 海报设计
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A premium vintage travel poster featuring [Country/City Name] with a large tablet placed in the center displaying a handcrafted 3D papercraft diorama of the destination. The scene seamlessly emerges from the tablet screen into the real world, with colorful paper-cut elements flowing outward. Include iconic landmarks, charming streets, coastal scenery, mountains, flowers, local architecture, traditional culture, regional patterns, native plants, boats, wildlife, and signature foods arranged in an artistic composition.
+
+A realistic hand holding a stylus is actively drawing the artwork, creating the illusion that the destination is coming to life. Around the tablet, decorate the poster with vintage passport stamps, postage stamps, travel sketches, handwritten arrows, illustrated local symbols, maps, botanical drawings, and torn paper textures.
+
+Typography at the top features the destination name in elegant large serif lettering, followed by a refined travel tagline and a smaller subtitle. The poster has warm aged parchment paper, textured paper fibers, soft shadows, layered paper-cut craftsmanship, editorial layout, premium magazine-quality design, subtle depth, cinematic lighting, highly detailed miniature environment, realistic paper textures, elegant composition, luxury tourism campaign aesthetic, handcrafted mixed-media illustration, ultra-realistic, 8K
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/1fb00a56-1a79-40a1-bfd0-b4a7e2a4ab68?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2105550502838858030>)
+
+---
+
+<a id="prompt-e8cbb44c-613d-41e2-9bd3-dea1f2947a8e"></a>
+
+#### Cinematic Travel Poster with Ink Illustration Transition
+
+<a href="https://musesignal.com/zh/prompt/e8cbb44c-613d-41e2-9bd3-dea1f2947a8e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTCNoVfbYAAXcMJ.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Travel Poster with Ink Illustration Transition" /></a>
+
+**GPT Image 2.5** · 原作者: Shore Lyn
+
+创作场景: 海报设计
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a sophisticated conceptual travel-art poster based on [LANDMARK / CITY / COUNTRY], inspired by the visual storytelling of a real photograph seamlessly transitioning into delicate hand-drawn illustration.
+
+TOP SECTION — REALISTIC PHOTOGRAPH:
+Show a breathtaking, cinematic photograph of [LANDMARK / CITY / COUNTRY] during [sunrise / sunset / golden hour / blue hour]. Preserve the authentic architecture, landscape, proportions, recognizable details, atmosphere, natural lighting, and distinctive visual identity of the location. Use dramatic warm light, glowing highlights, realistic textures, atmospheric depth, subtle film grain, and an editorial travel-photography aesthetic.
+
+THE TRANSITION:
+From one important visual element of the photograph — such as the sun, a window, tower, dome, streetlight, mountain peak, river, or architectural detail — create a single thin golden thread / beam of light that naturally extends downward from the photograph into the empty paper space. The thread should feel delicate, handmade, slightly imperfect, and continuous.
+
+BOTTOM SECTION — HAND-DRAWN STORY:
+On warm ivory textured paper, transform the end of the golden thread into a beautiful minimal ink illustration connected to [LANDMARK / CITY / COUNTRY]. The thread could lead to a tiny illustrated traveler, artist, child, architect, traditional object, local street scene, miniature landmark, map element, flower, boat, train, or another meaningful cultural symbol.
+
+Keep the illustration extremely elegant and sparse, using fine black ink lines, subtle hatching, tiny golden accents, and lots of negative space. Integrate small recognizable details from [CITY / COUNTRY] into the illustration without making it crowded.
+
+TYPOGRAPHY:
+Add a small handwritten or refined editorial phrase such as:
+[CITY] [PLACE NAME]
+
+Add minimal typography: [CITY / COUNTRY] — [LANDMARK NAME], with optional coordinates or a small location descriptor.
+
+STYLE: premium conceptual travel poster, poetic visual storytelling, real photography + minimalist ink illustration, warm ivory paper, delicate golden thread, sophisticated editorial composition, museum-quality art print, subtle vintage texture, emotional but understated, generous negative space, vertical 4:5 composition.
+
+IMPORTANT: Keep the real photograph visually dominant and authentic. The illustrated section should feel like it is physically connected to the photograph by the single continuous golden thread. No collage clutter, no excessive typography, no random objects, no cartoonish style, no distorted architecture.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/e8cbb44c-613d-41e2-9bd3-dea1f2947a8e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2103336789339709511>)
+
+---
+
+<a id="prompt-8395b579-1e62-48e1-aedf-a5164866b827"></a>
+
+#### 3D Inflated Logo Branding Poster
+
+<a href="https://musesignal.com/zh/prompt/8395b579-1e62-48e1-aedf-a5164866b827?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HSXWDOha8AAYaFY.jpg?format=jpg&amp;name=small" width="480" alt="3D Inflated Logo Branding Poster" /></a>
+
+**GPT Image 2.5** · 原作者: Shams
+
+创作场景: 海报设计
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a premium experimental branding poster in a strict 9:16 vertical composition.
+
+VARIABLE 01 — LOGO: [LOGO]
+VARIABLE 02 — STYLE: [STYLE]
+Use the official, instantly recognizable [LOGO] logo and its correctly spelled brand name. Preserve the authentic logo geometry, proportions, silhouette, visual identity, and recognizable brand characteristics. Do not redesign, mutate, simplify, or incorrectly reconstruct the logo.
+
+Transform the main [LOGO] symbol into a large 3D inflated sculptural object. Give it a soft pneumatic balloon construction with thick rounded volume, realistic air pressure, subtle edge wrinkles, stretched material, tiny compression folds, smooth curved surfaces, realistic seams where appropriate, premium material response, strong specular highlights, ambient occlusion, realistic reflections, and soft contact shadows.
+
+Apply [STYLE] as the primary art direction. The chosen style should influence the 3D material treatment, graphic language, typography character, supporting textures, lighting mood, and secondary visual elements while keeping the core composition consistent.
+
+LOCKED COMPOSITION
+
+Use an off-white grunge paper background covering the entire 9:16 canvas. Include subtle paper fibers, folds, creases, scratches, faded ink, photocopy imperfections, distressed print marks, light grain, restrained halftone fragments, tiny registration/crosshair graphics, and naturally worn edges.
+
+Place the brand name “[LOGO]” at the TOP-MIDDLE, centered horizontally with generous breathing room. Use clean, bold, highly legible typography appropriate to the brand and selected style.
+
+TEXT ACCURACY IS CRITICAL: “[LOGO]” must be spelled perfectly. Keep the top brand name flat, sharp, clean, readable, and undistorted. No malformed letters, duplicated characters, random symbols, gibberish, or additional words.
+
+Behind the 3D logo, place a massive fixed typography overlay reading “[LOGO]”, spanning much of the middle section. Make this background typography oversized, bold and partially cropped by the canvas edges. Apply controlled distressed/grunge printing to this large text while keeping the letters identifiable.
+
+Place the inflated 3D [LOGO] symbol as the dominant central focal point, overlapping the oversized background typography. The object should occupy approximately 50–60% of the poster height, creating obvious foreground/background separation and dimensional depth.
+
+Maintain strong visual hierarchy:
+
+Small clean “[LOGO]” name — top-middle
+
+Massive fixed “[LOGO]” typography — middle/background
+Inflated 3D logo — dominant foreground focal point
+Minimal technical/grunge details — secondary decoration
+Keep generous negative space around the composition. Use an editorial grid, controlled asymmetry, premium graphic-design spacing, precise alignment, sophisticated layering, realistic studio lighting, high-end advertising art direction, tactile 3D rendering and a polished print-poster finish.
+
+The final result should feel like contemporary brand identity × inflated 3D sculpture × [STYLE] × experimental editorial poster design.
+
+STRICT RULES: 9:16 only, off-white grunge background, one main inflated logo only, brand name always top-middle, oversized fixed brand-name overlay behind the logo, correct logo geometry, perfect brand-name spelling, no unrelated objects, no unnecessary micro-text, no random words, no text errors, no watermark, no mockup environment.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8395b579-1e62-48e1-aedf-a5164866b827?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/ShamsAmin56/status/2100322168185974959>)
+
+---
+
 <a id="prompt-baf0b086-3b5d-4633-8998-fb7faa68447e"></a>
 
 #### Nostalgic Editorial Scrapbook Photo Collage
@@ -2782,57 +3044,9 @@ Important: preserve realistic photography in the top section; do not turn the ph
 
 ---
 
-<a id="prompt-0e441638-84fd-429a-b55a-a4f32836a1d2"></a>
-
-#### B&amp;W Typographic Silhouette Portrait Poster
-
-<a href="https://musesignal.com/zh/prompt/0e441638-84fd-429a-b55a-a4f32836a1d2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLlSTv7bkAAFIQT.jpg?format=jpg&amp;name=small" width="480" alt="B&amp;W Typographic Silhouette Portrait Poster" /></a>
-
-**GPT Image 2** · 原作者: simeon-sanai
-
-创作场景: 海报设计
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-High-contrast black and white typographic portrait poster of [HUMAN], shown in side profile with [FEATURE]. Build the portrait with bold black silhouette blocks, sharp negative space, rough ink edges, fragmented stencil shapes, tiny editorial microtext, vertical typographic accents and expressive hand-drawn calligraphic marks. Integrate one large readable text block saying “[TEXT]” in 2 to 4 stacked lines, placed only inside the neck and body area, using oversized scribbled lettering that feels fused into the silhouette.  Include a graphic design logo reading “[LOGO]” near the footer. Minimal off-white paper background, asymmetrical layout, cropped vertical composition, experimental editorial poster design, raw ink print texture, aspect ratio 4:5.
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0e441638-84fd-429a-b55a-a4f32836a1d2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Naiknelofar788/status/2069776015178805535>)
-
----
-
-<a id="prompt-908cddbe-c044-442c-a18a-a6ac23548a17"></a>
-
-#### Pixar-Style World Cup 2026 Caricature Poster
-
-<a href="https://musesignal.com/zh/prompt/908cddbe-c044-442c-a18a-a6ac23548a17?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLgMUhUa8AA_g6k.jpg?format=jpg&amp;name=small" width="480" alt="Pixar-Style World Cup 2026 Caricature Poster" /></a>
-
-**GPT Image 2** · 原作者: TechieSA
-
-创作场景: 海报设计
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-If you want more players ➡️ replace “3-4” to how many you’d like.
-Prompt:
-“Pixar-style 3D CGI caricature poster celebrating [NATION]'s World Cup 2026 national football team. Feature 3-4 of the team's most iconic current players as charming, exaggerated 3D caricature characters wearing the official nation home kit, big expressive eyes, warm glossy Pixar-quality rendering, dynamic hero poses radiating excitement and team pride. Background uses the nation’s flag colors with a stadium atmosphere, confetti, and subtle World Cup 2026 branding elements. Bold, energetic title text reading '[NATION] WORLD CUP 2026' at the top in a font style matching the team's national colors. Cinematic lighting, vibrant colors, professional sports poster composition, high detail, glossy finish.”
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/908cddbe-c044-442c-a18a-a6ac23548a17?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/TechieBySA/status/2069417585083396116>)
-
----
-
 <a id="selected-food-drink"></a>
 
-### 食物饮品 · 11
+### 食物饮品 · 12
 
 [在 MuseSignal 浏览](<https://musesignal.com/zh?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>)
 
@@ -3108,6 +3322,503 @@ low quality, worst quality (1.4), bad anatomy, deformed, ugly appearance, crosse
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2dca3684-bdc2-427b-9e69-117ff319b389?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/kingofdairyque/status/2080989326557487445>)
+
+---
+
+<a id="prompt-5fa96c94-0b5c-415a-8dd9-6ecca318fb25"></a>
+
+#### Ultra-Premium Refreshing Beverage Splash Poster Template
+
+<a href="https://musesignal.com/zh/prompt/5fa96c94-0b5c-415a-8dd9-6ecca318fb25?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLZQDyVawAAIQgp.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Premium Refreshing Beverage Splash Poster Template" /></a>
+
+**GPT Image 2** · 原作者: Shore Lyn
+
+创作场景: 食物饮品
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+GPT Image 2 on ChatGPT
+
+Prompt:
+
+TITLE:
+ULTRA-PREMIUM REFRESHING BEVERAGE SPLASH POSTER TEMPLATE
+
+CORE CONCEPT:
+Create a premium beverage advertising poster built around the idea of “freshness in motion”.
+
+The main idea is:
+one refreshing drink becomes the center of a dynamic splash moment,
+surrounded by ice cubes, fruit slices, liquid motion, bold oversized typography, and clean commercial UI details.
+
+The poster should communicate:
+
+freshness,
+energy,
+cool taste,
+summer mood,
+premium refreshment,
+bold flavor,
+social-media appetite appeal,
+modern drink branding.
+
+Do NOT copy any reference image literally.
+Use only the concept of:
+large drink glass,
+frozen splash motion,
+floating ice,
+fruit garnish,
+bold oversized typography,
+warm energetic background,
+premium beverage campaign layout.
+
+TOPIC:
+[BEVERAGE POSTER / COLD DRINK AD / ICED TEA CAMPAIGN / MOCKTAIL POSTER / SUMMER DRINK BRANDING / JUICE AD / SODA CAMPAIGN / CAFE MENU POSTER / REFRESHING DRINK TEMPLATE / PREMIUM FOOD AND DRINK ADVERTISING]
+
+STYLE & ART DIRECTION:
+
+Premium beverage advertising.
+
+High-energy summer drink campaign.
+
+Clean commercial poster composition.
+
+Bold editorial typography.
+
+Fresh fruit-driven visual identity.
+
+Modern cafe and restaurant branding.
+
+Dynamic liquid photography style.
+
+Social-media-ready drink layout.
+
+High-end refreshment campaign.
+
+Marketplace-ready beverage poster template.
+
+MAIN SUBJECT:
+
+ONE hero drink displayed prominently.
+
+The drink may be:
+
+iced tea,
+soda,
+cola,
+lemonade,
+fruit juice,
+mocktail,
+cold brew,
+sparkling drink,
+summer refresher,
+cafe signature drink,
+restaurant beverage.
+
+The glass should look:
+
+cold,
+fresh,
+glossy,
+realistic,
+transparent,
+premium,
+high-detail,
+commercial-quality.
+
+Include visible drink details such as:
+
+ice cubes,
+bubbles,
+condensation,
+fruit slices,
+garnish,
+liquid highlights,
+glass reflections,
+fresh splash movement.
+
+VISUAL METAPHOR:
+
+Create a “freshness explosion” around the drink.
+
+Use:
+
+liquid splash arc,
+floating ice cubes,
+fruit slices,
+bubbles,
+condensation droplets,
+cold mist,
+citrus garnish,
+dynamic diagonal motion.
+
+The splash should feel frozen in time.
+
+The drink should look like it is moving through the poster with energy and taste.
+
+LAYOUT & COMPOSITION:
+
+Horizontal or vertical premium beverage-poster composition.
+
+The design should include:
+
+brand logo in the top corner,
+
+large oversized typography across the middle,
+
+hero drink overlapping or cutting through the typography,
+
+fruit slices floating around the glass,
+
+liquid splash above or behind the drink,
+
+small price or menu detail,
+
+small origin / flavor / location text block,
+
+minimal CTA button,
+
+subtle dotted texture or graphic detail,
+
+clean negative space,
+
+strong brand-color background,
+
+premium commercial hierarchy.
+
+The typography should feel integrated into the drink motion, not separated from it.
+
+The product should remain the strongest visual focus.
+
+TYPOGRAPHY:
+
+Use:
+
+extra-bold condensed sans-serif typography,
+
+large uppercase display words,
+
+wide letter spacing,
+
+clean menu-style microcopy,
+
+modern beverage-brand hierarchy,
+
+minimal UI-style labels,
+
+high-impact social media readability.
+
+TEXT STRUCTURE:
+
+Brand Name:
+[BEVERAGE BRAND NAME]
+
+Main Campaign Word:
+[OVERSIZED DRINK NAME / FLAVOR / LOCATION WORD]
+
+Supporting Line:
+[SHORT REFRESHING MESSAGE]
+
+Flavor / Origin Text:
+[FROM / FLAVOR / INGREDIENT / LOCATION]
+
+Price or Menu Detail:
+[PRICE / MENU NOTE / LIMITED OFFER]
+
+CTA:
+[OPEN MENU / ORDER NOW / TRY TODAY / REFRESH NOW]
+
+Bottom Info:
+[WEBSITE / SOCIAL HANDLE / CAFE LOCATION]
+
+HEADLINE EXAMPLES:
+
+ICE COLD
+
+FRESH SIP
+
+CITRUS RUSH
+
+SUMMER POUR
+
+COOL WAVE
+
+LONG REFRESH
+
+TASTE THE CHILL
+
+SPLASH SEASON
+
+BIG FLAVOR
+
+POUR THE MOMENT
+
+SUPPORTING LINE EXAMPLES:
+
+Freshness served cold.
+
+A bold sip of summer.
+
+Made for sunny moments.
+
+Cool taste, big energy.
+
+Your daily refreshment escape.
+
+Bright flavor in every sip.
+
+A splash of pure refreshment.
+
+VISUAL SYSTEM:
+
+Build the poster around a “drink in motion” visual system.
+
+Use:
+
+hero glass perspective,
+
+diagonal drink movement,
+
+oversized typography behind the glass,
+
+liquid splash crown,
+
+floating ice cubes,
+
+fresh fruit garnish,
+
+soft bubbles,
+
+subtle halftone dots,
+
+minimal UI arrows,
+
+clean menu button,
+
+premium light reflections.
+
+The design should feel modern, energetic, and highly appetizing.
+
+BACKGROUND SYSTEM:
+
+Use a single bold beverage background color.
+
+Recommended color directions:
+
+orange citrus gradient,
+
+lime green summer background,
+
+deep cola brown,
+
+lemon yellow,
+
+berry red,
+
+ice blue,
+
+mint green,
+
+peach sunset,
+
+tropical teal.
+
+Add subtle lighting gradients and soft bokeh only if needed.
+
+Avoid clutter.
+
+Avoid busy patterns.
+
+Keep the drink, splash, and typography as the main focus.
+
+COLOR PALETTE:
+
+PRIMARY COLOR:
+[BRAND BACKGROUND COLOR]
+
+SECONDARY COLOR:
+[DRINK / GLASS HIGHLIGHT COLOR]
+
+ACCENT COLOR:
+[FRUIT / CTA / GRAPHIC DETAIL COLOR]
+
+TEXT COLOR:
+[WHITE / CREAM / HIGH-CONTRAST COLOR]
+
+Use the color system consistently across:
+
+background,
+
+typography,
+
+fruit garnish,
+
+drink highlights,
+
+CTA,
+
+brand logo,
+
+menu details,
+
+graphic accents.
+
+EXTRA DESIGN DETAILS:
+
+Frozen liquid splash.
+
+Floating ice cubes.
+
+Fresh citrus slices.
+
+Cold condensation.
+
+Large cropped typography.
+
+Minimal price label.
+
+Menu CTA button.
+
+Small origin text.
+
+UI arrow details.
+
+Soft bokeh circles.
+
+Subtle dotted texture.
+
+Premium glass reflections.
+
+Clean beverage-brand spacing.
+
+MARKETPLACE TEMPLATE REQUIREMENTS:
+
+The template must be reusable for:
+
+iced tea brands,
+
+juice bars,
+
+mocktail menus,
+
+soda campaigns,
+
+cafe drinks,
+
+summer beverages,
+
+lemonade brands,
+
+cold brew products,
+
+restaurant drink menus,
+
+smoothie campaigns,
+
+energy drinks,
+
+sparkling water,
+
+fruit refreshers,
+
+social media drink ads.
+
+The buyer should be able to replace:
+
+brand name,
+
+drink type,
+
+glass image,
+
+fruit garnish,
+
+headline,
+
+background color,
+
+price,
+
+CTA,
+
+location text,
+
+flavor name,
+
+logo,
+
+website,
+
+social handle,
+
+menu details.
+
+QUALITY:
+
+Ultra-realistic beverage photography.
+
+Premium commercial drink advertising.
+
+High-end cafe campaign design.
+
+Behance-quality composition.
+
+Pinterest-worthy beverage poster.
+
+Magazine-quality refreshment ad.
+
+Clean social-media-ready layout.
+
+8K ultra-high-resolution rendering.
+
+QUALITY CONTROLS:
+
+Do NOT copy the reference image exactly.
+
+Do NOT use the same brand name.
+
+Do NOT use the same drink name.
+
+Do NOT repeat the exact glass angle.
+
+Do NOT repeat the exact typography placement.
+
+Do NOT overcrowd the layout.
+
+Do NOT make the drink look artificial.
+
+Do NOT make the text unreadable.
+
+Do NOT limit the concept to one beverage only.
+
+Do NOT create a one-time dead idea.
+
+Preserve only the core idea:
+
+refreshing hero drink,
+
+dynamic liquid splash,
+
+floating ice and fruit,
+
+oversized integrated typography,
+
+bold single-color background,
+
+menu-style UI details,
+
+premium beverage advertising mood,
+
+marketplace-ready editable structure.
+
+The final result should feel like a fresh premium drink advertising template that can be sold as part of a reusable beverage and cafe campaign system.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5fa96c94-0b5c-415a-8dd9-6ecca318fb25?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2068929219133112758>)
 
 ---
 
@@ -3412,6 +4123,29 @@ A realistic, worm’s-eye view photograph of a cheerful young woman with a messy
 
 ---
 
+<a id="prompt-ee001c50-5855-43a1-916f-96b927a7f2bd"></a>
+
+#### Caricature SREF: Grumpy Office Worker with Tiny Turtle
+
+<a href="https://musesignal.com/zh/prompt/ee001c50-5855-43a1-916f-96b927a7f2bd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HN-zW1_XgAAu0q1.jpg?format=jpg&amp;name=small" width="480" alt="Caricature SREF: Grumpy Office Worker with Tiny Turtle" /></a>
+
+**Midjourney** · 原作者: TischEins
+
+创作场景: 角色艺术
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+grumpy office worker walking a tiny turtle on a red leash --sref 3845419946 --v 8.1 --ar 5:4
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/ee001c50-5855-43a1-916f-96b927a7f2bd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/tisch_eins/status/2080578760143700353>)
+
+---
+
 <a id="prompt-876f91ef-2374-4045-8a0e-249c1cca8535"></a>
 
 #### Delivery Courier Character Turnaround Sheet
@@ -3434,36 +4168,6 @@ Studio product photography, seamless light gray background, soft diffused lighti
 </details>
 
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/876f91ef-2374-4045-8a0e-249c1cca8535?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/Kashberg_0/status/2079432928019505314>)
-
----
-
-<a id="prompt-cb011749-b37a-4790-ae5a-7d54172228cb"></a>
-
-#### Vector Graphic Fat Spiderman and Batman Characters
-
-<a href="https://musesignal.com/zh/prompt/cb011749-b37a-4790-ae5a-7d54172228cb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLbSrfFXsAADlSK.jpg?format=jpg&amp;name=small" width="480" alt="Vector Graphic Fat Spiderman and Batman Characters" /></a>
-
-**Midjourney** · 原作者: Michael Rabone
-
-创作场景: 角色艺术
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-Midjourney --sref 4197509103
-Vector Graphic Design Characters
-
-Fat Spiderman Character --sref 4197509103
---ar 1:1 --sw 100 --stylize 300 -- v 8.1
-
-Fat Batman Character --sref 4197509103
---ar 1:1 --sw 100 --stylize 300 -- v 8.1 https://t.co/knoflir3Yq
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/cb011749-b37a-4790-ae5a-7d54172228cb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [原帖](<https://x.com/michaelrabone/status/2069072927455125803>)
 
 ---
 
@@ -3917,28 +4621,28 @@ one sref, four ordinary evenings.
 | --- | ---: | --- |
 | Adobe Firefly | 2 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=adobe-firefly&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_adobe-firefly>) |
 | GPT Image | 49 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 418 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
-| GPT Image 2.5 | 15 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2.5>) |
+| GPT Image 2 | 421 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2.5 | 21 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2.5>) |
 | Grok | 31 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
 | Ideogram | 1 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=ideogram&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_ideogram>) |
 | Leonardo | 2 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=leonardo&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_leonardo>) |
-| Midjourney | 51 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
+| Midjourney | 52 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
 | Nano Banana | 32 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana>) |
-| Nano Banana 2 | 87 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
-| Nano Banana Pro | 106 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-pro>) |
+| Nano Banana 2 | 88 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
+| Nano Banana Pro | 108 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-pro>) |
 | Seedream 5.0 Pro | 8 | [在 MuseSignal 浏览](<https://musesignal.com/zh?model=seedream-5.0-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_seedream-5.0-pro>) |
 | 未注明 | 13 | — |
 
 ## 最近发布
 
-- [Nostalgic Editorial Scrapbook Photo Collage](<https://musesignal.com/zh/prompt/baf0b086-3b5d-4633-8998-fb7faa68447e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [High-Fashion Street-Style Portrait of a Woman](<https://musesignal.com/zh/prompt/ff6d0838-bc23-4add-a259-46f0f8dab3e0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Vintage Italian Street Editorial Portrait](<https://musesignal.com/zh/prompt/0fc18e43-54ab-4c30-817c-696f2133fd5e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana 2
-- [Ordinary Evenings of the Future](<https://musesignal.com/zh/prompt/6e2dc8ed-707e-4753-8733-f81b2317abda?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Midjourney
-- [Cozy Morning Editorial Portrait](<https://musesignal.com/zh/prompt/58a14909-fe5c-4832-b850-f69a1a0f975a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Midjourney
-- [Y2K Luxury Nightlife Editorial Portrait](<https://musesignal.com/zh/prompt/11941c8d-8e88-422c-a902-6f8b9f2adc4b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
-- [Delivery Courier Character Turnaround Sheet](<https://musesignal.com/zh/prompt/876f91ef-2374-4045-8a0e-249c1cca8535?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Three-Panel Professional Office Portrait Collage](<https://musesignal.com/zh/prompt/145af37b-22f0-4a71-8b3d-c203b7923170?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana
+- [Cheetos Fisheye Snack-Ad Portrait](<https://musesignal.com/zh/prompt/9a2c0c8c-4885-4bcd-93f7-b38f411871c8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
+- [Vintage Travel Poster with 3D Papercraft Diorama](<https://musesignal.com/zh/prompt/1fb00a56-1a79-40a1-bfd0-b4a7e2a4ab68?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2.5
+- [Cinematic Night Portrait in Luxury Car](<https://musesignal.com/zh/prompt/81671e41-2ece-4af5-9a4c-4e036959d709?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2.5
+- [Cinematic BMW E30 Street-Racing Editorial Poster](<https://musesignal.com/zh/prompt/3c7a8595-e6c5-43ee-bd04-ab88c0988280?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2.5
+- [Cinematic Travel Poster with Ink Illustration Transition](<https://musesignal.com/zh/prompt/e8cbb44c-613d-41e2-9bd3-dea1f2947a8e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2.5
+- [Korean Woman Luxury Car 2x2 Collage](<https://musesignal.com/zh/prompt/b8c838cd-d541-4954-ab2b-ba40edb16f16?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2.5
+- [3D Inflated Logo Branding Poster](<https://musesignal.com/zh/prompt/8395b579-1e62-48e1-aedf-a5164866b827?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2.5
+- [Caricature SREF: Grumpy Office Worker with Tiny Turtle](<https://musesignal.com/zh/prompt/ee001c50-5855-43a1-916f-96b927a7f2bd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Midjourney
 
 ## 在 MuseSignal 生成
 
@@ -3959,7 +4663,7 @@ one sref, four ordinary evenings.
 
 ## 开发者：下载公开数据
 
-[下载完整 JSON · 815](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[下载完整 JSON · 828](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json
