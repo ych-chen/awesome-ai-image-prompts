@@ -376,6 +376,32 @@
     "content_hash": "11de03ddfb40327e7cd2f0e30dca3094aa433b852a968322db7b07841e572dad"
   },
   {
+    "id": "04e28cad-eb15-4e44-9c72-112f03345bbd",
+    "title": "Ultra-Realistic Studio Portrait of an Indian Woman",
+    "prompt": "An ultra-realistic studio portrait of a beautiful young Indian woman with naturally warm medium-fair Indian skin, a smooth natural complexion, softly sculpted cheekbones, a defined jawline, and a graceful oval face. She has large expressive dark brown eyes with long curled eyelashes, thick naturally shaped eyebrows, and naturally full lips.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Aadil Maqbool",
+      "handle": "Aadilpktm"
+    },
+    "source_platform": "X",
+    "source_id": "2071622343957598264",
+    "source_url": "https://x.com/Aadilpktm/status/2071622343957598264",
+    "images": [
+      "https://pbs.twimg.com/media/HL_higYbEAAlnnO.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/04e28cad-eb15-4e44-9c72-112f03345bbd",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/04e28cad-eb15-4e44-9c72-112f03345bbd",
+    "published_at": "2026-10-11T07:19:08.746627+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "7251fae7e069a687791711272ea07535ce33e32ba561101effd604b5e016d6ec"
+  },
+  {
     "id": "04e6a655-6409-4d72-93f1-9acd2dbb5aa3",
     "title": "Scarlet Court: Breaking the Frame in Sports Posters",
     "prompt": "{\n\"style_name\": \"Scarlet Court Photo Type Poster\",\n\"style_slug\": \"scarlet-court-photo-type-poster-style\",\n\"style_version\": \"2.1.0\",\n\"style_summary\": \"A saturated action-ad poster style built from a flat scarlet field, a hard-edged blue photographic sports panel, one cutout subject crossing between those zones, oversized warm-cream display typography, vertical side microcopy, and gritty printed-poster texture.\",\n\"environment_variables\": {\n\"SUBJECT\": \"main subject\",\n\"SUBJECT_ACTION\": \"main action\",\n\"PRODUCT_OR_PROP\": \"object, product, or prop\",\n\"LOCATION\": \"environment or setting\",\n\"BACKGROUND_ELEMENTS\": \"secondary scene details\",\n\"MAIN_TEXT\": \"main headline or graphic text\",\n\"SECONDARY_TEXT\": \"small repeated supporting text\",\n\"ACCENT_SYMBOL\": \"separator or decorative symbol\",\n\"WARDROBE_STYLE\": \"styling direction\",\n\"STYLE_FIDELITY_ANCHORS\": \"observable style traits that must remain visible\",\n\"SOURCE_CONTENT_TO_AVOID\": \"literal source content that generated samples must not recreate\",\n\"ASPECT_RATIO\": \"9:16 or 16:9\"\n}",
@@ -864,6 +890,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "39353bb2b752345bc32834b9901798bee2d6d15af35e4f2db4e989387403a1b8"
+  },
+  {
+    "id": "0a051abb-47c3-4473-90ab-ff8aefe5aee3",
+    "title": "Photorealistic Triptych Office Portrait",
+    "prompt": "Gemini nano Banana image. \nPrompt{\n  \"image_description\": {\n    \"subject\": {\n      \"gender\": \"female\",\n      \"hair\": \"short, wavy, dark auburn/reddish-brown color\",\n      \"facial_features\": {\n        \"smile\": \"warm, smiling with teeth visible\",\n        \"eyes\": \"brown\",\n        \"complexion\": \"clear, natural skin texture\"\n      },\n      \"attire\": {\n        \"outfit_1_left_and_right\": \"beige-colored turtleneck sweater\",\n        \"outfit_2_center\": \"dark olive green professional blazer and matching tailored trousers, paired with a light beige button-down shirt\"\n      },\n      \"accessories\": {\n        \"earrings\": \"textured gold-toned circular drop earrings\"\n      }\n    },\n    \"setting\": {\n      \"background\": \"professional office environment\",\n      \"details\": [\n        \"wooden desk\",\n        \"laptop\",\n        \"large green potted plant (aloe vera)\",\n        \"minimalist artwork on the wall\",\n        \"natural interior lighting\"\n      ]\n    },\n    \"composition\": {\n      \"layout\": \"three-panel triptych collage\",\n      \"panel_1_left\": \"close-up portrait (upper torso)\",\n      \"panel_2_center\": \"full-body professional shot\",\n      \"panel_3_right\": \"extreme close-up face shot\"\n    },\n    \"technical_specifications\": {\n      \"resolution\": \"4k\",\n      \"style\": \"photorealistic\",\n      \"lighting\": \"soft, diffused professional studio lighting\",\n      \"quality\": \"high-detail, sharp focus, cinematic photography\"\n    }\n  }\n}",
+    "category": "portrait",
+    "model_key": "nano-banana",
+    "model_name": "Nano Banana",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "NUSRAT",
+      "handle": "nxnusratul"
+    },
+    "source_platform": "X",
+    "source_id": "2076352713072488803",
+    "source_url": "https://x.com/nxnusratul/status/2076352713072488803",
+    "images": [
+      "https://pbs.twimg.com/media/HNCvyCyasAELbtn.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/0a051abb-47c3-4473-90ab-ff8aefe5aee3",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/0a051abb-47c3-4473-90ab-ff8aefe5aee3",
+    "published_at": "2026-10-11T07:19:09.934266+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "1fa1c888766983b5187e2c6d5dfb7ba7738e47a016e161c7d07cca3ebafe7684"
   },
   {
     "id": "0a2ebf28-8a8e-4cd0-be6c-5e3add6750d8",
@@ -3889,6 +3941,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "1d158d94bee3f8c1317a1c4633828e73ff54db09a013624dbe1b07ec2800904c"
+  },
+  {
+    "id": "2c41dd7c-5e52-49f8-af91-eb374ec05d80",
+    "title": "Athletic Woman With Energy Drink at Sunlit Track",
+    "prompt": "A fit athletic woman with long brown hair in a high ponytail, wearing a dark gray sports visor and a taupe/mocha zip-front sports bra, sitting and leaning against a wooden railing or bench at an outdoor running track. She is smiling and looking slightly upward to the left with a joyful, relaxed expression. Her skin has a natural sweat sheen. She is holding a slim white-and-orange energy drink can (labeled \"tru\") in her right hand, raised near her shoulder. On the wooden surface in front of her are sliced oranges and cut mango pieces, arranged naturally. She has a black fitness tracker on her wrist and colorful resistance bands looped nearby. The background shows a red athletic track with soft green trees and a warm golden sunburst/lens flare coming from the upper right, creating a bright, sun-drenched bokeh effect. The lighting is warm late-afternoon sunlight with strong backlight. Shot in a lifestyle photography style, shallow depth of field, cinematic color grading with warm golden tones, photorealistic, high resolution.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Sarah",
+      "handle": "SyntheSarah"
+    },
+    "source_platform": "X",
+    "source_id": "2064537330132885586",
+    "source_url": "https://x.com/SyntheSarah/status/2064537330132885586",
+    "images": [
+      "https://pbs.twimg.com/media/HKawlcsW8AANHDd.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/2c41dd7c-5e52-49f8-af91-eb374ec05d80",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/2c41dd7c-5e52-49f8-af91-eb374ec05d80",
+    "published_at": "2026-10-11T07:18:53.315933+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "1bfc58a0209745560459d7c7e972bb6d4a3047359e49ee58e1e7f6e1c0f89428"
   },
   {
     "id": "2cb0f749-87b5-4515-bff2-0369b8461b4f",
@@ -10056,6 +10134,32 @@
     "content_hash": "649bd5152f18e01ab3aac1e795e3f182c280323bd3368819b00b424086d4451b"
   },
   {
+    "id": "791eb77f-b7b1-484c-8b8a-4e7165498467",
+    "title": "Coastal Observatory Editorial Portrait",
+    "prompt": "editorial portrait of a poised woman inside a coastal observatory, sculpted white ceramic collar, translucent amber visor, salt crystals caught in her windblown hair, direct morning sunlight reflected from the sea, close three-quarter composition, restrained expression, crisp natural skin detail, photographed with a medium-format camera, physical materials, believable coastal atmosphere --v 8.2 --ar 4:5",
+    "category": "portrait",
+    "model_key": "midjourney",
+    "model_name": "Midjourney",
+    "model_family": null,
+    "author": {
+      "name": "TischEins",
+      "handle": "tisch_eins"
+    },
+    "source_platform": "X",
+    "source_id": "2081665925103673667",
+    "source_url": "https://x.com/tisch_eins/status/2081665925103673667",
+    "images": [
+      "https://pbs.twimg.com/media/HOOQIJEX0AAThUk.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/791eb77f-b7b1-484c-8b8a-4e7165498467",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/791eb77f-b7b1-484c-8b8a-4e7165498467",
+    "published_at": "2026-10-11T07:19:12.413522+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "225630288bc61d22d89486b05a2acbe0aa74ebcd94e8c8aa377ce27310bfa802"
+  },
+  {
     "id": "792126f5-29b1-4371-92d6-84a1316a23af",
     "title": "Cinematic Graphic Realism Engraved Portrait",
     "prompt": "CINEMATIC GRAPHIC REALISM\nCreated with google gemini nano banana pro \n\nUltra-detailed cinematic graphic realism fused with traditional engraved illustration, dark fantasy comic art, and expressive hand-inked portraiture. The visual style combines highly dimensional semi-realistic anatomy with dense, controlled ink linework and dramatic chiaroscuro.\n\nUse a predominantly near-black environment/background, allowing the subject to emerge from darkness through carefully controlled warm highlights and deep shadow masses. The overall image should feel mysterious, dramatic, powerful, tactile, and intensely atmospheric.\n\nColor palette\n\nUse a restrained, dark cinematic palette dominated by:\n\n- deep black / near-black — background and deepest shadows\n- burnt umber and dark brown\n- rich copper / warm bronze\n- deep rust-orange\n- warm ochre\n- natural warm sienna skin tones\n- muted ivory / silver-gray for hair and highlights\n- extremely restrained desaturated blue-gray accents\n\nColors should appear rich, earthy, dark, and slightly muted, with luminous warm highlights emerging against black. Avoid neon or overly saturated digital colors.\n\nRendering technique\n\nConstruct the image using dense fine ink strokes, engraving-style hatching, cross-hatching, contour hatching, stippling, and layered painterly brushwork.\n\nEvery major anatomical plane should contain visible directional strokes following the form. Skin, hands, wrinkles, beard, hair, fabric, and accessories should be rendered with hundreds of controlled micro-strokes rather than smooth digital surfaces.\n\nCombine sharp ink contours with painterly color masses, creating a hybrid appearance between an old master engraving and a modern cinematic graphic-novel painting.\n\nLighting\n\nUse intense low-key chiaroscuro lighting.\n\nMost of the surrounding environment disappears into almost pure black, while selected planes of the subject receive warm copper-orange illumination. Highlights should be concentrated on facial planes, hands, hair strands, and important structural details.\n\nUse strong directional lighting with:\ndeep black shadow → rich burnt-orange midtone → narrow warm highlight.\n\nHighlights should remain controlled and relatively hard-edged, emphasizing wrinkles, bone structure, muscles, fingers, hair strands, and textured surfaces.\n\nLinework and texture\n\nUse extremely fine black/brown engraved lines combined with stronger graphic contours.\n\nInclude:\ncross-hatching, parallel hatching, contour lines, stippled texture, scratch-like ink marks, fine hair strokes, irregular brush edges, and tiny engraved details.\n\nLine density should increase naturally inside shadow areas and decrease toward illuminated planes.\n\nSurface treatment\n\nAvoid perfectly smooth digital rendering. Preserve a hand-crafted tactile texture throughout the image.\n\nSkin should show subtle pores, wrinkles, folds, fine facial hair, and directional brush/ink strokes. Hair should be constructed from numerous individual strands mixed with larger graphic masses. Fabric should contain visible woven/brush textures and deep folds.\n\nOverall aesthetic\n\nDark cinematic portrait + engraved realism + graphic novel realism + Renaissance-inspired chiaroscuro + hand-inked illustration + painterly color blocking + dark fantasy editorial art.\n\nThe final appearance should be extremely detailed, dramatic, mature, rugged, cinematic, tactile, and powerful, with the realism coming from anatomical modeling and microscopic linework rather than photographic rendering.\n\nNo flat vector style, no clean cartoon appearance, no soft airbrush, no plastic skin, no 3D-rendered look, no glossy CGI, no neon colors, no typography, no logo, no watermark.\n\nAspect ratio: 9:16 — vertical composition.",
@@ -10673,6 +10777,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "67c6f4865fc11c83cd31ac9e1000bcf15b0131cb2522bd73d35989a278497cfc"
+  },
+  {
+    "id": "805bb5c4-50f5-4e47-aef6-edb6b9c5bff3",
+    "title": "One8 Instagram Table Brand Campaign",
+    "prompt": "Here's a refined, production-ready advertising prompt:\n\n**Branded Social Media Advertising Campaign – One8 Lifestyle**\n\nUltra-wide-angle hyper-realistic top-down photography, camera positioned directly overhead and pulled far back, creating a large amount of clean negative space around the subjects and table. Minimalist premium commercial aesthetic. Professional studio environment with crisp shadows and perfectly controlled lighting. Ultra-sharp focus, 8K quality, luxury brand campaign look.\n\n**Scene & Atmosphere:**\nFour real people seated around a square dining table, relaxed, energetic, premium lifestyle vibe associated with fitness, healthy living, and modern social culture.\n\n**Clothing Style:**\n\n* Person 1: Black One8 athletic polo shirt and dark jeans.\n* Person 2: White One8 performance t-shirt and beige chinos.\n* Person 3: Black One8 hoodie with athletic joggers.\n* Person 4: White One8 casual shirt with black trousers.\n\n**Actions:**\n\n* Person 1 is reaching toward a healthy salad bowl.\n* Person 2 is holding a smoothie glass and smiling.\n* Person 3 is placing a fruit bowl at the center of the table.\n* Person 4 is picking up a sandwich while looking toward the group.\n\n**Instagram Table Prop:**\nCustom-built square dining table designed as a giant Instagram post.\n\n**Top White Stripe Only:**\n\n* Circular profile illustration on the left.\n* Username: **\"one8\"**\n* Small blue verified checkmark icon beside the username.\n* Three-dot menu (\"...\") aligned to the far right.\n\n**Bottom White Stripe Only:**\n\n* Red heart icon.\n* Comment icon.\n* Share icon.\n* Bookmark icon aligned to the far right.\n\n**Important:**\nNo white borders on the left or right sides of the table.\nOnly top and bottom white stripes exist.\n\n**Central Content Area:**\nThe entire center area of the table is filled with a vibrant **blue and green gradient**.\n\n**Food & Objects Inside the Colored Area Only:**\nFresh salads, fruit platters, protein bowls, sandwiches, smoothies, healthy snacks, water bottles, cutlery, napkins.\n\n**Critical Composition Rule:**\nAll food, beverages, plates, utensils, hands, arms, and interacting objects must remain completely inside the blue-and-green center section of the table.\nNothing may overlap or extend onto the white Instagram interface stripes.\nNothing may extend beyond the edges of the table.\n\n**Floor & Background:**\nMatte light-gray studio floor with subtle texture, creating strong visual separation from the table.\nLarge empty floor space surrounding the table for premium advertising composition and copy placement.\n\n**Lighting & Quality:**\nProfessional commercial studio lighting, realistic shadows, natural skin tones, premium advertising photography, luxury social media campaign, ultra-detailed textures, photorealistic, clean geometry, sharp edges, magazine-quality production, cinematic realism, 8K resolution.",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Al-Shamus",
+      "handle": "im_shahid7"
+    },
+    "source_platform": "X",
+    "source_id": "2069086362297655483",
+    "source_url": "https://x.com/im_shahid7/status/2069086362297655483",
+    "images": [
+      "https://pbs.twimg.com/media/HLbfE1rboAAZ6HC.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/805bb5c4-50f5-4e47-aef6-edb6b9c5bff3",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/805bb5c4-50f5-4e47-aef6-edb6b9c5bff3",
+    "published_at": "2026-10-11T07:19:02.56506+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "b9737ac2caf9ac378a11c8fde67e61486514d715648e437d497cc6009df3d47a"
   },
   {
     "id": "80ba7a5f-e99e-4c19-a8ff-b51a340b50b9",
@@ -13500,6 +13630,32 @@
     "content_hash": "db853e63d723b95726d1c6bc9963deb6e05abfd1fe878b154bcc5c9768313645"
   },
   {
+    "id": "99a113f8-d2a2-4666-b6fa-34f6e663178e",
+    "title": "Editorial Fashion Portrait of South Asian Woman in Saree",
+    "prompt": "Ultra-realistic editorial fashion portrait of a graceful South Asian woman wearing a blush pink floral embroidered organza saree with an elegant silver zari lace border and a matching sheer embroidered veil draped over her head. Soft glamorous bridal makeup with radiant glowing skin, winged eyeliner, nude pink lips, perfectly shaped brows, and long wavy dark hair cascading over one shoulder. Traditional oxidized silver jhumka earrings, delicate bracelet, and a subtle ring. Luxury ethnic couture, poised smile, refined elegance. Composite layout featuring a large close-up side profile with eyes gently lowered on the left and a full-length standing portrait on the right. Warm beige palace-inspired interior with carved architectural details, soft greenery, creamy bokeh, cinematic golden lighting, shallow depth of field, premium DSLR photography, 85mm lens, f/1.8, ultra-high detail, natural skin texture, pastel color palette, Vogue-style fashion editorial, soft shadows, photorealistic, 8K, HDR, masterpiece, elegant composition.",
+    "category": "portrait",
+    "model_key": "gpt-image",
+    "model_name": "GPT Image",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Aadil Maqbool",
+      "handle": "Aadilpktm"
+    },
+    "source_platform": "X",
+    "source_id": "2071180466917413272",
+    "source_url": "https://x.com/Aadilpktm/status/2071180466917413272",
+    "images": [
+      "https://pbs.twimg.com/media/HL5PnpjboAAtw3i.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/99a113f8-d2a2-4666-b6fa-34f6e663178e",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/99a113f8-d2a2-4666-b6fa-34f6e663178e",
+    "published_at": "2026-10-11T07:19:06.075568+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "af5aed69abc3f2392f3ddea3296b97cef394a9f73c8e95067d2d4d0287079532"
+  },
+  {
     "id": "9a26878e-a0e7-456a-8c51-ea79eabe0a4d",
     "title": "Sweet Summer Cherry Portrait",
     "prompt": "Sweet like summer cherries\nSabrina Carpenter 🍒\nCreated with Nano Banana 2\nMuch more content + JSON prompts now live on Patreon! 👇",
@@ -14375,6 +14531,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "7b1a5bea7b62e4829f5310535843d070b6821099a47de99383ccc909471ff1e6"
+  },
+  {
+    "id": "a44e3538-4695-4df6-a221-41d6088beba2",
+    "title": "Studio Portrait with Teal and Yellow Parrots",
+    "prompt": "A close up, studio portrait features a fair skinned woman with dark brown/black hair, eyes closed, tenderly holding a flock of five small teal & yellow parrots. the parrots are uniformly bright with orange beaks and black eyes circled in white. they are scattered across her shoulders and arms, resting gently. her attire appears to be made of a cream colored, possibly lace, fabric. the background is a smooth, light gray, providing a soft contrast to the bright yellow & teal of the birds and the light tone of the woman's skin.",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Maddox",
+      "handle": "Maddox_Digital"
+    },
+    "source_platform": "X",
+    "source_id": "2087357477755195469",
+    "source_url": "https://x.com/Maddox_Digital/status/2087357477755195469",
+    "images": [
+      "https://pbs.twimg.com/media/HPfIhgyaYAA97x9.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HPfIiQYbIAAEvz3.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HPfIi6waAAAhraB.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HPfIjkab0AA__Dx.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/a44e3538-4695-4df6-a221-41d6088beba2",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/a44e3538-4695-4df6-a221-41d6088beba2",
+    "published_at": "2026-10-11T07:19:16.535081+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "45f6ffa637210d06a021b8eb92b87b7b0069ba5321c1b456cc8aac37735d57a0"
   },
   {
     "id": "a45880d4-cfa2-4db9-b0d7-ac3d140aeca9",
@@ -16268,6 +16453,32 @@
     "content_hash": "558092f0cbecdaa304bc202caa037c3c96022fd286d3110309165750780969d0"
   },
   {
+    "id": "bb464c88-7143-42fa-a7fa-3a565e386f0e",
+    "title": "Golden Hour Cinematic Portrait of a Red-Haired Woman",
+    "prompt": "A close-up cinematic portrait of a beautiful young woman looking back over her shoulder with a soft, gentle smile. She has striking blue-green eyes, light freckles dusted across her nose and cheeks, and vibrant, wavy red hair cascading down. The lighting is warm and dramatic, featuring intense golden hour rim lighting that beautifully illuminates the edges of her hair and shoulder. The background is softly blurred with warm, glowing bokeh lights, creating a dreamy, intimate, and highly detailed atmosphere. Shot on a professional camera with a shallow depth of field, emphasizing realistic skin textures and a warm color palette.",
+    "category": "portrait",
+    "model_key": "grok",
+    "model_name": "Grok",
+    "model_family": null,
+    "author": {
+      "name": "Minahil",
+      "handle": "Minahil42298354"
+    },
+    "source_platform": "X",
+    "source_id": "2065508193678090563",
+    "source_url": "https://x.com/Minahil42298354/status/2065508193678090563",
+    "images": [
+      "https://pbs.twimg.com/media/HKoowWEWYAA1RYW.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/bb464c88-7143-42fa-a7fa-3a565e386f0e",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/bb464c88-7143-42fa-a7fa-3a565e386f0e",
+    "published_at": "2026-10-11T07:18:54.932766+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "413c847884c4122a22566d6f1317a7a50ff78b15e7cf3576bfa70875ec62de9e"
+  },
+  {
     "id": "bb8db6cf-d1e6-4a16-af5a-c558cb311175",
     "title": "Whimsical Folk Flat Illustration with Doodle Charm",
     "prompt": "Please transform the entire image into a single Decorative Folk Flat Illustration with Doodle elements. Use a bold and playful color palette, completely different from the original image. Simplify all details into clean, flat shapes with a handmade, slightly imperfect feel, as if drawn on a sheet of white paper. The overall style should look cute, childlike, and whimsical",
@@ -17079,6 +17290,35 @@
     "content_hash": "ad9b8c802d067d345f27236edab51fa6a4d31be891fef6b29a31ace041b4384e"
   },
   {
+    "id": "c673b1c1-68d6-4058-9947-62fc7eb596ad",
+    "title": "Tropicana Premium Juice Poster Prompt",
+    "prompt": "Prompt : SYSTEM ROLE\nYou are an elite multidisciplinary creative intelligence system operating at the level of a world-class global branding agency.\nDomains of expertise:\n- beverage branding\n- juice advertising\n- social media campaign systems\n- editorial graphic design\n- typography hierarchy\n- commercial product photography\n- premium advertising campaigns\nThink like a hybrid of:\nTropicana Global Creative Team\nAKQA\nPentagram\nPepsiCo Design\nCore behavior:\n- think strategically before visual execution\n- prioritize freshness and appetite appeal\n- preserve brand authenticity\n- reject generic FMCG layouts\n- avoid AI-generated clichés\nNever create generic juice ads, messy layouts, or AI-slop visuals.\nTASK\nCreate a world-class premium social media marketing poster for Tropicana.\nCampaign objective:\nIncrease brand awareness and product desirability through freshness-driven visual communication.\nThe final creative must feel fresh, vibrant, natural, and instantly recognizable as Tropicana.\nBRAND CONTEXT\nBrand:\nTropicana\nIndustry:\nJuice / Beverage\nCore Brand Values:\n- freshness\n- vitality\n- natural goodness\n- optimism\n- purity\n- health\nBrand truth:\nTropicana does not simply sell juice.\nTropicana delivers bottled freshness.\nPsychological positioning:\nMorning vitality.\nAUDIENCE\nTarget audience:\n- families\n- professionals\n- health-conscious consumers\n- young adults\n- premium mass market\nAudience motivations:\n- healthy choices\n- freshness\n- better mornings\n- natural nutrition\nEmotional drivers:\nenergy\nfreshness\noptimism\nwellness\nEMOTIONAL FRAMEWORK\nTrigger:\n- freshness\n- vitality\n- appetite\n- positivity\n- natural energy\nDesired viewer reaction:\n“This looks fresh and irresistible.”\nENVIRONMENT\nCreate a premium sunlit breakfast environment.\nScene includes:\nbright kitchen counter\nsoft morning sunlight\nclean marble surface\nnatural depth\nsubtle background blur\nEnvironment remains secondary.\nVISUAL COMPOSITION\nPlatform:\nInstagram SMM\nAspect Ratio:\n4:5 vertical\nResolution:\n1080 x 1350\nComposition hierarchy:\nTop 25%\nCampaign headline\nCenter 55%\nHero bottle/carton + fruit splash\nBottom 20%\nBrand block + CTA\nComposition ratio:\n35% product hero\n35% fruit architecture\n30% graphic design\nUse strong focal hierarchy.\nBRAND ASSETS\nMandatory assets:\n1. Tropicana logo\n2. leaf motif\n3. orange fruit geometry\n4. pack silhouette\nUse circular fruit shapes in composition.\nCOLOR SYSTEM\nPrimary:\nTropicana Orange\nLeaf Green\nSecondary:\nWhite\nYellow highlights\nColor rules:\nOrange dominates.\nGreen supports freshness.\nWhite adds clarity.\nTYPOGRAPHY SYSTEM\nTypography acts as visual support.\nUse:\n- bold clean sans serif\n- premium readability\n- strong hierarchy\n- clean spacing\nHeadline examples:\nSIP\nSUNSHINE\nor\nFRESH\nSTART\nTypography should feel bright and modern.\nGRAPHIC DESIGN SYSTEM\nUse premium SMM overlays.\nInclude:\n- circular fruit frames\n- clean editorial labels\n- leaf-inspired curves\n- layered gradients\n- subtle geometric framing\nDesign language must feel:\nfresh\npremium\nclean\nvibrant\nLIGHTING\nUse luxury commercial product lighting.\nLighting setup:\nbright morning sunlight\nsoft bounce fill\nclean highlights\njuicy reflections\nLighting must sculpt freshness.\nMICRO DETAILS\nInclude:\ncondensation droplets\njuice splash arcs\norange pulp texture\nfruit fibers\nglass reflections\npremium shadows\nEvery detail must feel intentional.\nCTA\nExamples:\nSip Sunshine\nStart Fresh\nTaste the Morning\nCTA must feel optimistic.\nHARD CONSTRAINTS\nStrictly reject:\n- generic juice ads\n- artificial CGI fruits\n- oversaturated colors\n- messy splashes\n- weak typography\n- cluttered layouts\n- AI artifacts\nSELF EVALUATION LOOP\nEvaluate:\nBrand Alignment /10\nFreshness /10\nAppetite Appeal /10\nLayout Quality /10\nSMM Stopping Power /10\nOriginality /10\nIf any score < 9:\nRefine output.\nFINAL QUALITY BAR\nFinal result must feel like a premium global Tropicana campaign built by a top creative agency.",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "ᴍᴜʀᴘʜʏ",
+      "handle": "Diplomeme"
+    },
+    "source_platform": "X",
+    "source_id": "2068666503776620857",
+    "source_url": "https://x.com/Diplomeme/status/2068666503776620857",
+    "images": [
+      "https://pbs.twimg.com/media/HLVhN06aQAA9PDc.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLVhN04aAAAKa3K.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLVhN05aEAExtpd.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HLVhN1AbkAA1JdL.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/c673b1c1-68d6-4058-9947-62fc7eb596ad",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/c673b1c1-68d6-4058-9947-62fc7eb596ad",
+    "published_at": "2026-10-11T07:18:59.663931+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "c2dc8339adb64e98dd913a1874fa754673ab8a12780aa44c5617dead20829f40"
+  },
+  {
     "id": "c69a452e-d5e2-4a1e-96f4-23cb4e7487a5",
     "title": "Spicy Tomato Chili Chutney Overhead Food Photography",
     "prompt": "Overhead shot of a glass jar of spicy tomato chili chutney on a dark stone surface, surrounded by whole red tomatoes, tomato halves, fresh red chili peppers, black peppercorns, and a small wooden bowl with chutney and a spoon. Warm earthy backdrop, soft directional light, deep rich shadows, high contrast, clean minimal styling, commercial product photography, ultra-detailed, 4K.",
@@ -17431,6 +17671,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "76a1a5f052c4a11a857f47ef3c9bcb053646851e12bac7c80581dca3f8924897"
+  },
+  {
+    "id": "cb58a2b4-6d95-4761-aa4d-6bfcf7729bf6",
+    "title": "GTA VI Neon Vice City Cinematic Poster",
+    "prompt": "Create an ultra-luxury hyper-realistic cinematic promotional poster inspired by Grand Theft Auto VI, set in a dark futuristic neon-drenched Vice City at midnight during a violent thunderstorm. A lone mysterious male protagonist stands in the foreground beside a sleek black hypercar, wearing a premium wet leather jacket with glowing “Vice City” branding on the back. Heavy rain pours across the scene, with water dripping from his jacket and reflecting across the glossy streets. The road is flooded with neon reflections in pink, blue, and purple, creating an intense cyberpunk atmosphere. In the background, multiple police cars with flashing red and blue sirens race through the streets, creating motion blur and chaos. A police helicopter hovers above with a sharp spotlight scanning the streets, while lightning violently cracks through dark storm clouds, illuminating the skyline. Massive futuristic skyscrapers with glowing neon windows, giant holographic billboards, luxury hotels, palm trees swaying in the wind, and a glowing oceanfront create a premium Miami-inspired futuristic vibe. The black supercar should look ultra-detailed, aggressive, wet from rain, with realistic reflections, sharp taillights, and cinematic smoke around the tires. The character should feel powerful, mysterious, and dangerous, like the king of Vice City. Add cinematic volumetric lighting, dramatic shadows, fog, rain particles, realistic puddles, lens flares, high contrast, sharp focus, realistic textures, extreme depth of field, and movie-level storytelling composition. Place the glowing GTA VI logo at the top center with COMING 2026 beneath it, styled like an official premium reveal poster. Make it look like a blockbuster AAA game announcement, ultra-realistic, photorealistic, 8K, masterpiece, dark luxury aesthetic, viral X/Twitter AI campaign style, insanely detailed, cinematic perfection.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Noira.",
+      "handle": "veylorvisions"
+    },
+    "source_platform": "X",
+    "source_id": "2068258142056849450",
+    "source_url": "https://x.com/veylorvisions/status/2068258142056849450",
+    "images": [
+      "https://pbs.twimg.com/media/HLPt0YcbIAA0hJ5.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/cb58a2b4-6d95-4761-aa4d-6bfcf7729bf6",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/cb58a2b4-6d95-4761-aa4d-6bfcf7729bf6",
+    "published_at": "2026-10-11T07:18:57.897103+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ba446c5c2f78ff7a49436614bd13759aa80f8cfba90a58c1e53f2f4652ec1859"
   },
   {
     "id": "cbf91a1d-fbd7-41f1-a30d-cfd900bf933e",
@@ -21138,6 +21404,35 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "0dd8cae4d8c24f4dd6d4e61dc82c60a71200409f7dc6008c4937f12721feec61"
+  },
+  {
+    "id": "f2e52636-2962-4b20-af14-03c2602fa72f",
+    "title": "Premium Food Product Advertising Poster Design System",
+    "prompt": "Prompt\nCreate a premium food product advertising poster using an AI-powered design system. Do not use a manually written design prompt. Instead, simulate an intelligent design database containing curated Pinterest-inspired design patterns, premium color palettes, typography styles, composition rules, branding elements, and visual hierarchy techniques.\nThe AI design skill should analyze the food product and automatically select the most suitable:\n- Luxury poster layout\n- Color combination\n- Typography style\n- Product placement\n- Lighting style\n- Background aesthetics\n- Brand storytelling elements\nGenerate a high-converting, professional food advertisement poster that looks like it was created by an expert design team. Focus on realistic product photography, premium branding, cinematic lighting, and modern marketing aesthetics.\nThe system should be specially optimized for food products to create visually appealing, engaging, and sales-focused designs.",
+    "category": "food-drink",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Lucia Ai",
+      "handle": "alizagori1"
+    },
+    "source_platform": "X",
+    "source_id": "2085684537825099854",
+    "source_url": "https://x.com/alizagori1/status/2085684537825099854",
+    "images": [
+      "https://pbs.twimg.com/media/HPHW6HDW4AAbCdS.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HPHW98EXsAAtjyz.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HPHW_9RWoAASZ5R.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HPHXBUrXYAAgs7f.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f2e52636-2962-4b20-af14-03c2602fa72f",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f2e52636-2962-4b20-af14-03c2602fa72f",
+    "published_at": "2026-10-11T07:19:13.810907+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "0058392a0c9b08b23db651300405116e4cef76412dfdd67de4dc182ffc47df0e"
   },
   {
     "id": "f3058342-1259-4c23-9150-e3453732e357",

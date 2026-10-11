@@ -405,3 +405,192 @@ Photorealistic luxury lifestyle photography, elegant Korean fashion aesthetic, r
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b8c838cd-d541-4954-ab2b-ba40edb16f16?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Shorelyn_/status/2102283043696165107>)
 
 ---
+
+<a id="prompt-2c41dd7c-5e52-49f8-af91-eb374ec05d80"></a>
+
+## Athletic Woman With Energy Drink at Sunlit Track
+
+<a href="https://musesignal.com/zh/prompt/2c41dd7c-5e52-49f8-af91-eb374ec05d80?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKawlcsW8AANHDd.jpg?format=jpg&amp;name=small" width="480" alt="Athletic Woman With Energy Drink at Sunlit Track" /></a>
+
+**Nano Banana Pro** · 原作者: Sarah
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A fit athletic woman with long brown hair in a high ponytail, wearing a dark gray sports visor and a taupe/mocha zip-front sports bra, sitting and leaning against a wooden railing or bench at an outdoor running track. She is smiling and looking slightly upward to the left with a joyful, relaxed expression. Her skin has a natural sweat sheen. She is holding a slim white-and-orange energy drink can (labeled "tru") in her right hand, raised near her shoulder. On the wooden surface in front of her are sliced oranges and cut mango pieces, arranged naturally. She has a black fitness tracker on her wrist and colorful resistance bands looped nearby. The background shows a red athletic track with soft green trees and a warm golden sunburst/lens flare coming from the upper right, creating a bright, sun-drenched bokeh effect. The lighting is warm late-afternoon sunlight with strong backlight. Shot in a lifestyle photography style, shallow depth of field, cinematic color grading with warm golden tones, photorealistic, high resolution.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/2c41dd7c-5e52-49f8-af91-eb374ec05d80?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/SyntheSarah/status/2064537330132885586>)
+
+---
+
+<a id="prompt-bb464c88-7143-42fa-a7fa-3a565e386f0e"></a>
+
+## Golden Hour Cinematic Portrait of a Red-Haired Woman
+
+<a href="https://musesignal.com/zh/prompt/bb464c88-7143-42fa-a7fa-3a565e386f0e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKoowWEWYAA1RYW.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Cinematic Portrait of a Red-Haired Woman" /></a>
+
+**Grok** · 原作者: Minahil
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A close-up cinematic portrait of a beautiful young woman looking back over her shoulder with a soft, gentle smile. She has striking blue-green eyes, light freckles dusted across her nose and cheeks, and vibrant, wavy red hair cascading down. The lighting is warm and dramatic, featuring intense golden hour rim lighting that beautifully illuminates the edges of her hair and shoulder. The background is softly blurred with warm, glowing bokeh lights, creating a dreamy, intimate, and highly detailed atmosphere. Shot on a professional camera with a shallow depth of field, emphasizing realistic skin textures and a warm color palette.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bb464c88-7143-42fa-a7fa-3a565e386f0e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Minahil42298354/status/2065508193678090563>)
+
+---
+
+<a id="prompt-0a051abb-47c3-4473-90ab-ff8aefe5aee3"></a>
+
+## Photorealistic Triptych Office Portrait
+
+<a href="https://musesignal.com/zh/prompt/0a051abb-47c3-4473-90ab-ff8aefe5aee3?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNCvyCyasAELbtn.jpg?format=jpg&amp;name=small" width="480" alt="Photorealistic Triptych Office Portrait" /></a>
+
+**Nano Banana** · 原作者: NUSRAT
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Gemini nano Banana image. 
+Prompt{
+  "image_description": {
+    "subject": {
+      "gender": "female",
+      "hair": "short, wavy, dark auburn/reddish-brown color",
+      "facial_features": {
+        "smile": "warm, smiling with teeth visible",
+        "eyes": "brown",
+        "complexion": "clear, natural skin texture"
+      },
+      "attire": {
+        "outfit_1_left_and_right": "beige-colored turtleneck sweater",
+        "outfit_2_center": "dark olive green professional blazer and matching tailored trousers, paired with a light beige button-down shirt"
+      },
+      "accessories": {
+        "earrings": "textured gold-toned circular drop earrings"
+      }
+    },
+    "setting": {
+      "background": "professional office environment",
+      "details": [
+        "wooden desk",
+        "laptop",
+        "large green potted plant (aloe vera)",
+        "minimalist artwork on the wall",
+        "natural interior lighting"
+      ]
+    },
+    "composition": {
+      "layout": "three-panel triptych collage",
+      "panel_1_left": "close-up portrait (upper torso)",
+      "panel_2_center": "full-body professional shot",
+      "panel_3_right": "extreme close-up face shot"
+    },
+    "technical_specifications": {
+      "resolution": "4k",
+      "style": "photorealistic",
+      "lighting": "soft, diffused professional studio lighting",
+      "quality": "high-detail, sharp focus, cinematic photography"
+    }
+  }
+}
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/0a051abb-47c3-4473-90ab-ff8aefe5aee3?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/nxnusratul/status/2076352713072488803>)
+
+---
+
+<a id="prompt-a44e3538-4695-4df6-a221-41d6088beba2"></a>
+
+## Studio Portrait with Teal and Yellow Parrots
+
+<a href="https://musesignal.com/zh/prompt/a44e3538-4695-4df6-a221-41d6088beba2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPfIhgyaYAA97x9.jpg?format=jpg&amp;name=small" width="480" alt="Studio Portrait with Teal and Yellow Parrots" /></a>
+
+**Nano Banana Pro** · 原作者: Maddox
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+A close up, studio portrait features a fair skinned woman with dark brown/black hair, eyes closed, tenderly holding a flock of five small teal & yellow parrots. the parrots are uniformly bright with orange beaks and black eyes circled in white. they are scattered across her shoulders and arms, resting gently. her attire appears to be made of a cream colored, possibly lace, fabric. the background is a smooth, light gray, providing a soft contrast to the bright yellow & teal of the birds and the light tone of the woman's skin.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a44e3538-4695-4df6-a221-41d6088beba2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Maddox_Digital/status/2087357477755195469>)
+
+---
+
+<a id="prompt-99a113f8-d2a2-4666-b6fa-34f6e663178e"></a>
+
+## Editorial Fashion Portrait of South Asian Woman in Saree
+
+<a href="https://musesignal.com/zh/prompt/99a113f8-d2a2-4666-b6fa-34f6e663178e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HL5PnpjboAAtw3i.jpg?format=jpg&amp;name=small" width="480" alt="Editorial Fashion Portrait of South Asian Woman in Saree" /></a>
+
+**GPT Image** · 原作者: Aadil Maqbool
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic editorial fashion portrait of a graceful South Asian woman wearing a blush pink floral embroidered organza saree with an elegant silver zari lace border and a matching sheer embroidered veil draped over her head. Soft glamorous bridal makeup with radiant glowing skin, winged eyeliner, nude pink lips, perfectly shaped brows, and long wavy dark hair cascading over one shoulder. Traditional oxidized silver jhumka earrings, delicate bracelet, and a subtle ring. Luxury ethnic couture, poised smile, refined elegance. Composite layout featuring a large close-up side profile with eyes gently lowered on the left and a full-length standing portrait on the right. Warm beige palace-inspired interior with carved architectural details, soft greenery, creamy bokeh, cinematic golden lighting, shallow depth of field, premium DSLR photography, 85mm lens, f/1.8, ultra-high detail, natural skin texture, pastel color palette, Vogue-style fashion editorial, soft shadows, photorealistic, 8K, HDR, masterpiece, elegant composition.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/99a113f8-d2a2-4666-b6fa-34f6e663178e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aadilpktm/status/2071180466917413272>)
+
+---
+
+<a id="prompt-04e28cad-eb15-4e44-9c72-112f03345bbd"></a>
+
+## Ultra-Realistic Studio Portrait of an Indian Woman
+
+<a href="https://musesignal.com/zh/prompt/04e28cad-eb15-4e44-9c72-112f03345bbd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HL_higYbEAAlnnO.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Studio Portrait of an Indian Woman" /></a>
+
+**GPT Image 2** · 原作者: Aadil Maqbool
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+An ultra-realistic studio portrait of a beautiful young Indian woman with naturally warm medium-fair Indian skin, a smooth natural complexion, softly sculpted cheekbones, a defined jawline, and a graceful oval face. She has large expressive dark brown eyes with long curled eyelashes, thick naturally shaped eyebrows, and naturally full lips.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/04e28cad-eb15-4e44-9c72-112f03345bbd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/Aadilpktm/status/2071622343957598264>)
+
+---
+
+<a id="prompt-791eb77f-b7b1-484c-8b8a-4e7165498467"></a>
+
+## Coastal Observatory Editorial Portrait
+
+<a href="https://musesignal.com/zh/prompt/791eb77f-b7b1-484c-8b8a-4e7165498467?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOOQIJEX0AAThUk.jpg?format=jpg&amp;name=small" width="480" alt="Coastal Observatory Editorial Portrait" /></a>
+
+**Midjourney** · 原作者: TischEins
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+editorial portrait of a poised woman inside a coastal observatory, sculpted white ceramic collar, translucent amber visor, salt crystals caught in her windblown hair, direct morning sunlight reflected from the sea, close three-quarter composition, restrained expression, crisp natural skin detail, photographed with a medium-format camera, physical materials, believable coastal atmosphere --v 8.2 --ar 4:5
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/791eb77f-b7b1-484c-8b8a-4e7165498467?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/tisch_eins/status/2081665925103673667>)
+
+---
