@@ -594,3 +594,171 @@ editorial portrait of a poised woman inside a coastal observatory, sculpted whit
 **[Try on MuseSignal →](<https://musesignal.com/prompt/791eb77f-b7b1-484c-8b8a-4e7165498467?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/tisch_eins/status/2081665925103673667>)
 
 ---
+
+<a id="prompt-7a62a842-2835-495b-8821-eb441fe3d32c"></a>
+
+## Crimson Dress Window Portraits
+
+<a href="https://musesignal.com/prompt/7a62a842-2835-495b-8821-eb441fe3d32c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNMiGUXXgAAG8gS.jpg?format=jpg&amp;name=small" width="480" alt="Crimson Dress Window Portraits" /></a>
+
+**Nano Banana** · Creator: Minahil
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A series of photographic portraits captured indoors, featuring a woman with long, wavy black hair and bold red lipstick, wearing a long-sleeved deep crimson wrap dress. She is seated on a white-clothed surface near a window, with a rustic brick wall and an arrangement of potted ferns and olive trees on terracotta shelves in the background. The collection shows her in various poses: reclining with her hand behind her head looking at the camera, sitting up with her hand on the pillows looking at the camera, sitting cross-legged smiling directly at the camera, and leaning her head on her hand smiling towards the side window. The lighting is natural daylight, creating a soft, warm atmosphere. The camera angle remains consistent throughout the shots.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7a62a842-2835-495b-8821-eb441fe3d32c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2077041352441745669>)
+
+---
+
+<a id="prompt-5c7bbc56-db29-43d2-901b-710807869a9f"></a>
+
+## Stylish Man with Weimaraner in Luxury Elevator
+
+<a href="https://musesignal.com/prompt/5c7bbc56-db29-43d2-901b-710807869a9f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQjVG7uW0AA4_c_.jpg?format=jpg&amp;name=small" width="480" alt="Stylish Man with Weimaraner in Luxury Elevator" /></a>
+
+**Nano Banana 2** · Creator: Zar⭕on
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic full-body fashion portrait of a stylish bearded man wearing black bomber jacket, beige turtleneck, black trousers, sunglasses and white sneakers, standing confidently with a Weimaraner dog inside a luxurious modern elevator, warm cinematic lighting, reflective metallic walls, DSLR photography, 8K, sharp details.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/5c7bbc56-db29-43d2-901b-710807869a9f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Xaroon_x/status/2092156356547473503>)
+
+---
+
+<a id="prompt-d474eb07-4a65-4985-b655-4ef8e75bda05"></a>
+
+## Luxury Tropical Beach Fashion Editorial Portrait
+
+<a href="https://musesignal.com/prompt/d474eb07-4a65-4985-b655-4ef8e75bda05?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HO-nn-fbgAAowuP.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Tropical Beach Fashion Editorial Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Dockie
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+PROMPT:
+
+{
+  "title": "Luxury Tropical Beach Editorial",
+  "prompt": "Ultra-realistic luxury tropical beach fashion editorial of an adult woman relaxing on pristine white sand under bright tropical sunlight. She has long champagne-blonde hair with soft beach waves, realistic flyaway strands, natural volume, and a large fresh white lily tucked behind her left ear. Her skin is porcelain-fair with warm golden undertones, realistic visible pores, subtle freckles across the cheeks, nose, shoulders, and arms, soft peach fuzz, hydrated glass-skin glow, natural skin translucency, and authentic sunlit highlights. She wears a luxurious crimson-red satin triangle bikini with a glossy silk finish, thin halter straps, matching low-rise bikini bottoms, and a white shell choker necklace paired with delicate gold drop earrings. She is seated naturally on soft white tropical sand with one leg bent toward the camera and the other extended comfortably, one hand resting behind her for support while the opposite arm rests casually on her bent knee. She looks directly into the camera with a calm, confident editorial expression and softly parted glossy lips. The beach features crystal-clear turquoise water, gentle ocean waves, lush palm trees, tropical vegetation, and a vivid blue sky with soft clouds. Bright midday sunlight creates realistic shadows, natural highlights, and premium commercial lighting.",
+  "style": {
+    "photorealistic": true,
+    "camera": "Sony A7R V",
+    "lens": "85mm portrait lens",
+    "aperture": "f/1.8",
+    "lighting": "Bright tropical midday sunlight with soft natural fill light, realistic HDR, subtle highlight bloom",
+    "color_grading": "Luxury Xiaohongshu (RED), Vogue resort editorial, warm tropical tones, creamy skin, balanced saturation, premium commercial color science",
+    "quality": "8K Ultra HD"
+  },
+  "makeup": {
+    "foundation": "Luxury satin full-coverage foundation preserving realistic pores and skin texture",
+    "concealer": "Bright lifting under-eye concealer",
+    "contour": "Soft cool contour on cheekbones, jawline, temples, nose bridge and collarbones",
+    "blush": "Highly pigmented coral-rose blush extending toward the temples and softly across the nose",
+    "highlighter": "Wet-look champagne pearl highlighter on cheekbones, brow bones, nose bridge, nose tip, cupid's bow, collarbones and shoulders",
+    "eyeshadow": "Warm taupe transition, cocoa outer corners, metallic champagne shimmer, pearl inner corner highlight",
+    "eyeliner": "Ultra-sharp fox-eye black winged eyeliner",
+    "lashes": "Long manga-inspired wispy upper lashes with individually defined lower lashes",
+    "eyebrows": "Feathered blonde brows with visible individual hairs",
+    "eyes": "Soft gray-blue contact lenses with realistic iris detail",
+    "lips": "Richly pigmented coral nude lipstick, softly overlined, glossy glass-lip finish with realistic wet reflections"
+  },
+  "negative_prompt": "low quality, blurry, plastic skin, wax skin, excessive smoothing, CGI, anime, cartoon, 3D render, bad anatomy, extra fingers, fused fingers, duplicate limbs, watermark, logo, text, mirror selfie, selfie, phone, camera, photographer reflection, distorted body, unrealistic proportions, oversaturated colors"
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d474eb07-4a65-4985-b655-4ef8e75bda05?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Document195/status/2085069603361976573>)
+
+---
+
+<a id="prompt-1a63e032-956b-4e6f-91ba-335a47718651"></a>
+
+## 1990s East Asian Retro Film Portrait of Mature Female Character
+
+<a href="https://musesignal.com/prompt/1a63e032-956b-4e6f-91ba-335a47718651?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUMlKt8akAAF7qS.jpg?format=jpg&amp;name=small" width="480" alt="1990s East Asian Retro Film Portrait of Mature Female Character" /></a>
+
+**GPT Image 2** · Creator: VoxCat
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+GPT-image2｜经典日漫角色真人 COS
+
+这组重点放在身材曲线和人物神态上。
+
+成熟丰满的御姐身材，饱满上围、纤细腰线、圆润臀部，通过前倾、扭腰、回眸形成明显的 S 形曲线。
+
+表情保留七分冷艳慵懒、三分柔弱无辜。半垂眼睑、微张嘴唇、从肩膀上方回望镜头，带一点漫不经心的挑逗感。
+
+搭配 90–00 年代东亚复古私摄影、暖调电影光与彩色负片质感。
+
+替换角色即可生成👇
+
+【角色】，明确成年真人化，保留角色核心身份特征：发型、发色、眼睛、脸部结构、角色主色、标志性服装轮廓与身份配饰。
+
+1990s–2000s 东亚复古私摄影 × 日式夜间街头写真 × 港式暖调电影摄影 × 低照度彩色负片摄影。
+
+人物具有成熟甜颜御姐气质，精致柔和的鹅蛋脸，小巧下巴，细窄挺直的鼻梁，饱满红唇，杏仁形猫系眼睛，眼尾轻微上挑，纤细自然的眉毛，深邃而略带湿润感的眼神。五官兼具甜美与冷艳，面部细腻真实，散发轻熟、慵懒、略带距离感的女性魅力。
+
+成年女性丰满曲线型身材，胸部饱满，腰部纤细紧致，臀部圆润饱满，腰臀比例鲜明，身体轮廓流畅，具有自然柔软的真实人体质感。合身的收腰服装突出胸腰臀的连续曲线，布料随姿态形成自然张力和褶皱。
+
+人物身处具有真实生活痕迹的复古室内空间，正在操作一台老式日常设备。双手支撑在设备边缘，上半身微微前倾，腰部自然扭转，臀部向后移动，肩线、腰线与臀线形成清晰的 S 形身体结构。
+
+人物突然从肩膀上方回头凝视摄影机，头部略微下沉，下巴轻收，眼睛向上看向镜头。上眼睑轻微下压，眼尾微扬，目光集中而慵懒，眉间放松，嘴唇自然微张，嘴角平直。表情呈现七分冷艳慵懒与三分柔弱无辜，带有轻微挑衅、漫不经心与若即若离的感觉。
+
+摄影机位于人物斜后方，接近腰部至胸部高度，中近景竖向构图。人物身体占据主要画面，脸部位于上半部，设备处于侧面前景，头部回转与腰臀曲线共同形成视觉中心。
+
+低照度室内混合光，暖黄色顶灯照亮面部与肌肤，设备荧光屏提供局部青绿色反射光，背景沉入橄榄绿、暖棕色暗部。奶油色高光、低饱和暖调、柔和暗部层次。
+
+高感光度彩色负片质感，明显的胶片颗粒、轻微失焦、柔化高光、低微对比、胶片扫描噪点。真实私人抓拍与复古电影剧照融合，人物面部清晰，皮肤保留自然纹理。
+
+3:4 竖幅，右下角极小签名 voxcat。
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1a63e032-956b-4e6f-91ba-335a47718651?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/VoxcatAI/status/2108592071611240827>)
+
+---
+
+<a id="prompt-5e00e501-5e66-46af-a54b-aabe7e3cea92"></a>
+
+## Alpine Travel Portrait in Grindelwald
+
+<a href="https://musesignal.com/prompt/5e00e501-5e66-46af-a54b-aabe7e3cea92?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKw5BiQaoAA8kLw.jpg?format=jpg&amp;name=small" width="480" alt="Alpine Travel Portrait in Grindelwald" /></a>
+
+**GPT Image 2** · Creator: Mani
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt -
+A cinematic, ultra-high-resolution travel portrait of a stylish young
+woman sitting on a rustic wooden fence overlooking the picturesque alpine village of Grindelwald, Switzerland. She wears a cream-colored knit sweater layered over a white collared shirt, relaxed-fit beige trousers, and classic white sneakers. Her hair moves gently in the mountain breeze as she smiles naturally toward the camera with a relaxed, confident expression.
+Behind her, charming Swiss chalets with flower-filled balconies are scattered across rolling green meadows, while dramatic snow-capped peaks of the Swiss Alps rise majestically in the distance. A winding mountain path, grazing cows, and vibrant wildflowers add authentic alpine character to the scene. Warm afternoon sunlight bathes the landscape, creating soft highlights and rich natural colors.
+Captured from a slightly low angle with professional travel-photography styling, shallow depth of field, realistic skin texture, cinematic color grading, natural lighting, premium lifestyle aesthetic, environmental portrait composition, ultra-detailed scenery, breathtaking mountain atmosphere, award-winning travel magazine photography, HDR, masterpiece quality, 8K resolution.
+Negative Prompt: blurry face, low quality, cartoon, anime, illustration, distorted anatomy, extra limbs, extra fingers, duplicate person, harsh shadows, overprocessed skin, unrealistic proportions, text, watermark, logo, crowd, sunglasses, hat, motion blur, artificial background.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/5e00e501-5e66-46af-a54b-aabe7e3cea92?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/manibuildsAI/status/2066089034599080348>)
+
+---

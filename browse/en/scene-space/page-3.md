@@ -528,3 +528,80 @@ one sref, four ordinary evenings.
 **[Try on MuseSignal →](<https://musesignal.com/prompt/6e2dc8ed-707e-4753-8733-f81b2317abda?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/VigoCreativeAI/status/2081234873923084558>)
 
 ---
+
+<a id="prompt-1c630916-b0b6-44e1-bdf9-addea2def831"></a>
+
+## Tiny Man and Giant Sea Turtle Beach Collage
+
+<a href="https://musesignal.com/prompt/1c630916-b0b6-44e1-bdf9-addea2def831?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HO2n316a8AARU8j.jpg?format=jpg&amp;name=small" width="480" alt="Tiny Man and Giant Sea Turtle Beach Collage" /></a>
+
+**GPT Image 2** · Creator: Harry Potter
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic cinematic forced-perspective miniature fantasy photography featuring the same adorable tiny man (large expressive head, realistic body proportions, cheerful facial expressions) enjoying six different adventures with a gigantic friendly sea turtle on a tropical beach. The composition is arranged as a clean 2×3 collage, with thin white borders separating each frame. Every panel tells a different playful story while maintaining the same character and turtle.
+
+Panel 1 – Chase: The tiny man runs across the sandy beach with a surprised, humorous expression as a massive sea turtle playfully follows behind him. Ocean waves gently wash onto the shore under bright tropical sunlight.
+
+Panel 2 – Relaxing: The giant turtle wears stylish black sunglasses and a woven straw hat while resting peacefully on the beach. The tiny man relaxes beside it on a striped beach towel, hands behind his head, with a fresh coconut drink and small beach umbrella nearby, creating a funny vacation vibe.
+
+Panel 3 – Pulling the Turtle: The miniature man struggles dramatically while pulling the enormous turtle using a thick rope tied around its shell, creating a humorous illusion of incredible strength. Warm golden beach lighting and shallow depth of field.
+
+Panel 4 – Turtle Ride: Under crystal-clear turquoise water, the tiny man joyfully rides on the back of the giant sea turtle above colorful coral reefs and tropical fish. Sun rays penetrate the water, creating magical underwater caustics and realistic light beams.
+
+Panel 5 – Fishing: Standing on a seaside rock, the tiny man excitedly fishes with a realistic fishing rod while the giant turtle pops its head above the water with an open mouth as if waiting for the catch. Natural coastal scenery with sparkling ocean reflections.
+
+Panel 6 – Sandcastle: The tiny man carefully builds an intricate sandcastle using a small bucket and shovel while the giant turtle curiously watches from beside him, creating a heartwarming friendship moment.
+
+Highly detailed realistic sea turtle, photorealistic skin textures, realistic wet sand, ocean reflections, tropical beach, blue sky with soft clouds, cinematic lighting, soft golden sunlight, shallow depth of field, miniature forced-perspective illusion, humorous storytelling, Pixar-inspired charm with photorealistic rendering, ultra-detailed textures, HDR, volumetric lighting, natural color grading, 85mm lens, f/1.8, Unreal Engine 5, Octane Render, masterpiece composition, 8K ultra-high resolution, vibrant colors, premium editorial wildlife fantasy photography.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1c630916-b0b6-44e1-bdf9-addea2def831?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/mon010_de/status/2084506792667775033>)
+
+---
+
+<a id="prompt-edd34700-9bfc-461c-98e3-a99da6e3bdde"></a>
+
+## Neo-Retro Japanese Street Scene with Honda NSX
+
+<a href="https://musesignal.com/prompt/edd34700-9bfc-461c-98e3-a99da6e3bdde?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNP7AJ8WMAAMu_J.jpg?format=jpg&amp;name=small" width="480" alt="Neo-Retro Japanese Street Scene with Honda NSX" /></a>
+
+**GPT Image 2** · Creator: Aqsa
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Cinematic neo-retro Japanese street scene inspired by 1990s manga and vintage anime aesthetics. A confident young man with slicked-back black hair tied into a small bun leans casually against the rear of a bright red Honda NSX (NA1), one hand in his pocket and the other holding a lit cigarette. He tilts his head back while slowly exhaling a dramatic stream of smoke into the evening sky, giving off a calm, rebellious attitude. Wearing a loose black oversized T-shirt, wide-leg black trousers, and polished black leather loafers. Traditional Japanese Edo-style wooden buildings line both sides of a narrow cobblestone street, with warm lantern light glowing from windows and deep atmospheric shadows. Muted earthy color palette with rich reds, charcoal blacks, and warm browns. Highly detailed architectural textures, cinematic composition, moody dusk lighting, subtle film grain, vintage poster aesthetic, ukiyo-e inspired perspective blended with modern manga realism, dramatic depth, nostalgic 1990s Japanese street culture vibe, masterpiece, ultra-detailed, no watermark, no text, no logos.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/edd34700-9bfc-461c-98e3-a99da6e3bdde?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Aqsahere_/status/2077279939070726176>)
+
+---
+
+<a id="prompt-78213f22-e855-49b1-8847-a05d54402d68"></a>
+
+## Spirit Wolf and Child in Twilight Valley
+
+<a href="https://musesignal.com/prompt/78213f22-e855-49b1-8847-a05d54402d68?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOUAeYTbcAAoFNE.jpg?format=jpg&amp;name=small" width="480" alt="Spirit Wolf and Child in Twilight Valley" /></a>
+
+**Midjourney** · Creator: Cia0
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A small child sits nestled against the flank of a colossal spirit wolf with fur like drifting snow lit from within, both facing a valley of floating islands at twilight. Threads of pale blue light run beneath the wolf's fur like veins of starlight, and its breath scatters into glowing motes. Thousands of luminous seeds drift upward through the air around them. Ancient trees with bark of pale silver and canopies of soft cyan light arch overhead, roots hanging into open sky. A river of light winds through the valley far below, mirroring the aurora above. Deep indigo and teal palette pierced by warm gold bioluminescence, volumetric god rays through mist. Epic fantasy concept art, cinematic wide shot, painterly realism, intricate detail, ethereal and dreamlike, breathtaking scale --ar 16:9 --v 8.2 --hd --s 650 --chaos 12
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/78213f22-e855-49b1-8847-a05d54402d68?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Cia0_exe/status/2082070968957309335>)
+
+---
