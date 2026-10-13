@@ -370,3 +370,57 @@ Pixar-style movie poster reimagining of the TV show Lupin. Feature the main cast
 **[Try on MuseSignal →](<https://musesignal.com/prompt/a62dfbca-63d1-46dc-9366-77d5c77b07df?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Ankit_patel211/status/2068778128659603644>)
 
 ---
+
+<a id="prompt-2716df3b-a0f4-4189-93f5-6259ac01bc3f"></a>
+
+## Cinematic Anime Sports Character Poster
+
+<a href="https://musesignal.com/prompt/2716df3b-a0f4-4189-93f5-6259ac01bc3f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLpQY_SaEAApoW4.jpg?format=jpg&amp;name=small" width="480" alt="Cinematic Anime Sports Character Poster" /></a>
+
+**GPT Image 2** · Creator: Taaruk
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a cinematic anime character poster in the style of a premium sports anime key visual. Vertical 9:16 composition featuring a single character occupying the right half of the frame, shown from chest-up with only half of the face illuminated while the other half fades into deep shadows. The character has a sharp, confident expression, detailed anime eyes, dramatic rim lighting, and wears a realistic black-and-orange volleyball jersey with subtle fabric texture.
+
+The background is a dark smoky gradient filled with cinematic fog, floating dust particles, glowing embers, and soft volumetric light. Use a dominant monochromatic color theme that matches the character's personality (orange, blue, gold, crimson, emerald, etc.), with the background glow and lighting reflecting that color.
+
+On the left side, place a huge vertical bold condensed sans-serif title in distressed metallic lettering displaying the character's name. Beside it, include a thin vertical subtitle such as "THE KING OF THE COURT", "THE BLOCKING STRATEGIST", or another defining title. Add elegant Japanese typography beneath the subtitle. Include small premium editorial text in the lower-left corner with the character's full name, team, position, and jersey number.
+
+Design should resemble a luxury movie poster with minimal composition, dramatic contrast, premium typography hierarchy, textured overlays, grunge details, subtle paint scratches, smoky atmosphere, ultra-clean anime rendering, highly detailed facial features, glossy jersey highlights, professional sports branding aesthetic, magazine cover quality, cinematic lighting, masterpiece, ultra detailed, 8K, sharp focus, dark mood, premium poster design.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/2716df3b-a0f4-4189-93f5-6259ac01bc3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Taaruk_/status/2070055492005568904>)
+
+---
+
+<a id="prompt-286f4037-2b0d-4f06-94fa-fe53e50131ff"></a>
+
+## Neo-Expressionist Street Art Doodle Portrait Poster
+
+<a href="https://musesignal.com/prompt/286f4037-2b0d-4f06-94fa-fe53e50131ff?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLMwsBMWUAAFdO2.jpg?format=jpg&amp;name=small" width="480" alt="Neo-Expressionist Street Art Doodle Portrait Poster" /></a>
+
+**Nano Banana Pro** · Creator: ΛRMIN \| AI
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A premium neo-expressionist avant-garde mixed-media graphic poster with a tight framing focus. SUBJECT & COMPOSITION: A central, tight shoulder-up portrait of [CHARACTER NAME / DESCRIPTION] captured in a distinct, obvious three-quarter view angle, looking towards the camera with a calm and dignified expression. The framing is strictly closed-in from the shoulders up, ensuring a dominant headshot scale. The entire character—including their skin, features, [HAIR DESCRIPTION], and clothing—is rendered strictly in a high-contrast monochromatic black and white illustration style. The art is defined by bold, dense woodcut-style manual cross-hatching, heavy crisp linework, and intricate ink shading. They wear [CLOTHING DESCRIPTION], rendered entirely in monochromatic black and white that fills the lower frame. Crucially, a subtle, clean negative space buffer of pure matte charcoal-black closely contours their head and shoulders, separating the character from the background pattern.
+
+GRAPHIC HIGHLIGHT: A small, precise, horizontal [EYE HIGHLIGHT COLOR] rectangular block is placed strictly and exclusively over one single eye (their right eye only). This block is tightly cropped to cover just that individual single eye socket, remaining highly translucent with a multiply-blend effect. This ensures the fine lines of that one single eye and the intricate cross-hatching texture underneath remain perfectly sharp and visible through the colored tint, creating a vivid striking contrast against the background line-art without extending across the face.
+
+ABSTRACT ART BACKGROUND & EXTRA WIDE MARGINS: The entire layout is built upon a single, continuous, and completely unified matte charcoal-black canvas with a subtle, non-reflective fine-grain texture. This identical charcoal-black color serves as both the deep outer margins and the background space between the lines, ensuring a perfectly seamless one-piece backdrop with zero color splitting. A generous, empty negative space margin of this pure charcoal-black occupies 25% of the outer canvas area. Inside, the inner area is filled with dense, primitive abstract line-art patterns, heavy jagged zig-zag shapes, a single large crown, and [SPECIFIC SYMBOLS / ICONS, E.G. KANJI CHARACTERS, OR GRAFFITI DOODLES]. These thick marker-stroke elements are rendered strictly in a [LINE-ART COLOR] color, stopping uniformly short of the limits to preserve the wide, pristine outer black borders.
+
+MATERIAL & PRINT FEEL: The artwork features the tangible texture of a premium screen-print on heavy-grain archival black paper, where the solid colored lines exhibit a faint, organic ink-absorption finish.  --no frame, mockup, picture frame, white border, background wall, repetitive patterns, chaotic scribbles, messy lines, split background, two-tone background.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/286f4037-2b0d-4f06-94fa-fe53e50131ff?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Arminn_Ai/status/2068050239471145455>)
+
+---

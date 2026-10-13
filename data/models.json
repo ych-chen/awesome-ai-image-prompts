@@ -12,7 +12,7 @@
   {
     "key": "gpt-image-2",
     "name": "GPT Image 2",
-    "count": 434
+    "count": 437
   },
   {
     "key": "gpt-image-2.5",
@@ -22,7 +22,7 @@
   {
     "key": "grok",
     "name": "Grok",
-    "count": 32
+    "count": 33
   },
   {
     "key": "ideogram",
@@ -47,12 +47,12 @@
   {
     "key": "nano-banana-2",
     "name": "Nano Banana 2",
-    "count": 89
+    "count": 90
   },
   {
     "key": "nano-banana-pro",
     "name": "Nano Banana Pro",
-    "count": 111
+    "count": 112
   },
   {
     "key": "seedream-5.0-pro",

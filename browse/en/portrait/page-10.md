@@ -762,3 +762,68 @@ Negative Prompt: blurry face, low quality, cartoon, anime, illustration, distort
 **[Try on MuseSignal →](<https://musesignal.com/prompt/5e00e501-5e66-46af-a54b-aabe7e3cea92?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/manibuildsAI/status/2066089034599080348>)
 
 ---
+
+<a id="prompt-6be93474-d970-4706-8aed-c23de13f3d47"></a>
+
+## Sun-Drenched Mediterranean Editorial Portrait
+
+<a href="https://musesignal.com/prompt/6be93474-d970-4706-8aed-c23de13f3d47?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPv5Vu_XEAEifJ9.jpg?format=jpg&amp;name=small" width="480" alt="Sun-Drenched Mediterranean Editorial Portrait" /></a>
+
+**Nano Banana 2** · Creator: Picts by AI
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A medium close-up, waist-up portrait of an adult Mediterranean male with warm bronze skin and short stubble, exuding a confident, guarded coolness as he stands with his chest facing the camera and his head turned forty-five degrees to the right. He wears an off-white, wrinkly linen shirt, deeply unbuttoned to create a natural V-neckline revealing a thin gold chain, paired with clear transparent frame sunglasses featuring dark lenses that obscure his gaze. His dark brown hair is styled with two to three inches of volume on top and tapered sides, treated with a slightly wet, glossy product to define thick natural waves and uneven curls, complete with natural flyaways and loose strands falling gently across his forehead. His posture is relaxed and centered, arms resting naturally out of view, as his level shoulders lean slightly back against a weathered historic structure. The softly out-of-focus background reveals a warm, light beige raw-cut limestone environment, featuring a massive, rough-pitted carved stone pillar base dominating the right midground and a historic weathered stone building facade receding on the left. A bright, single-source direct hard sunlight beams from the front-top-left at a forty-five-degree angle, bathing the scene in a sun-drenched, elegant European summer warmth. This highly directional light casts harsh, deep black shadows from his sunglasses onto his cheek, from his collar onto his chest, beneath his jawline, and inside the depths of his hair curls, while striking specular highlights are preserved on his forehead, the tip of his nose, cheekbones, collarbone, and the peaks of his curls. Captured as a high-end editorial digital photograph straight on at eye level using an 85mm lens at f/2.8, the image boasts a shallow depth of field that keeps the subject tack sharp, flawlessly resolving the organic linen weave and fine skin pores while isolating him from the architecture, enhanced by a warm golden color grade and high contrast curve, framed in a 2:3 aspect ratio.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/6be93474-d970-4706-8aed-c23de13f3d47?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/pictsbyai/status/2091077415456129085>)
+
+---
+
+<a id="prompt-44acaa3e-5bcf-42ea-8f8c-01b2b4be8589"></a>
+
+## Emerald Elegance Cinematic Portrait
+
+<a href="https://musesignal.com/prompt/44acaa3e-5bcf-42ea-8f8c-01b2b4be8589?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKt0_KpWEAELeo7.jpg?format=jpg&amp;name=small" width="480" alt="Emerald Elegance Cinematic Portrait" /></a>
+
+**Grok** · Creator: Minahil
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A stunning cinematic portrait of a beautiful woman with long, voluminous, glossy black hair styled in elegant waves, looking back over her shoulder with a warm, captivating smile. She is wearing a luxurious, vibrant lime-green satin dress with an elegant, modern cut that shimmers under the light. The scene features dramatic, high-contrast chiaroscuro lighting, with a warm golden sunbeam beautifully highlighting her face, shoulder, and the rich texture of the fabric against a dark, moody, and softly blurred background. The overall atmosphere is glamorous, sophisticated, and artistic, captured with professional studio photography quality, sharp focus, and rich color depth.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/44acaa3e-5bcf-42ea-8f8c-01b2b4be8589?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2065873502436311066>)
+
+---
+
+<a id="prompt-8f260c0c-8599-4f2a-a15e-7c52222449fd"></a>
+
+## Editorial Magazine Cover Portrait With Sony Camera
+
+<a href="https://musesignal.com/prompt/8f260c0c-8599-4f2a-a15e-7c52222449fd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUUQ0guaoAA3pS2.jpg?format=jpg&amp;name=small" width="480" alt="Editorial Magazine Cover Portrait With Sony Camera" /></a>
+
+**GPT Image 2** · Creator: Zephyra Leigh
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic photography editorial magazine cover featuring a creative Korean woman in a casual all-black outfit, eye pressed to the viewfinder of a Sony A7R VI mirrorless camera with a large G Master lens, mid-shot of something off-frame, fully absorbed in composition. Natural glowing skin, minimal creator makeup, hair loosely tied back. Background: moody documentary-style dark studio with dramatic single backlight rim, lens flare streaking from light source. "DIGITAL PHOTO PRO" masthead in clean editorial sans-serif with "SENSOR REVOLUTION ISSUE" callout. 50mm lens, ultra-detailed Sony body texture and lens glass element, 8K photorealistic. 
+
+Negative: cartoon, blurry, incorrect camera shape, watermark, distorted. 9:16
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8f260c0c-8599-4f2a-a15e-7c52222449fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ZephyraLeigh/status/2109110503876481180>)
+
+---
