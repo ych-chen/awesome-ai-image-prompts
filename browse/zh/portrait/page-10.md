@@ -827,3 +827,67 @@ Negative: cartoon, blurry, incorrect camera shape, watermark, distorted. 9:16
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/8f260c0c-8599-4f2a-a15e-7c52222449fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/ZephyraLeigh/status/2109110503876481180>)
 
 ---
+
+<a id="prompt-bf6a905d-8827-4cf4-8d35-f7bce865de3b"></a>
+
+## Arctic Chieftain Portrait with Polar Bear Guardian
+
+<a href="https://musesignal.com/zh/prompt/bf6a905d-8827-4cf4-8d35-f7bce865de3b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTmlGSFbEAADi9b.jpg?format=jpg&amp;name=small" width="480" alt="Arctic Chieftain Portrait with Polar Bear Guardian" /></a>
+
+**GPT Image 2.5** · 原作者: Ali
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Create a premium ultra-photorealistic cinematic vertical 9:16 waist-up portrait of Sufni as a powerful ancient Arctic female chieftain.
+
+A young hijabi woman in her early 20s, preserving her recognizable facial identity and natural facial proportions. Completely no makeup, natural visible pores and skin texture, slightly red cheeks and nose from the freezing cold, with a few subtle natural freckles across her nose and cheeks.
+
+She looks directly into the camera with a calm, serious, intimidating expression. No smile, no glamour, no model pose. Her eyes communicate absolute authority, courage, and quiet power — the kind of presence that makes people instinctively feel respect and fear.
+
+She wears a dark charcoal-brown wool khimar covering her chest, layered with a rugged ancient Arctic tribal outfit made from dark wool, leather, and natural fur. Weathered textures, handmade details, primitive tribal clasp and leather belt.
+
+She firmly holds a large ancient wooden tribal spear vertically along the left side of the frame. The spear has a weathered wooden shaft, leather bindings, primitive carved details, and an aged stone-and-metal spearhead.
+
+Directly behind her stands a gigantic adult polar bear, acting as her silent guardian. The bear's head rises above her shoulder and looks directly into the camera with a calm, intelligent, intimidating gaze. Detailed natural white fur, realistic anatomy, snow and frost on its coat.
+
+Composition: waist-up, not chest-up, showing her waist, upper torso, shoulders, arms, hands, belt, and spear. Sufni is the main focal point; the polar bear towers behind her as a powerful secondary subject. Eye-level camera with a subtle low-angle perspective.
+
+Ancient snowy Arctic tribal settlement in the background, wooden shelters, distant firelight, mountains, falling snow and cold mist.
+
+Natural Arctic daylight, cinematic shadows, cold blue-gray tones, subtle warm firelight, 85mm lens, shallow depth of field, realistic skin and fur, documentary photography, subtle film grain.
+
+No CGI, no 3D, no cartoon, no beauty filter, no makeup, no glamorous styling, no smile, no modern clothing, no modern weapons, no aggressive bear, no distorted anatomy, no extra fingers, no duplicate bear, no text, no watermark.
+
+The final image should feel like a real historical photograph of a feared and respected Arctic chieftain standing with her enormous polar bear guardian.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/bf6a905d-8827-4cf4-8d35-f7bce865de3b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/aiwithaly/status/2105895841466663379>)
+
+---
+
+<a id="prompt-5b4f3de7-b535-4591-a525-a478c4b62ea2"></a>
+
+## Tropical Beach Portrait of Sadie Sink
+
+<a href="https://musesignal.com/zh/prompt/5b4f3de7-b535-4591-a525-a478c4b62ea2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNRkPrlbUAAWYfi.jpg?format=jpg&amp;name=small" width="480" alt="Tropical Beach Portrait of Sadie Sink" /></a>
+
+**Nano Banana Pro** · 原作者: Natty Windstorm
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+Ultra-realistic tropical beach lifestyle portrait of a young woman with long naturally wavy copper-red hair blowing gently in the ocean breeze, soft side part, natural flyaway strands, and effortless beach texture. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks, nose, shoulders, and arms, subtle peach blush, luminous sun-kissed complexion, authentic facial vellus hair, feathered brows, soft champagne eyeshadow, delicate brown fox-eye eyeliner, wispy lashes, and glossy coral-nude lips with realistic lip texture. Wearing a coral linen cropped camisole with delicate pink lace trim, a white wrap sarong featuring embroidered tropical palm tree details, layered shell jewelry including a cowrie shell necklace, shell bracelet, gold bracelets, dainty gold rings, and holding a small white seashell near her chest. A lightweight coral chiffon scarf flows naturally behind her hair in the wind. Standing barefoot on pristine white sand beside crystal-clear turquoise water with gentle waves washing ashore. Background features a secluded tropical island with lush palm trees, overwater bungalows in the distance, dramatic white cumulus clouds, vivid blue sky, and sparkling shallow lagoon. Bright tropical midday sunlight creates natural highlights, realistic skin reflections, crisp shadows, vibrant ocean colors, and cinematic travel photography. Luxury resort editorial, Maldives-inspired paradise, Kodak Gold 200 color science, Portra-inspired skin tones, premium influencer aesthetic, realistic skin rendering, DSLR-quality sharpness, RAW photo, ultra photorealistic, 8K.
+
+cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate islands, oversaturated colors, clipped highlights, low-detail hair
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/5b4f3de7-b535-4591-a525-a478c4b62ea2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/NattyWindstorm/status/2077395768026202510>)
+
+---

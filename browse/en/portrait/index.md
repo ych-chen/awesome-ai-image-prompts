@@ -6,11 +6,12 @@ Titles and prompt bodies are preserved in their original language.
 
 - [Page 1](page-1.md) · 30 Prompts
 - [Page 2](page-2.md) · 30 Prompts
-- [Page 3](page-3.md) · 29 Prompts
+- [Page 3](page-3.md) · 28 Prompts
 - [Page 4](page-4.md) · 30 Prompts
 - [Page 5](page-5.md) · 30 Prompts
 - [Page 6](page-6.md) · 30 Prompts
 - [Page 7](page-7.md) · 30 Prompts
 - [Page 8](page-8.md) · 30 Prompts
 - [Page 9](page-9.md) · 30 Prompts
-- [Page 10](page-10.md) · 28 Prompts
+- [Page 10](page-10.md) · 30 Prompts
+- [Page 11](page-11.md) · 2 Prompts

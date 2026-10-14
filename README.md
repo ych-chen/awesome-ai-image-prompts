@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **859** | **100** | 2026-10-13 |
+| **866** | **100** | 2026-10-14 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,12 +28,12 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| [Portrait](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 297 | [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
-| [Commercial &amp; Product](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 150 | [Browse on MuseSignal](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
-| [Poster &amp; Graphic](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 151 | [Browse on MuseSignal](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
+| [Portrait](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 300 | [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
+| [Commercial &amp; Product](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 151 | [Browse on MuseSignal](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
+| [Poster &amp; Graphic](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 153 | [Browse on MuseSignal](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
 | [Food &amp; Drink](<https://musesignal.com/?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 41 | [Browse on MuseSignal](<https://musesignal.com/?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
 | [Character &amp; Art](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 143 | [Browse on MuseSignal](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
-| [Scene &amp; Space](<https://musesignal.com/?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) | 77 | [Browse on MuseSignal](<https://musesignal.com/?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) |
+| [Scene &amp; Space](<https://musesignal.com/?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) | 78 | [Browse on MuseSignal](<https://musesignal.com/?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) |
 
 <a id="selected-prompts"></a>
 
@@ -45,7 +45,7 @@ Expand Full prompt to copy the original text. Try on MuseSignal opens the case; 
 
 <a id="selected-portrait"></a>
 
-### Portrait · 23
+### Portrait · 25
 
 [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>)
 
@@ -927,6 +927,125 @@ Use case: Portrait
 
 ---
 
+<a id="prompt-bf6a905d-8827-4cf4-8d35-f7bce865de3b"></a>
+
+#### Arctic Chieftain Portrait with Polar Bear Guardian
+
+<a href="https://musesignal.com/prompt/bf6a905d-8827-4cf4-8d35-f7bce865de3b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTmlGSFbEAADi9b.jpg?format=jpg&amp;name=small" width="480" alt="Arctic Chieftain Portrait with Polar Bear Guardian" /></a>
+
+**GPT Image 2.5** · Creator: Ali
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a premium ultra-photorealistic cinematic vertical 9:16 waist-up portrait of Sufni as a powerful ancient Arctic female chieftain.
+
+A young hijabi woman in her early 20s, preserving her recognizable facial identity and natural facial proportions. Completely no makeup, natural visible pores and skin texture, slightly red cheeks and nose from the freezing cold, with a few subtle natural freckles across her nose and cheeks.
+
+She looks directly into the camera with a calm, serious, intimidating expression. No smile, no glamour, no model pose. Her eyes communicate absolute authority, courage, and quiet power — the kind of presence that makes people instinctively feel respect and fear.
+
+She wears a dark charcoal-brown wool khimar covering her chest, layered with a rugged ancient Arctic tribal outfit made from dark wool, leather, and natural fur. Weathered textures, handmade details, primitive tribal clasp and leather belt.
+
+She firmly holds a large ancient wooden tribal spear vertically along the left side of the frame. The spear has a weathered wooden shaft, leather bindings, primitive carved details, and an aged stone-and-metal spearhead.
+
+Directly behind her stands a gigantic adult polar bear, acting as her silent guardian. The bear's head rises above her shoulder and looks directly into the camera with a calm, intelligent, intimidating gaze. Detailed natural white fur, realistic anatomy, snow and frost on its coat.
+
+Composition: waist-up, not chest-up, showing her waist, upper torso, shoulders, arms, hands, belt, and spear. Sufni is the main focal point; the polar bear towers behind her as a powerful secondary subject. Eye-level camera with a subtle low-angle perspective.
+
+Ancient snowy Arctic tribal settlement in the background, wooden shelters, distant firelight, mountains, falling snow and cold mist.
+
+Natural Arctic daylight, cinematic shadows, cold blue-gray tones, subtle warm firelight, 85mm lens, shallow depth of field, realistic skin and fur, documentary photography, subtle film grain.
+
+No CGI, no 3D, no cartoon, no beauty filter, no makeup, no glamorous styling, no smile, no modern clothing, no modern weapons, no aggressive bear, no distorted anatomy, no extra fingers, no duplicate bear, no text, no watermark.
+
+The final image should feel like a real historical photograph of a feared and respected Arctic chieftain standing with her enormous polar bear guardian.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/bf6a905d-8827-4cf4-8d35-f7bce865de3b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/aiwithaly/status/2105895841466663379>)
+
+---
+
+<a id="prompt-b3f57f11-edb0-4215-8945-eeeb2c7c05fa"></a>
+
+#### Realistic Selfie Portrait of a Young Woman
+
+<a href="https://musesignal.com/prompt/b3f57f11-edb0-4215-8945-eeeb2c7c05fa?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOPqxuPXAAAY1WM.jpg?format=jpg&amp;name=small" width="480" alt="Realistic Selfie Portrait of a Young Woman" /></a>
+
+**Nano Banana 2** · Creator: Simply Ray
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Nano banana 2 on @openart_ai 
+
+High-resolution, masterpiece, best quality, perfect lighting, detailed lighting, dramatic shadows, voluptuous figure, innocent face, vertical 9:16 composition. Create this as a realistic PAP-style selfie portrait of a beautiful young woman with very fair, porcelain skin, a symmetrical face, visible pores, and realistic skin texture. Preserve her original facial features exactly without altering her identity. She has long, glossy ash-brown hair tied neatly with a transparent butterfly hair clip, with a few loose strands falling naturally below her chin to softly frame her face. The camera is positioned very close to the subject with a pronounced tilted angle, and her face nearly fills the entire frame. She is wearing a slim-fit women's leopard-print T-shirt (cream and brown with black spots) made of stretchy fabric that follows the body's natural shape, featuring a slightly open U-neck and short sleeves, creating a trendy, feminine, and flattering silhouette. She has a soft, calm expression, looking directly into the camera with a subtle, natural smile. Her makeup features a radiant dewy finish with a luminous wet-look complexion, defined eyeliner, soft pink eyeshadow, peach-pink blush, noticeable highlighter, long thick curled eyelash extensions, well-defined lower lashes, subtle contouring on the cheekbones and nose, ombré lips with a nude lipstick base blending into a glossy cherry-red tint at the centre, black contact lenses, a soft pink highlight on the bridge of the nose for a sweet feminine touch, and naturally shaped well-groomed eyebrows. She has a slightly curvy body and wears a delicate thin gold necklace with a small gemstone pendant. Soft natural lighting from the front evenly illuminates her face, highlighting smooth skin with realistic tones and no harsh shadows. The composition is a close-up to medium-close selfie, with the camera positioned slightly above from the upper-left angle, focusing on her face and upper shoulders. Every detail of the skin, hair, and clothing is sharp and highly detailed, resembling professional photography. The setting is indoors with lighting focused on the subject, while the background remains slightly dim to create depth. In the background, the upper area features curtains with elegant black or dark-brown filigree swirl patterns over a cream or white fabric. The left side transitions into a neutral grey wall, while the right side shows a darker surface, possibly furniture or a wall panel. The overall atmosphere is warm, natural, soft, and highly realistic, with true-to-life skin tones and neutral indoor colours, free from excessive filters or artificial effects, making the image appear as authentic as a real smartphone selfie rather than AI-generated.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/b3f57f11-edb0-4215-8945-eeeb2c7c05fa?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/kingofdairyque/status/2081765629103919586>)
+
+---
+
+<a id="prompt-5b4f3de7-b535-4591-a525-a478c4b62ea2"></a>
+
+#### Tropical Beach Portrait of Sadie Sink
+
+<a href="https://musesignal.com/prompt/5b4f3de7-b535-4591-a525-a478c4b62ea2?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNRkPrlbUAAWYfi.jpg?format=jpg&amp;name=small" width="480" alt="Tropical Beach Portrait of Sadie Sink" /></a>
+
+**Nano Banana Pro** · Creator: Natty Windstorm
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic tropical beach lifestyle portrait of a young woman with long naturally wavy copper-red hair blowing gently in the ocean breeze, soft side part, natural flyaway strands, and effortless beach texture. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks, nose, shoulders, and arms, subtle peach blush, luminous sun-kissed complexion, authentic facial vellus hair, feathered brows, soft champagne eyeshadow, delicate brown fox-eye eyeliner, wispy lashes, and glossy coral-nude lips with realistic lip texture. Wearing a coral linen cropped camisole with delicate pink lace trim, a white wrap sarong featuring embroidered tropical palm tree details, layered shell jewelry including a cowrie shell necklace, shell bracelet, gold bracelets, dainty gold rings, and holding a small white seashell near her chest. A lightweight coral chiffon scarf flows naturally behind her hair in the wind. Standing barefoot on pristine white sand beside crystal-clear turquoise water with gentle waves washing ashore. Background features a secluded tropical island with lush palm trees, overwater bungalows in the distance, dramatic white cumulus clouds, vivid blue sky, and sparkling shallow lagoon. Bright tropical midday sunlight creates natural highlights, realistic skin reflections, crisp shadows, vibrant ocean colors, and cinematic travel photography. Luxury resort editorial, Maldives-inspired paradise, Kodak Gold 200 color science, Portra-inspired skin tones, premium influencer aesthetic, realistic skin rendering, DSLR-quality sharpness, RAW photo, ultra photorealistic, 8K.
+
+cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate islands, oversaturated colors, clipped highlights, low-detail hair
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/5b4f3de7-b535-4591-a525-a478c4b62ea2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/NattyWindstorm/status/2077395768026202510>)
+
+---
+
+<a id="prompt-1b53a092-c997-4689-a8e0-0549ee25e64b"></a>
+
+#### 1990s Indie Bedroom Film Portrait
+
+<a href="https://musesignal.com/prompt/1b53a092-c997-4689-a8e0-0549ee25e64b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLV3_jxboAAadnf.jpg?format=jpg&amp;name=small" width="480" alt="1990s Indie Bedroom Film Portrait" /></a>
+
+**Nano Banana** · Creator: Jahan Zaib
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A candid 1990s-inspired indie bedroom portrait of a young woman sitting cross-legged on a worn vintage patterned couch. She has short messy dark hair, natural makeup, soft skin texture, and a thoughtful, distant expression while looking slightly off-camera. She wears an oversized faded pastel pink Nirvana band T-shirt, blue denim shorts, and retro white tube socks with red and blue stripes.
+The room is decorated with a collage-covered wall filled with music magazine clippings, cassette tape advertisements, Polaroid photos, handwritten notes, concert memorabilia, and alternative rock posters, creating a nostalgic DIY bedroom aesthetic. Soft direct flash photography illuminates the scene, producing subtle shadows, realistic skin details, and authentic film-camera imperfections.
+Shot on 35mm film with a disposable camera look, featuring visible film grain, dust particles, slight color fading, muted vintage tones, and a purple-tinted photo frame border. Cozy indie-rock atmosphere, early 2000s Tumblr aesthetic, authentic lo-fi documentary style, casual home environment, highly detailed, realistic candid photography, nostalgic youth culture mood, vertical composition, editorial lifestyle portrait.
+Keywords: retro bedroom, indie aesthetic, grunge fashion, Nirvana shirt, cassette culture, film photography, disposable camera flash, nostalgic youth, vintage magazines, alternative music scene, lo-fi portrait, authentic candid moment, 35mm grain, cozy vintage interior.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1b53a092-c997-4689-a8e0-0549ee25e64b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/jzaib4269/status/2068691563522458015>)
+
+---
+
 <a id="prompt-8f260c0c-8599-4f2a-a15e-7c52222449fd"></a>
 
 #### Editorial Magazine Cover Portrait With Sony Camera
@@ -1125,60 +1244,9 @@ PROMPT:
 
 ---
 
-<a id="prompt-7a62a842-2835-495b-8821-eb441fe3d32c"></a>
-
-#### Crimson Dress Window Portraits
-
-<a href="https://musesignal.com/prompt/7a62a842-2835-495b-8821-eb441fe3d32c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNMiGUXXgAAG8gS.jpg?format=jpg&amp;name=small" width="480" alt="Crimson Dress Window Portraits" /></a>
-
-**Nano Banana** · Creator: Minahil
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-A series of photographic portraits captured indoors, featuring a woman with long, wavy black hair and bold red lipstick, wearing a long-sleeved deep crimson wrap dress. She is seated on a white-clothed surface near a window, with a rustic brick wall and an arrangement of potted ferns and olive trees on terracotta shelves in the background. The collection shows her in various poses: reclining with her hand behind her head looking at the camera, sitting up with her hand on the pillows looking at the camera, sitting cross-legged smiling directly at the camera, and leaning her head on her hand smiling towards the side window. The lighting is natural daylight, creating a soft, warm atmosphere. The camera angle remains consistent throughout the shots.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/7a62a842-2835-495b-8821-eb441fe3d32c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2077041352441745669>)
-
----
-
-<a id="prompt-5e00e501-5e66-46af-a54b-aabe7e3cea92"></a>
-
-#### Alpine Travel Portrait in Grindelwald
-
-<a href="https://musesignal.com/prompt/5e00e501-5e66-46af-a54b-aabe7e3cea92?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKw5BiQaoAA8kLw.jpg?format=jpg&amp;name=small" width="480" alt="Alpine Travel Portrait in Grindelwald" /></a>
-
-**GPT Image 2** · Creator: Mani
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Prompt -
-A cinematic, ultra-high-resolution travel portrait of a stylish young
-woman sitting on a rustic wooden fence overlooking the picturesque alpine village of Grindelwald, Switzerland. She wears a cream-colored knit sweater layered over a white collared shirt, relaxed-fit beige trousers, and classic white sneakers. Her hair moves gently in the mountain breeze as she smiles naturally toward the camera with a relaxed, confident expression.
-Behind her, charming Swiss chalets with flower-filled balconies are scattered across rolling green meadows, while dramatic snow-capped peaks of the Swiss Alps rise majestically in the distance. A winding mountain path, grazing cows, and vibrant wildflowers add authentic alpine character to the scene. Warm afternoon sunlight bathes the landscape, creating soft highlights and rich natural colors.
-Captured from a slightly low angle with professional travel-photography styling, shallow depth of field, realistic skin texture, cinematic color grading, natural lighting, premium lifestyle aesthetic, environmental portrait composition, ultra-detailed scenery, breathtaking mountain atmosphere, award-winning travel magazine photography, HDR, masterpiece quality, 8K resolution.
-Negative Prompt: blurry face, low quality, cartoon, anime, illustration, distorted anatomy, extra limbs, extra fingers, duplicate person, harsh shadows, overprocessed skin, unrealistic proportions, text, watermark, logo, crowd, sunglasses, hat, motion blur, artificial background.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/5e00e501-5e66-46af-a54b-aabe7e3cea92?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/manibuildsAI/status/2066089034599080348>)
-
----
-
 <a id="selected-commercial-product"></a>
 
-### Commercial &amp; Product · 17
+### Commercial &amp; Product · 16
 
 [Browse on MuseSignal](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>)
 
@@ -1664,6 +1732,33 @@ Midjourney + NanoBanana + Ps
 
 ---
 
+<a id="prompt-0656dc5d-64ba-4c99-8fef-27c843a7d0b7"></a>
+
+#### Blueberry Energy Drink Can Product Ad
+
+<a href="https://musesignal.com/prompt/0656dc5d-64ba-4c99-8fef-27c843a7d0b7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMrszFiboAATMFw.jpg?format=jpg&amp;name=small" width="480" alt="Blueberry Energy Drink Can Product Ad" /></a>
+
+**GPT Image 2** · Creator: Snow
+
+Use case: Commercial &amp; Product
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic premium commercial product advertisement featuring a sleek, matte metallic blueberry energy drink can standing upright at the center of a clean pastel lavender studio background. The can is covered with realistic cold condensation droplets, giving a freshly chilled appearance. Large semi-transparent typography reading “FRESH DRINK” fills the background behind the can, creating depth while remaining subtle. At the top, elegant bold text reads “ENERGY DRINK”.
+
+Several fresh, juicy blueberries are artistically floating around the can in different sizes and depths, accompanied by vibrant green leaves for a natural, refreshing look. Additional blueberries rest naturally at the base of the can, enhancing realism and product appeal. The can label features elegant white handwritten typography saying “blueberry flavour” and a bold modern logo reading “Drink”.
+
+Soft diffused studio lighting, smooth shadows, premium minimalist composition, centered layout, vibrant purple and blue color harmony, glossy fruit textures, photorealistic water droplets, clean advertising aesthetic, luxury beverage branding, high-end packaging visualization, shallow depth of field, ultra-sharp focus, soft reflections, realistic materials, premium graphic design, commercial food photography, award-winning product mockup, hyper-detailed, 8K, HDR, Octane Render, Unreal Engine quality, ultra-realistic, Instagram and Pinterest trending beverage advertisement.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0656dc5d-64ba-4c99-8fef-27c843a7d0b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/iamrealsnow/status/2074730952400781666>)
+
+---
+
 <a id="prompt-ccd4237d-b992-4e31-8880-6fe146a08d7d"></a>
 
 #### Neon Brooks Running Shoe Commercial Ad
@@ -1689,111 +1784,9 @@ Large bold typography at the top reads “COMFORT MEETS PERFORMANCE”, with “
 
 ---
 
-<a id="prompt-3c35cfd4-e1d9-4f82-ae73-861253edd138"></a>
-
-#### Luxury Perfume Ad in Chrome Pasta Machine
-
-<a href="https://musesignal.com/prompt/3c35cfd4-e1d9-4f82-ae73-861253edd138?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMxlwvnWUAAtz8s.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Perfume Ad in Chrome Pasta Machine" /></a>
-
-**GPT Image** · Creator: shah\_zadii
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-MASTER LUXURY PERFUME AD
-
- PROMPT:
-
-Create an ultra-realistic premium luxury commercial fragrance advertisement.
-A beautiful ({BOTTLE COLOR}) luxury perfume bottle labeled ({PERFUME NAME}) is positioned vertically with a slight backward tilt, perfectly supported between the polished stainless-steel guide plates of a premium chrome manual pasta machine.
-The machine is centered, facing directly toward the camera.
-Black wooden crank handle on the left side.
-Chrome adjustment knob on the right.
-Front roller opening fully visible.
-From the roller opening, a rich and abundant flow of ({MAIN INGREDIENT}) naturally exits the machine and spreads into a luxurious pile on the tabletop.
-Mix different sizes of ({MAIN INGREDIENT}), crushed pieces, flakes, powder and premium texture details for maximum realism.
-Around the pile add scattered ({SMALL DECOR ELEMENTS}) naturally.
-Background contains elegant ({BACKGROUND DECOR}) with soft cinematic depth of field.
-Luxury marble tabletop.
-Premium studio lighting.
-Beautiful realistic reflections on chrome.
-Elegant luxury color grading matching the ingredient.
-Centered composition.
-Large negative space at top for typography.
-Minimal premium advertisement style.
-Luxury fragrance campaign.
-Soft shadows.
-Ultra sharp focus.
-Photorealistic.
-8K.
-Magazine quality.
-Typography
-Top center:
-PICK YOUR FAVORITE
-Below:
-SCENT THAT SPEAKS FOR YOU
-Below:
-Because you deserve the best
-Left side badge:
-NEW ARRIVAL
-Minimal luxury typography.
-Modern serif fonts mixed with elegant handwritten script.
-Perfect spacing.
-Premium cosmetic advertisement layout.
-Camera
-Straight-on camera
-Slight high angle
-85mm Lens
-f/4
-Soft studio lighting
-Luxury commercial photography
-Perfect reflections
-Extremely realistic
-No people
-No watermark
-No logo except perfume label
-No AI artifacts
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/3c35cfd4-e1d9-4f82-ae73-861253edd138?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/sha_zdiii/status/2075145441163846022>)
-
----
-
-<a id="prompt-a362278e-4736-4bfa-9853-dcfa30364df1"></a>
-
-#### Luxury Ferrari Rainy Tokyo Ad
-
-<a href="https://musesignal.com/prompt/a362278e-4736-4bfa-9853-dcfa30364df1?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLGfThNbQAAtKvm.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Ferrari Rainy Tokyo Ad" /></a>
-
-**GPT Image 2** · Creator: Noira.
-
-Use case: Commercial &amp; Product
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Create an ultra-luxury cinematic automotive advertisement featuring a glossy blood-red Ferrari 488 Pista in a futuristic Tokyo street at midnight during heavy rain. The car is positioned in a low-angle close-up hero shot, dominating the frame with an aggressive, powerful presence. The body is covered in realistic raindrops, with glowing red taillights reflecting intensely across the wet black asphalt. Surround the scene with neon-lit skyscrapers, blurred city lights, glowing Japanese signboards, cinematic fog, smoke, and light rain particles in motion, creating a dark moody cyberpunk atmosphere.
-
-Beside the car stands a stunning elegant female model in a black luxury wet silk gown, high heels, sharp jawline, wet hair flowing in the wind, confident and mysterious pose, looking slightly away from the camera with a strong powerful aura. Her silhouette is highlighted with dramatic rim lighting, adding depth and premium editorial fashion energy.
-
-The environment should feel expensive, mysterious, and larger than life — with glossy reflections, deep black shadows, realistic puddles, cinematic smoke trails, subtle motion blur in rain, and glowing city lights creating depth. Keep the composition balanced with the Ferrari as the main hero and the model as the luxury storytelling element. Use a black and red luxury color palette, ultra-realistic textures, hyper-detailed reflections, movie-poster composition, luxury magazine cover style, premium commercial photography, sharp focus, realistic lighting physics, minimal branding (only Ferrari logo and one small tagline), ultra-detailed 8K, masterpiece quality, photorealistic, dramatic cinematic depth, expensive billionaire lifestyle aesthetic, viral X luxury campaign style, futuristic realism, intense emotional storytelling, and world-class advertisement quality.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/a362278e-4736-4bfa-9853-dcfa30364df1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/veylorvisions/status/2067608866733584706>)
-
----
-
 <a id="selected-poster-graphic"></a>
 
-### Poster &amp; Graphic · 15
+### Poster &amp; Graphic · 16
 
 [Browse on MuseSignal](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>)
 
@@ -2700,6 +2693,52 @@ Use case: Poster &amp; Graphic
 
 ---
 
+<a id="prompt-486faadb-148c-4ad7-b45d-cdb3c0144676"></a>
+
+#### Epic Portugal World Cup Football Poster
+
+<a href="https://musesignal.com/prompt/486faadb-148c-4ad7-b45d-cdb3c0144676?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKns75QXYAAyTg7.jpg?format=jpg&amp;name=small" width="480" alt="Epic Portugal World Cup Football Poster" /></a>
+
+**Grok** · Creator: Minahil
+
+Use case: Poster &amp; Graphic
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+An epic, cinematic football poster celebrating the Portuguese national team for the FIFA World Cup so. At the top, the bold, stylized word "PORTUGAL" is prominently displayed, set against a massive, waving Portuguese flag featuring its traditional red and green colors and national coat of arms. The entire scene is set inside a massive, modern football stadium filled with bright floodlights, a packed crowd of cheering fans, and a golden FIFA World Cup trophy glistening in the foreground. The design blends intense action shots of the players in their iconic red and green kits—highlighting a passionate, screaming star player celebrating with arms raised alongside a unified lineup of the entire squad standing shoulder to shoulder on the pitch. Dramatic sparks, a pillar of fire, and a dynamic scoreboard graphic appear in the background, while the spirited text "FORCA PORTUGAL!" is boldly written in a stylized font across the bottom to complete the high-energy, triumphant atmosphere.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/486faadb-148c-4ad7-b45d-cdb3c0144676?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2065442422021112118>)
+
+---
+
+<a id="prompt-1b800307-6aa6-4b7e-8ff7-9085b48f9fd8"></a>
+
+#### High-Fashion Editorial Collage Poster
+
+<a href="https://musesignal.com/prompt/1b800307-6aa6-4b7e-8ff7-9085b48f9fd8?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKapwTxbEAAatjq.jpg?format=jpg&amp;name=small" width="480" alt="High-Fashion Editorial Collage Poster" /></a>
+
+**Nano Banana Pro** · Creator: liana
+
+Use case: Poster &amp; Graphic
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A high-end fashion editorial collage poster featuring a glamorous woman with silky, deep caramel-black hair styled beautifully, with a large, stunning close-up foreground portrait emphasizing her captivating gaze. In a dynamic layered composition, a smaller inset full-body photo shows her walking confidently, wearing a cobalt-purple classic-fit crewneck shirt tucked neatly into tailored gray high-waisted trousers, effortlessly holding a pair of chic sunglasses in one hand. The background is a sophisticated mix of modern mixed-media design: artistic torn-paper textures, blurred vintage newspaper overlays, and deep navy-blue gradient shifts that create depth. Overlaying the composition is elegant, fluid handwritten typography that reads "New style", paired with translucent, repeating faded text running vertically in the background for a high-fashion magazine look. Douyin realism, cinematic studio lighting, hyper-detailed textures, 8K resolution, editorial layout.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1b800307-6aa6-4b7e-8ff7-9085b48f9fd8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Lianaalane/status/2064530708971061747>)
+
+---
+
 <a id="prompt-2716df3b-a0f4-4189-93f5-6259ac01bc3f"></a>
 
 #### Cinematic Anime Sports Character Poster
@@ -2758,32 +2797,9 @@ MATERIAL & PRINT FEEL: The artwork features the tangible texture of a premium sc
 
 ---
 
-<a id="prompt-a62dfbca-63d1-46dc-9366-77d5c77b07df"></a>
-
-#### Pixar-Style Lupin TV Show Movie Poster
-
-<a href="https://musesignal.com/prompt/a62dfbca-63d1-46dc-9366-77d5c77b07df?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLXGsk0bYAAduX3.jpg?format=jpg&amp;name=small" width="480" alt="Pixar-Style Lupin TV Show Movie Poster" /></a>
-
-**GPT Image 2** · Creator: ANKIT PATEL 🇮🇳 \| AI
-
-Use case: Poster &amp; Graphic
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Pixar-style movie poster reimagining of the TV show Lupin. Feature the main cast as charming 3D CGI caricature characters with exaggerated, expressive features, big expressive eyes, and warm glossy Pixar-quality rendering. Compose it as an actual movie poster layout: main characters grouped in a dynamic hero pose, consistent with the show's iconic visual themes, color palette, and setting. Add a bold, playful animated-movie-style title logo at the top or bottom using a font and color treatment that matches Lupin's tone. Include a tagline in small text. Cinematic lighting, vibrant background that reflects the show's world. Professional studio-quality poster composition, high detail, glossy finish.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/a62dfbca-63d1-46dc-9366-77d5c77b07df?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Ankit_patel211/status/2068778128659603644>)
-
----
-
 <a id="selected-food-drink"></a>
 
-### Food &amp; Drink · 13
+### Food &amp; Drink · 11
 
 [Browse on MuseSignal](<https://musesignal.com/?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>)
 
@@ -3059,52 +3075,6 @@ low quality, worst quality (1.4), bad anatomy, deformed, ugly appearance, crosse
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/2dca3684-bdc2-427b-9e69-117ff319b389?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/kingofdairyque/status/2080989326557487445>)
-
----
-
-<a id="prompt-082f4586-63c7-44e6-ada5-f3eb8183495e"></a>
-
-#### Italian Restaurant Food Poster with GPT Image 2
-
-<a href="https://musesignal.com/prompt/082f4586-63c7-44e6-ada5-f3eb8183495e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLJtNgmbYAALAR0.jpg?format=jpg&amp;name=small" width="480" alt="Italian Restaurant Food Poster with GPT Image 2" /></a>
-
-**GPT Image 2** · Creator: Al-Shamus
-
-Use case: Food &amp; Drink
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-A minimalistic advertising poster about food in a modern Italian style with Japanese layout aesthetics, preserving the exact compositional structure: two large rounded vertical geometric color blocks arranged diagonally along the composition, food photography with a view from above. The upper left block is a hero dish: fresh tagliatelle pasta with truffle cream and parmesan cheese on a light ceramic plate, with thin slices of black truffle, olive oil and microgreens, premium restaurant service. The lower right block is the second hero dish: slow—stewed ossobuco with saffron risotto on a matte dark plate, with rich sauce, gremolata and fresh herbs, modern author's Italian cuisine. Floating side dishes and appliances are neatly arranged around each dish: vintage cutlery, linen napkins, sprigs of rosemary and thyme, cherry tomatoes, slices of parmesan, miniature saucepans with olive oil, fresh handmade focaccia, olives and spices. Large typography in modern Italian style is aligned to the upper right, the text is entirely in English : the name of the restaurant, the names of the dishes and the prices. Small text with prices is placed next to each dish. Airy editorial is a negative space system, a soft pastel commercial palette with shades of cream, terracotta, olive, sage and graphite. Clear asymmetrical visual hierarchy, premium restaurant branding aesthetics, cinematic soft shadows, modern menu presentation in poster format. The subtle signature in the footer is naturally integrated into the bottom of the composition. Pure vertical composition, ultra detailed, premium branding, realistic food styling, soft cinematic dim green lighting, Italian cuisine editorial poster design, minimalism.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/082f4586-63c7-44e6-ada5-f3eb8183495e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/im_shahid7/status/2067835275695534326>)
-
----
-
-<a id="prompt-fdfd66d9-06dc-4450-b744-b6e3757a92eb"></a>
-
-#### Surrealist Food Ad: Raw Fish Meets Sushi in Vanity Mirror
-
-<a href="https://musesignal.com/prompt/fdfd66d9-06dc-4450-b744-b6e3757a92eb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HIc4WSaakAEFOmM.jpg?format=jpg&amp;name=small" width="480" alt="Surrealist Food Ad: Raw Fish Meets Sushi in Vanity Mirror" /></a>
-
-**GPT Image** · Creator: Soulful Ai
-
-Use case: Food &amp; Drink
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-A minimalist, surrealist food advertisement photograph on a warm, muted beige tan background. On the left side of the frame, a raw, translucent whole (FISH/HEN) stands upright on its tail, looking into a small, black rimmed circular vanity mirror placed on the right. Inside the mirror's reflection, instead of the raw (FISH/HEN), a perfect (sushi /fried chicken) platter is visible, matching the upright posture. The scene is lit with dramatic, soft studio lighting from the side, casting gentle shadows to the right and giving the image a high end, editorial feel. The overall color palette is fresh , featuring fresh tones of tan, deep orange, and soft black.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/fdfd66d9-06dc-4450-b744-b6e3757a92eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/soulful__ai/status/2055673718073160019>)
 
 ---
 
@@ -3847,6 +3817,45 @@ A sprawling historical concept art panorama of the busy Bulaq river port on the 
 
 ---
 
+<a id="prompt-863f4152-c5b6-424e-85c2-1852aaf55149"></a>
+
+#### Frozen City Popsicle Travel Photo
+
+<a href="https://musesignal.com/prompt/863f4152-c5b6-424e-85c2-1852aaf55149?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQjTO3ZacAA8jFO.jpg?format=jpg&amp;name=small" width="480" alt="Frozen City Popsicle Travel Photo" /></a>
+
+**GPT Image 2** · Creator: simeon-sanai
+
+Use case: Scene &amp; Space
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create a hyper-realistic vertical 4:5 conceptual travel photograph of [CITY / COUNTRY], where the entire essence of the destination is magically frozen inside a crystal-clear ice popsicle held in a person’s hand.
+
+Inside the transparent popsicle, build a miniature yet incredibly detailed 3D world featuring [ICONIC LANDMARK] as the central hero, surrounded by tiny recognizable elements of the city — [LOCAL ARCHITECTURE], flowering trees, a charming café, tiny street furniture, and subtle cultural details. The landmark should appear physically embedded inside the ice, as if an entire miniature city has been frozen in time.
+
+The popsicle must look extremely realistic: crystal-clear ice, frozen bubbles, tiny cracks, frost along the edges, melting droplets, refraction, internal condensation, subtle imperfections, and realistic translucent depth. The miniature world inside should remain beautifully sharp and detailed through the ice.
+
+Place the popsicle against a realistic, softly blurred street scene of [CITY], creating a fascinating contrast between the ordinary real world and the magical miniature frozen world in the foreground.
+
+A natural human hand holds the wooden popsicle stick from the bottom, with realistic skin texture, fingerprints, tiny creases, and natural sunlight.
+
+Photography: cinematic travel photography, shallow depth of field, macro-level detail on the popsicle, realistic perspective, natural daylight, soft golden sunlight, beautiful bokeh, subtle lens compression, physically accurate reflections and refractions, premium editorial photography.
+
+Composition: popsicle perfectly centered, landmark clearly visible through the ice, hand entering naturally from the bottom, real city softly surrounding it, strong foreground-to-background depth, clean visual hierarchy, no text, no logos.
+
+Mood: magical, elegant, surreal but believable — “the whole city frozen into one unforgettable bite.”
+
+Ultra-photorealistic, high dynamic range, intricate miniature architecture, realistic ice physics, natural colors, sophisticated travel campaign aesthetic, 8K detail.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/863f4152-c5b6-424e-85c2-1852aaf55149?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Naiknelofar788/status/2092154294816665829>)
+
+---
+
 <a id="prompt-1c630916-b0b6-44e1-bdf9-addea2def831"></a>
 
 #### Tiny Man and Giant Sea Turtle Beach Collage
@@ -3907,29 +3916,6 @@ A small child sits nestled against the flank of a colossal spirit wolf with fur 
 
 ---
 
-<a id="prompt-edd34700-9bfc-461c-98e3-a99da6e3bdde"></a>
-
-#### Neo-Retro Japanese Street Scene with Honda NSX
-
-<a href="https://musesignal.com/prompt/edd34700-9bfc-461c-98e3-a99da6e3bdde?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNP7AJ8WMAAMu_J.jpg?format=jpg&amp;name=small" width="480" alt="Neo-Retro Japanese Street Scene with Honda NSX" /></a>
-
-**GPT Image 2** · Creator: Aqsa
-
-Use case: Scene &amp; Space
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Cinematic neo-retro Japanese street scene inspired by 1990s manga and vintage anime aesthetics. A confident young man with slicked-back black hair tied into a small bun leans casually against the rear of a bright red Honda NSX (NA1), one hand in his pocket and the other holding a lit cigarette. He tilts his head back while slowly exhaling a dramatic stream of smoke into the evening sky, giving off a calm, rebellious attitude. Wearing a loose black oversized T-shirt, wide-leg black trousers, and polished black leather loafers. Traditional Japanese Edo-style wooden buildings line both sides of a narrow cobblestone street, with warm lantern light glowing from windows and deep atmospheric shadows. Muted earthy color palette with rich reds, charcoal blacks, and warm browns. Highly detailed architectural textures, cinematic composition, moody dusk lighting, subtle film grain, vintage poster aesthetic, ukiyo-e inspired perspective blended with modern manga realism, dramatic depth, nostalgic 1990s Japanese street culture vibe, masterpiece, ultra-detailed, no watermark, no text, no logos.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/edd34700-9bfc-461c-98e3-a99da6e3bdde?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Aqsahere_/status/2077279939070726176>)
-
----
-
 ## Keep exploring
 
 [Browse on MuseSignal](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=after_examples>) · [Start creating with free credits](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=after_examples_create>)
@@ -3942,28 +3928,28 @@ Explore more examples, search and filters on MuseSignal.
 | --- | ---: | --- |
 | Adobe Firefly | 2 | [Browse on MuseSignal](<https://musesignal.com/?model=adobe-firefly&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_adobe-firefly>) |
 | GPT Image | 52 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 437 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
-| GPT Image 2.5 | 21 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2.5>) |
-| Grok | 33 | [Browse on MuseSignal](<https://musesignal.com/?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
+| GPT Image 2 | 439 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2.5 | 22 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2.5>) |
+| Grok | 34 | [Browse on MuseSignal](<https://musesignal.com/?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
 | Ideogram | 1 | [Browse on MuseSignal](<https://musesignal.com/?model=ideogram&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_ideogram>) |
 | Leonardo | 2 | [Browse on MuseSignal](<https://musesignal.com/?model=leonardo&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_leonardo>) |
 | Midjourney | 54 | [Browse on MuseSignal](<https://musesignal.com/?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
-| Nano Banana | 34 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana>) |
+| Nano Banana | 35 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana>) |
 | Nano Banana 2 | 90 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
-| Nano Banana Pro | 112 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-pro>) |
+| Nano Banana Pro | 114 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-pro>) |
 | Seedream 5.0 Pro | 8 | [Browse on MuseSignal](<https://musesignal.com/?model=seedream-5.0-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_seedream-5.0-pro>) |
 | Not specified | 13 | — |
 
 ## Recently published
 
-- [Editorial Magazine Cover Portrait With Sony Camera](<https://musesignal.com/prompt/8f260c0c-8599-4f2a-a15e-7c52222449fd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Sun-Drenched Mediterranean Editorial Portrait](<https://musesignal.com/prompt/6be93474-d970-4706-8aed-c23de13f3d47?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana 2
-- [Neon Brooks Running Shoe Commercial Ad](<https://musesignal.com/prompt/ccd4237d-b992-4e31-8880-6fe146a08d7d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Cinematic Anime Sports Character Poster](<https://musesignal.com/prompt/2716df3b-a0f4-4189-93f5-6259ac01bc3f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Neo-Expressionist Street Art Doodle Portrait Poster](<https://musesignal.com/prompt/286f4037-2b0d-4f06-94fa-fe53e50131ff?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
-- [Emerald Elegance Cinematic Portrait](<https://musesignal.com/prompt/44acaa3e-5bcf-42ea-8f8c-01b2b4be8589?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Grok
-- [1990s East Asian Retro Film Portrait of Mature Female Character](<https://musesignal.com/prompt/1a63e032-956b-4e6f-91ba-335a47718651?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Retro Children&#39;s Book Cover with Three Peeking Characters](<https://musesignal.com/prompt/5d3312fa-4867-4dcb-98c3-d7c8f9062559?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Arctic Chieftain Portrait with Polar Bear Guardian](<https://musesignal.com/prompt/bf6a905d-8827-4cf4-8d35-f7bce865de3b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2.5
+- [Frozen City Popsicle Travel Photo](<https://musesignal.com/prompt/863f4152-c5b6-424e-85c2-1852aaf55149?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Realistic Selfie Portrait of a Young Woman](<https://musesignal.com/prompt/b3f57f11-edb0-4215-8945-eeeb2c7c05fa?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana 2
+- [Tropical Beach Portrait of Sadie Sink](<https://musesignal.com/prompt/5b4f3de7-b535-4591-a525-a478c4b62ea2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
+- [Blueberry Energy Drink Can Product Ad](<https://musesignal.com/prompt/0656dc5d-64ba-4c99-8fef-27c843a7d0b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [1990s Indie Bedroom Film Portrait](<https://musesignal.com/prompt/1b53a092-c997-4689-a8e0-0549ee25e64b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana
+- [Epic Portugal World Cup Football Poster](<https://musesignal.com/prompt/486faadb-148c-4ad7-b45d-cdb3c0144676?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Grok
+- [High-Fashion Editorial Collage Poster](<https://musesignal.com/prompt/1b800307-6aa6-4b7e-8ff7-9085b48f9fd8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
 
 ## Generate on MuseSignal
 
@@ -3984,7 +3970,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 859](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 866](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

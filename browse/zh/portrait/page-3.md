@@ -368,30 +368,6 @@ Here's how I did it 👇🏻
 
 ---
 
-<a id="prompt-b66ffd31-757c-42e6-b83d-148293fed026"></a>
-
-## Sabrina Carpenter Bathed in Sunlight
-
-<a href="https://musesignal.com/zh/prompt/b66ffd31-757c-42e6-b83d-148293fed026?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNsj9rLXQAA9-rg.jpg?format=jpg&amp;name=small" width="480" alt="Sabrina Carpenter Bathed in Sunlight" /></a>
-
-**Nano Banana 2** · 原作者: Pinodi
-
-<details>
-<summary>完整提示词</summary>
-
-```text
-just add sunlight...
-Sabrina Carpenter ✨
-Created with Nano Banana 2
-Much more content now live on Patreon! 👇
-```
-
-</details>
-
-**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b66ffd31-757c-42e6-b83d-148293fed026?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/PinodiArt/status/2079295399601275170>)
-
----
-
 <a id="prompt-bd089ccb-ae6b-43f9-b05e-e2fdf262235d"></a>
 
 ## Cognitive Mute: Face as Static Interference
