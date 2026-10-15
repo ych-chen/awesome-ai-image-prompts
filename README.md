@@ -8,7 +8,7 @@
 
 Complete prompts, real example images, original creators and sources. Curated by MuseSignal for product photography, portraits, posters and more.
 
-**Adobe Firefly · GPT Image · GPT Image 2 · GPT Image 2.5 · Grok · Ideogram · Leonardo · Midjourney · Nano Banana · Nano Banana 2 · Nano Banana Pro · Seedream 5.0 Pro**
+**Adobe Firefly · GPT Image · GPT Image 2 · GPT Image 2.5 · Grok · Ideogram · Leonardo · Midjourney · Nano Banana · Nano Banana 2 · Nano Banana Pro · Seedream 4.5 · Seedream 5.0 Pro**
 
 > **Try leading AI image models — no top-up required to get started.**
 >
@@ -18,7 +18,7 @@ Complete prompts, real example images, original creators and sources. Curated by
 
 | Public prompts in this repository | Complete examples on this page | Dataset updated |
 | ---: | ---: | --- |
-| **866** | **100** | 2026-10-14 |
+| **873** | **100** | 2026-10-15 |
 
 This repository shares a selection from MuseSignal. The counts distinguish JSON records from examples on this page, not the full website library. Model collections are subsets of the catalog.
 
@@ -28,9 +28,9 @@ Open a filtered MuseSignal gallery. Counts refer to this repository's JSON; mode
 
 | Browse by use case | In JSON | MuseSignal |
 | --- | ---: | --- |
-| [Portrait](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 300 | [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
-| [Commercial &amp; Product](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 151 | [Browse on MuseSignal](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
-| [Poster &amp; Graphic](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 153 | [Browse on MuseSignal](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
+| [Portrait](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) | 305 | [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>) |
+| [Commercial &amp; Product](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) | 152 | [Browse on MuseSignal](<https://musesignal.com/?category=commercial-product&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_commercial-product>) |
+| [Poster &amp; Graphic](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) | 154 | [Browse on MuseSignal](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>) |
 | [Food &amp; Drink](<https://musesignal.com/?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) | 41 | [Browse on MuseSignal](<https://musesignal.com/?category=food-drink&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_food-drink>) |
 | [Character &amp; Art](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) | 143 | [Browse on MuseSignal](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>) |
 | [Scene &amp; Space](<https://musesignal.com/?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) | 78 | [Browse on MuseSignal](<https://musesignal.com/?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>) |
@@ -45,7 +45,7 @@ Expand Full prompt to copy the original text. Try on MuseSignal opens the case; 
 
 <a id="selected-portrait"></a>
 
-### Portrait · 25
+### Portrait · 27
 
 [Browse on MuseSignal](<https://musesignal.com/?category=portrait&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_portrait>)
 
@@ -249,6 +249,29 @@ Grok Imagine
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/19ec0972-2a78-4dc6-84e1-dcfadf2cb6a0?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/milaraeai/status/2015833579813589052>)
+
+---
+
+<a id="prompt-7c0125d8-3a20-46d4-873e-fbc98a199307"></a>
+
+#### Fisheye Y2K Summer Picnic Portrait
+
+<a href="https://musesignal.com/prompt/7c0125d8-3a20-46d4-873e-fbc98a199307?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM741SxWIAE-Hit.jpg?format=jpg&amp;name=small" width="480" alt="Fisheye Y2K Summer Picnic Portrait" /></a>
+
+**Seedream 4.5** · Creator: yusra.
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A close-up, ultra-wide-angle fisheye lens photograph of a cheerful young woman with messy blonde wavy hair sitting on a brightly colored blue and pink patterned picnic blanket in the middle of a lush green park. She is playfully winking while holding a large, thick wedge of watermelon up to her mouth, biting into the bright red fruit. Her fingers feature colorful nail art and chunky silver rings. She is wearing a vintage white graphic tee, a vibrant turquoise skirt, and retro light blue sneakers. Around her on the blanket are a banana, a small plate of fruit, and an open book. The background features tall green trees under a deep blue, sunny summer sky. The lighting is bright and direct, casting soft shadows, creating a high-energy, casual, and nostalgic summer vibe.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7c0125d8-3a20-46d4-873e-fbc98a199307?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/chatgptpaglu/status/2075870141473288337>)
 
 ---
 
@@ -927,6 +950,110 @@ Use case: Portrait
 
 ---
 
+<a id="prompt-da8a986b-b457-4153-8434-513d334b260b"></a>
+
+#### Amateur Documentary Portrait with a Missing Cup Shadow
+
+<a href="https://musesignal.com/prompt/da8a986b-b457-4153-8434-513d334b260b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQZTCJqXIAAhhxC.jpg?format=jpg&amp;name=small" width="480" alt="Amateur Documentary Portrait with a Missing Cup Shadow" /></a>
+
+**Midjourney** · Creator: TischEins
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+amateur documentary photograph of an adult woman in her early thirties with cropped copper red hair and pale gray blue eyes, a small cluster of freckles across the bridge of her nose, sitting alone at a worn wooden kitchen table near a tall window in soft early afternoon light, holding a plain white ceramic teacup raised halfway to her mouth, elbow resting on the table, a linen napkin and a small dish of orange marmalade nearby, the shadow cast across the tablecloth by her raised hand showing her hand clearly but leaving an empty circle of light where the cup's shadow should fall, every other object in the room casting a normal soft shadow, natural window light with gentle falloff, 50mm lens at f/2.2, candid unposed framing, shallow depth of field with the shadow detail kept in sharp focus, warm cream, muted terracotta, soft moss green, pale oat and charcoal shadow palette, quiet domestic realism, three quarter angle composition with negative space toward the window
+|NEGATIVES| no watermark, extra fingers, extra limbs, deformed hands, plastic skin, legible gibberish text, brand logos, oversaturated colors, blurry main subject
+|PARAMS| --v 8.2 --s 250 --ar 5:4
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/da8a986b-b457-4153-8434-513d334b260b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/tisch_eins/status/2091450376385945732>)
+
+---
+
+<a id="prompt-4c956a7a-5139-4477-9bf3-96c40f5fbd62"></a>
+
+#### Luxury Fashion Editorial Street Portrait
+
+<a href="https://musesignal.com/prompt/4c956a7a-5139-4477-9bf3-96c40f5fbd62?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HODM-CcbUAA3kuz.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Fashion Editorial Street Portrait" /></a>
+
+**Nano Banana 2** · Creator: Weinberg
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt: I am standing confidently on a quiet European city street with my exact face and identity preserved with pixel-perfect accuracy. The atmosphere is elegant, timeless, and cinematic, inspired by luxury fashion editorials. I am standing in a relaxed, masculine pose with my torso turned slightly about 20 degrees to the left. My shoulders are broad but relaxed, creating a natural, confident posture. My left arm is bent with my left hand resting firmly on my left hip, fingers naturally curved and the elbow pointing outward. My right arm is positioned behind my lower back with the hand resting casually behind my waist, creating an asymmetrical, effortless pose. My chest is open, posture upright, and my weight is shifted mostly onto one leg while the other leg remains relaxed. My head is turned approximately 45 degrees toward the left side of the frame as I look confidently into the distance. rather than at the camera. My facial expression is calm, composed, and…
+1 am wearing high-waisted black tailored trousers with a clean front, soft pleats, and a relaxed straight-leg silhouette. A classic black leather belt with a polished silver rectangular buckle is visible around my waist. The monochromatic combination of black trousers and the ivory knit polo creates a timeless old-money fashion aesthetic.
+I am wearing classic black rectangular sunglasses with dark lenses and a refined minimalist frame. I am not wearing necklaces, bracelets, rings, hats, or additional accessories.
+The background features an elegant European street with historic stone buildings, large windows, architectural details, street signs, and industrial metal structures softly fading into the distance. Everything behind… d me remains naturally blurred with realistic depth of field while preserving the recognizable urban atmosphere. The image has a luxurious editorial feel with clean composition and timeless architecture. Lighting is soft natural daylight with gentle diffused contrast, producing flattering shadows across my face and clothing. The overall mood is sophisticated, relaxed, and cinematic. Camera angle: eye-level, vertical composition (4:5). Lens: 85mm portrait lens. Medium portrait framing from approximately mid-thigh upward. Very shallow depth of field with smooth background bokeh. Ultra-realistic luxury fashion editorial photography, RAW image, natural skin texture, highly detailed knit fabric, photorealistic lighting, premium magazine aesthetic, no HDR, no excessive sharpening, no color grading, natural contrast, ultra-detailed, realistic proportions.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/4c956a7a-5139-4477-9bf3-96c40f5fbd62?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/weiinberg/status/2080888406520033699>)
+
+---
+
+<a id="prompt-fd58f679-bac1-4b61-af34-86bd2623579c"></a>
+
+#### Ultra-Realistic Luxury Fitness Portrait
+
+<a href="https://musesignal.com/prompt/fd58f679-bac1-4b61-af34-86bd2623579c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNv8vy2aQAAWRFP.jpg?format=jpg&amp;name=small" width="480" alt="Ultra-Realistic Luxury Fitness Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Dockie
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic luxury fitness lifestyle portrait of a young platinum-blonde woman with hair tied into a relaxed low ponytail, soft curtain bangs, and a dark chocolate-brown paisley bandana wrapped around her head. Warm ivory skin with visible pores, realistic skin texture, subtle freckles across the cheeks, shoulders, and arms, authentic facial vellus hair, healthy post-workout glow, natural flushed cheeks, feathered brows, champagne shimmer eyeshadow, soft fox-eye eyeliner, wispy lashes, and glossy nude-pink lips with realistic lip texture. Realistic sweat sheen visible across the forehead, temples, neck, collarbones, shoulders, arms, and upper chest. Wearing a premium seamless mocha-brown athletic sports bra with minimalist white branding on the chest and matching high-waisted biker shorts made from sculpting compression fabric. Calm seated pose on a padded workout bench with hands resting naturally on the thighs while looking directly into the camera with a focused, composed expression. Modern luxury fitness center featuring premium cable machines, weight equipment, mirrors, rubber flooring, large windows with natural daylight, and softly blurred gym equipment in the background. Bright natural daylight mixed with overhead LED gym lighting creates realistic highlights, crisp athletic contrast, and premium commercial fitness campaign aesthetics. Lululemon × Alo Yoga × Gymshark campaign style, Kodak Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, high-frequency skin detail, RAW photo, ultra photorealistic, 8K.
+
+cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate gym equipment, oversaturated colors, clipped highlights, low-detail hair
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/fd58f679-bac1-4b61-af34-86bd2623579c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Document195/status/2079534115934925001>)
+
+---
+
+<a id="prompt-0af2874d-b4aa-4023-a766-d4ca628dbd4d"></a>
+
+#### Pop-Art Portrait of Woman with Yellow Headphones
+
+<a href="https://musesignal.com/prompt/0af2874d-b4aa-4023-a766-d4ca628dbd4d?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNvRAwTa8AABd1r.jpg?format=jpg&amp;name=small" width="480" alt="Pop-Art Portrait of Woman with Yellow Headphones" /></a>
+
+**GPT Image 2** · Creator: Sairah
+
+Use case: Portrait
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create an ultra-detailed modern pop-art portrait of a confident East Asian woman in a clean left-side profile, looking slightly upward with a calm, determined expression. She has a sleek chin-length bob haircut with soft wispy bangs, silky jet-black hair with a subtle natural shine, softly arched eyebrows, expressive dark brown almond-shaped eyes, delicate eyelashes, a refined nose, naturally full lips, elegant feminine facial contours, a graceful jawline, and smooth luminous natural skin with subtle pores and realistic texture.
+She is wearing oversized vibrant yellow wired over-ear headphones with a matte finish and a minimalist black oversized off-shoulder hoodie featuring realistic fabric folds and a soft premium cotton texture.
+The background features a bold solid yellow canvas with a large centered hot-pink circle positioned behind her head, creating a striking contemporary graphic composition inspired by Japanese pop-art posters and minimalist editorial design.
+Dramatic studio lighting with soft shadows, ultra-clean composition, crisp edge definition, premium digital illustration, hyper-realistic mixed-media rendering, smooth gradients, vibrant high-contrast colors, poster-quality artwork, modern branding aesthetic, centered composition, 8K resolution, Adobe Illustrator + Photoshop hybrid style, flawless detailing, magazine cover quality, minimalistic luxury design, contemporary visual identity, no text, no watermark, no logo.
+Negative Prompt:
+low quality, blurry, noisy, pixelated, distorted face, asymmetrical eyes, extra ears, extra headphones, duplicate features, bad anatomy, bad proportions, masculine facial features, oversaturated skin, flat lighting, messy background, text, watermark, logo, frame, artifacts, cropped head, low resolution.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/0af2874d-b4aa-4023-a766-d4ca628dbd4d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Sairah_0/status/2079485485102272558>)
+
+---
+
 <a id="prompt-bf6a905d-8827-4cf4-8d35-f7bce865de3b"></a>
 
 #### Arctic Chieftain Portrait with Polar Bear Guardian
@@ -1114,133 +1241,6 @@ A stunning cinematic portrait of a beautiful woman with long, voluminous, glossy
 </details>
 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/44acaa3e-5bcf-42ea-8f8c-01b2b4be8589?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Minahil42298354/status/2065873502436311066>)
-
----
-
-<a id="prompt-1a63e032-956b-4e6f-91ba-335a47718651"></a>
-
-#### 1990s East Asian Retro Film Portrait of Mature Female Character
-
-<a href="https://musesignal.com/prompt/1a63e032-956b-4e6f-91ba-335a47718651?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUMlKt8akAAF7qS.jpg?format=jpg&amp;name=small" width="480" alt="1990s East Asian Retro Film Portrait of Mature Female Character" /></a>
-
-**GPT Image 2** · Creator: VoxCat
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-GPT-image2｜经典日漫角色真人 COS
-
-这组重点放在身材曲线和人物神态上。
-
-成熟丰满的御姐身材，饱满上围、纤细腰线、圆润臀部，通过前倾、扭腰、回眸形成明显的 S 形曲线。
-
-表情保留七分冷艳慵懒、三分柔弱无辜。半垂眼睑、微张嘴唇、从肩膀上方回望镜头，带一点漫不经心的挑逗感。
-
-搭配 90–00 年代东亚复古私摄影、暖调电影光与彩色负片质感。
-
-替换角色即可生成👇
-
-【角色】，明确成年真人化，保留角色核心身份特征：发型、发色、眼睛、脸部结构、角色主色、标志性服装轮廓与身份配饰。
-
-1990s–2000s 东亚复古私摄影 × 日式夜间街头写真 × 港式暖调电影摄影 × 低照度彩色负片摄影。
-
-人物具有成熟甜颜御姐气质，精致柔和的鹅蛋脸，小巧下巴，细窄挺直的鼻梁，饱满红唇，杏仁形猫系眼睛，眼尾轻微上挑，纤细自然的眉毛，深邃而略带湿润感的眼神。五官兼具甜美与冷艳，面部细腻真实，散发轻熟、慵懒、略带距离感的女性魅力。
-
-成年女性丰满曲线型身材，胸部饱满，腰部纤细紧致，臀部圆润饱满，腰臀比例鲜明，身体轮廓流畅，具有自然柔软的真实人体质感。合身的收腰服装突出胸腰臀的连续曲线，布料随姿态形成自然张力和褶皱。
-
-人物身处具有真实生活痕迹的复古室内空间，正在操作一台老式日常设备。双手支撑在设备边缘，上半身微微前倾，腰部自然扭转，臀部向后移动，肩线、腰线与臀线形成清晰的 S 形身体结构。
-
-人物突然从肩膀上方回头凝视摄影机，头部略微下沉，下巴轻收，眼睛向上看向镜头。上眼睑轻微下压，眼尾微扬，目光集中而慵懒，眉间放松，嘴唇自然微张，嘴角平直。表情呈现七分冷艳慵懒与三分柔弱无辜，带有轻微挑衅、漫不经心与若即若离的感觉。
-
-摄影机位于人物斜后方，接近腰部至胸部高度，中近景竖向构图。人物身体占据主要画面，脸部位于上半部，设备处于侧面前景，头部回转与腰臀曲线共同形成视觉中心。
-
-低照度室内混合光，暖黄色顶灯照亮面部与肌肤，设备荧光屏提供局部青绿色反射光，背景沉入橄榄绿、暖棕色暗部。奶油色高光、低饱和暖调、柔和暗部层次。
-
-高感光度彩色负片质感，明显的胶片颗粒、轻微失焦、柔化高光、低微对比、胶片扫描噪点。真实私人抓拍与复古电影剧照融合，人物面部清晰，皮肤保留自然纹理。
-
-3:4 竖幅，右下角极小签名 voxcat。
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/1a63e032-956b-4e6f-91ba-335a47718651?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/VoxcatAI/status/2108592071611240827>)
-
----
-
-<a id="prompt-5c7bbc56-db29-43d2-901b-710807869a9f"></a>
-
-#### Stylish Man with Weimaraner in Luxury Elevator
-
-<a href="https://musesignal.com/prompt/5c7bbc56-db29-43d2-901b-710807869a9f?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQjVG7uW0AA4_c_.jpg?format=jpg&amp;name=small" width="480" alt="Stylish Man with Weimaraner in Luxury Elevator" /></a>
-
-**Nano Banana 2** · Creator: Zar⭕on
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Ultra-realistic full-body fashion portrait of a stylish bearded man wearing black bomber jacket, beige turtleneck, black trousers, sunglasses and white sneakers, standing confidently with a Weimaraner dog inside a luxurious modern elevator, warm cinematic lighting, reflective metallic walls, DSLR photography, 8K, sharp details.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/5c7bbc56-db29-43d2-901b-710807869a9f?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Xaroon_x/status/2092156356547473503>)
-
----
-
-<a id="prompt-d474eb07-4a65-4985-b655-4ef8e75bda05"></a>
-
-#### Luxury Tropical Beach Fashion Editorial Portrait
-
-<a href="https://musesignal.com/prompt/d474eb07-4a65-4985-b655-4ef8e75bda05?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HO-nn-fbgAAowuP.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Tropical Beach Fashion Editorial Portrait" /></a>
-
-**Nano Banana Pro** · Creator: Dockie
-
-Use case: Portrait
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-PROMPT:
-
-{
-  "title": "Luxury Tropical Beach Editorial",
-  "prompt": "Ultra-realistic luxury tropical beach fashion editorial of an adult woman relaxing on pristine white sand under bright tropical sunlight. She has long champagne-blonde hair with soft beach waves, realistic flyaway strands, natural volume, and a large fresh white lily tucked behind her left ear. Her skin is porcelain-fair with warm golden undertones, realistic visible pores, subtle freckles across the cheeks, nose, shoulders, and arms, soft peach fuzz, hydrated glass-skin glow, natural skin translucency, and authentic sunlit highlights. She wears a luxurious crimson-red satin triangle bikini with a glossy silk finish, thin halter straps, matching low-rise bikini bottoms, and a white shell choker necklace paired with delicate gold drop earrings. She is seated naturally on soft white tropical sand with one leg bent toward the camera and the other extended comfortably, one hand resting behind her for support while the opposite arm rests casually on her bent knee. She looks directly into the camera with a calm, confident editorial expression and softly parted glossy lips. The beach features crystal-clear turquoise water, gentle ocean waves, lush palm trees, tropical vegetation, and a vivid blue sky with soft clouds. Bright midday sunlight creates realistic shadows, natural highlights, and premium commercial lighting.",
-  "style": {
-    "photorealistic": true,
-    "camera": "Sony A7R V",
-    "lens": "85mm portrait lens",
-    "aperture": "f/1.8",
-    "lighting": "Bright tropical midday sunlight with soft natural fill light, realistic HDR, subtle highlight bloom",
-    "color_grading": "Luxury Xiaohongshu (RED), Vogue resort editorial, warm tropical tones, creamy skin, balanced saturation, premium commercial color science",
-    "quality": "8K Ultra HD"
-  },
-  "makeup": {
-    "foundation": "Luxury satin full-coverage foundation preserving realistic pores and skin texture",
-    "concealer": "Bright lifting under-eye concealer",
-    "contour": "Soft cool contour on cheekbones, jawline, temples, nose bridge and collarbones",
-    "blush": "Highly pigmented coral-rose blush extending toward the temples and softly across the nose",
-    "highlighter": "Wet-look champagne pearl highlighter on cheekbones, brow bones, nose bridge, nose tip, cupid's bow, collarbones and shoulders",
-    "eyeshadow": "Warm taupe transition, cocoa outer corners, metallic champagne shimmer, pearl inner corner highlight",
-    "eyeliner": "Ultra-sharp fox-eye black winged eyeliner",
-    "lashes": "Long manga-inspired wispy upper lashes with individually defined lower lashes",
-    "eyebrows": "Feathered blonde brows with visible individual hairs",
-    "eyes": "Soft gray-blue contact lenses with realistic iris detail",
-    "lips": "Richly pigmented coral nude lipstick, softly overlined, glossy glass-lip finish with realistic wet reflections"
-  },
-  "negative_prompt": "low quality, blurry, plastic skin, wax skin, excessive smoothing, CGI, anime, cartoon, 3D render, bad anatomy, extra fingers, fused fingers, duplicate limbs, watermark, logo, text, mirror selfie, selfie, phone, camera, photographer reflection, distorted body, unrealistic proportions, oversaturated colors"
-}
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/d474eb07-4a65-4985-b655-4ef8e75bda05?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Document195/status/2085069603361976573>)
 
 ---
 
@@ -1707,13 +1707,13 @@ The poster should feel like New Balance hired a luxury fashion house, an archite
 
 ---
 
-<a id="prompt-fe49ff6c-3605-4f38-8055-3503200b0a15"></a>
+<a id="prompt-f0d841ed-0eb0-4e66-b97f-62757429bceb"></a>
 
-#### Specialty Coffee Packaging Design Concept
+#### Luxury Swiss Watch Commercial Ad
 
-<a href="https://musesignal.com/prompt/fe49ff6c-3605-4f38-8055-3503200b0a15?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HFY9_Pza8AIxBmn.jpg?format=jpg&amp;name=small" width="480" alt="Specialty Coffee Packaging Design Concept" /></a>
+<a href="https://musesignal.com/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOT9oLKacAA0utX.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Swiss Watch Commercial Ad" /></a>
 
-**Nano Banana** · Creator: Daria\_Surkova
+**GPT Image 2** · Creator: Mr Das
 
 Use case: Commercial &amp; Product
 
@@ -1721,14 +1721,12 @@ Use case: Commercial &amp; Product
 <summary>Full prompt</summary>
 
 ```text
-Design Concept of the Day
-Specialty Coffee Packaging Design
-Midjourney + NanoBanana + Ps
+Minimalist commercial ad featuring an oversized premium luxury Swiss mechanical watch with intricate open-heart dial, polished rose-gold case, sapphire crystal, fine leather strap details, and gleaming metallic textures, ultra-clean design. A fashionable young woman wearing an elegant all-white outfit leans casually against the giant watch while holding the crown between her fingers, relaxed confident pose, eyes closed. Soft gradient deep emerald-green background with large bold white “WATCH” text behind. Glossy reflective floor, premium studio lighting, luxury product photography, ultra-realistic, 8K. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Time refined beautifully.”
 ```
 
 </details>
 
-**[Try on MuseSignal →](<https://musesignal.com/prompt/fe49ff6c-3605-4f38-8055-3503200b0a15?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Dari_Designs/status/2043685636922806566>)
+**[Try on MuseSignal →](<https://musesignal.com/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/MrDasOnX/status/2082067804472360967>)
 
 ---
 
@@ -1786,7 +1784,7 @@ Large bold typography at the top reads “COMFORT MEETS PERFORMANCE”, with “
 
 <a id="selected-poster-graphic"></a>
 
-### Poster &amp; Graphic · 16
+### Poster &amp; Graphic · 17
 
 [Browse on MuseSignal](<https://musesignal.com/?category=poster-graphic&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_poster-graphic>)
 
@@ -2693,6 +2691,35 @@ Use case: Poster &amp; Graphic
 
 ---
 
+<a id="prompt-cf205195-bc0c-4768-a85e-7b316a8a1f3a"></a>
+
+#### Miniature Diorama London Travel Poster
+
+<a href="https://musesignal.com/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMmJx8XaEAA23F5.jpg?format=jpg&amp;name=small" width="480" alt="Miniature Diorama London Travel Poster" /></a>
+
+**GPT Image 2** · Creator: Harry Potter
+
+Use case: Poster &amp; Graphic
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-detailed miniature diorama travel poster of London, designed in a charming Pixar-inspired 3D style with cinematic lighting and hyper-realistic textures. A smiling young South Asian traveler with neatly styled black hair, trimmed beard, and black sunglasses rides a vintage pastel mint-blue Vespa scooter through a beautifully crafted cobblestone street. He wears a light blue rolled-sleeve button-up shirt, beige chinos, brown leather boots, and a camera hanging around his neck. A vintage brown leather suitcase covered with travel stickers is mounted behind the scooter.
+
+The scene features iconic London landmarks including Big Ben, the Palace of Westminster, the London Eye, Westminster Bridge, a classic red double-decker bus, an iconic red telephone booth, Underground station sign, black London taxi, traditional British pub, riverboats on the Thames, Victorian buildings, and charming street lamps. A winding red-and-white dotted travel path leads to a large red location pin in the foreground, emphasizing the travel journey.
+
+Decorative destination signboards point toward Big Ben, London Eye, Buckingham Palace, Tower Bridge, and Camden Market. The composition includes a vintage passport stamp, British flag, and bold travel-poster typography reading "EXPLORING LONDON" with the subtitle "Timeless City, Endless Stories."
+
+Warm golden-hour sunlight, soft volumetric lighting, shallow depth of field, ultra-sharp focus, vibrant colors, intricate miniature architecture, highly detailed textures, whimsical storytelling, collectible toy-diorama aesthetic, premium travel advertisement, centered composition, 8K, HDR, masterpiece, photorealistic CGI, Octane Render, Unreal Engine 5, global illumination, magazine-quality travel poster, vertical 2:3 aspect ratio.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/mon010_de/status/2074340605098926144>)
+
+---
+
 <a id="prompt-486faadb-148c-4ad7-b45d-cdb3c0144676"></a>
 
 #### Epic Portugal World Cup Football Poster
@@ -3080,7 +3107,7 @@ low quality, worst quality (1.4), bad anatomy, deformed, ugly appearance, crosse
 
 <a id="selected-character-art"></a>
 
-### Character &amp; Art · 13
+### Character &amp; Art · 12
 
 [Browse on MuseSignal](<https://musesignal.com/?category=character-art&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_character-art>)
 
@@ -3379,38 +3406,9 @@ Use case: Character &amp; Art
 
 ---
 
-<a id="prompt-5d3312fa-4867-4dcb-98c3-d7c8f9062559"></a>
-
-#### Retro Children&#39;s Book Cover with Three Peeking Characters
-
-<a href="https://musesignal.com/prompt/5d3312fa-4867-4dcb-98c3-d7c8f9062559?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUKfAhmbwAE-PRB.jpg?format=jpg&amp;name=small" width="480" alt="Retro Children&#39;s Book Cover with Three Peeking Characters" /></a>
-
-**GPT Image 2** · Creator: VoxCat
-
-Use case: Character &amp; Art
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-【角色A】【角色B】【角色C】，复古儿童文学封面 × naïve 手绘角色插画 × mid-century book cover design。
-
-保留三名角色的发型、发色、眼睛、标志性配饰、服装领口与身份特征，采用成熟角色设定。三个角色沿画面中央纵向分成三层排列，从与背景同色的不可见横向边缘后探出：上层露出头部与双手，中层只露出头部，下层露出头部与搭在边缘的双手。身体下缘形成清楚的水平遮挡，层间与左右保留充足留白。
-
-三名角色分别呈现困倦、惊讶、冷淡、好奇或慵懒的表情。比例轻微卡通化，眼睛略放大，轮廓清楚。以水粉色块、彩铅线条和干笔刷表现发丝、毛发、服装与皮肤，保留粗糙手绘笔触、纸张颗粒和复古印刷感。
-
-根据角色配色选择单一深色背景，以暖色肤色与角色色块形成鲜明对比。构图简单、居中、纵向堆叠，具有旧儿童读物与20世纪中期书籍封面的气质。3:4竖版，右下角极小 voxcat 签名。
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/5d3312fa-4867-4dcb-98c3-d7c8f9062559?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/VoxcatAI/status/2108497704829829397>)
-
----
-
 <a id="selected-scene-space"></a>
 
-### Scene &amp; Space · 19
+### Scene &amp; Space · 17
 
 [Browse on MuseSignal](<https://musesignal.com/?category=scene-space&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=category_scene-space>)
 
@@ -3856,66 +3854,6 @@ Ultra-photorealistic, high dynamic range, intricate miniature architecture, real
 
 ---
 
-<a id="prompt-1c630916-b0b6-44e1-bdf9-addea2def831"></a>
-
-#### Tiny Man and Giant Sea Turtle Beach Collage
-
-<a href="https://musesignal.com/prompt/1c630916-b0b6-44e1-bdf9-addea2def831?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HO2n316a8AARU8j.jpg?format=jpg&amp;name=small" width="480" alt="Tiny Man and Giant Sea Turtle Beach Collage" /></a>
-
-**GPT Image 2** · Creator: Harry Potter
-
-Use case: Scene &amp; Space
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-Ultra-realistic cinematic forced-perspective miniature fantasy photography featuring the same adorable tiny man (large expressive head, realistic body proportions, cheerful facial expressions) enjoying six different adventures with a gigantic friendly sea turtle on a tropical beach. The composition is arranged as a clean 2×3 collage, with thin white borders separating each frame. Every panel tells a different playful story while maintaining the same character and turtle.
-
-Panel 1 – Chase: The tiny man runs across the sandy beach with a surprised, humorous expression as a massive sea turtle playfully follows behind him. Ocean waves gently wash onto the shore under bright tropical sunlight.
-
-Panel 2 – Relaxing: The giant turtle wears stylish black sunglasses and a woven straw hat while resting peacefully on the beach. The tiny man relaxes beside it on a striped beach towel, hands behind his head, with a fresh coconut drink and small beach umbrella nearby, creating a funny vacation vibe.
-
-Panel 3 – Pulling the Turtle: The miniature man struggles dramatically while pulling the enormous turtle using a thick rope tied around its shell, creating a humorous illusion of incredible strength. Warm golden beach lighting and shallow depth of field.
-
-Panel 4 – Turtle Ride: Under crystal-clear turquoise water, the tiny man joyfully rides on the back of the giant sea turtle above colorful coral reefs and tropical fish. Sun rays penetrate the water, creating magical underwater caustics and realistic light beams.
-
-Panel 5 – Fishing: Standing on a seaside rock, the tiny man excitedly fishes with a realistic fishing rod while the giant turtle pops its head above the water with an open mouth as if waiting for the catch. Natural coastal scenery with sparkling ocean reflections.
-
-Panel 6 – Sandcastle: The tiny man carefully builds an intricate sandcastle using a small bucket and shovel while the giant turtle curiously watches from beside him, creating a heartwarming friendship moment.
-
-Highly detailed realistic sea turtle, photorealistic skin textures, realistic wet sand, ocean reflections, tropical beach, blue sky with soft clouds, cinematic lighting, soft golden sunlight, shallow depth of field, miniature forced-perspective illusion, humorous storytelling, Pixar-inspired charm with photorealistic rendering, ultra-detailed textures, HDR, volumetric lighting, natural color grading, 85mm lens, f/1.8, Unreal Engine 5, Octane Render, masterpiece composition, 8K ultra-high resolution, vibrant colors, premium editorial wildlife fantasy photography.
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/1c630916-b0b6-44e1-bdf9-addea2def831?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/mon010_de/status/2084506792667775033>)
-
----
-
-<a id="prompt-78213f22-e855-49b1-8847-a05d54402d68"></a>
-
-#### Spirit Wolf and Child in Twilight Valley
-
-<a href="https://musesignal.com/prompt/78213f22-e855-49b1-8847-a05d54402d68?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOUAeYTbcAAoFNE.jpg?format=jpg&amp;name=small" width="480" alt="Spirit Wolf and Child in Twilight Valley" /></a>
-
-**Midjourney** · Creator: Cia0
-
-Use case: Scene &amp; Space
-
-<details>
-<summary>Full prompt</summary>
-
-```text
-A small child sits nestled against the flank of a colossal spirit wolf with fur like drifting snow lit from within, both facing a valley of floating islands at twilight. Threads of pale blue light run beneath the wolf's fur like veins of starlight, and its breath scatters into glowing motes. Thousands of luminous seeds drift upward through the air around them. Ancient trees with bark of pale silver and canopies of soft cyan light arch overhead, roots hanging into open sky. A river of light winds through the valley far below, mirroring the aurora above. Deep indigo and teal palette pierced by warm gold bioluminescence, volumetric god rays through mist. Epic fantasy concept art, cinematic wide shot, painterly realism, intricate detail, ethereal and dreamlike, breathtaking scale --ar 16:9 --v 8.2 --hd --s 650 --chaos 12
-```
-
-</details>
-
-**[Try on MuseSignal →](<https://musesignal.com/prompt/78213f22-e855-49b1-8847-a05d54402d68?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=readme_case_cta>)** · [Original post](<https://x.com/Cia0_exe/status/2082070968957309335>)
-
----
-
 ## Keep exploring
 
 [Browse on MuseSignal](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=after_examples>) · [Start creating with free credits](<https://musesignal.com/?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=after_examples_create>)
@@ -3928,28 +3866,29 @@ Explore more examples, search and filters on MuseSignal.
 | --- | ---: | --- |
 | Adobe Firefly | 2 | [Browse on MuseSignal](<https://musesignal.com/?model=adobe-firefly&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_adobe-firefly>) |
 | GPT Image | 52 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image>) |
-| GPT Image 2 | 439 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
+| GPT Image 2 | 442 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2>) |
 | GPT Image 2.5 | 22 | [Browse on MuseSignal](<https://musesignal.com/?model=gpt-image-2.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_gpt-image-2.5>) |
 | Grok | 34 | [Browse on MuseSignal](<https://musesignal.com/?model=grok&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_grok>) |
 | Ideogram | 1 | [Browse on MuseSignal](<https://musesignal.com/?model=ideogram&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_ideogram>) |
 | Leonardo | 2 | [Browse on MuseSignal](<https://musesignal.com/?model=leonardo&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_leonardo>) |
-| Midjourney | 54 | [Browse on MuseSignal](<https://musesignal.com/?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
+| Midjourney | 55 | [Browse on MuseSignal](<https://musesignal.com/?model=midjourney&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_midjourney>) |
 | Nano Banana | 35 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana>) |
-| Nano Banana 2 | 90 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
-| Nano Banana Pro | 114 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-pro>) |
+| Nano Banana 2 | 91 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-2&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-2>) |
+| Nano Banana Pro | 115 | [Browse on MuseSignal](<https://musesignal.com/?model=nano-banana-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_nano-banana-pro>) |
+| Seedream 4.5 | 1 | [Browse on MuseSignal](<https://musesignal.com/?model=seedream-4.5&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_seedream-4.5>) |
 | Seedream 5.0 Pro | 8 | [Browse on MuseSignal](<https://musesignal.com/?model=seedream-5.0-pro&utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=model_seedream-5.0-pro>) |
 | Not specified | 13 | — |
 
 ## Recently published
 
+- [Amateur Documentary Portrait with a Missing Cup Shadow](<https://musesignal.com/prompt/da8a986b-b457-4153-8434-513d334b260b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Midjourney
+- [Luxury Swiss Watch Commercial Ad](<https://musesignal.com/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Luxury Fashion Editorial Street Portrait](<https://musesignal.com/prompt/4c956a7a-5139-4477-9bf3-96c40f5fbd62?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana 2
+- [Ultra-Realistic Luxury Fitness Portrait](<https://musesignal.com/prompt/fd58f679-bac1-4b61-af34-86bd2623579c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
+- [Pop-Art Portrait of Woman with Yellow Headphones](<https://musesignal.com/prompt/0af2874d-b4aa-4023-a766-d4ca628dbd4d?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
+- [Fisheye Y2K Summer Picnic Portrait](<https://musesignal.com/prompt/7c0125d8-3a20-46d4-873e-fbc98a199307?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Seedream 4.5
+- [Miniature Diorama London Travel Poster](<https://musesignal.com/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
 - [Arctic Chieftain Portrait with Polar Bear Guardian](<https://musesignal.com/prompt/bf6a905d-8827-4cf4-8d35-f7bce865de3b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2.5
-- [Frozen City Popsicle Travel Photo](<https://musesignal.com/prompt/863f4152-c5b6-424e-85c2-1852aaf55149?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [Realistic Selfie Portrait of a Young Woman](<https://musesignal.com/prompt/b3f57f11-edb0-4215-8945-eeeb2c7c05fa?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana 2
-- [Tropical Beach Portrait of Sadie Sink](<https://musesignal.com/prompt/5b4f3de7-b535-4591-a525-a478c4b62ea2?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
-- [Blueberry Energy Drink Can Product Ad](<https://musesignal.com/prompt/0656dc5d-64ba-4c99-8fef-27c843a7d0b7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — GPT Image 2
-- [1990s Indie Bedroom Film Portrait](<https://musesignal.com/prompt/1b53a092-c997-4689-a8e0-0549ee25e64b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana
-- [Epic Portugal World Cup Football Poster](<https://musesignal.com/prompt/486faadb-148c-4ad7-b45d-cdb3c0144676?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Grok
-- [High-Fashion Editorial Collage Poster](<https://musesignal.com/prompt/1b800307-6aa6-4b7e-8ff7-9085b48f9fd8?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=latest>) — Nano Banana Pro
 
 ## Generate on MuseSignal
 
@@ -3970,7 +3909,7 @@ Bring your own subject, product and reference images to these image models on Mu
 
 ## For developers: download the public dataset
 
-[Download full JSON · 866](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
+[Download full JSON · 873](data/prompts.json) · [Data format / 数据格式](DATA_FORMAT.md)
 
 ```python
 import json

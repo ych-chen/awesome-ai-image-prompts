@@ -1052,6 +1052,33 @@
     "content_hash": "1dc211000d552d5be446e2eac4f3cef746908cb2cd81f59db5add6eaadc3cdb0"
   },
   {
+    "id": "0af2874d-b4aa-4023-a766-d4ca628dbd4d",
+    "title": "Pop-Art Portrait of Woman with Yellow Headphones",
+    "prompt": "Create an ultra-detailed modern pop-art portrait of a confident East Asian woman in a clean left-side profile, looking slightly upward with a calm, determined expression. She has a sleek chin-length bob haircut with soft wispy bangs, silky jet-black hair with a subtle natural shine, softly arched eyebrows, expressive dark brown almond-shaped eyes, delicate eyelashes, a refined nose, naturally full lips, elegant feminine facial contours, a graceful jawline, and smooth luminous natural skin with subtle pores and realistic texture.\nShe is wearing oversized vibrant yellow wired over-ear headphones with a matte finish and a minimalist black oversized off-shoulder hoodie featuring realistic fabric folds and a soft premium cotton texture.\nThe background features a bold solid yellow canvas with a large centered hot-pink circle positioned behind her head, creating a striking contemporary graphic composition inspired by Japanese pop-art posters and minimalist editorial design.\nDramatic studio lighting with soft shadows, ultra-clean composition, crisp edge definition, premium digital illustration, hyper-realistic mixed-media rendering, smooth gradients, vibrant high-contrast colors, poster-quality artwork, modern branding aesthetic, centered composition, 8K resolution, Adobe Illustrator + Photoshop hybrid style, flawless detailing, magazine cover quality, minimalistic luxury design, contemporary visual identity, no text, no watermark, no logo.\nNegative Prompt:\nlow quality, blurry, noisy, pixelated, distorted face, asymmetrical eyes, extra ears, extra headphones, duplicate features, bad anatomy, bad proportions, masculine facial features, oversaturated skin, flat lighting, messy background, text, watermark, logo, frame, artifacts, cropped head, low resolution.",
+    "category": "portrait",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Sairah",
+      "handle": "Sairah_0"
+    },
+    "source_platform": "X",
+    "source_id": "2079485485102272558",
+    "source_url": "https://x.com/Sairah_0/status/2079485485102272558",
+    "images": [
+      "https://pbs.twimg.com/media/HNvRAwTa8AABd1r.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNvRAv_bsAAHbMW.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/0af2874d-b4aa-4023-a766-d4ca628dbd4d",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/0af2874d-b4aa-4023-a766-d4ca628dbd4d",
+    "published_at": "2026-10-15T06:03:33.597864+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "265fa4e1534c06f6a665522d6850330558ac420ad7ffbf7d4881a902d89537f5"
+  },
+  {
     "id": "0b42df52-4db8-4848-85e1-2d9a75ebe1de",
     "title": "Melancholic Elegance in Neon Glow",
     "prompt": "Ultra-realistic cinematic portrait of a beautiful young woman with long black hair, wearing an elegant black off-shoulder dress, sitting alone in a dimly lit luxury bar at night, holding a cocktail glass. Soft warm candlelight, red neon Chinese signs glowing in the background, moody atmosphere, shallow depth of field, creamy bokeh lights, detailed skin texture, natural makeup, delicate jewelry, melancholic expression, high-end fashion photography, dramatic shadows, professional lighting, 85mm lens, f/1.4, ultra detailed, photorealistic, 8K, masterpiece.\nNegative Prompt:\nlow quality, blurry, extra fingers, bad anatomy, distorted face, overexposed, oversaturated, cartoon, anime, watermark, text, logo, duplicate, cropped, ugly, noisy background.",
@@ -6656,6 +6683,32 @@
     "content_hash": "504be78aefa13d5a2b7d7b88b620e79561fba581c71b91ee2664add4432ff279"
   },
   {
+    "id": "4c956a7a-5139-4477-9bf3-96c40f5fbd62",
+    "title": "Luxury Fashion Editorial Street Portrait",
+    "prompt": "Prompt: I am standing confidently on a quiet European city street with my exact face and identity preserved with pixel-perfect accuracy. The atmosphere is elegant, timeless, and cinematic, inspired by luxury fashion editorials. I am standing in a relaxed, masculine pose with my torso turned slightly about 20 degrees to the left. My shoulders are broad but relaxed, creating a natural, confident posture. My left arm is bent with my left hand resting firmly on my left hip, fingers naturally curved and the elbow pointing outward. My right arm is positioned behind my lower back with the hand resting casually behind my waist, creating an asymmetrical, effortless pose. My chest is open, posture upright, and my weight is shifted mostly onto one leg while the other leg remains relaxed. My head is turned approximately 45 degrees toward the left side of the frame as I look confidently into the distance. rather than at the camera. My facial expression is calm, composed, and…\n1 am wearing high-waisted black tailored trousers with a clean front, soft pleats, and a relaxed straight-leg silhouette. A classic black leather belt with a polished silver rectangular buckle is visible around my waist. The monochromatic combination of black trousers and the ivory knit polo creates a timeless old-money fashion aesthetic.\nI am wearing classic black rectangular sunglasses with dark lenses and a refined minimalist frame. I am not wearing necklaces, bracelets, rings, hats, or additional accessories.\nThe background features an elegant European street with historic stone buildings, large windows, architectural details, street signs, and industrial metal structures softly fading into the distance. Everything behind… d me remains naturally blurred with realistic depth of field while preserving the recognizable urban atmosphere. The image has a luxurious editorial feel with clean composition and timeless architecture. Lighting is soft natural daylight with gentle diffused contrast, producing flattering shadows across my face and clothing. The overall mood is sophisticated, relaxed, and cinematic. Camera angle: eye-level, vertical composition (4:5). Lens: 85mm portrait lens. Medium portrait framing from approximately mid-thigh upward. Very shallow depth of field with smooth background bokeh. Ultra-realistic luxury fashion editorial photography, RAW image, natural skin texture, highly detailed knit fabric, photorealistic lighting, premium magazine aesthetic, no HDR, no excessive sharpening, no color grading, natural contrast, ultra-detailed, realistic proportions.",
+    "category": "portrait",
+    "model_key": "nano-banana-2",
+    "model_name": "Nano Banana 2",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Weinberg",
+      "handle": "weiinberg"
+    },
+    "source_platform": "X",
+    "source_id": "2080888406520033699",
+    "source_url": "https://x.com/weiinberg/status/2080888406520033699",
+    "images": [
+      "https://pbs.twimg.com/media/HODM-CcbUAA3kuz.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/4c956a7a-5139-4477-9bf3-96c40f5fbd62",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/4c956a7a-5139-4477-9bf3-96c40f5fbd62",
+    "published_at": "2026-10-15T06:03:41.031382+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "622c035331b9199e90b21ab177c1c5f5247ad5297457c8942795d9cb8e5fbc2a"
+  },
+  {
     "id": "4d06ffe8-d207-4d44-b98a-330cdea4e830",
     "title": "Ultra-Wide System Cutaway Infographics for Science Education",
     "prompt": "生成一张【超宽城市系统科普剖面长卷】，单张完整图片，不要拼图，不要多宫格，不要分栏，横版 3:1。\n\n主题：【城市地下系统 / 机场运行系统 / 医院功能系统 / 港口物流系统 / 自定义系统】\n标题：【填写科普标题】\n核心内容：【填写空间结构、功能分区、运行流程】\n信息模块：【控制在 6–8 个】\n风格：【高级科普展板 / 系统剖面信息图 / 图文并茂知识可视化】\n配色：【填写主色调】\n\n画面重点是把复杂系统的表层、内部结构、功能分区和运行流程一次性讲清楚。\n图为主，文为辅。文字只用短标签、模块名、功能词和一句极短说明，不要长段落，不要密密麻麻。\n\n可以加入少量编号、箭头、流程线、细线标注和图例栏，让观众能看懂系统如何运转。\n\n整体像展馆科普长卷、城市系统信息图、PPT 提案中的高级剖面图。\n\n避免文字过满、信息杂乱、拼图感、多宫格、普通风景图、低清晰度。",
@@ -10922,6 +10975,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "a25cedb4d8b77f85d8b7d3ae2efaf5a978aa3596894955e325f499cc6c75572e"
+  },
+  {
+    "id": "7c0125d8-3a20-46d4-873e-fbc98a199307",
+    "title": "Fisheye Y2K Summer Picnic Portrait",
+    "prompt": "A close-up, ultra-wide-angle fisheye lens photograph of a cheerful young woman with messy blonde wavy hair sitting on a brightly colored blue and pink patterned picnic blanket in the middle of a lush green park. She is playfully winking while holding a large, thick wedge of watermelon up to her mouth, biting into the bright red fruit. Her fingers feature colorful nail art and chunky silver rings. She is wearing a vintage white graphic tee, a vibrant turquoise skirt, and retro light blue sneakers. Around her on the blanket are a banana, a small plate of fruit, and an open book. The background features tall green trees under a deep blue, sunny summer sky. The lighting is bright and direct, casting soft shadows, creating a high-energy, casual, and nostalgic summer vibe.",
+    "category": "portrait",
+    "model_key": "seedream-4.5",
+    "model_name": "Seedream 4.5",
+    "model_family": "seedream",
+    "author": {
+      "name": "yusra.",
+      "handle": "chatgptpaglu"
+    },
+    "source_platform": "X",
+    "source_id": "2075870141473288337",
+    "source_url": "https://x.com/chatgptpaglu/status/2075870141473288337",
+    "images": [
+      "https://pbs.twimg.com/media/HM741SxWIAE-Hit.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/7c0125d8-3a20-46d4-873e-fbc98a199307",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/7c0125d8-3a20-46d4-873e-fbc98a199307",
+    "published_at": "2026-10-15T06:03:27.813758+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "ca31a3ed56b7880188a40d03bde31ed8bc2de710ac932104dc544689d716ae17"
   },
   {
     "id": "7ca4d603-ab04-407f-9e36-2f68e521fcec",
@@ -18653,6 +18732,32 @@
     "content_hash": "e6d91f4d25661a2187c7e064922866aed2ea956bb497a7b2a8f5f83fde7386c3"
   },
   {
+    "id": "cf205195-bc0c-4768-a85e-7b316a8a1f3a",
+    "title": "Miniature Diorama London Travel Poster",
+    "prompt": "Ultra-detailed miniature diorama travel poster of London, designed in a charming Pixar-inspired 3D style with cinematic lighting and hyper-realistic textures. A smiling young South Asian traveler with neatly styled black hair, trimmed beard, and black sunglasses rides a vintage pastel mint-blue Vespa scooter through a beautifully crafted cobblestone street. He wears a light blue rolled-sleeve button-up shirt, beige chinos, brown leather boots, and a camera hanging around his neck. A vintage brown leather suitcase covered with travel stickers is mounted behind the scooter.\n\nThe scene features iconic London landmarks including Big Ben, the Palace of Westminster, the London Eye, Westminster Bridge, a classic red double-decker bus, an iconic red telephone booth, Underground station sign, black London taxi, traditional British pub, riverboats on the Thames, Victorian buildings, and charming street lamps. A winding red-and-white dotted travel path leads to a large red location pin in the foreground, emphasizing the travel journey.\n\nDecorative destination signboards point toward Big Ben, London Eye, Buckingham Palace, Tower Bridge, and Camden Market. The composition includes a vintage passport stamp, British flag, and bold travel-poster typography reading \"EXPLORING LONDON\" with the subtitle \"Timeless City, Endless Stories.\"\n\nWarm golden-hour sunlight, soft volumetric lighting, shallow depth of field, ultra-sharp focus, vibrant colors, intricate miniature architecture, highly detailed textures, whimsical storytelling, collectible toy-diorama aesthetic, premium travel advertisement, centered composition, 8K, HDR, masterpiece, photorealistic CGI, Octane Render, Unreal Engine 5, global illumination, magazine-quality travel poster, vertical 2:3 aspect ratio.",
+    "category": "poster-graphic",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Harry Potter",
+      "handle": "mon010_de"
+    },
+    "source_platform": "X",
+    "source_id": "2074340605098926144",
+    "source_url": "https://x.com/mon010_de/status/2074340605098926144",
+    "images": [
+      "https://pbs.twimg.com/media/HMmJx8XaEAA23F5.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/cf205195-bc0c-4768-a85e-7b316a8a1f3a",
+    "published_at": "2026-10-15T06:03:25.407157+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "7651c32d86c9b59b397e6172e4c48ac65ec75d08bf0956b9c86c5803717b8fab"
+  },
+  {
     "id": "cf27f8fd-9c22-4325-9185-6283d1bc76ea",
     "title": "Seated Portrait with Foreground Emphasis",
     "prompt": "{\n\"image_metadata\": {\n\"style\": \"hyper-realistic smartphone photography\",\n\"aspect_ratio\": \"4:5 vertical\",\n\"resolution\": \"high resolution with subtle smartphone compression\",\n\"camera\": {\n\"device\": \"modern smartphone\",\n\"lens\": \"wide-angle (~24mm equivalent)\",\n\"angle\": \"slightly low, close perspective\",\n\"framing\": \"full body seated portrait with strong foreground emphasis on legs and feet\",\n\"focus\": \"sharp on face and foreground feet, mild background softness\"\n}\n},\n\"subject\": {\n\"use_reference_image\": true,\n\"override\": false,\n\"pose\": {\n\"position\": \"seated deep into a cushioned armchair\",\n\"torso\": \"slightly reclined into the backrest\",\n\"legs\": \"both legs lifted and bent upward toward camera, creating strong foreshortening\",\n\"arms\": \"wrapped casually around shins, holding legs in place\",\n\"hips_and_glutes\": {\n\"visibility\": \"partially visible\",\n\"description\": \"subtle outline visible due to seated compression against chair cushion; fabric slightly stretched and creased around hip area\",\n\"interaction_with_chair\": \"pressed into seat, creating natural flattening and fabric tension\"\n},\n\"feet\": {\n\"position\": \"dominant foreground element, closest to lens\",\n\"orientation\": \"soles facing camera at slight angles\",\n\"detail\": \"natural skin texture, visible creases, relaxed toes\"\n}\n},\n\"face\": {\n\"expression\": \"neutral, slightly serious/pensive\",\n\"gaze\": \"direct eye contact with camera\"\n}\n},\n\"clothing\": {\n\"type\": \"casual loungewear set\",\n\"top\": {\n\"item\": \"sweatshirt\",\n\"color\": \"light grey\",\n\"fit\": \"loose, slightly oversized\",\n\"fabric_behavior\": \"soft folds around torso and arms\"\n},\n\"bottom\": {\n\"item\": \"jogger sweatpants\",\n\"color\": \"light grey\",\n\"fit\": \"relaxed but slightly fitted around hips and thighs\",\n\"details\": \"elastic ankle cuffs, visible creases from bent legs and seated compression\"\n}\n},\n\"environment\": {\n\"setting\": \"indoor, calm living space\",\n\"chair\": {\n\"type\": \"armchair\",\n\"material\": \"brown leather\",\n\"texture\": \"soft, slightly worn with natural creases\",\n\"design\": \"rounded backrest with stitched geometric/sunburst pattern\"\n},\n\"background\": {\n\"curtains\": {\n\"color\": \"beige\",\n\"material\": \"heavy fabric\",\n\"style\": \"full-length, softly draped\"\n},\n\"floor\": {\n\"type\": \"light patterned rug\",\n\"visibility\": \"partially visible at bottom edge\"\n}\n}\n},\n\"lighting\": {\n\"type\": \"natural daylight\",\n\"source\": \"window from side/front\",\n\"quality\": \"soft and diffused\",\n\"shadow_behavior\": \"gentle shadows, no harsh contrast\",\n\"tone\": \"warm-neutral\"\n},\n\"composition\": {\n\"perspective\": \"strong foreshortening due to legs extending toward camera\",\n\"focus_hierarchy\": [\n\"feet in foreground\",\n\"face and expression\",\n\"body posture including seated compression\"\n],\n\"framing\": \"subject centered within chair\",\n\"mood\": \"intimate, relaxed, candid\"\n},\n\"color_palette\": {\n\"dominant\": [\"light grey\", \"warm brown\", \"beige\"],\n\"secondary\": [\"neutral tones\"],\n\"style\": \"muted, soft, warm\"\n},\n\"post_processing\": {\n\"editing\": \"minimal, natural\",\n\"contrast\": \"low to medium\",\n\"saturation\": \"slightly muted\",\n\"skin_retention\": \"realistic texture preserved\"",
@@ -19865,6 +19970,32 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "8b414ba608b45c1a77c3cf09c9d9cfbff42c96d5253ff23dc01601896a7acb3e"
+  },
+  {
+    "id": "da8a986b-b457-4153-8434-513d334b260b",
+    "title": "Amateur Documentary Portrait with a Missing Cup Shadow",
+    "prompt": "amateur documentary photograph of an adult woman in her early thirties with cropped copper red hair and pale gray blue eyes, a small cluster of freckles across the bridge of her nose, sitting alone at a worn wooden kitchen table near a tall window in soft early afternoon light, holding a plain white ceramic teacup raised halfway to her mouth, elbow resting on the table, a linen napkin and a small dish of orange marmalade nearby, the shadow cast across the tablecloth by her raised hand showing her hand clearly but leaving an empty circle of light where the cup's shadow should fall, every other object in the room casting a normal soft shadow, natural window light with gentle falloff, 50mm lens at f/2.2, candid unposed framing, shallow depth of field with the shadow detail kept in sharp focus, warm cream, muted terracotta, soft moss green, pale oat and charcoal shadow palette, quiet domestic realism, three quarter angle composition with negative space toward the window\n|NEGATIVES| no watermark, extra fingers, extra limbs, deformed hands, plastic skin, legible gibberish text, brand logos, oversaturated colors, blurry main subject\n|PARAMS| --v 8.2 --s 250 --ar 5:4",
+    "category": "portrait",
+    "model_key": "midjourney",
+    "model_name": "Midjourney",
+    "model_family": null,
+    "author": {
+      "name": "TischEins",
+      "handle": "tisch_eins"
+    },
+    "source_platform": "X",
+    "source_id": "2091450376385945732",
+    "source_url": "https://x.com/tisch_eins/status/2091450376385945732",
+    "images": [
+      "https://pbs.twimg.com/media/HQZTCJqXIAAhhxC.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/da8a986b-b457-4153-8434-513d334b260b",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/da8a986b-b457-4153-8434-513d334b260b",
+    "published_at": "2026-10-15T06:03:48.753846+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "3646d920922bbd1eb1bc9ea99af74935ade168f64d23632c8ff7885ee0ee84b1"
   },
   {
     "id": "da934fe0-b4f4-4d1b-85eb-ed3f8217f12e",
@@ -22007,6 +22138,32 @@
     "content_hash": "fe4e0a698000062bf872547682b34e9f1eb2e3693e8368812927b67315aad3e8"
   },
   {
+    "id": "f0d841ed-0eb0-4e66-b97f-62757429bceb",
+    "title": "Luxury Swiss Watch Commercial Ad",
+    "prompt": "Minimalist commercial ad featuring an oversized premium luxury Swiss mechanical watch with intricate open-heart dial, polished rose-gold case, sapphire crystal, fine leather strap details, and gleaming metallic textures, ultra-clean design. A fashionable young woman wearing an elegant all-white outfit leans casually against the giant watch while holding the crown between her fingers, relaxed confident pose, eyes closed. Soft gradient deep emerald-green background with large bold white “WATCH” text behind. Glossy reflective floor, premium studio lighting, luxury product photography, ultra-realistic, 8K. Small top-right text “Designed by Mr Das”. Bottom center tagline in small white font: “Time refined beautifully.”",
+    "category": "commercial-product",
+    "model_key": "gpt-image-2",
+    "model_name": "GPT Image 2",
+    "model_family": "gpt-image",
+    "author": {
+      "name": "Mr Das",
+      "handle": "MrDasOnX"
+    },
+    "source_platform": "X",
+    "source_id": "2082067804472360967",
+    "source_url": "https://x.com/MrDasOnX/status/2082067804472360967",
+    "images": [
+      "https://pbs.twimg.com/media/HOT9oLKacAA0utX.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/f0d841ed-0eb0-4e66-b97f-62757429bceb",
+    "published_at": "2026-10-15T06:03:42.960925+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "7b97ed466e0657dbb06b76f8842f969e15b269907bd0fb9f8ca3278cc5fbadb1"
+  },
+  {
     "id": "f0e83318-6e3c-46be-bf40-4c8de667b7bc",
     "title": "Pastel Observatory Window Overlooks Hidden Civilization",
     "prompt": "Gpt Image 2 + Lightroom + Wonder 3 by @topazlabs .\nCreate an original photorealistic surreal editorial image from inside a vast, shadowed observatory room, looking out through a monumental arched window toward an impossible civilization on the far horizon.\nScene: a lone woman sits at an old wooden desk in the lower foreground, seen from behind, almost swallowed by the scale of the view. She should feel small, anonymous, quiet, and contemplative. Soft pastel curtains frame both sides of the window, in dusty blush, pale rose, muted mauve, or powder lavender. The room is dim and atmospheric, with worn rugs, scattered papers, antique wood, old scientific instruments, and warm low interior shadows, all softened with a pastel-toned color palette.\nView outside: beyond the window is a colossal green basin stretching to a distant horizon. A hidden civilization is embedded inside the landscape: monumental pale stone terraces, geometric megastructures, cliff-cut sanctuaries, horizontal bridges, and tower-like forms partially buried in dense forest canopy, vines, mist, and waterfalls. The city should feel ancient, advanced, quiet, and impossibly vast.\nComposition: vertical cinematic frame, interior in deep soft shadow, huge arched window dominating the image, tiny seated woman at the bottom center, extreme distance outside, strong depth from dim pastel interior to luminous sunlit horizon. The architecture outside should be far away, not close, with the horizon feeling endless.\nSky and atmosphere: enormous volumetric clouds over the horizon, soft sunbeams breaking through, pale pastel blue-gray sky, warm peach haze, a small moon barely visible above the distant city, mist pooling between sage-green ridges and monumental buildings.\nColor palette: all pastel colors throughout the image. Use soft sage green, pale mint, powder blue, dusty lavender, blush pink, muted peach, warm cream, ivory stone, faded rose, and gentle blue-gray shadows. Avoid harsh saturation, heavy crimson, pure black, neon colors, or overly dark color blocking. Keep the image elegant, airy, cinematic, and softly luminous while preserving depth and mystery.\nStyle: photorealistic surreal architectural editorial, refined cinematic realism, elegant atmospheric perspective, subtle film grain, rich but soft shadows, high-end art direction, pastel surrealism, delicate light, sophisticated composition.\nMood: quiet, powerful, mysterious, contemplative, vast, almost sacred.\nConstraints: no text, no watermark, no logo, no fantasy castle, no medieval kingdom, no ornate palace, no busy skyline, no vehicles, no crowds, no modern city clutter. Keep the woman small and anonymous. Keep the exterior civilization monumental, minimal, partially hidden by greenery, and far in the distance.\nAspect ratio: 3:4 vertical.",
@@ -23207,6 +23364,33 @@
     "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
     "license": null,
     "content_hash": "0c09bbb85eeb70e322cc6b9930e6aa854a97a4839c1f63dc288228ec67abe4b1"
+  },
+  {
+    "id": "fd58f679-bac1-4b61-af34-86bd2623579c",
+    "title": "Ultra-Realistic Luxury Fitness Portrait",
+    "prompt": "Ultra-realistic luxury fitness lifestyle portrait of a young platinum-blonde woman with hair tied into a relaxed low ponytail, soft curtain bangs, and a dark chocolate-brown paisley bandana wrapped around her head. Warm ivory skin with visible pores, realistic skin texture, subtle freckles across the cheeks, shoulders, and arms, authentic facial vellus hair, healthy post-workout glow, natural flushed cheeks, feathered brows, champagne shimmer eyeshadow, soft fox-eye eyeliner, wispy lashes, and glossy nude-pink lips with realistic lip texture. Realistic sweat sheen visible across the forehead, temples, neck, collarbones, shoulders, arms, and upper chest. Wearing a premium seamless mocha-brown athletic sports bra with minimalist white branding on the chest and matching high-waisted biker shorts made from sculpting compression fabric. Calm seated pose on a padded workout bench with hands resting naturally on the thighs while looking directly into the camera with a focused, composed expression. Modern luxury fitness center featuring premium cable machines, weight equipment, mirrors, rubber flooring, large windows with natural daylight, and softly blurred gym equipment in the background. Bright natural daylight mixed with overhead LED gym lighting creates realistic highlights, crisp athletic contrast, and premium commercial fitness campaign aesthetics. Lululemon × Alo Yoga × Gymshark campaign style, Kodak Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, high-frequency skin detail, RAW photo, ultra photorealistic, 8K.\n\ncartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate gym equipment, oversaturated colors, clipped highlights, low-detail hair",
+    "category": "portrait",
+    "model_key": "nano-banana-pro",
+    "model_name": "Nano Banana Pro",
+    "model_family": "nano-banana",
+    "author": {
+      "name": "Dockie",
+      "handle": "Document195"
+    },
+    "source_platform": "X",
+    "source_id": "2079534115934925001",
+    "source_url": "https://x.com/Document195/status/2079534115934925001",
+    "images": [
+      "https://pbs.twimg.com/media/HNv8vy2aQAAWRFP.jpg?format=jpg&name=large",
+      "https://pbs.twimg.com/media/HNv8xQYaQAAm9SC.jpg?format=jpg&name=large"
+    ],
+    "musesignal_url": "https://musesignal.com/prompt/fd58f679-bac1-4b61-af34-86bd2623579c",
+    "musesignal_url_zh": "https://musesignal.com/zh/prompt/fd58f679-bac1-4b61-af34-86bd2623579c",
+    "published_at": "2026-10-15T06:03:35.880618+00:00",
+    "source_published_at": null,
+    "attribution": "Original prompt and example images: the credited creator. Collection: MuseSignal.",
+    "license": null,
+    "content_hash": "b736de94a0bfa76ec9d0bab2bf0e9943667bcbd86873f3ab5b078e71d0cb987b"
   },
   {
     "id": "fdb76bfd-0c8d-4c68-9cb1-360acfa5df8e",
