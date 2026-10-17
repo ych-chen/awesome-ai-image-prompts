@@ -642,3 +642,164 @@ Ultra-photorealistic, high dynamic range, intricate miniature architecture, real
 **[Try on MuseSignal →](<https://musesignal.com/prompt/863f4152-c5b6-424e-85c2-1852aaf55149?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Naiknelofar788/status/2092154294816665829>)
 
 ---
+
+<a id="prompt-3cc3c7a6-0dbe-4a27-abff-7a0a128f5dc7"></a>
+
+## Silhouette Sunset Over Frozen Marbled Lake
+
+<a href="https://musesignal.com/prompt/3cc3c7a6-0dbe-4a27-abff-7a0a128f5dc7?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUiiLaRXkAAI34K.jpg?format=jpg&amp;name=small" width="480" alt="Silhouette Sunset Over Frozen Marbled Lake" /></a>
+
+**GPT Image 2.5** · Creator: Viki
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Photorealistic silhouette sunset composite, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.
+
+SKY: the upper half is a furnace of amber, apricot and burnt gold, deepest at the horizon, cooling to smoky blue-grey at the very top. Long streaky cirrus clouds sweep diagonally across it, undersides lit gold, edges trailing thin warm wisps.
+
+SUN: one huge perfectly round pale white-hot sun disc sits exactly at the centre of the frame just above the treeline, its rim glowing and bleeding a soft warm halo into the surrounding orange.
+
+TREE: dead centre, in front of the sun, a single massive spreading broadleaf tree in pure black silhouette — a thick trunk flaring at the base into a rounded knoll, and a vast dense canopy of fine branch tracery and leaf clusters spreading wide and symmetrical, its edges softly dissolving into the glow.
+
+CITY: flanking the tree, a dense skyline of black skyscraper silhouettes stands along a low ridge of rooftops. Left, a tall stepped tower with twin thin antennae, ringed by shorter blocks. Right, three dark high-rises of graduated height, one carrying a slender spire. The buildings never overlap the tree and never cross the sun.
+
+WATER: the entire lower third is a frozen lake surface, not smooth water — a turbulent marbled expanse of glacial ice and flowed stone, banded in chalky white, sea-green, slate grey and warm tan in long swirling veins.
+
+REFLECTION: sky, sun, tree and skyline all mirror downward into that marbled surface, broken and stretched by the ice grain. The reflected sun lies as a broad soft gold field beneath the trunk, the reflected tree spreads as a dark root-mass of branching veins below it, and the reflected towers hang as vertical dark bars, all smeared by the swirling white and green stone.
+
+PALETTE: pure black, apricot, amber gold, burnt orange, smoky grey, chalk white, glacier green, tan. Sharp silhouette edges against soft glow, high dynamic range, clean and unmarked.
+
+text, watermark, logo, signature, artist signature, handwritten signature, initials, monogram, date, stamp, seal, lettering of any kind, any words, digits, frame, border, picture frame, mat, bevel, molding, plaque, rectangular outline, painting, illustration, oil painting, impasto, watercolor, colored pencil, airbrush, digital art, cartoon, anime, chibi, flat 2d vector, blurry, soft focus, noisy grain, neon, fluorescent, oversaturated greens, blue midday sky, sunrise pink, purple sky, night, moon, stars, clouds covering the sun, rain, storm, lightning, snow falling, second tree, forest, multiple trees, leaves visible on tree with colour, lit windows on buildings, people, faces, birds, animals, deer, boat, ship, dock, bridge, road, cars, traffic, streetlamps, palm trees, mountains, desert, ocean waves, beach, sun cut off, tree cut off, off-centre tree, asymmetric composition
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/3cc3c7a6-0dbe-4a27-abff-7a0a128f5dc7?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2110114825082945740>)
+
+---
+
+<a id="prompt-a8a2275b-2150-43c3-8037-f1564c1f0cbe"></a>
+
+## Neon Yacht Under Full Moon Night Harbour
+
+<a href="https://musesignal.com/prompt/a8a2275b-2150-43c3-8037-f1564c1f0cbe?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUcyh5PXcAAGeQf.jpg?format=jpg&amp;name=small" width="480" alt="Neon Yacht Under Full Moon Night Harbour" /></a>
+
+**GPT Image 2.5** · Creator: Viki
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Photorealistic night harbour scene, wide 16:9 panoramic composition, cinematic, ultra-detailed. Edge to edge, no frame, no border.
+
+HARBOUR: the lower half is calm black water rippling in fine horizontal chop, carrying long smeared vertical reflections that stretch down the frame.
+
+MOON: high in the upper middle of the deep navy night sky hangs one enormous, sharply detailed full moon, its craters crisp, ringed by a soft cool blue-white halo. The sky is darkest at the top corners, paling slightly toward the horizon.
+
+BOAT: just left of centre sits a sleek modern white motor yacht at rest, seen broadside from the front-left. Its flanks are washed in vivid neon ultraviolet magenta along the hull and glowing electric cyan along the upper deck and railings, with a dark tinted glass bridge, a radar mast, a blue-lit stern platform and a line of small dark portholes.
+
+HILLS: behind, layered dark ridgelines rise across the full width, their slopes dotted with scattered warm gold lights of hillside villas and small windows.
+
+TOWN: along the water's edge runs a continuous waterfront promenade of low pale buildings with warm golden lit façades, arcades, windows and streetlamps. A row of moored white boats and small yachts lines the quay in dark silhouette.
+
+REFLECTIONS: the water is split into ribbons of colour. Directly beneath the yacht run two bold vertical bands — bright magenta and electric cyan — vivid and saturated, broken into short ripples. Across the rest of the surface, the town lights throw long warm amber and orange columns, with cooler teal and deep green streaks threading between them in the lower right.
+
+PALETTE: deep navy, near-black water, brilliant magenta, electric cyan, warm amber gold, teal green, silver-white moon. Sharp focus, high dynamic range, glossy wet highlights, clean and unmarked.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a8a2275b-2150-43c3-8037-f1564c1f0cbe?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2109710598972035578>)
+
+---
+
+<a id="prompt-88df658a-ab87-4b70-a3ad-7a208dc0fc1b"></a>
+
+## Impasto Autumn Lake Oil Painting
+
+<a href="https://musesignal.com/prompt/88df658a-ab87-4b70-a3ad-7a208dc0fc1b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUwSNOtWsAAnLi2.jpg?format=jpg&amp;name=small" width="480" alt="Impasto Autumn Lake Oil Painting" /></a>
+
+**GPT Image 2.5** · Creator: Viki
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Extremely thick impasto oil painting on rough grainy ground, sculptural palette-knife paint standing up in real three-dimensional petals and slabs, wide 16:9 panoramic composition. Edge to edge, no frame, no border.
+
+SKY: a luminous iridescent sky fills the upper middle, washed in soft pastel lavender, mint green, pale turquoise, blush pink and peach, shimmering like mother-of-pearl and crinkled foil. Behind it, distant slender tree trunks fade into a pale violet and green haze.
+
+LEFT: the hero, one young maple tree in brilliant golden-orange, its leaves raised into thick knife-petals of amber, ochre, burnt orange and pale yellow, each leaf a sculpted curl catching light, thin dark branches rising from a narrow trunk.
+
+RIGHT: a stand of slender birches, white trunks marked with rough black dashes, crowned with small green and yellow leaves in crisp short dabs, rising to the top edge.
+
+MIDDLE: a pale bank of drifted snow and cream ground runs between the trees, cracked into heavy ridges, with low green shrubs and dry orange leaves lying along the waterline.
+
+WATER: the bottom half is a still flooded surface reflecting everything above in broken marbled bands — slabs of gold, amber and white for the maple, long vertical green and white streaks for the birches, and a wide band of iridescent mint, pink and turquoise at the centre. The reflections lie as separate thick paint slabs, each edged with a bright rim.
+
+GROUND: bare areas of unpainted canvas show as pale cream, coarse and grainy, scattering the lower corners and left edge with heavy texture.
+
+PALETTE: golden amber, burnt orange, ivory cream, pale mint, turquoise, blush pink, soft violet, deep green, black. Heavy tactile ridges, glossy thick paint, clean and unmarked.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/88df658a-ab87-4b70-a3ad-7a208dc0fc1b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/churvikv/status/2111082882315755584>)
+
+---
+
+<a id="prompt-d975117b-ace9-4369-986f-2347a409d34c"></a>
+
+## Sci-Fi UFO Invasion Theme Park Selfie Portrait
+
+<a href="https://musesignal.com/prompt/d975117b-ace9-4369-986f-2347a409d34c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HImyXW2W4AA2Nb-.jpg?format=jpg&amp;name=small" width="480" alt="Sci-Fi UFO Invasion Theme Park Selfie Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Ertan Dönmez \| Ai Master
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Nano Banana Pro Prompt ⏬
+
+IMAGE TYPE: Action Scene / Sci-Fi Portrait PROMPT: High-impact cinematic depiction of [LEAD_CHARACTER_NAME], featuring youthful features with light stubble, messy short brown hair, and an astonished yet amused expression while pointing upward, dressed in a casual light grey t-shirt. Positioned in a crowded theme park plaza featuring a large illuminated fantasy castle beneath a massive hovering metallic UFO, accompanied by [BACKGROUND_CROWD]. The scene conveys a surreal sci-fi invasion mood through gloomy overcast natural lighting mixed with glowing UFO rim lights, with dramatic highlights and shadows. Captured using a wide-angle smartphone selfie camera perspective with dynamic motion blur, shallow depth of field, cinematic framing. Ultra-detailed textures, realistic skin tones, professional cinematic color grading, sharp focus, HDR, ultra-high resolution, 4K, masterpiece quality. TAGS: STYLE cinematic, ultra-detailed, 4K, dramatic lighting, shallow depth of field, HDR, professional, film still, sci-fi, UFO invasion, surreal NEGATIVE PROMPT: low quality, blurry, flat lighting, distorted face, bad anatomy, extra limbs, oversharpening, text, watermark, logo USER REPLACEMENT GUIDE: * Replace character placeholders with celebrity names or your own name. * Do not change the rest of the prompt. * Use uploaded image as reference when generating.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d975117b-ace9-4369-986f-2347a409d34c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ertanlabs/status/2056653334044643605>)
+
+---
+
+<a id="prompt-67cd24f3-c99b-4a34-a337-8dfeea03ed3c"></a>
+
+## Dark Fantasy Knight Facing Colossal Stone Sentinel
+
+<a href="https://musesignal.com/prompt/67cd24f3-c99b-4a34-a337-8dfeea03ed3c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMyzrXIbYAABGyU.jpg?format=jpg&amp;name=small" width="480" alt="Dark Fantasy Knight Facing Colossal Stone Sentinel" /></a>
+
+**Seedream 5.0 Pro** · Creator: PixieVerse
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt:
+### ASPECT RATIO: 16:9
+### RENDER ENGINE: Unreal Engine 5.4 (Path-Traced, 8K Resolution)
+### CINEMATIC STYLE: Dark Fantasy, Melancholic Grandeur, High-Contrast Chiaroscuro
+---
+### [IMAGE] - VISUAL DETAIL
+An extreme low-angle, compositionally oppressive shot looking up from behind a battle-worn knight toward a colossal, mountain-sized Stone Sentinel.
+* The Knight: Positioned in the lower-third, slightly off-center-left, back to the camera. Wearing intricately detailed, battle-scarred plate armor of blackened steel and tarnished silver filigree. A tattered, ash-stained royal blue surcoat clings to his shoulders, fraying into threads. He rests both hands on the pommel of a massive, notched greatsword planted deep into the cracked, flagstone earth.
+* The Colossal Stone Giant: A monolithic entity of basalt and decaying marble, towering three hundred feet into the bruised, twilight sky. Its body is designed like gothic architecture—its ribcage resembles flying buttresses, and its shoulders are overgrown with weeping golden moss and petrified roots. Its head is a featureless, cracked stone monolith, with a single, vertical crevice glowing with a cold, dying cosmic gold light.
+* The Environment: A ruined cathedral plaza of colossal proportions, half-buried in volcanic ash. In the background, the skeletal remains of a mountain-sized gothic archway frame a bruised, crimson-and-charcoal sky. Thick, low-hanging volumetric fog pools around the giant’s massive, pillar-like legs.
+* Lighting & Color: High-contrast chiaroscuro. Strong, directional cold moonlight hits the right side of the giant, while the glowing gold from its face casts a warm, melancholic amber hue onto the wet, reflective armor of the knight below. Cinematic film grain, sub-surface scattering on the moss, and highly detailed dust motes suspended in the air.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/67cd24f3-c99b-4a34-a337-8dfeea03ed3c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/itsPixieVerse/status/2075253666412675422>)
+
+---

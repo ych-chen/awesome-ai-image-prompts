@@ -165,3 +165,449 @@ amateur documentary photograph of an adult woman in her early thirties with crop
 **[Try on MuseSignal →](<https://musesignal.com/prompt/da8a986b-b457-4153-8434-513d334b260b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/tisch_eins/status/2091450376385945732>)
 
 ---
+
+<a id="prompt-1c6dee32-21e8-4bee-bf6c-5fca7929c345"></a>
+
+## Cozy Bedroom Korean Beauty Portrait
+
+<a href="https://musesignal.com/prompt/1c6dee32-21e8-4bee-bf6c-5fca7929c345?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUPrzAOaoAAkx-k.jpg?format=jpg&amp;name=small" width="480" alt="Cozy Bedroom Korean Beauty Portrait" /></a>
+
+**GPT Image** · Creator: ayzalnoor
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+GPT image on chatgpt 
+
+Prompt:
+
+Create an ultra-realistic, high-quality portrait of a beautiful young Korean woman sitting casually in a cozy, softly illuminated bedroom. Use a photorealistic aesthetic with natural skin texture, detailed facial features, realistic lighting, and an elegant Korean beauty-inspired makeup style.
+
+Face and Facial Features: She has a delicate, feminine face with a softly defined jawline, a small refined nose, large expressive light-brown eyes, long curled eyelashes, perfectly shaped dark eyebrows, and full, beautifully defined rosy-brown lips. Her cheeks have a soft pink blush, and her complexion is fair, smooth, and naturally luminous. Her makeup features subtle warm eyeshadow, sharp black eyeliner with a small wing, softly highlighted cheekbones, and a natural glossy finish. Her expression is calm, slightly dreamy, and confident as she looks directly into the camera.
+
+Hair: She has shoulder-length, silky jet-black hair with soft layers and wispy, straight bangs framing her forehead. Distinctive deep burgundy-red highlights run through several front strands of her hair, especially around the sides of her face. Her hair has a natural shine, realistic individual strands, and slightly curved ends resting around her shoulders and collarbone.
+
+Outfit: She is wearing a fitted, deep burgundy-red ribbed knit top with long sleeves, a wide square neckline, and a delicate drawstring bow detail at the center of the chest. The top sits naturally on her shoulders, with one side slightly off the shoulder. She pairs it with dark charcoal-black denim jeans featuring subtle white contrast stitching.
+
+Accessories: A shiny black patent-leather shoulder bag rests beside her body, featuring thick silver chain-link straps and polished metallic hardware. She wears delicate silver butterfly drop earrings, a fine silver necklace with a small butterfly pendant, and elegant silver rings, including a butterfly-shaped statement ring on the hand resting against her cheek.
+
+Pose and Composition: She is seated in a relaxed, slightly curled-up position, with one knee raised toward the camera. Her upper body leans gently forward. One hand is lifted beside her face, with her fingers resting softly against her cheek and temple. Her other arm rests naturally near her lap. The composition captures her from approximately the waist up, with her face positioned in the upper-center portion of the frame. Her pose feels candid, intimate, and effortlessly stylish, like a carefully captured personal lifestyle photograph.
+
+Background and Environment: A cozy, aesthetically decorated bedroom with warm beige walls. On the left side, there is a large black-framed mirror above a white vanity or dresser. A clear glass vase filled with deep burgundy-red tulips sits on the dresser, alongside several elegant perfume bottles. A warm table lamp glows softly beside the flowers. A black wall print with the words “Good Things Take Time” and a small heart is visible near the mirror. On the right side of the background, small photographic prints and aesthetic wall pictures are arranged casually, with a green trailing plant hanging down from above. The background feels personal, stylish, and lived-in, with a subtle Korean Pinterest-inspired bedroom aesthetic.
+
+Lighting and Color Grading: Warm, soft indoor lighting with a gentle amber glow from the bedside lamp. Natural-looking light falls evenly across her face, creating delicate highlights on her eyes, lips, hair, jewelry, and glossy handbag. Soft shadows add depth without making the image too dark. The color palette features burgundy red, black, warm beige, soft cream, and silver accents.
+
+Photography Style: Ultra-photorealistic portrait photography, close-up lifestyle composition, shot on a professional full-frame camera with an 85mm portrait lens, shallow depth of field, softly blurred background, realistic skin pores, finely detailed hair strands, lifelike eyes, accurate hands and fingers, natural facial proportions, subtle cinematic warmth, and high dynamic range.
+
+Image Quality: 8K-level detail, photorealistic textures, realistic fabric ribbing, detailed denim stitching, reflective silver jewelry, natural skin rendering, balanced exposure, crisp facial focus, and soft background bokeh.
+
+Important Instructions: Maintain natural human anatomy, realistic hands, symmetrical facial features, and consistent lighting. Avoid cartoon effects, anime styling, excessive skin smoothing, plastic-looking skin, distorted fingers, extra jewelry, exaggerated facial proportions, oversaturated colors, artificial facial features, text overlays, watermarks, and logos. The final image should look like a genuine, beautifully captured photograph rather than an AI-generated illustration.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1c6dee32-21e8-4bee-bf6c-5fca7929c345?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ayzalnooor24521/status/2108788480675631552>)
+
+---
+
+<a id="prompt-d2a15333-6119-4dfb-ba81-4cd1f1ba5c41"></a>
+
+## Korean Girl on Stone Staircase in Urban Park
+
+<a href="https://musesignal.com/prompt/d2a15333-6119-4dfb-ba81-4cd1f1ba5c41?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HTmkx-3a0AAlqKu.jpg?format=jpg&amp;name=small" width="480" alt="Korean Girl on Stone Staircase in Urban Park" /></a>
+
+**GPT Image** · Creator: ayzalnoor
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A beautiful Korean girl standing naturally on a stone staircase in a lush green urban park, wearing a fitted beige ribbed sleeveless top, relaxed dark jeans, silver over-ear headphones, and a black backpack. She looks back toward the camera with a soft, confident expression while one hand gently rests on her hair and touches the top of her headphones. Keep her long brown hair naturally flowing with a few loose strands around her face, realistic skin texture, subtle makeup, natural daylight, and authentic smartphone photography. Preserve the same outdoor background with green trees, bushes, white fence, stone steps, signboard, distant scooters, and soft depth of field. Use a vertical 9:16 composition, realistic proportions, natural body posture, candid fashion photography style, soft colors, detailed fabric and hair texture, gentle shadows, and a clean Korean lifestyle aesthetic.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/d2a15333-6119-4dfb-ba81-4cd1f1ba5c41?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/ayzalnooor24521/status/2105895502181261608>)
+
+---
+
+<a id="prompt-919fed54-ad29-4bbe-976f-8d3118e4dbb6"></a>
+
+## Abstract Impasto Oil Painting Portrait of a Young Man
+
+<a href="https://musesignal.com/prompt/919fed54-ad29-4bbe-976f-8d3118e4dbb6?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLj299KWYAAMFG7.jpg?format=jpg&amp;name=small" width="480" alt="Abstract Impasto Oil Painting Portrait of a Young Man" /></a>
+
+**GPT Image** · Creator: Orion
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+“An ultra-detailed abstract impasto oil painting portrait of a confident young man, inspired by modern expressionist masters. His semi-realistic face emerges from explosive textured brush strokes and sculpted palette knife paint. Deep sapphire blues, fiery oranges, crimson reds, golden yellows, and luminous whites flow across his face and beard like liquid energy. His eyes gaze slightly upward with ambition and contemplation. Thick oil textures create dramatic depth, with swirling paint dissolving into dynamic abstract motion below the neck. Soft cinematic lighting highlights facial structure and rich paint textures against a clean minimal background. Hyper-detailed, emotional, artistic masterpiece, modern gallery aesthetic, photorealistic expressionism, 8K, museum-quality oil texture, dramatic composition.”
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/919fed54-ad29-4bbe-976f-8d3118e4dbb6?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Prime_54/status/2069675589922173419>)
+
+---
+
+<a id="prompt-41ba0010-7ee1-41e0-9e1b-438925475d70"></a>
+
+## Editorial Tuxedo Portrait in Shallow Focus
+
+<a href="https://musesignal.com/prompt/41ba0010-7ee1-41e0-9e1b-438925475d70?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM4i0meWAAA2NUk.jpg?format=jpg&amp;name=small" width="480" alt="Editorial Tuxedo Portrait in Shallow Focus" /></a>
+
+**Nano Banana 2** · Creator: Picts by AI
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A confident male subject stands perfectly centered, facing the camera straight on with level shoulders in a static, formal pose. He features perfectly groomed stubble and meticulously styled hair with tapered sides and a two-inch top pushed back using matte pomade, retaining a natural texture with slight, realistic flyaways. His expression is defined by a subtle closed smile, relaxed eyebrows, and a commanding direct gaze. He is elegantly dressed in a stark black tuxedo with a wide open shirt collar that reveals his warm peach and tan chest. Immediately behind him, the remarkably shallow depth of field melts into an outdoor setting featuring a perfectly smooth, pristine matte light blue painted drywall surface. To the left in the beautifully blurred background, the indistinct silhouette of a photographer in a dark suit subtly enhances the editorial narrative. The scene is illuminated by a bright, single source of diffused natural front light that cultivates a sophisticated, polished event atmosphere. This soft lighting wraps gracefully around his features, casting short, gray shadows with soft gradual edges directly beneath his chin while preserving luminous specular highlights across his face, supported by a neutral ambient fill that perfects the high-contrast, complementary color profile. Captured as a tack-sharp digital photograph using an 85mm lens at f/1.8, ISO 100, and 1/250s with precise eye-autofocus, the image boasts a clean, photorealistic aesthetic completely devoid of grain, finished with delicate skin retouching, a slight contrast boost, and a cool background color grade, all beautifully framed in a 9:16 aspect ratio.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/41ba0010-7ee1-41e0-9e1b-438925475d70?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/pictsbyai/status/2078521428828393794>)
+
+---
+
+<a id="prompt-621d9918-cb3b-4ae9-85b5-adb06b5f9764"></a>
+
+## Photorealistic Editorial Fashion Portrait of a Man in Camel Suit
+
+<a href="https://musesignal.com/prompt/621d9918-cb3b-4ae9-85b5-adb06b5f9764?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLi2-qqbwAA4akQ.jpg?format=jpg&amp;name=small" width="480" alt="Photorealistic Editorial Fashion Portrait of a Man in Camel Suit" /></a>
+
+**GPT Image 2** · Creator: Akash
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt:
+Photorealistic fashion portrait of a handsome young man seated on a stool against a warm neutral brown backdrop, three-quarter length vertical composition, confident and elegant expression, piercing blue eyes and dark brown neatly styled hair, light stubble beard, sun-kissed natural skin tones, wearing a tailored camel-beige suit jacket casually draped over his shoulders, slim-fit matching trousers and a cream ribbed crewneck sweater tucked in, one hand casually in pocket and the other resting on his knee. Soft cinematic studio lighting from the left with gentle fill to preserve subtle shadows and skin texture, warm rim light to separate subject from background, shallow depth of field with sharp focus on the eyes and fine detail in fabric weave and stubble, high-resolution, rich but natural color grading, realistic fabric textures, polished editorial fashion aesthetic.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/621d9918-cb3b-4ae9-85b5-adb06b5f9764?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/heyakash_ai/status/2069605221068898778>)
+
+---
+
+<a id="prompt-232bb4b0-8d84-4a2f-ab81-b55224233a0c"></a>
+
+## Moody Triptych Portrait of Woman in Velvet Power Suit
+
+<a href="https://musesignal.com/prompt/232bb4b0-8d84-4a2f-ab81-b55224233a0c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNEqt_EbUAAAWFr.jpg?format=jpg&amp;name=small" width="480" alt="Moody Triptych Portrait of Woman in Velvet Power Suit" /></a>
+
+**Nano Banana** · Creator: NUSRAT
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+"image_description": {
+    "subject": {
+      "gender": "female",
+      "hair": "deep navy blue, shoulder-length, textured waves",
+      "eyes": "hazel-green",
+      "makeup": "smokey dark eyeshadow, defined eyeliner, deep plum lipstick",
+      "accessories": "intricate silver dangling earrings with blue gemstones"
+    },
+    "outfits": {
+      "left_panel": {
+        "garment": "sleeveless cowl-neck velvet top",
+        "color": "charcoal grey/dark slate"
+      },
+      "center_panel": {
+        "suit": "velvet tailored power suit",
+        "suit_color": "deep royal purple",
+        "shirt": "black sheer lace button-up blouse",
+        "belt": "black leather belt with silver buckle",
+        "accessories": "stacked silver bangles, classic gold loafers"
+      },
+      "right_panel": {
+        "garment": "matching deep royal purple velvet blazer"
+      }
+    },
+    "environment": {
+      "style": "moody, artistic, sophisticated",
+      "left_panel_background": "blurred library/book shelves",
+      "center_panel_background": "artist studio with canvas, dark vintage rug, wooden floor, dimly lit interior",
+      "lighting": "dramatic, soft studio lighting, high contrast"
+    },
+    "technical_specifications": {
+      "format": "triptych collage",
+      "style": "hyper-realistic photography",
+      "quality": "4k, high resolution, sharp focus, cinematic lighting, intricate textures"
+    }
+  }
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/232bb4b0-8d84-4a2f-ab81-b55224233a0c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2076487882181861881>)
+
+---
+
+<a id="prompt-37ef654e-9911-4042-a7d6-00447cf42ca9"></a>
+
+## Flash-Photography Candid Portrait
+
+<a href="https://musesignal.com/prompt/37ef654e-9911-4042-a7d6-00447cf42ca9?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HUxcjO-XAAABT_U.jpg?format=jpg&amp;name=small" width="480" alt="Flash-Photography Candid Portrait" /></a>
+
+**GPT Image 2.5** · Creator: yusra.
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Create A candid, flash-photography portrait of a young woman with voluminous, wavy brunette hair tossed slightly in motion. She is laughing candidly with her hand resting gently near her mouth, wearing a sleek black mini dress with a corset-style fitted bodice. She is leaning against a dark matte wall in a moody, dimly lit hallway. Captured with direct camera flash, high contrast, subtle motion blur, and an aesthetic film grain texture.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/37ef654e-9911-4042-a7d6-00447cf42ca9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/chatgptpaglu/status/2111164093847552466>)
+
+---
+
+<a id="prompt-be7eff8b-2f90-4f22-a50f-3136e8bb0930"></a>
+
+## Enchanted Lakeside Garden Portrait with Shih Tzu
+
+<a href="https://musesignal.com/prompt/be7eff8b-2f90-4f22-a50f-3136e8bb0930?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLosaDDacAEFFmB.jpg?format=jpg&amp;name=small" width="480" alt="Enchanted Lakeside Garden Portrait with Shih Tzu" /></a>
+
+**GPT Image 2** · Creator: NUSRAT
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+"style": "ultra-detailed cinematic fantasy realism, magical cottagecore aesthetic, high-end CGI, photorealistic, storybook fantasy, Unreal Engine 5 quality",
+    "quality": "4K UHD",
+    "aspect_ratio": "9:16",
+    "camera": {
+      "shot_type": "medium full-body portrait",
+      "angle": "slightly low eye-level angle",
+      "lens": "85mm portrait lens",
+      "depth_of_field": "shallow DOF with creamy bokeh",
+      "focus": "sharp focus on woman and dog, softly blurred background"
+    },
+    "scene": {
+      "location": "enchanted lakeside garden at twilight",
+      "environment": "lush flower garden beside a calm reflective lake",
+      "season": "late spring",
+      "time_of_day": "blue hour, early evening sunset",
+      "mood": "peaceful, cozy, magical, romantic, serene"
+    },
+    "subject": {
+      "gender": "young woman",
+      "pose": "sitting gracefully on a picnic blanket, legs folded to one side",
+      "expression": "soft gentle smile, calm and focused",
+      "action": "reading an open book",
+      "hair": {
+        "color": "dark chestnut brown",
+        "style": "long wavy hair with soft curls",
+        "length": "waist-length"
+      },
+      "outfit": {
+        "dress": "flowing black embroidered gown",
+        "fabric": "sheer layered fabric with floral embroidery",
+        "details": "pink floral patterns on sleeves and hem, elegant bohemian design"
+      }
+    },
+    "companion": {
+      "animal": "small fluffy Shih Tzu dog",
+      "pose": "lying beside the woman",
+      "expression": "looking up lovingly at her"
+    },
+    "props": {
+      "book": "black hardcover book with silver floral detailing",
+      "food": [
+        "wooden tray with grapes",
+        "ceramic cup of tea or coffee"
+      ],
+      "decorations": [
+        "multiple glowing candles",
+        "vintage lanterns",
+        "basket filled with white roses",
+        "soft picnic blankets and cushions"
+      ]
+    },
+    "background": {
+      "architecture": {
+        "structure": "wooden lakeside gazebo or cottage veranda",
+        "style": "cozy rustic architecture with curtains and warm interior lighting"
+      },
+      "nature": [
+        "blooming hydrangeas",
+        "pink and white roses",
+        "lush green grass",
+        "large tree canopy",
+        "calm reflective lake",
+        "distant tree silhouettes"
+      ],
+      "water_feature": "ornamental stone fountain with candles",
+      "lighting_elements": [
+        "hanging lanterns",
+        "warm fairy string lights",
+        "glowing candles throughout the garden"
+      ]
+    },
+    "lighting": {
+      "type": "cinematic ambient twilight lighting",
+      "key_light": "warm candlelight and lantern illumination",
+      "fill_light": "soft blue evening sky light",
+      "effect": "golden glow, dreamy atmosphere, magical realism"
+    },
+    "color_palette": {
+      "primary_colors": [
+        "deep black",
+        "warm gold",
+        "soft pink",
+        "cream white",
+        "forest green",
+        "twilight blue"
+      ],
+      "tone": "warm, romantic, elegant"
+    },
+    "render_settings": {
+      "resolution": "3840x2160",
+      "render_engine": "Unreal Engine 5",
+      "detail_level": "extremely high",
+      "texture_quality": "hyper-detailed",
+      "post_processing": [
+        "cinematic color grading",
+        "soft bloom",
+        "volumetric lighting",
+        "natural skin textures",
+        "high dynamic range"
+      ]
+    }
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/be7eff8b-2f90-4f22-a50f-3136e8bb0930?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2070015816905675043>)
+
+---
+
+<a id="prompt-4ad26123-e2b7-49d8-a048-5d5749c602eb"></a>
+
+## Soft-Focus Cinematic Golden Portrait
+
+<a href="https://musesignal.com/prompt/4ad26123-e2b7-49d8-a048-5d5749c602eb?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLqWGMLXgAAsej9.jpg?format=jpg&amp;name=small" width="480" alt="Soft-Focus Cinematic Golden Portrait" /></a>
+
+**Nano Banana 2** · Creator: Anissa
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt.
+A soft-focus, cinematic portrait of a young woman with delicate facial features and light golden hair, caught in motion. Her face appears partially blurred and ghosted, with flowing strands of hair captured mid-sway, creating a dreamy, ethereal motion effect. Her expression is serene and slightly distant, with parted lips and eyes softly open.The entire frame is bathed in golden beige and sepia tones, evoking a nostalgic, painterly atmosphere. The lighting is natural and diffused, coming from a nearby window, casting a warm glow on her skin and illuminating the strands of hair that dance across the frame. Photographed with a Canon EOS R5 using an 85mm lens at f/1.2, ISO 320, shutter speed 1/8s with intentional slow exposure and handheld movement to create the artistic motion blur. The focus is soft, with a shallow depth of field that isolates the subject from the pale, creamy background. Post-processed in Adobe Lightroom and Photoshop: cinematic LUTs applied, warmth enhanced through split-toning (shadows in soft amber, highlights in cream), clarity reduced, and motion streaks refined with displacement layers and radial blur filters. A very subtle fine grain adds a filmic https://t.co/PpcZvdgxyS mood: emotional, hazy, poetic. Style references: fine art portraiture, vintage editorial, and analog dream sequences. 4K ultra-resolution, no harsh contrasts, smooth gradients preserved.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/4ad26123-e2b7-49d8-a048-5d5749c602eb?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/SimplyAnnisa/status/2070132015664370008>)
+
+---
+
+<a id="prompt-8e4650ac-3282-45c3-9889-1958847b20a4"></a>
+
+## Man on Mossy River Rock Portrait
+
+<a href="https://musesignal.com/prompt/8e4650ac-3282-45c3-9889-1958847b20a4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLWR8J5a8AA39kE.jpg?format=jpg&amp;name=small" width="480" alt="Man on Mossy River Rock Portrait" /></a>
+
+**GPT Image 2** · Creator: Akash
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt:
+A contemplative young man with a man-bun sits barefoot on a mossy river rock in a clear mountain stream, rolled-up khaki cargo pants and a simple black t‑shirt, feet in the shallow flowing water, hands loosely clasped, gaze toward the camera with a calm, introspective expression; framed by tall evergreen pines and distant rugged peaks with a thin waterfall cascading between them, low mist and soft clouds hugging the summits. Natural, diffused overcast light, cool earthy color palette with deep greens, muted browns and slate blues, soft contrast and gentle highlights on the face. Compose slightly off-center with leading lines of the river drawing to the subject, low camera angle at near-seated eye level, shallow depth of field to separate subject from textured background. Lens 35–85mm, aperture f/2.8–5.6, shutter speed fast enough to keep subject sharp while showing slight motion in water (1/125–1/250) or longer exposure with tripod for silkier water if subject remains still, ISO 100–400. Capture RAW; edit with subtle desaturation, lifted shadows, boosted clarity, cool teal-green midtones, warm skin tone recovery and light vignette for mood. Natural, serene, adventurous outdoor portrait.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8e4650ac-3282-45c3-9889-1958847b20a4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/heyakash_ai/status/2068720070726226215>)
+
+---
+
+<a id="prompt-760faadb-4253-4e12-9f5f-cc70492a02ab"></a>
+
+## Y2K Bathroom Flash Editorial Portrait
+
+<a href="https://musesignal.com/prompt/760faadb-4253-4e12-9f5f-cc70492a02ab?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HPC6gKjagAAdVvt.jpg?format=jpg&amp;name=small" width="480" alt="Y2K Bathroom Flash Editorial Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Dockie
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+{
+  "id": "y2k_bathroom_editorial_01",
+  "prompt": "Ultra-realistic Y2K bathroom lifestyle editorial portrait of a glamorous young platinum-blonde woman with long silky straight hair partially set in oversized pastel pink velcro hair rollers, soft center part, smooth texture, and natural shine. Wearing slim burgundy rectangular Y2K eyeglasses. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks, shoulders, and collarbones, authentic facial vellus hair, luminous satin complexion, pronounced rosy blush, feathered brows, champagne shimmer eyeshadow, soft brown fox-eye eyeliner, wispy lashes, glossy caramel-nude lips with realistic lip texture, and bright blue-gray eyes. Wearing a fitted white ribbed camisole with thin straps and navy horizontal stripes, paired with dark-wash low-rise straight-leg denim jeans. Relaxed seated pose on the edge of a modern white bathtub, one hand resting naturally beside her while looking directly into the camera with a calm, effortlessly confident expression. Contemporary minimalist bathroom featuring white ceramic tiles, frameless glass shower enclosure, chrome shower fixtures, modern bathtub, muted cool tones, and clean luxury apartment styling. Captured using an iPhone 15 Pro with direct flash, creating authentic smartphone flash reflections, crisp skin highlights, subtle hard shadows, bright eye catchlights, realistic skin rendering, and true early-2000s candid photography aesthetics. Kodak Portra-inspired skin tones, Y2K Tumblr aesthetic, luxury influencer lifestyle, realistic skin rendering, DSLR-quality sharpness with authentic iPhone flash characteristics, high-frequency skin detail, visible pores, natural freckles, RAW photo, ultra photorealistic, 8K.",
+  "negative_prompt": "cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate objects, oversaturated colors, clipped highlights, low-detail hair",
+  "style": "photorealistic",
+  "camera": {
+    "type": "iPhone 15 Pro",
+    "lens": "26mm main camera",
+    "aperture": "f/1.8",
+    "iso": 640,
+    "angle": "eye-level portrait",
+    "depth_of_field": "moderate"
+  },
+  "lighting": {
+    "type": "direct smartphone flash",
+    "direction": "frontal flash",
+    "mood": "Y2K, candid, nostalgic"
+  },
+  "composition": {
+    "framing": "vertical editorial portrait",
+    "subject_position": "sitting on the edge of a bathtub",
+    "background": "minimalist modern bathroom with white tiles, glass shower, chrome fixtures, and soft ambient lighting"
+  },
+  "quality": {
+    "resolution": "8k",
+    "detail": "ultra high",
+    "sharpness": "DSLR-quality with authentic iPhone flash rendering",
+    "skin_detail": "visible pores, realistic texture, natural freckles, subtle facial vellus hair",
+    "realism": "maximum"
+  }
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/760faadb-4253-4e12-9f5f-cc70492a02ab?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Document195/status/2085372024835510578>)
+
+---
+
+<a id="prompt-4765344c-017d-47b4-95e1-8982c8c0f2dd"></a>
+
+## Luxury Wellness Editorial Portrait
+
+<a href="https://musesignal.com/prompt/4765344c-017d-47b4-95e1-8982c8c0f2dd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HOyzH7aaAAEe-Ir.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Wellness Editorial Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Miz
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic luxury wellness editorial portrait of a young woman with long naturally wavy copper-red hair swept over one shoulder, soft side part, silky texture, subtle flyaways, and natural volume. Warm ivory skin with visible pores, realistic skin texture, natural freckles across the cheeks, nose, shoulders, and arms, authentic facial vellus hair, luminous healthy complexion, soft rosy blush, feathered brows, champagne shimmer eyeshadow, delicate fox-eye eyeliner, wispy lashes, glossy nude-pink lips with realistic lip texture, and bright blue-gray eyes. Wearing slim burgundy oval eyeglasses, a premium black seamless long-sleeve athletic cropped top with thumbholes, and charcoal-gray high-waisted sculpting compression shorts. Minimal silver rings and clean nude manicure. Standing naturally beside a smooth exposed concrete column, one hand resting lightly against the pillar while the opposite hand rests on her upper thigh, maintaining relaxed posture and making direct eye contact with a calm, confident expression. Modern luxury Pilates and wellness studio featuring floor-to-ceiling windows, polished concrete architecture, white walls, soft natural daylight, hardwood flooring, minimalist interior, and softly blurred premium fitness equipment in the background. Captured with a Sony A7R V and an 85mm f/1.4 GM lens. Soft natural window light creates realistic highlights, subtle shadows, premium athletic contrast, and a clean editorial atmosphere. Alo Yoga × Lululemon campaign aesthetic, luxury wellness photography, Kodak Portra-inspired skin tones, realistic skin rendering, DSLR-quality sharpness, high-frequency skin detail, RAW photo, ultra photorealistic, 8K.
+
+cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate reflections, duplicate equipment, oversaturated colors, clipped highlights, low-detail hair
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/4765344c-017d-47b4-95e1-8982c8c0f2dd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/mizq06/status/2084237699775631437>)
+
+---
