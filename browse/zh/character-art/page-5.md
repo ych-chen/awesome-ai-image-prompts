@@ -784,3 +784,26 @@ Background features a bold abstract composition inspired by the French flag, wit
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/b3429ace-8c98-4da4-96c7-3ccf81eabaec?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/kingofdairyque/status/2068608547546636769>)
 
 ---
+
+<a id="prompt-dd8fdbac-c17c-4a50-9e84-9ae3ffa8db19"></a>
+
+## Cyber-Atoll Jinx Anime Illustration
+
+<a href="https://musesignal.com/zh/prompt/dd8fdbac-c17c-4a50-9e84-9ae3ffa8db19?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLUkQjDaYAA7bNo.jpg?format=jpg&amp;name=small" width="480" alt="Cyber-Atoll Jinx Anime Illustration" /></a>
+
+**Nano Banana Pro** · 原作者: Aijaz
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+An anime-style digital illustration of a rebellious woman with long, braided bright blue hair, styled like the character Jinx. She is wearing a form-fitting, ankle-length sleeveless dress covered in vibrant graffiti art, featuring text like "BOOM", starbursts, and abstract punk graphics in shades of magenta, teal, and black. She wears white platform flip-flops and simple gold anklets. 
+
+The background is a highly stylized, futuristic cyber-punk resort named "THE CYBER-ATOLL". The pool deck features holographic, glowing mosaic grid tiles in neon teal, magenta, and purple. A swimming pool with shimmering, data-stream-like digital water reflections sits to the right. In the background, a resort building is illuminated by a neon pink "Good Vibes" sign with integrated glowing cyber-glyph characters, surrounded by dark palm trees under a hazy, synthwave sky shifting from deep turquoise to a shimmering purple and gold sunset. The entire scene has a sharp, high-contrast comic-book ink finish with detailed halftones and glowing neon accents.
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/dd8fdbac-c17c-4a50-9e84-9ae3ffa8db19?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2068599478576357853>)
+
+---

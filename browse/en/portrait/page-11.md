@@ -611,3 +611,357 @@ cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive 
 **[Try on MuseSignal →](<https://musesignal.com/prompt/4765344c-017d-47b4-95e1-8982c8c0f2dd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/mizq06/status/2084237699775631437>)
 
 ---
+
+<a id="prompt-1c97e4bf-7e34-4872-814c-385d61e1b73a"></a>
+
+## Golden Hour Temple Travel Portrait
+
+<a href="https://musesignal.com/prompt/1c97e4bf-7e34-4872-814c-385d61e1b73a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMs2puJaAAAbGh3.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Temple Travel Portrait" /></a>
+
+**GPT Image 2** · Creator: auqib
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra realistic cinematic travel portrait of a beautiful young East Asian woman standing in front of ancient weathered brick temple ruins during golden hour. She has long silky dark brown hair with soft natural waves, subtle wind movement, fair glowing skin, delicate facial features, warm brown eyes, natural makeup, and a gentle dreamy smile while looking slightly upward into the distance. She wears a sleeveless black crop top with intricate red traditional embroidered geometric patterns across the chest and small red pom-pom tassels, a delicate silver necklace with a tiny pendant, and red floral hair accessories behind one ear.
+
+Several pigeons are flying dynamically around her with realistic motion blur, one pigeon passing directly above her head and others flying through the foreground and background, creating depth and storytelling. Massive ancient reddish-brown brick temple ruins fill the background with detailed textures, surrounded by tall tropical trees. Warm golden sunlight streams through the trees from the left side, producing soft volumetric rays, cinematic rim lighting around her hair, realistic highlights, and a warm atmospheric glow.
+
+Natural candid pose, upper body portrait, right hand slightly raised mid-motion, shallow depth of field, creamy background bokeh, razor-sharp focus on the face, lifelike skin texture, realistic hair strands, HDR photography, DSLR quality, 85mm lens, f/1.8, ISO 100, soft golden-hour lighting, ultra detailed, photorealistic, cinematic color grading, high dynamic range, natural colors, travel photography, National Geographic style, masterpiece, 8K.
+Negative Prompt:
+
+> low quality, blurry, overprocessed skin, plastic face, extra fingers, deformed hands, duplicate birds, bad anatomy, low resolution, cartoon, CGI, oversaturated colors, noise, watermark, logo, text, cropped face, distorted proportions, artificial lighting, flat lighting, unrealistic background, motion artifacts.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/1c97e4bf-7e34-4872-814c-385d61e1b73a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/auqibhabib/status/2074812152872128722>)
+
+---
+
+<a id="prompt-a3a3deb2-4667-4550-9d47-d73907d002f1"></a>
+
+## Golden Hour Beauty Portrait Triptych
+
+<a href="https://musesignal.com/prompt/a3a3deb2-4667-4550-9d47-d73907d002f1?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HM1Os3YbwAEHZ3l.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Beauty Portrait Triptych" /></a>
+
+**GPT Image** · Creator: NUSRAT
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+"image_type": "Ultra-realistic cinematic beauty portrait triptych",
+  "composition": {
+    "layout": "Three vertical portraits in a single frame (triptych)",
+    "aspect_ratio": "16:9",
+    "camera_angle": "Eye level",
+    "framing": "Close-up to medium close-up",
+    "orientation": "Vertical panels arranged side-by-side",
+    "subject_variation": [
+      "Left panel: Head turned slightly toward camera",
+      "Center panel: Direct eye contact",
+      "Right panel: Looking off-camera to the right"
+    ]
+  },
+  "subject": {
+    "gender": "Young woman",
+    "age": "Early 20s",
+    "ethnicity": "Ambiguous",
+    "beauty_style": "Luxury editorial",
+    "expression": "Soft, calm, captivating, serene",
+    "pose": "Elegant and relaxed"
+  },
+  "face": {
+    "skin": {
+      "tone": "Luminous porcelain-fair",
+      "finish": "Natural dewy glow",
+      "texture": "Highly realistic with visible pores",
+      "freckles": "Soft freckles across nose and cheeks",
+      "blush": "Rosy cheeks"
+    },
+    "eyes": {
+      "color": "Light green-hazel",
+      "detail": "Hyper-detailed iris",
+      "eyelashes": "Long curled",
+      "eyebrows": "Thick, naturally shaped"
+    },
+    "lips": {
+      "color": "Natural pink",
+      "finish": "Glossy"
+    },
+    "makeup": {
+      "style": "Minimal natural makeup",
+      "foundation": "Skin-like",
+      "highlight": "Soft glow"
+    }
+  },
+  "hair": {
+    "color": "Jet black",
+    "length": "Long",
+    "style": "Voluminous natural waves",
+    "bangs": "Soft curtain bangs",
+    "texture": "Silky with realistic strands",
+    "lighting": "Golden rim light around hair"
+  },
+  "clothing": {
+    "upper": {
+      "type": "Traditional white outfit",
+      "fabric": "Sheer chiffon",
+      "dupatta": {
+        "color": "Pure white",
+        "style": "Soft transparent chiffon",
+        "drape": "Wrapped over shoulders and chest"
+      }
+    }
+  },
+  "accessories": {
+    "jewelry": "Minimal or none",
+    "mehndi": {
+      "style": "Elegant floral henna",
+      "placement": "Back of hand and fingers",
+      "visibility": "Most prominent in center portrait"
+    }
+  },
+  "lighting": {
+    "type": "Golden hour",
+    "direction": "Backlit",
+    "rim_light": "Strong glowing halo around hair",
+    "lens_flare": "Soft cinematic flare",
+    "quality": "Warm diffused sunlight",
+    "hdr": true
+  },
+  "background": {
+    "style": "Creamy bokeh",
+    "depth": "Very shallow depth of field",
+    "environment": "Sunlit outdoor garden or courtyard",
+    "colors": [
+      "Warm gold",
+      "Cream",
+      "Soft beige",
+      "Muted green"
+    ]
+  },
+  "camera": {
+    "camera_type": "Professional DSLR / Mirrorless",
+    "lens": "85mm",
+    "aperture": "f/1.4",
+    "focus": "Extremely sharp on eyes",
+    "depth_of_field": "Very shallow"
+  },
+  "color_grading": {
+    "style": "Luxury cinematic",
+    "palette": [
+      "Golden amber",
+      "Cream white",
+      "Warm brown",
+      "Soft peach",
+      "Natural skin tones"
+    ],
+    "contrast": "Balanced",
+    "saturation": "Natural",
+    "mood": "Dreamy, elegant, premium"
+  },
+  "render_quality": {
+    "resolution": "4K Ultra HD",
+    "detail": "Hyper-realistic",
+    "sharpness": "Ultra crisp",
+    "quality": "Award-winning editorial photography",
+    "style": [
+      "Luxury beauty campaign",
+      "Vogue editorial",
+      "High-end fashion",
+      "Photorealistic",
+      "Cinematic"
+    ]
+  },
+  "negative_prompt": {
+    "avoid": [
+      "Low quality",
+      "Blurry",
+      "Extra fingers",
+      "Extra hands",
+      "Duplicate face",
+      "Cross-eyed",
+      "Plastic skin",
+      "Overprocessed beauty filter",
+      "Noise",
+      "Watermark",
+      "Logo",
+      "Text",
+      "Cropped face",
+      "Artifacts",
+      "Distorted anatomy",
+      "Flat lighting",
+      "Overexposed highlights"
+    ]
+  }
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/a3a3deb2-4667-4550-9d47-d73907d002f1?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2075401547543195942>)
+
+---
+
+<a id="prompt-278dbc1c-9b99-4b80-88b5-26725cf9be6e"></a>
+
+## Moody Mirror Reflection Fashion Portrait
+
+<a href="https://musesignal.com/prompt/278dbc1c-9b99-4b80-88b5-26725cf9be6e?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMMYCTHagAApxVO.jpg?format=jpg&amp;name=small" width="480" alt="Moody Mirror Reflection Fashion Portrait" /></a>
+
+**GPT Image 2** · Creator: ORHAN
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A stylish young man standing beside an ornate black vintage mirror in a dark luxury room, looking at his reflection while adjusting black sunglasses. Messy textured brown hair with volume, light stubble, oversized charcoal gray sweatshirt, silver rings, bracelet, and watch. Moody cinematic lighting, matte black interior, high-end fashion editorial, ultra-realistic, shallow depth of field, sharp focus, 85mm lens, soft shadows, premium Instagram aesthetic, 8K.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/278dbc1c-9b99-4b80-88b5-26725cf9be6e?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/OrhanGhazi65942/status/2072526693500391821>)
+
+---
+
+<a id="prompt-ac65b905-d8e2-4d9f-9453-f2ee6bc10030"></a>
+
+## Three-Panel Female Portrait Triptych
+
+<a href="https://musesignal.com/prompt/ac65b905-d8e2-4d9f-9453-f2ee6bc10030?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNMnY6mbAAEH7Oc.jpg?format=jpg&amp;name=small" width="480" alt="Three-Panel Female Portrait Triptych" /></a>
+
+**Nano Banana** · Creator: NUSRAT
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+  "image_composition": "A three-panel composite image featuring the same female subject in different settings.",
+  "subject_details": {
+    "gender": "Female",
+    "appearance": "Young adult with long, dark, wavy hair, warm skin tone, and a friendly, expressive face.",
+    "expressions": "Varied: focused, engaged, and joyful."
+  },
+  "panel_1": {
+    "setting": "Modern home office environment.",
+    "activity": "Working as a software developer.",
+    "visual_elements": {
+      "clothing": "Cozy, neutral-toned knitted patterned sweater.",
+      "accessories": "Blue-light blocking glasses.",
+      "environment": "Desk setup with dual monitors showing code, a laptop, a notebook, a mouse, and office supplies. Warm ambient lighting, indoor plants, and a comfortable ergonomic chair."
+    }
+  },
+  "panel_2": {
+    "setting": "Bright, sunlit artist's studio.",
+    "activity": "Painting on a canvas.",
+    "visual_elements": {
+      "clothing": "White long-sleeve top under a paint-stained denim apron.",
+      "hairstyle": "Casual high ponytail.",
+      "environment": "Wooden easel with a canvas, various art supplies including brushes in a jar, tubes of paint on a table, and other paintings visible in the background. Large windows providing natural light."
+    }
+  },
+  "panel_3": {
+    "setting": "A bustling European-style city street at golden hour.",
+    "activity": "Walking and smiling, enjoying a stroll.",
+    "visual_elements": {
+      "clothing": "Vibrant red floral wrap dress.",
+      "accessories": "Canvas tote bag, holding a reusable coffee cup and a book.",
+      "environment": "Cobblestone street, historic architecture in the background, tram tracks, and blurred figures of other pedestrians. The atmosphere is warm, golden, and cinematic."
+    }
+  },
+  "technical_specifications": {
+    "style": "Photorealistic, high-quality professional photography.",
+    "resolution": "4k, ultra-detailed.",
+    "lighting": "Natural lighting in studio/outdoor, soft warm interior lighting for the office scene.",
+    "composition": "Triptych layout, clean framing, balanced color palette."
+  }
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/ac65b905-d8e2-4d9f-9453-f2ee6bc10030?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/nxnusratul/status/2077047171501937081>)
+
+---
+
+<a id="prompt-8539ad09-c088-4287-a7b8-4bcd1572ce97"></a>
+
+## Black Latex Corset Fashion Portrait
+
+<a href="https://musesignal.com/prompt/8539ad09-c088-4287-a7b8-4bcd1572ce97?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNcEujcbMAAFmOT.jpg?format=jpg&amp;name=small" width="480" alt="Black Latex Corset Fashion Portrait" /></a>
+
+**Nano Banana** · Creator: Sadie 🥀
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Google Nano Banana Prompt:
+{
+  "subject": "A stunning young South Asian Indian woman in her mid-20s, resembling Parineeti Chopra, with sharp symmetrical facial features, high cheekbones, almond-shaped dark brown eyes with winged black eyeliner, perfectly arched eyebrows, full glossy nude-pink lips, flawless glowing skin with subtle contouring and highlight, small beauty mark near nose, long dark brown hair styled in a sleek high ponytail with center part and some loose strands framing the face",
+  "expression": "Confident and sultry gaze directly at viewer, slight head tilt, seductive yet empowered expression with parted lips",
+  "pose": "Three-quarter body shot, standing with one hand on hip, elbow out, other hand resting near thigh, shoulders slightly angled, showcasing curves and posture",
+  "clothing": "Tight-fitting shiny black latex/leather corset-style peplum dress with deep plunging neckline, structured boning, glossy reflective texture with highlights, asymmetrical peplum flare at waist, matching high-waisted shiny black skirt/pants below",
+  "accessories": "Black manicured nails with glossy finish, small ear studs, delicate ring on finger, subtle tattoo on wrist (geometric lines), small tattoo near thumb",
+  "lighting": "Professional studio lighting, dramatic side lighting creating soft shadows and glossy reflections on the outfit, rim lighting on hair and shoulders, moody cinematic atmosphere",
+  "background": "Solid deep teal-blue gradient studio backdrop, smooth and seamless, no distractions",
+  "camera": "Medium shot, eye-level angle, sharp focus on face and upper body, shallow depth of field, 85mm lens, photorealistic, 8k resolution, highly detailed skin texture and fabric sheen",
+  "style": "Photorealistic fashion portrait, high-end editorial photography style like Vogue India, cinematic color grading, ultra-detailed, realistic skin pores and subtle makeup texture, glossy material reflections, confident empowered feminine aesthetic"
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/8539ad09-c088-4287-a7b8-4bcd1572ce97?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/NameIsSudee/status/2078134966920368510>)
+
+---
+
+<a id="prompt-c4cb360f-4f0d-4b41-9e4a-e30c5c6b46db"></a>
+
+## Coastal Cliff Cinematic Portrait
+
+<a href="https://musesignal.com/prompt/c4cb360f-4f0d-4b41-9e4a-e30c5c6b46db?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HK6H9QfbgAA2OH6.jpg?format=jpg&amp;name=small" width="480" alt="Coastal Cliff Cinematic Portrait" /></a>
+
+**GPT Image 2** · Creator: Mani
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Prompt -
+Ultra-realistic cinematic portrait photography, vertical 9:16 composition. Low-angle shot looking upward toward the subject standing at the edge of a coastal cliff overlooking a vast turquoise ocean during early summer. Warm sunlight illuminates the scene from behind, creating a soft golden rim light around the hair and shoulders while the sea sparkles in the distance.
+Short, slightly windswept hair moving naturally in the ocean breeze. Subject gazing toward the endless horizon with a quiet expression of anticipation and freedom, as if stepping into a completely new chapter. Natural skin texture, authentic facial details, photorealistic eyes, subtle natural makeup, realistic lifestyle appearance.
+Shot on an 85mm portrait lens with ultra-shallow depth of field. Coastal wildflowers and tall grass softly blur in the foreground while the distant ocean melts into creamy bokeh. Layered composition creates strong depth, with sunlit grass partially framing the lower edge of the image. Bright blue sky filled with soft white clouds enhances the feeling of possibility and adventure.
+Natural sunlight, high dynamic range, cinematic lighting, delicate highlights along the face and hair, realistic shadow transitions, premium DSLR quality, subtle filmic color grading, vibrant summer tones balanced with soft pastel hues. Gentle motion from wind adds life and authenticity to the scene.
+Professional editorial lifestyle photography, candid storytelling moment, emotional coming-of-age atmosphere, luxury travel magazine aesthetic, realistic lens characteristics, ultra-detailed, masterpiece quality, photorealistic rendering, premium camera optics, immersive environmental portrait.
+NO heavy retouching, NO artificial beauty filters, NO exaggerated makeup, NO fantasy effects, NO cartoon style, NO unrealistic skin smoothing, NO face alterations, NO body modifications, NO artificial poses.
+Reference style: low-angle cinematic portrait, expansive natural landscape, soft sunlight, emotional storytelling, dreamy atmosphere, shallow depth of field, realistic photography, symbolizing the beginning of a new chapter and endless possibilities. 🌊☀️✨
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/c4cb360f-4f0d-4b41-9e4a-e30c5c6b46db?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/manibuildsAI/status/2066738771920576634>)
+
+---
+
+<a id="prompt-67c16892-f508-438b-9fe8-75b8ed75cf1a"></a>
+
+## Vintage Street Portrait with Long-Exposure Motion Blur
+
+<a href="https://musesignal.com/prompt/67c16892-f508-438b-9fe8-75b8ed75cf1a?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLYppZ-boAA7PSQ.jpg?format=jpg&amp;name=small" width="480" alt="Vintage Street Portrait with Long-Exposure Motion Blur" /></a>
+
+**GPT Image 2** · Creator: PromptLab
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+A stylish woman standing still with hands in pockets, wearing a loose sage-green button-up shirt tucked into high-waisted dark trousers. Calm, confident expression. Vintage cars rushing past at high speed behind her, creating dramatic motion blur trails with a long-exposure photography effect. Street portrait setting, warm golden-hour lighting, muted retro color palette with reds, teals, and yellows streaking across the frame. Sharp focus on the woman with shallow depth of field, strong subject isolation. Cinematic realism, editorial fashion mood, nostalgic 1970s film look, soft grain, ultra-detailed, high resolution.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/67c16892-f508-438b-9fe8-75b8ed75cf1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamaiistudio/status/2068887185269616803>)
+
+---
