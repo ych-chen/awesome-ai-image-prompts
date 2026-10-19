@@ -807,3 +807,24 @@ The background is a highly stylized, futuristic cyber-punk resort named "THE CYB
 **[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/dd8fdbac-c17c-4a50-9e84-9ae3ffa8db19?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/iamsofiaijaz/status/2068599478576357853>)
 
 ---
+
+<a id="prompt-a103b0b4-335c-43b4-9fea-19251dc651dd"></a>
+
+## Cyberpunk Blonde Girl in Pop Art Comic Style
+
+<a href="https://musesignal.com/zh/prompt/a103b0b4-335c-43b4-9fea-19251dc651dd?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HMiWDGgWEAEvKlb.jpg?format=jpg&amp;name=small" width="480" alt="Cyberpunk Blonde Girl in Pop Art Comic Style" /></a>
+
+**Midjourney** · 原作者: Kaan
+
+<details>
+<summary>完整提示词</summary>
+
+```text
+blonde girl cyberpunk 2077, comic book style, bold outlines, halftone, pop art  --c 72
+```
+
+</details>
+
+**[在 MuseSignal 尝试 →](<https://musesignal.com/zh/prompt/a103b0b4-335c-43b4-9fea-19251dc651dd?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [原帖](<https://x.com/kaanakz/status/2074074047063757104>)
+
+---

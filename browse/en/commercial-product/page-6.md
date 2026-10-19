@@ -734,3 +734,52 @@ Negative Prompt: cartoon, blurry, plastic, low-detail, fake materials, poor ligh
 **[Try on MuseSignal →](<https://musesignal.com/prompt/f9f62125-8d0b-42f4-b452-d46c7c30d7b9?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Maercihh/status/2071924190907896129>)
 
 ---
+
+<a id="prompt-11686087-5f58-419a-b01a-da170b42cb0b"></a>
+
+## Minimalist Neon Window Product Concept
+
+<a href="https://musesignal.com/prompt/11686087-5f58-419a-b01a-da170b42cb0b?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HKcQ0OOXUAAjsrl.jpg?format=jpg&amp;name=small" width="480" alt="Minimalist Neon Window Product Concept" /></a>
+
+**Nano Banana Pro** · Creator: ΛRMIN \| AI
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+An editorial premium minimalist commercial product photograph of a single volumetric 3D [PRODUCT NAME], shot from a strict flat, straight-on, eye-level studio perspective. Aperture & Window Geometry: The background is a perfectly centered, vertical rectangular die-cut window cutout made from a single plane of solid [FOREGROUND COLOR] paper. The paper has an intense, highly tactile, fine-grain sand-like matte noise texture. The inner perimeter of this centered rectangular window features a single, hairline-thin, uniform inner paper ledge that sits just a millimeter inside the first cut, creating an exceptionally narrow, low-profile single-border inset frame. Inside the window is a flat, smooth, textureless under-layer set deeply behind to create a distinct depth gap; this base layer is a solid [DARKER UNDER-LAYER COLOR], casting tight, fine ambient shadows. Hidden Ambient Light Feature: Concealed perfectly behind the top inner ledge of the window frame is a single, razor-thin horizontal [NEON COLOR] neon light strip. This linear light source casts a soft, atmospheric [GLOW DESCRIPTION - e.g., cool-teal / crisp white] luminous glow directly downwards into the depth gap, gently illuminating the negative space.
+
+The Iconic 3D Product (The Precise Design & Direction): The product is a highly specific, realistic 3D [OBJECT TYPE] with tangible volume, positioned in a perfectly vertical, straight upright orientation with zero tilt. The base of the product is resting squarely on the bottom inner paper ledge of the window frame. [SURFACE EFFECTS - e.g., Realistic, subtle warm steam is gently rising from its lid / Ultra-realistic condensation water droplets are gently beaded on the surface], catching the soft downlight from the top neon strip.
+[MATERIAL AND BODY TEXTURE DETAILS].
+
+Spatial Proportion (Top Negative Void): Crucially, the upper composition ensures a perfectly balanced negative space within the recessed window. The total height of the vertical void extends sufficiently upward, such that a crisp, 20% negative space gap is preserved between the very top of the product (including any rising steam, foam, or condensation) and the bottom of the top inner window ledge where the hidden neon light strip is concealed. This ensures the box feels spacious and the object is centered vertically within its depth frame.
+
+Typography & Lighting: Centered at the top, the slogan [SLOGAN TEXT IN ALL CAPS ] is rendered in an ultra-thin, elegant, minimalist light sans-serif font, featuring a subtle Letterpress debossed effect physically pressed into the thick paper. Positioned in the bottom-left corner of the foreground paper, the brand name text "[BRAND NAME]" along with the [SMALL LOGO] are rendered in the exact same light, thin typography style and match the exact desaturated color value of the top slogan, featuring a clean Letterpress debossed pressed-in design. Balanced, smooth studio ambient lighting casting a uniform, flat gradient shadow across the textured top layer. The top of the inner recess features a stylized [NEON COLOR] neon wash, while the right cutting edge remains completely matte, clean, and free of light leaks or stray glare. Completely clean composition with no signatures. Photorealistic, 8k resolution, crisp editorial asset style.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/11686087-5f58-419a-b01a-da170b42cb0b?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/Arminn_Ai/status/2064637529005985912>)
+
+---
+
+<a id="prompt-95d216a2-9143-4ff4-bbfd-3c445e4ead0c"></a>
+
+## Luxury Marine Life Body Scrub Ad
+
+<a href="https://musesignal.com/prompt/95d216a2-9143-4ff4-bbfd-3c445e4ead0c?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HLYxFJRaIAASNyU.jpg?format=jpg&amp;name=small" width="480" alt="Luxury Marine Life Body Scrub Ad" /></a>
+
+**GPT Image 2** · Creator: PromptLab
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Cinematic luxury skincare advertisement featuring a Marine Life body scrub jar, open to reveal a thick whipped cream-like Mango and Passionfruit formula, golden and orange tones, fruit pieces suspended mid-air alongside dramatic liquid splash effects, backlighting for extra glow on the droplets, minimalist warm peach background with shallow depth of field, fresh tropical mood, shot in 8K resolution with hyperrealistic detail and commercial advertising polish
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/95d216a2-9143-4ff4-bbfd-3c445e4ead0c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamaiistudio/status/2068895380159496377>)
+
+---

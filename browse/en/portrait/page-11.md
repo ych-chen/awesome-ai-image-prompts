@@ -965,3 +965,168 @@ A stylish woman standing still with hands in pockets, wearing a loose sage-green
 **[Try on MuseSignal →](<https://musesignal.com/prompt/67c16892-f508-438b-9fe8-75b8ed75cf1a?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/iamaiistudio/status/2068887185269616803>)
 
 ---
+
+<a id="prompt-cfdc0fa5-ca7c-48ac-bc62-f564e96f3810"></a>
+
+## 12-Panel Collectible Diorama Lifestyle Collage
+
+<a href="https://musesignal.com/prompt/cfdc0fa5-ca7c-48ac-bc62-f564e96f3810?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNKI6flbUAASBZ7.jpg?format=jpg&amp;name=small" width="480" alt="12-Panel Collectible Diorama Lifestyle Collage" /></a>
+
+**GPT Image 2** · Creator: Harry Potter
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic 3D collectible lifestyle collage featuring the same handsome young South Asian man appearing in 12 different miniature premium diorama scenes, arranged in a perfectly aligned 4×3 grid with equal spacing against a matte dark charcoal background. Each scene is enclosed inside a luxurious rounded-square 3D frame with thick glossy borders, soft bevels, subtle reflections, ambient occlusion, and cinematic depth, resembling premium collectible display boxes rather than app icons.
+
+The man has thick textured black hair, sharp eyebrows, deep brown eyes, a neatly trimmed beard and mustache, warm medium skin tone, and an athletic physique. His face remains identical in every frame while his clothing changes naturally according to each activity. Hyper-realistic skin texture, natural facial expressions, crisp details, and lifelike proportions.
+
+Every frame tells a different story:
+
+1. Morning routine — brushing teeth in a modern bathroom.
+
+2. Goal planning — writing in a notebook at a wooden desk.
+
+3. Deep focus mode — working on a laptop with headphones in a moody workspace.
+
+4. Reading & self-development — relaxing with a book in a cozy library.
+
+5. Late-night hustle — working with city lights outside the window.
+
+6. Photography — holding a professional DSLR camera outdoors.
+
+7. Motorcycle lifestyle — sitting on a sleek black sports bike.
+
+8. Gym session — lifting dumbbells in a luxury fitness studio.
+
+9. Coffee break — enjoying coffee in a stylish café.
+
+10. Adventure travel — holding a map beside mountains and a lake.
+
+11. Kindness moment — playing with a golden retriever in a street scene.
+
+12. Night routine — reading a book before sleep in a warm bedroom.
+
+Each miniature environment is uniquely designed with realistic props, cinematic lighting, volumetric light rays, soft shadows, premium materials, and rich environmental storytelling. A small elegant gold nameplate at the bottom of every frame displays the activity title with a matching minimalist icon.
+
+Luxury editorial aesthetic, ultra-clean composition, realistic reflections, shallow depth of field, HDR, ray-traced global illumination, Unreal Engine 5 quality, Octane Render, 8K resolution, photorealistic textures, premium collectible toy-box style, cinematic color grading, perfectly symmetrical layout, highly detailed, masterpiece quality.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/cfdc0fa5-ca7c-48ac-bc62-f564e96f3810?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/mon010_de/status/2076872926784278745>)
+
+---
+
+<a id="prompt-b470cf54-190c-4b41-a6e9-bd0728132450"></a>
+
+## Golden Hour Menswear Editorial
+
+<a href="https://musesignal.com/prompt/b470cf54-190c-4b41-a6e9-bd0728132450?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HNpTv-NakAARTYz.jpg?format=jpg&amp;name=small" width="480" alt="Golden Hour Menswear Editorial" /></a>
+
+**Nano Banana 2** · Creator: Weinberg
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Ultra-realistic full-body fashion editorial photo of a stylish man standing on a quiet European stone street beside a textured beige stone building during golden hour. He is wearing a relaxed-fit light blue shirt with subtle white vertical stripes, sleeves casually rolled to the forearms, top buttons undone, tucked into high-waisted wide-leg black tailored trousers with a black leather belt, paired with polished black leather loafers and a stainless steel wristwatch. Dark sunglasses complete the look. Relaxed confident pose with hands positioned naturally, body angled slightly to the side, looking away from the camera. Warm low-angle sunlight creates dramatic shadows across the wall and pavement, emphasizing depth and texture. Cinematic composition, luxury menswear aesthetic, natural color grading, realistic skin texture, crisp fabric details, premium tailoring, shallow depth of field, 85mm lens, f/2.8, high dynamic range, ultra-sharp focus, authentic street style, Vogue/GQ editorial quality, photorealistic, 8K, no text, no watermark, no logos, natural proportions.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/b470cf54-190c-4b41-a6e9-bd0728132450?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/weiinberg/status/2079066286722867333>)
+
+---
+
+<a id="prompt-80b4aded-b9a8-4d8f-8f00-e567b7f672a4"></a>
+
+## Tropical Beach Beauty Portrait
+
+<a href="https://musesignal.com/prompt/80b4aded-b9a8-4d8f-8f00-e567b7f672a4?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HN6dhxfbUAItDPu.jpg?format=jpg&amp;name=small" width="480" alt="Tropical Beach Beauty Portrait" /></a>
+
+**Nano Banana Pro** · Creator: Miz
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+{
+  "prompt": "Ultra-realistic tropical beach beauty editorial close-up portrait of a young woman with long naturally wavy copper-red hair flowing freely with soft beach texture and gentle wind movement. Warm ivory skin with visible pores, realistic skin texture, subtle freckles across the cheeks, nose, shoulders, and collarbones, authentic facial vellus hair, luminous sun-kissed complexion, soft coral blush, feathered brows, warm champagne eyeshadow, delicate brown fox-eye eyeliner, wispy lashes, glossy coral-pink lips with realistic lip texture, and expressive hazel-green eyes. A large vibrant red hibiscus flower is tucked behind her left ear, with one hand gently holding the flower while the other lightly touches her hair. Wearing a luxurious crimson red tie-dye halter bikini top with flowing matching chiffon scarf draped elegantly over the shoulder. Bright tropical beach setting with swaying coconut palm trees, pristine white sand, crystal-clear turquoise ocean, gentle waves, and vivid blue sky. Warm tropical midday sunlight creates natural highlights, realistic skin reflections, soft shadows, and sparkling catchlights in the eyes. Luxury island vacation aesthetic, Maldives-inspired paradise, high-end beauty campaign, Kodak Gold 200 color science, Portra-inspired skin tones, premium influencer photography, realistic skin rendering, DSLR-quality sharpness, high-frequency skin detail, RAW photo, ultra photorealistic, 8K.",
+  
+  "negative_prompt": "cartoon, anime, CGI, painting, beauty filter, plastic skin, wax skin, excessive skin smoothing, fake pores, blurry face, blurry eyes, low resolution, noise, grain, watermark, text, logo, distorted anatomy, extra limbs, extra fingers, malformed hands, unrealistic body proportions, duplicate flowers, oversaturated colors, clipped highlights, low-detail hair",
+  
+  "style": "photorealistic",
+  
+  "camera": {
+    "type": "Sony A7R V",
+    "lens": "85mm f/1.4 GM",
+    "aperture": "f/1.8",
+    "iso": 100,
+    "angle": "eye-level beauty portrait",
+    "depth_of_field": "very shallow"
+  },
+  
+  "lighting": {
+    "type": "natural tropical midday sunlight",
+    "direction": "soft frontal sunlight",
+    "mood": "bright, luxurious, tropical"
+  },
+  
+  "composition": {
+    "framing": "tight close-up beauty portrait",
+    "subject_position": "centered",
+    "background": "white sand beach, turquoise ocean, coconut palm trees, tropical paradise with creamy bokeh"
+  },
+  
+  "quality": {
+    "resolution": "8k",
+    "detail": "ultra high",
+    "sharpness": "DSLR-quality",
+    "skin_detail": "visible pores, realistic texture, natural freckles, subtle facial vellus hair",
+    "realism": "maximum"
+  }
+}
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/80b4aded-b9a8-4d8f-8f00-e567b7f672a4?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/mizq06/status/2080273505023852784>)
+
+---
+
+<a id="prompt-7478ba5c-a68b-4309-9f23-bac2896a5481"></a>
+
+## Out-of-Focus Balcony Portrait by the Sea
+
+<a href="https://musesignal.com/prompt/7478ba5c-a68b-4309-9f23-bac2896a5481?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQppNs0b0AAVVNi.jpg?format=jpg&amp;name=small" width="480" alt="Out-of-Focus Balcony Portrait by the Sea" /></a>
+
+**GPT Image 2** · Creator: Meem
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+Do not change the facial features, proportions, hair color, or hair type. 100% likeness.
+
+A spontaneous shot, captured by chance. Chest-up close-up, on a balcony with white wrought-iron railings.
+
+FOCUS: The camera is focused only on the sea and sky—the dark blue sea with a clearly defined horizon and the bright sky are sharp and detailed. The girl is completely out of focus, appearing as a soft, glowing blurred silhouette in the foreground, with only hints of her white dress and hair visible through the blur.
+
+Her torso is slightly tilted backward, with one hand lifting her hair at the crown of her head—the silhouette is only faintly discernible through the out-of-focus effect.
+
+A white slip dress with ruffles and thin straps. A delicate gold chain necklace and bracelet.
+
+The white wrought-iron balcony railings are partially sharp, creating a frame.
+
+Natural, bright daylight, clean contrast.
+
+Natural skin with visible pores. No plastic look, no AI appearance. Film grain, clean and bright color palette.
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/7478ba5c-a68b-4309-9f23-bac2896a5481?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/mehvishs25/status/2092600682616586632>)
+
+---

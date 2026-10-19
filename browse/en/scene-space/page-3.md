@@ -803,3 +803,39 @@ An extreme low-angle, compositionally oppressive shot looking up from behind a b
 **[Try on MuseSignal →](<https://musesignal.com/prompt/67cd24f3-c99b-4a34-a337-8dfeea03ed3c?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/itsPixieVerse/status/2075253666412675422>)
 
 ---
+
+<a id="prompt-00e07708-5505-49cf-8754-f9144f21f9cf"></a>
+
+## Engraved Mountain Journey SREF
+
+<a href="https://musesignal.com/prompt/00e07708-5505-49cf-8754-f9144f21f9cf?utm_source=github&amp;utm_medium=repository&amp;utm_campaign=awesome-ai-image-prompts&amp;utm_content=case_image"><img src="https://pbs.twimg.com/media/HQkPavcWcAAtulZ.jpg?format=jpg&amp;name=small" width="480" alt="Engraved Mountain Journey SREF" /></a>
+
+**Midjourney** · Creator: TischEins
+
+<details>
+<summary>Full prompt</summary>
+
+```text
+This SREF turns a landscape into a complete journey.
+
+A single traveler in red leads the eye from the stone steps into an enormous mountain world.
+
+What stands out:
+
+1. panoramic environmental storytelling
+2. fine engraved contour lines
+3. layered mountains and clouds
+4. jade green and warm ochre
+5. tiny red figures as focal points
+6. exceptional depth and scale
+
+I would use it for fantasy journeys, illustrated maps, panoramic worldbuilding and adventure book covers.
+
+💫 --sref 3863173146
+```
+
+</details>
+
+**[Try on MuseSignal →](<https://musesignal.com/prompt/00e07708-5505-49cf-8754-f9144f21f9cf?utm_source=github&utm_medium=repository&utm_campaign=awesome-ai-image-prompts&utm_content=case_cta>)** · [Original post](<https://x.com/tisch_eins/status/2092220457692856360>)
+
+---
